@@ -1,0 +1,2 @@
+# Article IX, Division 1, Section 1. Board of education.
+The educational interest of the state, including common schools and other educational institutions, shall be under the management of a board of education, which shall consist of the lieutenant governor, who shall be the presiding officer of the board, and have the casting vote in case of a tie, and one member to be elected from each judicial district in the state.*

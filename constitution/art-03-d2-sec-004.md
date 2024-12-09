@@ -1,0 +1,2 @@
+# Article III, Division 2, Section 4. Qualifications.
+No person shall be a member of the house of representatives who shall not have attained the age of twenty-one years, be a citizen of the United States, and shall have been an inhabitant of this state one year next preceding his election, and at the time of his election shall have had an actual residence of sixty days in the county, or district he may have been chosen to represent.

@@ -1,0 +1,2 @@
+# Article XI, Section 3. Indebtedness of political or municipal corporations.
+No county, or other political or municipal corporation shall be allowed to become indebted in any manner, or for any purpose, to an amount, in the aggregate, exceeding five per centum on the value of the taxable property within such county or corporation — to be ascertained by the last state and county tax lists, previous to the incurring of such indebtedness.

@@ -1,0 +1,2 @@
+# Article XI, Section 7. Land grants located.
+The general assembly shall not locate any of the public lands, which have been, or may be granted by Congress to this state, and the location of which may be given to the general assembly, upon lands actually settled, without the consent of the occupant. The extent of the claim of such occupant, so exempted, shall not exceed three hundred and twenty acres.

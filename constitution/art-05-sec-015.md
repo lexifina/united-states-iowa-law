@@ -1,0 +1,2 @@
+# Article V, Section 15. Vacancies in courts.
+Vacancies in the supreme court and district court shall be filled by appointment by the governor from lists of nominees submitted by the appropriate judicial nominating commission. Three nominees shall be submitted for each supreme court vacancy, and two nominees shall be submitted for each district court vacancy. If the governor fails for thirty days to make the appointment, it shall be made from such nominees by the chief justice of the supreme court.

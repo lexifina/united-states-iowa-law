@@ -1,0 +1,2 @@
+# Article III, Division 2, Section 10. Protest — record of vote.
+Every member of the general assembly shall have the liberty to dissent from, or protest against any Act or resolution which he may think injurious to the public, or an individual, and have the reasons for his dissent entered on the journals; and the yeas and nays of the members of either house, on any question, shall, at the desire of any two members present, be entered on the journals.

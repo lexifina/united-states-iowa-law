@@ -1,0 +1,2 @@
+# Article VIII, Section 12. Amendment or repeal of laws — exclusive privileges.
+Subject to the provisions of this article, the general assembly shall have power to amend or repeal all laws for the organization or creation of corporations, or granting of special or exclusive privileges or immunities, by a vote of two thirds of each branch of the general assembly; and no exclusive privileges, except as in this article provided, shall ever be granted.

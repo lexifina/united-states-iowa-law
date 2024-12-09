@@ -1,0 +1,2 @@
+# Article III, Division 2, Section 22. Disqualification.
+No person holding any lucrative office under the United States, or this state, or any other power, shall be eligible to hold a seat in the general assembly;* but offices in the militia, to which there is attached no annual salary, or the office of justice of the peace,** or postmaster whose compensation does not exceed one hundred dollars per annum, or notary public, shall not be deemed lucrative.

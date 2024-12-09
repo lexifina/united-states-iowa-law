@@ -1,0 +1,2 @@
+# Article IX, Division 1, Section 3. Election of members.
+One member of said board shall be chosen by the qualified electors of each district, and shall hold the office for the term of four years, and until his successor is elected and qualified. After the first election under this Constitution, the board shall be divided, as nearly as practicable, into two equal classes, and the seats of the first class shall be vacated after the expiration of two years; and one half of the board shall be chosen every two years thereafter.*

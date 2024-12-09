@@ -1,0 +1,2 @@
+# Article I, Section 7. Liberty of speech and press.
+Every person may speak, write, and publish his sentiments on all subjects, being responsible for the abuse of that right. No law shall be passed to restrain or abridge the liberty of speech, or of the press. In all prosecutions or indictments for libel, the truth may be given in evidence to the jury, and if it appears* to the jury that the matter charged as libellous was true, and was published with good motives and for justifiable ends, the party shall be acquitted.

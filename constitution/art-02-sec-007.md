@@ -1,0 +1,2 @@
+# Article II, Section 7. General election.
+The general election for state, district, county and township officers in the year 1916 shall be held in the same month and on the same day as that fixed by the laws of the United States for the election of presidential electors, or of president and vice-president of the United States; and thereafter such election shall be held at such time as the general assembly may by law provide.
