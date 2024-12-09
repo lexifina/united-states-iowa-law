@@ -1,0 +1,2 @@
+# Article VII, Section 6. Legislature may repeal.
+The legislature may, at any time, after the approval of such law by the people, if no debt shall have been contracted in pursuance thereof, repeal the same; and may, at any time, forbid the contracting of any further debt, or liability, under such law; but the tax imposed by such law, in proportion to the debt or liability, which may have been contracted in pursuance thereof, shall remain in force and be irrepealable, and be annually collected, until the principal and interest are fully paid.

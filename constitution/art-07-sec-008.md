@@ -1,0 +1,2 @@
+# Article VII, Section 8. Motor vehicle fees and fuel taxes.
+All motor vehicle registration fees and all licenses and excise taxes on motor vehicle fuel, except cost of administration, shall be used exclusively for the construction, maintenance and supervision of the public highways exclusively within the state or for the payment of bonds issued or to be issued for the construction of such public highways and the payment of interest on such bonds.

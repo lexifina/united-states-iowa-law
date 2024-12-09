@@ -1,0 +1,2 @@
+# Article III, Division 1, Section 1. Departments of government.
+The powers of the government of Iowa shall be divided into three separate departments — the legislative, the executive, and the judicial: and no person charged with the exercise of powers properly belonging to one of these departments shall exercise any function appertaining to either of the others, except in cases hereinafter expressly directed or permitted.

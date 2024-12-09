@@ -1,0 +1,2 @@
+# Article III, Division 2, Section 25. Compensation and expenses of general assembly.
+Each member of the general assembly shall receive such compensation and allowances for expenses as shall be fixed by law but no general assembly shall have the power to increase compensation and allowances effective prior to the convening of the next general assembly following the session in which any increase is adopted.

@@ -1,0 +1,2 @@
+# Article V, Section 19. Retirement and discipline of judges.
+In addition to the legislative power of impeachment of judges as set forth in article three (III), sections nineteen (19) and twenty (20) of the Constitution, the supreme court shall have power to retire judges for disability and to discipline or remove them for good cause, upon application by a commission on judicial qualifications. The general assembly shall provide by law for the implementation of this section.

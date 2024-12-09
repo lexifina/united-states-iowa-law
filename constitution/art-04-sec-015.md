@@ -1,0 +1,2 @@
+# Article IV, Section 15. Terms — compensation.
+The official terms of the governor and lieutenant governor shall commence on the Tuesday after the second Monday of January next after their election and shall continue until their successors are elected and qualify. The governor and lieutenant governor shall be paid compensation and expenses as provided by law. The lieutenant governor, while acting as governor, shall be paid the compensation and expenses prescribed for the governor.

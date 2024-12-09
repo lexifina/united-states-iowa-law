@@ -1,0 +1,2 @@
+# Article IX, Division 1, Section 14. Quorum — style of acts.
+A majority of the board shall constitute a quorum for the transaction of business; but no rule, regulation, or law, for the government of common schools or other educational institutions, shall pass without the concurrence of a majority of all the members of the board, which shall be expressed by the yeas and nays on the final passage. The style of all acts of the board shall be, “Be it enacted by the board of education of the state of Iowa”.*

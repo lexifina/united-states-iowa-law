@@ -1,0 +1,2 @@
+# Article III, Division 2, Section 9. Authority of the houses.
+Each house shall sit upon its own adjournments, keep a journal of its proceedings, and publish the same; determine its rules of proceedings, punish members for disorderly behavior, and, with the consent of two thirds, expel a member, but not a second time for the same offense; and shall have all other powers necessary for a branch of the general assembly of a free and independent state.

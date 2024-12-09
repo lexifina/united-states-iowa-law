@@ -1,0 +1,2 @@
+# Article III, Division 2, Section 2. Annual sessions of general assembly — special sessions.
+The general assembly shall meet in session on the second Monday of January of each year. Upon written request to the presiding officer of each house of the general assembly by two-thirds of the members of each house, the general assembly shall convene in special session. The governor of the state may convene the general assembly by proclamation in the interim.

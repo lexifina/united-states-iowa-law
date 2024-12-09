@@ -1,0 +1,2 @@
+# Article I, Section 10. Rights of persons accused.
+In all criminal prosecutions, and in cases involving the life, or liberty of an individual the accused shall have a right to a speedy and public trial by an impartial jury; to be informed of the accusation against him, to have a copy of the same when demanded; to be confronted with the witnesses against him; to have compulsory process for his witnesses; and, to have the assistance of counsel.

@@ -1,0 +1,2 @@
+# Article VII, Section 9. Fish and wildlife protection funds.
+All revenue derived from state license fees for hunting, fishing, and trapping, and all state funds appropriated for, and federal or private funds received by the state for, the regulation or advancement of hunting, fishing, or trapping, or the protection, propagation, restoration, management, or harvest of fish or wildlife, shall be used exclusively for the performance and administration of activities related to those purposes.

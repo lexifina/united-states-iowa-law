@@ -1,0 +1,2 @@
+# Article IX, Division 1, Section 12. Common schools.
+The board of education shall provide for the education of all the youths of the state, through a system of common schools and such school shall be organized and kept in each school district at least three months in each year. Any district failing, for two consecutive years, to organize and keep up a school as aforesaid may be deprived of their portion of the school fund.*

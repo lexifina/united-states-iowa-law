@@ -1,0 +1,2 @@
+# Article V, Section 4. Jurisdiction of supreme court.
+The supreme court shall have appellate jurisdiction only in cases in chancery, and shall constitute a court for the correction of errors at law, under such restrictions as the general assembly may, by law, prescribe; and shall have power to issue all writs and process necessary to secure justice to parties, and shall exercise a supervisory and administrative control over all inferior judicial tribunals throughout the state.

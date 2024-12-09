@@ -1,0 +1,2 @@
+# Article VIII, Section 5. Banking associations.
+No Act of the general assembly, authorizing or creating corporations or associations with banking powers, nor amendments thereto shall take effect, or in any manner be in force, until the same shall have been submitted, separately, to the people, at a general or special election, as provided by law, to be held not less than three months after the passage of the Act, and shall have been approved by a majority of all the electors voting for and against it at such election.

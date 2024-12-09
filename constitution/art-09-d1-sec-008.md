@@ -1,0 +1,2 @@
+# Article IX, Division 1, Section 8. Power to legislate.
+The board of education shall have full power and authority to legislate and make all needful rules and regulations in relation to common schools, and other educational institutions, that are instituted, to receive aid from the school or university fund of this state;* but all acts, rules, and regulations of said board may be altered, amended or repealed by the general assembly; and when so altered, amended, or repealed they shall not be re-enacted by the board of education.**
