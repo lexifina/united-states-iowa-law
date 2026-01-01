@@ -1,0 +1,91 @@
+CHAPTER 55
+LEAVE OF ABSENCE FOR CANDIDACY AND PUBLIC SERVICE
+Referred to in §39.28
+55.1
+Leave of absence for service in
+elective office.
+55.2
+Leave of absence for volunteer
+emergency service.
+55.3
+Service on boards, commissions,
+task forces, and committees.
+55.4
+Leave of absence for public
+employee candidacy.
+55.5
+Penalties.
+55.1 Leave of absence for service in elective office.
+1.
+A person who is elected to a municipal, county, state, or federal office shall, upon
+written application to the employer of that person, be granted a leave of absence from
+regular employment to serve in that office except where prohibited by the federal law. The
+leave of absence may be granted without pay, except that if a salaried employee takes leave
+without pay from regular employment for a portion of a pay period, the employee’s salaried
+compensation for that pay period shall be reduced by the ratio of the number of days of leave
+taken to the total number of days in the pay period. The leave of absence shall be granted
+without loss of net credited service and benefits earned. This section shall not be construed
+to require an employer to pay pension, health, or other benefits during the leave of absence
+to an employee taking a leave of absence under this section.
+2.
+A leave of absence for a person regularly employed pursuant to chapter 8A, subchapter
+IV, is subject to section 8A.416.
+3.
+An employee shall not be prohibited from returning to regular employment before the
+period expires for which the leave of absence was granted.
+This section applies only to
+employers which employ twenty or more full-time persons. The leave of absence granted
+by this section does not apply to an elective office held by the employee prior to the election.
+4.
+Temporary substitute teachers and teachers hired on a temporary basis to replace
+teachers who have been granted leaves of absence pursuant to this section are not subject to
+the provisions of chapter 279 relating to the termination of continuing contracts.
+84 Acts, ch 1233, §1; 2003 Acts, ch 145, §153; 2008 Acts, ch 1171, §58, 59
+Multiple elective offices, see §39.11, 39.12, 441.17(1)
+55.2 Leave of absence for volunteer emergency service.
+All officers and employees of the state, other than employees employed temporarily for
+six months or less or those employees considered essential personnel, who are volunteer
+fire fighters or emergency medical service personnel shall be entitled to a leave of absence
+from such civil employment for the period of an emergency response without loss of status or
+efficiency rating, and without loss of pay during such leave of absence. Such leave of absence
+shall in no way affect the employee’s rights to action, sick leave, bonus, or other employment
+benefits relating to the employee’s particular employment.
+2000 Acts, ch 1117, §3
+55.3 Service on boards, commissions, task forces, and committees.
+1.
+For the purpose of this section, “state board” includes any board, commission,
+committee, council, or task force of the state government created by the Constitution of the
+State of Iowa, or by statute, resolution of the general assembly, motion of the legislative
+council, executive order of the governor, or supreme court order, but does not include any
+such state board, commission, committee, council, or task force for which an annual salary
+is provided for its members.
+2.
+A person who is appointed to serve on a state board, upon written application to the
+person’s employer, shall be granted leaves of absence from regular employment to attend
+the meetings of the state board, except if leaves of absence are prohibited by federal law.
+The leaves of absence may be granted without pay and shall be granted without loss of net
+credited service and benefits earned. This section does not apply if the employer employs
+less than twenty full-time employees.
+86 Acts, ch 1245, §2061; 2006 Acts, ch 1010, §39; 2020 Acts, ch 1062, §94
+55.4 Leave of absence for public employee candidacy.
+1.
+Any public employee who becomes a candidate for any elective public office shall, upon
+request of the employee and commencing any time within thirty days prior to a contested
+primary, special, or general election and continuing until after the day following that election,
+automatically be given a period of leave. If the employee is under chapter 8A, subchapter IV,
+the employee may choose to use accrued vacation leave, accrued compensatory leave, or leave
+without pay to cover these periods. The appointing authority may authorize other employees
+to use accrued vacation leave or accrued compensatory leave instead of leave without pay to
+cover these periods. An employee who is a candidate for any elective public office shall not
+campaign while on duty as an employee.
+2.
+This section does not apply to employees of the federal government or to a public
+employee whose position is financed by federal funds if the application of this section would
+be contrary to federal law or result in the loss of the federal funds.
+86 Acts, ch 1021, §2; 2003 Acts, ch 145, §154; 2020 Acts, ch 1062, §94
+55.5 Penalties.
+A person violating this chapter is guilty of a simple misdemeanor. Each day in which the
+violation continues is a separate offense.
+84 Acts, ch 1233, §2
+C85, §55.2
+C87, §55.5
