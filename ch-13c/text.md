@@ -1,0 +1,142 @@
+CHAPTER 13C
+ORGANIZATIONS SOLICITING PUBLIC DONATIONS
+This chapter not enacted as a part of this title; transferred from chapter 122 in Code 1993
+13C.1
+Definitions.
+13C.2
+Registration permit required —
+disclosure.
+13C.3
+Use of another organization’s
+name in solicitation.
+13C.4
+through 13C.7
+Reserved.
+13C.8
+Enforcement — penalty.
+13C.1 Definitions.
+As used in this chapter, unless the context otherwise requires:
+1.
+“Charitable organization” means a person who solicits or purports to solicit
+contributions for a charitable purpose and which receives contributions.
+“Charitable
+organization” does not include a political organization, a religious organization, or a state,
+regionally, or nationally accredited college or university.
+2.
+“Charitable purpose” means a benevolent,
+educational,
+philanthropic,
+humane,
+scientific, patriotic, social welfare or advocacy, public health, environmental, conservation,
+civic, or other charitable objective.
+In the case of law enforcement, emergency medical
+technician, paramedic, and fire fighter organizations, “charitable purpose” does not include
+funds raised through the sale of advertisements, products, or tickets for an event unless the
+organization represents that part of proceeds will be used to assist individuals other than
+the organization, its members, or their families.
+3.
+“Political organization” means a political party, a candidate for office, or a political
+action committee required to file financial information with federal or state election or
+campaign commissions.
+4.
+“Professional commercial fund-raiser” means any person who for compensation
+solicits contributions in Iowa for a charitable organization other than the person. A person
+whose sole responsibility is to mail fundraising literature is not a professional commercial
+fund-raiser.
+A lawyer, investment counselor, or banker who advises a person to make
+a charitable contribution is not, as a result of such advice, a professional commercial
+fund-raiser. A bona fide salaried officer, employee, or volunteer of a charitable organization
+is not a professional commercial fund-raiser.
+5.
+“Religious organization” means a religious corporation, trust, foundation, association,
+or organization incorporated or established for religious purposes.
+6.
+“Solicit” or “solicitation” means the request, directly or indirectly, for a contribution on
+the pleas or representation that the contribution will be used for a charitable purpose. A
+solicitation is deemed to have taken place whether or not the person making the solicitation
+receives a contribution. “Solicitation” does not include an application for a grant from any
+governmental entity or private nonprofit foundation.
+[S13, §5077-c; C24, §1916; C27, 31, 35, §1921-b1; C39, §1915.1; C46, 50, 54, 58, 62, 66, 71,
+73, 75, 77, 79, 81, §122.1]
+89 Acts, ch 93, §1; 90 Acts, ch 1202, §1
+C93, §13C.1
+2015 Acts, ch 30, §8; 2023 Acts, ch 64, §5
+Referred to in §714H.3
+13C.2 Registration permit required — disclosure.
+1. a.
+A professional commercial fund-raiser shall not solicit contributions for charitable
+purposes in this state unless the professional commercial fund-raiser has registered with
+the attorney general, has provided the attorney general with a listing of the professional
+commercial fund-raiser’s clients, and has obtained a registration permit from the attorney
+general. The attorney general may require that registration information be updated on a
+quarterly basis.
+b.
+The attorney general shall prescribe and furnish the registration permit application
+form which shall include provisions for financial disclosure information concerning
+contributions received and disbursements made during the previous year by the professional
+commercial fund-raiser applying for registration. Financial disclosure information shall not
+include an applicant’s donor lists.
+c.
+In lieu of filing the financial disclosure information at the time of registration, the
+professional commercial fund-raiser may file a statement with its permit application where it
+agrees to provide, without cost, the financial disclosure information required to be disclosed
+pursuant to this subsection to a person or governmental entity requesting the information
+within one day of the request. The statement shall include the telephone number, mailing
+address, and names of persons to be contacted to obtain the financial disclosure information
+of the fund-raiser. Failure to provide this information upon request shall be a violation of
+this chapter.
+2.
+A charitable organization shall provide, upon request and without cost to the requesting
+party, financial disclosure information concerning contributions received and disbursements
+for the organization’s last complete fiscal year, or, if the organization has not completed a
+full fiscal year, for its current fiscal year, to the attorney general or a person requesting the
+information within five days of the request.
+3. a.
+If a professional commercial fund-raiser or charitable organization fails to provide
+financial information as required or requested, the fund-raiser or organization shall file the
+financial disclosure information with the attorney general within seven days of its failure
+to have provided the disclosure information and, thereafter, file, if required by the attorney
+general, annual financial disclosure information with the attorney general.
+b.
+The attorney general may seek an injunction pursuant to section 714.16 prohibiting the
+professional commercial fund-raiser or charitable organization from soliciting contributions
+until the required financial information has been disclosed to the attorney general, person,
+or governmental entity making the request.
+4.
+The client lists of a professional commercial fund-raiser, if required to be filed as
+part of the application for registration, shall be confidential and may be used only for law
+enforcement purposes.
+5.
+The attorney general shall collect a fee of ten dollars for each registration permit issued.
+A permit shall expire twelve months following the date of issuance.
+6.
+The attorney general may make reasonable rules to enforce the provisions of this
+chapter.
+[S13, §5077-c; C24, §1917; C27, 31, 35, §1921-b2; C39, §1915.2; C46, 50, 54, 58, 62, 66, 71,
+73, 75, 77, 79, 81, §122.2]
+89 Acts, ch 93, §2; 90 Acts, ch 1202, §2
+C93, §13C.2
+2016 Acts, ch 1073, §6, 7
+13C.3 Use of another organization’s name in solicitation.
+A charitable organization shall not solicit contributions for a charitable purpose in this state,
+where the charitable organization claims that a portion or all of the contributions received
+will be given to another charitable organization in this state, without permission from the
+other charitable organization that its name may be referred to as part of the solicitation.
+90 Acts, ch 1202, §3
+C93, §13C.3
+13C.4 through 13C.7
+Reserved.
+13C.8 Enforcement — penalty.
+1.
+The attorney general shall enforce the provisions of this chapter.
+2.
+A violation of this chapter is a violation of section 714.16, subsection 2, paragraph
+“a”.
+The provisions of section 714.16, including but not limited to provisions relating to
+investigation, injunctive relief, and penalties, shall apply to this chapter.
+[C24, §1918; C27, 31, 35, §1921-b3; C39, §1915.3; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79,
+81, §122.3]
+89 Acts, ch 93, §3; 90 Acts, ch 1202, §4
+C91, §122.8
+C93, §13C.8
+2016 Acts, ch 1011, §121
