@@ -1,0 +1,134 @@
+CHAPTER 135A
+PUBLIC HEALTH MODERNIZATION ACT
+Legislative findings and intent; purpose;
+2009 Acts, ch 182, §114, 126
+135A.1
+Short title.
+135A.2
+Definitions.
+135A.3
+Governmental public health
+system — lead agency.
+135A.4
+Governmental public health
+advisory council — legislative
+intent. Repealed by 2019 Acts,
+ch 85, §74.
+135A.5
+through 135A.7
+Repealed by
+2016 Acts, ch 1026, §6.
+135A.8
+Governmental public health
+system fund.
+135A.9
+Rules.
+135A.10
+Prohibited acts — fraudulently
+claiming accreditation — civil
+penalty.
+Repealed by 2016
+Acts, ch 1026, §6.
+135A.11
+Implementation.
+135A.1 Short title.
+This chapter shall be known and may be cited as the “Iowa Public Health Modernization
+Act”.
+2009 Acts, ch 182, §115, 126
+135A.2 Definitions.
+As used in this chapter, unless the context otherwise requires, the following definitions
+apply:
+1.
+“Academic institution” means an institution of higher education in the state which
+grants degrees in public health or another health-related field and is accredited by a
+nationally recognized accrediting agency as determined by the United States secretary of
+education. For purposes of this definition, “accredited” means a certification of the quality
+of an institution of higher education.
+2.
+“Department” means the department of health and human services.
+3.
+“Designated local public health agency” means an entity that is either governed by or
+contractually responsible to a local board of health and designated by the local board.
+4.
+“Governmental public health system” means local boards of health, the council on
+health and human services, designated local public health agencies, the state hygienic
+laboratory, and the department.
+5.
+“Local board of health” means the same as defined in section 137.102.
+6.
+“Organizational capacity” means the governmental public health infrastructure that
+must be in place in order to deliver public health services.
+7.
+“Public health system” means all public, private, and voluntary entities that contribute
+to the delivery of public health services within a jurisdiction.
+2009 Acts, ch 182, §116, 126; 2016 Acts, ch 1026, §1; 2017 Acts, ch 148, §25; 2019 Acts, ch
+85, §72; 2023 Acts, ch 19, §160
+135A.3 Governmental public health system — lead agency.
+1.
+The department is designated as the lead agency in this state to administer this chapter.
+2.
+Such administration shall include evaluation of and quality improvement measures for
+the governmental public health system.
+2009 Acts, ch 182, §117, 126; 2016 Acts, ch 1026, §2
+135A.4 Governmental public health advisory council — legislative intent.
+Repealed by
+2019 Acts, ch 85, §74.
+135A.5 through 135A.7
+Repealed by 2016 Acts, ch 1026, §6.
+135A.8 Governmental public health system fund.
+1.
+The department is responsible for the funding of the administrative costs for
+implementation of this chapter.
+A governmental public health system fund is created as
+a separate fund in the state treasury under the control of the department. The fund shall
+consist of moneys obtained from any source, including the federal government, unless
+otherwise prohibited by law or the entity providing the funding. Moneys deposited in the
+fund are appropriated to the department for the public health purposes specified in this
+chapter.
+Moneys in the fund shall not be transferred, used, obligated, appropriated, or
+otherwise encumbered except as provided in this section.
+Notwithstanding section 8.33,
+moneys in the governmental public health system fund at the end of the fiscal year shall not
+revert to any other fund but shall remain in the fund for subsequent fiscal years.
+2.
+The fund is established to assist local boards of health and the department with the
+provision of governmental public health system organizational capacity and public health
+service delivery and to achieve and maintain voluntary accreditation. At least seventy percent
+of the funds shall be made available to local boards of health and up to thirty percent of the
+funds may be utilized by the department.
+3.
+Moneys in the fund may be allocated by the department to a local board of health for
+organizational capacity and service delivery. Such allocation may be made on a matching,
+dollar-for-dollar basis for the acquisition of equipment, or by providing grants to achieve and
+maintain voluntary accreditation.
+4.
+A local board of health seeking matching funds or grants under this section shall
+apply to the department. The department shall adopt rules concerning the application and
+award process for the allocation of moneys in the fund and shall establish the criteria for
+the allocation of moneys in the fund if the moneys are insufficient to meet the needs of local
+boards of health.
+2009 Acts, ch 182, §122, 126; 2016 Acts, ch 1026, §4; 2023 Acts, ch 19, §161; 2024 Acts, ch
+1170, §388
+135A.9 Rules.
+The department shall adopt rules pursuant to chapter 17A to implement this chapter which
+shall include but are not limited to the following:
+1.
+The application and award process for governmental public health system fund
+moneys.
+2.
+Rules otherwise necessary to implement the chapter.
+2009 Acts, ch 182, §123, 126; 2010 Acts, ch 1061, §29; 2016 Acts, ch 1026, §5; 2019 Acts, ch
+85, §73; 2023 Acts, ch 19, §162; 2024 Acts, ch 1170, §389
+135A.10 Prohibited
+acts
+—
+fraudulently
+claiming
+accreditation
+—
+civil
+penalty.
+Repealed by 2016 Acts, ch 1026, §6.
+135A.11 Implementation.
+The department shall implement this chapter only to the extent that funding is available.
+2009 Acts, ch 182, §125, 126
