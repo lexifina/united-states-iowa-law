@@ -1,0 +1,38 @@
+CHAPTER 590
+WILLS
+590.1
+Notice of appointment of
+executors.
+590.2
+Notice of hearing in probate.
+590.1 Notice of appointment of executors.
+1.
+In all instances prior to January 1, 1964, where executors or administrators have failed
+to publish notice of their appointment as required by section 3304, Code of 1897, and section
+11890, Codes of 1924 through 1939, and section 633.46, Codes 1946 through 1962, but have
+published a notice of appointment, such notice of appointment is hereby legalized and shall
+have the same force and effect as though the same had been published as directed by the
+court or clerk.
+2.
+In all instances where more than five years have passed since the appointment of a
+personal representative or probate of a will without administration, where administrators
+have failed to publish notice of their appointment as required by section 633.230, and
+executors have failed to publish a notice of admission of the will to probate and their
+appointment as required by sections 633.304 and 633.305, but have published a notice of
+appointment or notice of admission of the will to probate and of the appointment of the
+executor, such notice of appointment or notice of admission of the will to probate and of the
+appointment of the executor, is hereby legalized and shall have the same force and effect as
+though the same had been published as required.
+[C24, 27, 31, 35, 39, §10407; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §590.1]
+2021 Acts, ch 76, §139
+590.2 Notice of hearing in probate.
+In all instances prior to January 1, 1964, where the clerk of the district court of any county
+failed to publish notice of the time fixed for hearing of the probate of any will filed in such
+county as required by section 11865 of the Code [1924 through 1939], and section 633.20,
+Codes 1946 through 1962, but did publish a notice of the time fixed for such hearing signed
+by the clerk and addressed to whom it may concern in a daily or weekly newspaper printed
+in the county where the will was filed, such notice of time fixed for the hearing of the probate
+of such will is hereby legalized and shall have the same force and effect as though the same
+had been published in strict conformity with the requirements of said section.
+[C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §590.2]
+2022 Acts, ch 1032, §98
