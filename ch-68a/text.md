@@ -1,0 +1,1636 @@
+CHAPTER 68A
+CAMPAIGN FINANCE
+Referred to in §22A.5, 39.3, 43.5, 53.2, 53.3, 53.9, 66.1A, 68B.2, 68B.32, 68B.32A, 68B.32B, 68B.32C, 68B.32D, 533.212
+Chapter applicable to primary elections; §43.5
+See also definitions in §39.3
+SUBCHAPTER I
+GENERAL PROVISIONS
+68A.101
+Citation and administration.
+68A.102
+Definitions.
+68A.103
+Applicability to federal
+candidates.
+68A.104
+Certain accounts by officeholders
+prohibited.
+SUBCHAPTER II
+COMMITTEE ORGANIZATION — DUTIES OF OFFICERS
+68A.201
+Organization statement.
+68A.201A
+Contributions from federal and
+out-of-state committees or
+organizations.
+68A.202
+Candidate’s committee.
+68A.203
+Committee treasurer and
+chairperson — duties.
+SUBCHAPTER III
+CAMPAIGN FUNDS AND PROPERTY
+68A.301
+Campaign funds.
+68A.302
+Uses of campaign funds.
+68A.303
+Transfer of campaign funds.
+68A.304
+Campaign property.
+SUBCHAPTER IV
+REPORTS — INDEPENDENT EXPENDITURES — POLITICAL
+MATERIAL
+68A.401
+Reports filed with board.
+68A.401A
+Reporting of contributions and
+expenditures relating to issue
+advocacy.
+68A.402
+Disclosure report due dates
+— permanent organization
+temporarily engaging in
+political activity required to
+file reports.
+68A.402A
+Information disclosed on reports.
+68A.402B
+Committee dissolution —
+inactivity — reports.
+68A.403
+Reports preserved.
+68A.404
+Independent expenditures.
+68A.405
+Attribution statement on
+published material.
+68A.405A
+Self-promotion with taxpayer
+funds prohibited.
+68A.406
+Campaign signs — yard signs.
+SUBCHAPTER V
+PROHIBITED ACTS — CONTRIBUTIONS, PUBLIC MONEYS,
+CAMPAIGN PRACTICES
+68A.501
+Funds from unknown source —
+escheat.
+68A.502
+Contribution sources —
+identification — illegal
+contributions or expenditures
+— loans.
+68A.503
+Financial institution, insurance
+company, and corporation
+contributions — sham
+newspapers.
+68A.504
+Prohibiting contributions during
+the legislative session.
+68A.505
+Use of public moneys for political
+purposes.
+68A.506
+Use of false caller identification
+for campaign purposes
+prohibited.
+SUBCHAPTER VI
+INCOME TAX CHECKOFF
+68A.601
+through 68A.609
+Repealed by
+2017 Acts, ch 144, §13, 14.
+SUBCHAPTER VII
+PENALTY
+68A.701
+Penalty.
+SUBCHAPTER I
+GENERAL PROVISIONS
+68A.101 Citation and administration.
+This chapter may be cited as the “Campaign Disclosure Act”.
+The Iowa ethics and
+campaign disclosure board shall administer this chapter as provided in sections 68B.32,
+68B.32A, 68B.32B, 68B.32C, and 68B.32D.
+[C75, 77, 79, 81, §56.1]
+2003 Acts, ch 40, §9
+CS2003, §68A.101
+2009 Acts, ch 42, §1; 2018 Acts, ch 1026, §25
+68A.102 Definitions.
+As used in this chapter, unless the context otherwise requires:
+1.
+“Ballot issue” means a question, other than the nomination or election of a candidate to
+a public office, which has been approved by a political subdivision or the general assembly or
+is required by law to be placed before the voters of the political subdivision by a commissioner
+of elections, or to be placed before the voters by the state commissioner of elections.
+2.
+“Board” means the Iowa ethics and campaign disclosure board established under
+section 68B.32.
+3.
+“Campaign function” means any meeting related to a candidate’s campaign for election.
+4.
+“Candidate” means any individual who has taken affirmative action to seek nomination
+or election to a public office and shall also include any judge standing for retention in a judicial
+election.
+5.
+“Candidate’s committee” means the committee designated by the candidate for a state,
+county, city, or school office to receive contributions in excess of one thousand dollars in
+the aggregate, expend funds in excess of one thousand dollars in the aggregate, or incur
+indebtedness on behalf of the candidate in excess of one thousand dollars in the aggregate
+in any calendar year.
+6.
+“Clearly identified” means that a communication contains an unambiguous reference to
+a particular candidate or ballot issue, including but not limited to one or more of the following:
+a.
+Use of the name of the candidate or ballot issue.
+b.
+Use of a photograph or drawing of the candidate, or the use of a particular symbol
+associated with a specific ballot issue.
+c.
+Use of a candidate’s initials, nickname, office, or status as a candidate, or use of
+acronym, popular name, or characterization of a ballot issue.
+7.
+“Commissioner” means the county auditor of each county, who is designated as the
+county commissioner of elections pursuant to section 47.2.
+8.
+“Committee” includes a political committee and a candidate’s committee.
+9.
+“Consultant” means a person who provides or procures services including but not
+limited to consulting, public relations, advertising, fundraising, polling, managing or
+organizing services.
+10. a.
+“Contribution” means:
+(1)
+A gift, loan, advance, deposit, rebate, refund, or transfer of money or a gift in kind.
+(2)
+The payment, by any person other than a candidate or political committee, of
+compensation for the personal services of another person which are rendered to a candidate
+or political committee for any such purpose.
+b.
+“Contribution” shall not include:
+(1)
+Services provided without compensation by individuals volunteering their time on
+behalf of a candidate’s committee or political committee or a state or county statutory
+political committee except when organized or provided on a collective basis by a business,
+trade association, labor union, or any other organized group or association.
+(2)
+Refreshments served at a campaign function so long as such refreshments do not
+exceed fifty dollars in value or transportation provided to a candidate so long as its value
+computed at the current rate of reimbursement allowed under the standard mileage rate
+method for computation of business expenses pursuant to the Internal Revenue Code does
+not exceed one hundred dollars in value in any one reporting period.
+(3)
+Something provided to a candidate for the candidate’s personal consumption or use
+and not intended for or on behalf of the candidate’s committee.
+11.
+“County office” includes the office of drainage district trustee.
+12.
+“County statutory political committee” means a committee as described in section
+43.100 that accepts contributions in excess of one thousand dollars in the aggregate, makes
+expenditures in excess of one thousand dollars in the aggregate, or incurs indebtedness
+in excess of one thousand dollars in the aggregate in any one calendar year to expressly
+advocate the nomination, election, or defeat of a candidate for public office.
+13.
+“Disclosure report” means a statement of contributions received, expenditures made,
+and indebtedness incurred on forms prescribed by rules adopted by the board in accordance
+with chapter 17A.
+14.
+“Express advocacy” or to “expressly advocate” means communication that can be
+characterized according to at least one of the following descriptions:
+a.
+The communication is political speech made in the form of a contribution.
+b.
+In advocating the election or defeat of one or more clearly identified candidates or the
+passage or defeat of one or more clearly identified ballot issues, the communication includes
+explicit words that unambiguously indicate that the communication is recommending
+or supporting a particular outcome in the election with regard to any clearly identified
+candidate or ballot issue.
+15.
+“Fundraising event” means any campaign function to which admission is charged or
+at which goods or services are sold.
+16.
+“National political party” means a party which meets the definition of a political party
+established for this state by section 43.2, and which also meets the statutory definition of the
+term “political party” or a term of like import in at least twenty-five other states of the United
+States.
+17.
+“Person” means, without limitation, any individual, corporation, government or
+governmental subdivision or agency, business trust, estate, trust, partnership or association,
+labor union, or any other legal entity.
+18.
+“Political committee” means any of the following:
+a.
+A committee, but not a candidate’s committee, that accepts contributions in excess of
+one thousand dollars in the aggregate, makes expenditures in excess of one thousand dollars
+in the aggregate, or incurs indebtedness in excess of one thousand dollars in the aggregate in
+any one calendar year to expressly advocate the nomination, election, or defeat of a candidate
+for public office, or to expressly advocate the passage or defeat of a ballot issue.
+b.
+An association, lodge, society, cooperative, union, fraternity, sorority, educational
+institution, civic organization, labor organization, religious organization, or professional
+organization that accepts contributions in excess of one thousand dollars in the aggregate,
+makes expenditures in excess of one thousand dollars in the aggregate,
+or incurs
+indebtedness in excess of one thousand dollars in the aggregate in any one calendar year to
+expressly advocate the nomination, election, or defeat of a candidate for public office, or to
+expressly advocate the passage or defeat of a ballot issue.
+c.
+A person, other than an individual, that accepts contributions in excess of one
+thousand dollars in the aggregate, makes expenditures in excess of one thousand dollars
+in the aggregate, or incurs indebtedness in excess of one thousand dollars in the aggregate
+in any one calendar year to expressly advocate that an individual should or should not
+seek election to a public office prior to the individual becoming a candidate as defined in
+subsection 4.
+19.
+“Political purpose” or “political purposes” means the express advocacy of a candidate
+or ballot issue.
+20.
+“Public office” means any state, county, city, or school office filled by election.
+21.
+“State statutory political committee” means a committee as defined in section 43.111.
+[C75, 77, 79, 81, §56.2; 81 Acts, ch 35, §1, 2]
+83 Acts, ch 139, §2, 14; 86 Acts, ch 1023, §1; 87 Acts, ch 112, §1, 2; 91 Acts, ch 226, §1; 92
+Acts, ch 1228, §22 – 24; 93 Acts, ch 142, §1 – 3; 93 Acts, ch 163, §28 – 30, 38; 94 Acts, ch 1023,
+§80; 94 Acts, ch 1180, §31, 32; 95 Acts, ch 198, §1, 2; 99 Acts, ch 136, §1, 2, 17; 2002 Acts, ch
+1073, §1, 2, 11; 2002 Acts, ch 1119, §124; 2003 Acts, ch 40, §9
+CS2003, §68A.102
+2005 Acts, ch 72, §3, 4; 2006 Acts, ch 1158, §2; 2007 Acts, ch 14, §1; 2008 Acts, ch 1031, §84;
+2010 Acts, ch 1025, §1, 2; 2015 Acts, ch 54, §1; 2018 Acts, ch 1026, §26
+Referred to in §43.18, 43.67, 44.3, 45.3, 48A.24, 49.17, 53.33, 68A.201, 68A.202, 68A.402, 99B.1, 99F.6
+“State commissioner” defined, §39.3
+68A.103 Applicability to federal candidates.
+The requirements of this chapter relative to disclosure of contributions shall apply to
+candidates and political committees for federal office only in the event such candidates are
+not subject to a federal law requiring the disclosure of campaign financing. Any such federal
+law shall supersede the provisions of this chapter.
+[C75, 77, 79, 81, §56.17]
+2003 Acts, ch 40, §9
+CS2003, §68A.103
+2017 Acts, ch 144, §3, 14
+68A.104 Certain accounts by officeholders prohibited.
+A holder of public office shall not maintain an account, other than a campaign account, to
+receive contributions for the purpose of publishing and distributing newsletters or performing
+other constituent services related to the official duties of public office. This section applies
+whether or not the officeholder is a candidate.
+91 Acts, ch 226, §14
+CS91, §56.46
+2003 Acts, ch 40, §9
+CS2003, §68A.104
+SUBCHAPTER II
+COMMITTEE ORGANIZATION —
+DUTIES OF OFFICERS
+68A.201 Organization statement.
+1. a.
+Every committee, as defined in this chapter, shall file a statement of organization
+within ten days from the date of its organization. Unless formal organization has previously
+occurred, a committee is deemed to have organized as of the date that committee transactions
+exceed the financial activity threshold established in section 68A.102, subsection 5 or 18. If
+committee transactions exceed the financial activity threshold prior to the due date for filing
+a disclosure report as established under section 68A.402, the committee shall file a disclosure
+report whether or not a statement of organization has been filed by the committee.
+b.
+A person who makes one or more independent expenditures and files all statements
+required by section 68A.404 shall not be required to organize a committee or file the statement
+of organization required under this section.
+2.
+The statement of organization shall include:
+a.
+The name, purpose, mailing address, and telephone number of the committee. The
+committee name shall not duplicate the name of another committee organized under this
+section. For candidate’s committees filing initial statements of organization on or after July
+1, 1995, the candidate’s name shall be contained within the committee name.
+b.
+The name, mailing address, and position of the committee officers.
+c.
+The name, address, office sought, and the party affiliation of all candidates whom the
+committee is supporting and, if the committee is supporting the entire ticket of any party, the
+name of the party. If, however, the committee is supporting several candidates who are not
+identified by name or are not of the same political affiliation, the committee may provide a
+statement of purpose in lieu of candidate names or political party affiliation.
+d.
+Such other information as may be required by this chapter or rules adopted pursuant
+to this chapter.
+e.
+A signed statement by the treasurer of the committee and the candidate, in the case
+of a candidate’s committee, which shall verify that they are aware of the requirement to
+file disclosure reports if the committee, the committee officers, the candidate, or both the
+committee officers and the candidate receive contributions in excess of one thousand dollars
+in the aggregate, make expenditures in excess of one thousand dollars in the aggregate, or
+incur indebtedness in excess of one thousand dollars in the aggregate in a calendar year to
+expressly advocate the nomination, election, or defeat of any candidate for public office. In
+the case of political committees, statements shall be made by the treasurer of the committee
+and the chairperson.
+f.
+The identification of any parent entity or other affiliates or sponsors.
+g.
+The name of the financial institution in which the committee receipts will be deposited.
+3.
+Any change in information previously submitted in a statement of organization or
+notice in case of dissolution of the committee shall be reported to the board not more than
+thirty days from the date of the change or dissolution.
+4.
+A list, by office and district, of all candidates who have filed an affidavit of candidacy
+in the office of the secretary of state shall be prepared by the secretary of state and delivered
+to the board not more than ten days after the last day for filing nomination papers.
+[S13, §1137-a1; C24, 27, 31, 35, 39, §973; C46, 50, 54, 58, 62, 66, 71, 73, §56.2; C75, 77, 79,
+81, §56.5; 81 Acts, ch 35, §5]
+86 Acts, ch 1023, §3, 4; 87 Acts, ch 112, §5; 91 Acts, ch 226, §3; 93 Acts, ch 142, §5; 93 Acts,
+ch 163, §31, 38; 94 Acts, ch 1180, §33; 95 Acts, ch 198, §5 – 7; 99 Acts, ch 136, §4, 17; 2002
+Acts, ch 1073, §4, 5, 11; 2003 Acts, ch 40, §2, 9; 2003 Acts, ch 179, §81
+CS2003, §68A.201
+2004 Acts, ch 1042, §1, 2; 2007 Acts, ch 14, §2, 3; 2010 Acts, ch 1024, §1; 2015 Acts, ch 54,
+§2; 2015 Acts, ch 82, §1
+Referred to in §68A.201A, 68A.404, 68A.405, 68A.406
+68A.201A Contributions from federal and out-of-state committees or organizations.
+1.
+When either a committee or organization not organized as a committee under
+section 68A.201 makes a contribution to a committee organized in Iowa, that committee or
+organization shall disclose each contribution in excess of fifty dollars to the board.
+2.
+A committee or organization not organized as a committee under section 68A.201 that
+is not registered and filing full disclosure reports of all financial activities with the federal
+election commission or another state’s disclosure commission shall register and file full
+disclosure reports with the board pursuant to this chapter. The committee or organization
+shall either appoint an eligible Iowa elector as committee or organization treasurer, or shall
+maintain all committee funds in an account in a financial institution located in Iowa.
+3.
+A committee that is currently filing a disclosure report in another jurisdiction shall
+either file a statement of organization under section 68A.201 and file disclosure reports under
+section 68A.402, or shall file a verified statement with the board within fifteen days of the
+contribution being made.
+4.
+The verified statement shall be on forms prescribed by the board and shall attest that
+the committee is filing reports with the federal election commission or in a jurisdiction with
+reporting requirements which are substantially similar to those of this chapter, and that the
+contribution is made from an account that does not accept contributions that would be in
+violation of section 68A.503.
+5.
+The verified statement shall include the complete name, address, and telephone number
+of the contributing committee, the state or federal jurisdiction under which it is registered or
+operates, the identification of any parent entity or other affiliates or sponsors, its purpose,
+the name and address of an Iowa resident authorized to receive service of original notice, the
+name and address of the receiving committee, the amount of the cash or in-kind contribution,
+and the date the contribution was made.
+6.
+The verified statement shall be filed by 4:30 p.m. of the day the filing is due.
+2010 Acts, ch 1024, §2; 2018 Acts, ch 1059, §1
+Referred to in §68A.401
+68A.202 Candidate’s committee.
+1.
+Each candidate for state, county, city, or school office shall organize one, and only one,
+candidate’s committee for a specific office sought when the candidate receives contributions
+in excess of one thousand dollars in the aggregate, makes expenditures in excess of one
+thousand dollars in the aggregate, or incurs indebtedness in excess of one thousand dollars
+in the aggregate in a calendar year.
+2. a.
+A political committee shall not be established to expressly advocate the nomination,
+election, or defeat of only one candidate for office. However, a political committee may be
+established to expressly advocate the passage or defeat of approval of a single judge standing
+for retention. A permanent organization, as defined in section 68A.402, subsection 9, may
+make a one-time contribution to only one candidate for office in excess of one thousand
+dollars.
+b.
+The prohibition in paragraph “a” does not apply to a political committee described in
+section 68A.102, subsection 18, paragraph “c”, until the individual becomes a candidate for
+public office. A political committee organized to expressly advocate that an individual should
+or should not seek election to a public office prior to the individual becoming a candidate for
+public office shall be dissolved when the individual becomes a candidate for public office.
+[C77, 79, 81, §56.28; 81 Acts, ch 35, §13]
+83 Acts, ch 139, §12, 14
+C91, §56.5A
+91 Acts, ch 226, §4; 93 Acts, ch 142, §6; 94 Acts, ch 1023, §81; 94 Acts, ch 1180, §34; 95 Acts,
+ch 198, §8; 99 Acts, ch 136, §5, 17; 2002 Acts, ch 1073, §6, 11; 2003 Acts, ch 40, §9
+CS2003, §68A.202
+2004 Acts, ch 1042, §3; 2010 Acts, ch 1025, §3; 2015 Acts, ch 54, §3, 4
+68A.203 Committee treasurer and chairperson — duties.
+1. a.
+Every candidate’s committee shall appoint a treasurer who shall be an Iowa resident
+who has reached the age of majority.
+Every political committee, state statutory political
+committee, and county statutory political committee shall appoint both a treasurer and a
+chairperson, each of whom shall have reached the age of majority.
+b.
+Every candidate’s committee shall maintain all of the committee’s funds in bank
+accounts in a financial institution located in Iowa. Every political committee, state statutory
+political committee, and county statutory political committee shall either have an Iowa
+resident as treasurer or maintain all of the committee’s funds in bank accounts in a financial
+institution located in Iowa.
+c.
+An expenditure shall not be made by the treasurer or treasurer’s designee for or on
+behalf of a committee without the approval of the chairperson of the committee, or the
+candidate. Expenditures shall be remitted to the designated recipient within fifteen days of
+the date of the issuance of the payment.
+2. a.
+An individual who receives contributions for a committee without the prior
+authorization of the chairperson of the committee or the candidate shall be responsible
+for either rendering the contributions to the treasurer within fifteen days of the date of
+receipt of the contributions, or depositing the contributions in the account maintained by
+the committee within seven days of the date of receipt of the contributions.
+b.
+A person, other than a candidate or committee officer, who receives contributions for a
+committee shall, not later than fifteen days from the date of receipt of the contributions or on
+demand of the treasurer, render to the treasurer the contributions and an account of the total
+of all contributions, including the name and address of each person making a contribution
+in excess of twenty-five dollars, the amount of the contributions, and the date on which the
+contributions were received.
+c.
+The treasurer shall deposit all contributions within seven days of receipt by the
+treasurer in an account maintained by the committee.
+d.
+All funds of a committee shall be segregated from any other funds held by officers,
+members, or associates of the committee or the committee’s candidate.
+However, if a
+candidate’s committee receives contributions only from the candidate, or if a permanent
+organization temporarily engages in activity that qualifies it as a political committee and all
+expenditures of the organization are made from existing general operating funds and funds
+are not solicited or received for this purpose from sources other than operating funds, then
+that committee is not required to maintain a separate account in a financial institution.
+e.
+Committee funds or committee property shall not be used for the personal benefit of
+a candidate, officer, member, or associate of the committee. The funds of a committee are
+not attachable for the personal debt of the committee’s candidate or an officer, member, or
+associate of the committee.
+3.
+The treasurer of a committee shall keep a detailed and exact account of:
+a.
+All contributions made to or for the committee.
+b.
+The name and mailing address of every person making contributions in excess of
+twenty-five dollars, and the date and amount of the contribution.
+c.
+All disbursements made from contributions by or on behalf of the committee.
+d.
+The name and mailing address of every person to whom any expenditure is made,
+the purpose of the expenditure, the date and amount of the expenditure and the name and
+address of, and office sought by each candidate, if any, on whose behalf the expenditure was
+made. Notwithstanding this paragraph, the treasurer may keep a miscellaneous account for
+disbursements of less than five dollars which need only show the amount of the disbursement
+so long as the aggregate miscellaneous disbursements to any one person during a calendar
+year do not exceed one hundred dollars.
+e.
+Notwithstanding the provisions of subsection 3, paragraph “d”, of this section, when
+an expenditure is made by a committee in support of the entire state or local political party
+ticket, only the name of the party shall be given.
+4.
+The treasurer and candidate in the case of a candidate’s committee, and the treasurer
+and chairperson in the case of a political committee, shall preserve all records required to
+be kept by this section for a period of five years. However, a committee is not required to
+preserve any records for more than three years from the certified date of dissolution of the
+committee. For purposes of this section, the five-year period shall commence with the due
+date of the disclosure report covering the activity documented in the records.
+[C75, 77, 79, 81, §56.3; 81 Acts, ch 35, §3]
+83 Acts, ch 139, §3, 14; 86 Acts, ch 1023, §2; 87 Acts, ch 112, §3; 88 Acts, ch 1158, §8; 91
+Acts, ch 226, §2; 93 Acts, ch 142, §4; 95 Acts, ch 198, §3; 2003 Acts, ch 40, §1, 9
+CS2003, §68A.203
+2005 Acts, ch 72, §5; 2007 Acts, ch 14, §4; 2015 Acts, ch 54, §5, 6
+SUBCHAPTER III
+CAMPAIGN FUNDS AND PROPERTY
+68A.301 Campaign funds.
+1.
+A candidate’s committee shall not accept contributions from, or make contributions
+to, any other candidate’s committee including candidate’s committees from other states
+or for federal office, unless the candidate for whom each committee is established is the
+same person. For purposes of this section, “contributions” includes monetary and in-kind
+contributions but does not include travel costs incurred by a candidate in attending a
+campaign event of another candidate and does not include the sharing of information in any
+format.
+2.
+This section shall not be construed to prohibit a candidate or candidate’s committee
+from using campaign funds or accepting contributions for tickets to meals if the candidate
+attends solely for the purpose of enhancing the person’s candidacy or the candidacy of
+another person.
+91 Acts, ch 226, §9
+CS91, §56.40
+93 Acts, ch 142, §10; 2003 Acts, ch 40, §9
+CS2003, §68A.301
+2004 Acts, ch 1042, §4; 2009 Acts, ch 42, §2
+68A.302 Uses of campaign funds.
+1.
+A candidate and the candidate’s committee shall use campaign funds only for campaign
+purposes, educational and other expenses associated with the duties of office, or constituency
+services, and shall not use campaign funds for personal expenses or personal benefit. The
+purchase of subscriptions to newspapers from or which circulate within the area represented
+by the office which a candidate is seeking or holds is presumed to be an expense that is
+associated with the duties of the campaign for and duties of office.
+2.
+Campaign funds shall not be used for any of the following purposes:
+a.
+Payment of civil or criminal penalties. However, payment of civil penalties relating to
+campaign finance and disclosure requirements is permitted.
+b.
+Satisfaction of personal debts, other than campaign loans.
+c.
+Personal services, including the services of attorneys, accountants, physicians, and
+other professional persons.
+However, payment for personal services directly related to
+campaign activities is permitted.
+d.
+Clothing or laundry expense of a candidate or members of the candidate’s family.
+e.
+Purchase of or installment payments for a motor vehicle.
+However, a candidate
+may lease a motor vehicle during the duration of the campaign if the vehicle will be
+used for campaign purposes. If a vehicle is leased, detailed records shall be kept on the
+use of the vehicle and the cost of noncampaign usage shall not be paid from campaign
+funds.
+Candidates and campaign workers may be reimbursed for actual mileage for
+campaign-related travel at a rate not to exceed the current rate of reimbursement allowed
+under the standard mileage rate method for computation of business expenses pursuant to
+the Internal Revenue Code.
+f.
+Mortgage payments, rental payments, furnishings, or renovation or improvement
+expenses for a permanent residence of a candidate or family member, including a residence
+in the state capital during a term of office or legislative session.
+g.
+Membership in professional organizations.
+h.
+Membership in service organizations, except those organizations which the candidate
+joins solely for the purpose of enhancing the candidacy.
+i.
+Meals, groceries, or other food expense, except for tickets to meals that the candidate
+attends solely for the purpose of enhancing the candidacy or the candidacy of another
+person. However, payment for food and drink purchased for campaign-related purposes and
+for entertainment of campaign volunteers is permitted.
+j.
+Payments clearly in excess of the fair market value of the item or service purchased.
+k.
+Payment to a candidate or the candidate’s immediate family member as a salary,
+gratuity, or other compensation.
+However, reimbursement of expenses as otherwise
+authorized in this section is permitted. For purposes of this paragraph, “immediate family
+member” means the spouse or dependent child of a candidate.
+3.
+The board shall adopt rules which list items that represent proper campaign expenses.
+91 Acts, ch 226, §10
+CS91, §56.41
+92 Acts, ch 1228, §27, 28; 93 Acts, ch 142, §11; 93 Acts, ch 163, §38; 95 Acts, ch 198, §15;
+2003 Acts, ch 40, §9
+CS2003, §68A.302
+2009 Acts, ch 20, §1
+Referred to in §68A.303, 68A.402B
+68A.303 Transfer of campaign funds.
+1.
+In addition to the uses permitted under section 68A.302, a candidate’s committee may
+only transfer campaign funds in one or more of the following ways:
+a.
+Contributions to charitable organizations unless the candidate or the candidate’s
+spouse, child, stepchild, brother, brother-in-law, stepbrother, sister, sister-in-law, stepsister,
+parent, parent-in-law, or stepparent is employed by the charitable organization and will
+receive a direct financial benefit from a contribution.
+b.
+Contributions to national, state, or local political party central committees, or to
+partisan political committees organized to represent persons within the boundaries of a
+congressional district.
+c.
+Transfers to the treasurer of state for deposit in the general fund of the state, or to the
+appropriate treasurer for deposit in the general fund of a political subdivision of the state.
+d.
+Return of contributions to contributors on a pro rata basis, except that any contributor
+who contributed five dollars or less may be excluded from the distribution.
+e.
+Contributions to another candidate’s committee when the candidate for whom both
+committees are formed is the same person.
+2.
+If an unexpended balance of campaign funds remains when a candidate’s committee
+dissolves, the unexpended balance shall be transferred pursuant to subsection 1.
+3.
+A candidate or candidate’s committee making a transfer of campaign funds pursuant to
+subsection 1 or 2 shall not place any requirements or conditions on the use of the campaign
+funds transferred.
+4.
+A candidate or candidate’s committee shall not transfer campaign funds except as
+provided in this section.
+5.
+A candidate, candidate’s committee, or any other person shall not directly or indirectly
+receive or transfer campaign funds with the intent of circumventing the requirements of this
+section. A candidate for statewide or legislative office shall not establish, direct, or maintain
+a political committee.
+6.
+A person shall not knowingly make transfers or contributions to a candidate or
+candidate’s committee for the purpose of transferring the funds to another candidate or
+candidate’s committee to avoid the disclosure of the source of the funds pursuant to this
+chapter.
+A candidate or candidate’s committee shall not knowingly accept transfers or
+contributions from any person for the purpose of transferring funds to another candidate
+or candidate’s committee as prohibited by this subsection.
+A candidate or candidate’s
+committee shall not accept transfers or contributions which have been transferred to another
+candidate or candidate’s committee as prohibited by this subsection. The board shall notify
+candidates of the prohibition of such transfers and contributions under this subsection.
+91 Acts, ch 226, §11
+CS91, §56.42
+92 Acts, ch 1228, §29; 93 Acts, ch 163, §34, 38; 95 Acts, ch 198, §16; 2003 Acts, ch 40, §9
+CS2003, §68A.303
+2004 Acts, ch 1042, §5; 2009 Acts, ch 42, §3
+Referred to in §68A.304, 68A.402B
+68A.304 Campaign property.
+1. a.
+Equipment, supplies, or other materials purchased with campaign funds or received
+in kind are campaign property.
+b.
+Campaign property belongs to the candidate’s committee and not to the candidate.
+c.
+Campaign property that has a value of five hundred dollars or more at the time it is
+acquired by the committee shall be separately disclosed as committee inventory on reports
+filed pursuant to section 68A.402, including a declaration of the approximate current value
+of the property. The campaign property shall continue to be reported as committee inventory
+until it is disposed of by the committee or until the property has been reported once as having
+a residual value of less than one hundred dollars.
+d.
+Consumable campaign property is not required to be reported as committee inventory,
+regardless of the initial value of the consumable campaign property. “Consumable campaign
+property”, for purposes of this section, means stationery, campaign signs, and other campaign
+materials that have been permanently imprinted to be specific to a candidate or election.
+2.
+Upon dissolution of the candidate’s committee, a report accounting for the disposition
+of all items of campaign property, excluding consumable campaign property, having a
+residual value of one hundred dollars or more shall be filed with the board.
+Campaign
+property, excluding consumable campaign property, having a residual value of one hundred
+dollars or more shall be disposed of by one of the following methods:
+a.
+Sale of the property at fair market value, in which case the proceeds shall be treated
+the same as other campaign funds.
+b.
+Donation of the property under one of the options for transferring campaign funds set
+forth in section 68A.303.
+3.
+Consumable campaign property may be disposed of in any manner by the candidate’s
+committee. A candidate’s committee shall not transfer consumable campaign property to
+another candidate without receiving fair market value compensation unless the candidate in
+both campaigns is the same person.
+4.
+The board shall adopt rules pursuant to chapter 17A defining “fair market value” for
+purposes of this section.
+91 Acts, ch 226, §12
+CS91, §56.43
+93 Acts, ch 163, §38; 95 Acts, ch 198, §17; 2003 Acts, ch 40, §8, 9
+CS2003, §68A.304
+2005 Acts, ch 72, §6, 7; 2010 Acts, ch 1025, §4; 2023 Acts, ch 64, §12
+Referred to in §68A.402A
+SUBCHAPTER IV
+REPORTS — INDEPENDENT EXPENDITURES
+— POLITICAL MATERIAL
+68A.401 Reports filed with board.
+1.
+All statements and reports required to be filed under this chapter shall be filed with
+the board as provided in this section and section 68A.402, subsection 1. The board shall post
+on its internet site all statements and reports filed under this chapter. For purposes of this
+section, the term “statement” does not include a bank statement.
+a.
+A state statutory political committee, a county statutory political committee, a political
+committee, and a candidate’s committee shall file all statements and reports in an electronic
+format by 4:30 p.m. of the day the filing is due and according to rules adopted by the board.
+b.
+If the board determines that a violation of this subsection has occurred, the board may
+impose any of the remedies or penalties provided for under section 68B.32D, except that the
+board shall not refer any complaint or supporting information of a violation of this section to
+the attorney general or any county attorney for prosecution.
+2.
+The board shall retain filed statements and reports for at least five years from the date
+of the election in which the committee is involved, or at least five years from the certified date
+of dissolution of the committee, whichever date is later.
+3.
+The candidate of a candidate’s committee, or the chairperson of any other committee, is
+responsible for filing statements and reports under this chapter. The board shall send notice
+to a committee that has failed to file a disclosure report at the time required under section
+68A.402. A candidate of a candidate’s committee, or the chairperson of any other committee,
+may be subject to a civil penalty for failure to file a disclosure report required under section
+68A.402.
+4.
+Political committees expressly advocating the nomination, election, or defeat of
+candidates for both federal office and any elected office created by law or the Constitution
+of the State of Iowa shall file statements and reports with the board in addition to any
+federal reports required to be filed with the board. However, a political committee that is
+registered and filing full disclosure reports of all financial activities with the federal election
+commission may file verified statements as provided in section 68A.201A.
+[S13, §1137-a1, -a3; C24, 27, 31, 35, 39, §974, 975; C46, 50, 54, 58, 62, 66, 71, 73, §56.3, 56.4;
+C75, 77, 79, 81, §56.4; 81 Acts, ch 35, §4]
+87 Acts, ch 112, §4; 93 Acts, ch 163, §33; 95 Acts, ch 198, §4; 99 Acts, ch 136, §3, 17; 2002
+Acts, ch 1073, §3, 11; 2003 Acts, ch 40, §9; 2003 Acts, ch 44, §28
+CS2003, §68A.401
+2007 Acts, ch 14, §5; 2007 Acts, ch 80, §1, 2, 5; 2009 Acts, ch 8, §1, 2; 2010 Acts, ch 1024,
+§3; 2011 Acts, ch 34, §17; 2011 Acts, ch 131, §53, 158; 2013 Acts, ch 90, §257; 2015 Acts, ch
+54, §7, 8; 2018 Acts, ch 1059, §2
+68A.401A Reporting of contributions and expenditures relating to issue advocacy.
+1.
+A political organization that is required to file reports with the internal revenue service,
+pursuant to 26 U.S.C. §527, shall file a report with the board if that organization does both of
+the following:
+a.
+Creates or disseminates a communication of issue advocacy in this state.
+b.
+Receives or expects to receive twenty-five thousand dollars or more in gross receipts
+in any taxable year.
+2.
+A report required under this section shall contain the following information:
+a.
+The amount, date, and purpose of each expenditure made to a person if the aggregate
+amount of expenditures to such person during the calendar year equals or exceeds five
+hundred dollars and the name and address of the person, and, in the case of an individual,
+the occupation and name of employer of the individual.
+b.
+The name and address, and, in the case of an individual, the occupation and name of
+employer of such individual, of all contributors which contributed an aggregate amount of
+two hundred dollars or more to the organization during the calendar year and the amount
+and date of the contribution.
+3.
+The board shall by rule establish a procedure for the filing of reports required by this
+section. To the extent practicable the reporting periods and filing due dates shall be the same
+as set out in 26 U.S.C. §527(j)(2).
+4.
+The term “issue advocacy” means any print, radio, televised, telephonic, or electronic
+communication in any form or content, which is disseminated to the general public or a
+segment of the general public, that refers to a clearly identified candidate for the general
+assembly or statewide office.
+5.
+The penalty set out in section 68A.701 does not apply to a violation of this section. The
+penalties for a violation of this section are as set out in section 68B.32D.
+2008 Acts, ch 1191, §37
+68A.402 Disclosure report due dates — permanent organization temporarily engaging
+in political activity required to file reports.
+1.
+Filing methods.
+Each committee shall electronically file with the board reports
+disclosing information required under this section on forms prescribed by rule.
+2.
+Statewide office, general assembly, and county elections.
+a.
+Election year.
+A candidate’s committee of a candidate for statewide office, the general
+assembly, or county office shall file reports in an election year as follows:
+Report due:
+Covering period:
+May 19
+January 1 through May 14
+July 19
+May 15 or Wednesday
+preceding primary
+election through July 14
+October 19
+July 15 through October 14
+January 19 (next
+October 15 or Wednesday
+calendar year)
+preceding general
+election through
+December 31
+b.
+Supplementary report — statewide and general assembly elections.
+(1)
+A candidate’s committee of a candidate for statewide office or the general assembly
+shall file a supplementary report in a year in which a primary, general, or special election
+for that office is held. The supplementary reports shall be filed if contributions are received
+after the close of the period covered by the last report filed prior to that primary, general, or
+special election if any of the following applies:
+(a)
+The committee of a candidate for governor receives ten thousand dollars or more.
+(b)
+The committee of a candidate for any other statewide office receives five thousand
+dollars or more.
+(c)
+The committee of a candidate for the general assembly receives one thousand dollars
+or more.
+(2)
+The amount of any contribution causing a supplementary report under this paragraph
+“b” shall include the estimated fair market value of any in-kind contribution. The report shall
+be filed by the Friday immediately preceding the election and be current through the Tuesday
+immediately preceding the election.
+c.
+Nonelection year.
+A candidate’s committee of a candidate for statewide office, the
+general assembly, or county office shall file reports in a nonelection year as follows:
+Report due:
+Covering period:
+January 19
+January 1 through
+December 31
+of the previous year
+3.
+City offices.
+a.
+Election year.
+A candidate’s committee of a candidate for city office shall file a report
+in an election year as follows:
+Report due:
+Covering period:
+Five days before
+Date of initial activity
+primary election
+through ten days before
+primary election
+Five days before
+Nine days before primary
+general election
+election through ten days
+before general election
+Five days before
+Nine days before the
+runoff election
+general election through
+(if applicable)
+ten days before the
+runoff election
+January 19 (next
+Cutoff date from
+calendar year)
+previously filed report
+through December 31
+b.
+Nonelection year.
+A candidate’s committee of a candidate for city office shall file a
+report in a nonelection year as follows:
+Report due:
+Covering period:
+January 19 (next
+January 1 through
+calendar year)
+December 31
+of nonelection year
+c.
+Runoff elections.
+Only a candidate who is eligible to participate in a runoff election is
+required to file a report five days before the runoff election.
+4.
+School board and other political subdivision elections.
+a.
+Election year.
+A candidate’s committee of a candidate for school board or any other
+political subdivision office, except for county and city office, shall file a report in an election
+year as follows:
+Report due:
+Covering period:
+Five days before
+Date of initial activity
+election
+through ten days before
+election
+January 19 (next
+Nine days before election
+calendar year)
+through December 31
+b.
+Nonelection year.
+A candidate’s committee of a candidate for school board or any
+other political subdivision office, except for county and city office, shall file a report in a
+nonelection year as follows:
+Report due:
+Covering period:
+January 19 (next
+January 1 through
+calendar year)
+December 31
+of nonelection year
+5.
+Special elections.
+a.
+A candidate’s committee shall file a report by the fifth day prior to a special election
+that is current through the tenth day prior to the special election.
+b.
+Special elections — nonelection year.
+A candidate’s committee at a special election
+shall file a report in a nonelection year as follows:
+Report due:
+Covering period:
+January 19 (next
+January 1 through
+calendar year)
+December 31
+of nonelection year
+6.
+Statutory political committees.
+a.
+A state statutory political committee shall file a report on the same dates as a candidate’s
+committee is required to file reports under subsection 2, paragraphs “a” and “c”.
+b.
+A county statutory political committee shall file a report on the same dates as a
+candidate’s committee is required to file reports under subsection 2, paragraphs “a” and “c”.
+7.
+Political committees.
+a.
+Statewide office and general assembly elections.
+(1)
+Election year.
+A political committee expressly advocating the nomination, election, or
+defeat of candidates for statewide office or the general assembly shall file a report on the same
+dates as a candidate’s committee is required to file reports under subsection 2, paragraph “a”.
+(2)
+Nonelection year.
+A political committee expressly advocating the nomination,
+election, or defeat of candidates for statewide office or the general assembly shall file a
+report as follows:
+Report due:
+Covering period:
+July 19
+January 1 through
+June 30
+January 19 (next
+July 1 through
+calendar year)
+December 31
+b.
+County elections.
+A political committee expressly advocating the nomination,
+election, or defeat of candidates for county office shall file reports on the same dates as a
+candidate’s committee is required to file reports under subsection 2, paragraphs “a” and “c”.
+c.
+City elections.
+A political committee expressly advocating the nomination, election, or
+defeat of candidates for city office shall file reports on the same dates as candidates for city
+office are required to file reports under subsection 3.
+d.
+School board and other political subdivision elections.
+A political committee expressly
+advocating the nomination, election, or defeat of candidates for school board or other political
+subdivision office, except for county office or city office, shall file reports on the same dates
+as candidates for school board or other political subdivision office are required to file reports
+under subsection 4.
+8.
+Political committees — ballot issues.
+A political committee expressly advocating
+the passage or defeat of a ballot issue shall file reports on the same dates as a candidate’s
+committee is required to file reports under subsection 2, paragraphs “a” and “c” and another
+report five days before an election covering the period from the previous report or date of
+initial activity through ten days before the election.
+9.
+Permanent organizations.
+A permanent organization temporarily engaging in activity
+described in section 68A.102, subsection 18, shall organize a political committee and shall
+keep the funds relating to that political activity segregated from its operating funds. The
+political committee shall file reports on the appropriate due dates as required by this section.
+The reports filed under this subsection shall identify the source of the original funds used
+for a contribution made to a candidate or a committee organized under this chapter. When
+the permanent organization ceases to be involved in the political activity, the permanent
+organization shall dissolve the political committee. As used in this subsection, “permanent
+organization” means an organization that is continuing, stable, and enduring, and was
+originally organized for purposes other than engaging in election activities.
+10.
+Election year defined.
+As used in this section, “election year” means a year in which
+the name of the candidate or ballot issue that is expressly advocated for or against appears
+on any ballot to be voted on by the electors of the state of Iowa. For state and county statutory
+political committees, and all other political committees except for political committees that
+advocate for or against ballot issues, “election year” means a year in which primary and
+general elections are held.
+[S13, §1137-a1, -a3; C24, 27, 31, 35, 39, §972, 973, 975, 976; C46, 50, 54, 58, 62, 66, 71, 73,
+§56.1, 56.2, 56.4, 56.5; C75, 77, 79, 81, §56.6; 81 Acts, ch 35, §6 – 8]
+83 Acts, ch 139, §4 – 9, 14; 86 Acts, ch 1023, §5 – 9; 86 Acts, ch 1224, §38; 87 Acts, ch 112,
+§6, 7; 89 Acts, ch 107, §1; 90 Acts, ch 1233, §2; 91 Acts, ch 165, §1; 91 Acts, ch 226, §5; 92
+Acts, ch 1228, §25; 93 Acts, ch 163, §33; 95 Acts, ch 198, §9, 10; 99 Acts, ch 136, §6, 17; 2002
+Acts, ch 1073, §7, 8, 11; 2003 Acts, ch 40, §3, 9
+CS2003, §68A.402
+2004 Acts, ch 1114, §1; 2004 Acts, ch 1175, §363; 2005 Acts, ch 72, §8 – 11; 2007 Acts, ch 14,
+§6; 2007 Acts, ch 61, §1; 2007 Acts, ch 65, §1; 2007 Acts, ch 80, §3; 2008 Acts, ch 1032, §159,
+201; 2008 Acts, ch 1184, §24, 28; 2009 Acts, ch 42, §4; 2010 Acts, ch 1025, §5, 6; 2018 Acts, ch
+1059, §3
+Referred to in §68A.201, 68A.201A, 68A.202, 68A.304, 68A.401, 68A.402A, 68B.32A
+68A.402A Information disclosed on reports.
+1.
+Each report filed under section 68A.402 shall disclose:
+a.
+The amount of cash on hand at the beginning of the reporting period.
+b.
+The name and mailing address of each person who has made one or more contributions
+of money to the committee when the aggregate amount in a calendar year exceeds the amount
+specified in the following schedule:
+(1)
+For any candidate for school or other
+political subdivision office:
+........................................................ $ 25
+(2)
+For any candidate for city office: ...................................... $ 25
+(3)
+For any candidate for county office:................................. $ 25
+(4)
+For any candidate for the general assembly:
+................ $ 25
+(5)
+For any candidate for statewide office:
+......................... $ 25
+(6)
+For any state statutory political committee:
+................. $200
+(7)
+For any county statutory political committee:
+.............. $ 50
+(8)
+For any political committee:
+.......................................... $ 25
+c.
+The total amount of contributions made to the committee during the reporting period
+and not reported under paragraph “b”.
+d.
+The name and mailing address of each person who has made one or more in-kind
+contributions to the committee when the aggregate market value of the in-kind contributions
+in a calendar year exceeds the applicable amount specified in paragraph “b”.
+In-kind
+contributions shall be designated on a separate schedule from schedules showing
+contributions of money and shall identify the nature of the contribution and provide its
+estimated fair market value.
+A committee receiving an in-kind contribution shall report
+the estimated fair market value of the in-kind contribution at the time it is provided to
+the committee. A person providing an in-kind contribution to a committee shall notify the
+committee of the estimated fair market value of the in-kind contribution at the time the
+in-kind contribution is provided to the committee. For purposes of this section, the estimated
+fair market value of the in-kind contribution shall be reported regardless of whether the
+person has been billed for the cost of the in-kind contribution.
+e.
+Each loan to any person or committee within the calendar year if in the aggregate
+the amount of the loan or loans exceeds the applicable amount specified in paragraph “b”,
+together with the name and mailing address of the lender and endorsers, the date and amount
+of each loan received, and the date and amount of each loan repayment. Loans received and
+loan repayments shall be reported on a separate schedule.
+f.
+The name and mailing address of each person to whom disbursements or loan
+repayments have been made by the committee from contributions during the reporting
+period and the amount, purpose, and date of each disbursement except that disbursements
+of less than five dollars may be shown as miscellaneous disbursements so long as the
+aggregate miscellaneous disbursements to any one person during a calendar year do not
+exceed one hundred dollars.
+g.
+Disbursements made to a consultant and disbursements made by the consultant during
+the reporting period disclosing the name and address of the recipient, amount, purpose, and
+date.
+h.
+The amount and nature of debts and obligations owed by the committee in excess of the
+applicable amounts specified in the schedule in paragraph “b”. Loans made to a committee
+and reported under paragraph “e” shall not be considered a debt or obligation under this
+paragraph. A loan made by a committee to any person shall be considered a disbursement.
+i.
+If a person listed under paragraph “b”, “d”, “e”, or “f” as making a contribution or loan to
+or purchase from a candidate’s committee is related to the candidate within the third degree of
+consanguinity or affinity, the existence of that person’s family relationship shall be indicated
+on the report.
+j.
+Campaign property belonging to a candidate’s committee pursuant to section 68A.304.
+k.
+Other pertinent information required by this chapter, by rules adopted pursuant to this
+chapter, or forms prescribed by the board.
+2.
+If a report is the first report filed by a committee, the report shall include all information
+required under subsection 1 covering the period from the beginning of the committee’s
+financial activity, even if from a different calendar year, through the end of the current
+reporting period.
+If no contributions have been accepted, no disbursements have been
+made, and no indebtedness has been incurred during that reporting period, the treasurer
+of the committee shall file a disclosure statement that discloses only the amount of cash on
+hand at the beginning of the reporting period.
+2004 Acts, ch 1114, §2; 2010 Acts, ch 1119, §1, 7
+68A.402B Committee dissolution — inactivity — reports.
+1.
+If a committee, after having filed a statement of organization or one or more disclosure
+reports, dissolves or determines that it will no longer receive contributions or make
+disbursements, the committee shall notify the board within thirty days following such
+dissolution or determination by filing a dissolution report on forms prescribed by the board.
+2.
+A committee shall not dissolve until all loans, debts, and obligations are paid, forgiven,
+or transferred and the remaining moneys in the committee’s account are distributed
+according to sections 68A.302 and 68A.303. If a loan is transferred or forgiven, the amount
+of the transferred or forgiven loan must be reported as an in-kind contribution and deducted
+from the loans payable balance on the disclosure form. If, upon review of a committee’s
+statement of dissolution and final report, the board determines that the requirements for
+dissolution have been satisfied, the dissolution shall be certified and the committee relieved
+of further filing requirements.
+3.
+A person who makes one or more independent expenditures and files all statements
+required by section 68A.404 shall not be required to file a statement of dissolution under this
+section.
+2004 Acts, ch 1114, §3; 2005 Acts, ch 72, §12; 2010 Acts, ch 1119, §2, 7; 2015 Acts, ch 82, §2
+68A.403 Reports preserved.
+A copy of every report or statement shall be preserved by the person filing it or the person’s
+successor for at least three years following the filing of the report or statement.
+[C75, 77, 79, 81, §56.7]
+94 Acts, ch 1180, §35; 2003 Acts, ch 40, §9
+CS2003, §68A.403
+2004 Acts, ch 1042, §6; 2007 Acts, ch 80, §4; 2015 Acts, ch 54, §9; 2018 Acts, ch 1059, §4
+68A.404 Independent expenditures.
+1.
+As used in this section, “independent expenditure” means one or more expenditures in
+excess of one thousand dollars in the aggregate for a communication that expressly advocates
+the nomination, election, or defeat of a clearly identified candidate or the passage or defeat
+of a ballot issue that is made without the prior approval or coordination with a candidate,
+candidate’s committee, or a ballot issue committee.
+2. a.
+A person, other than an individual or individuals, shall not make an independent
+expenditure or disburse funds from its treasury to pay for, in whole or in part, an independent
+expenditure made by another person without the authorization of a majority of the person’s
+board of directors, executive council, or similar organizational leadership body of the
+use of treasury funds for an independent expenditure involving a candidate or ballot
+issue committee. Such authorization must occur in the same calendar year in which the
+independent expenditure is incurred.
+b.
+Such authorization shall expressly provide whether the board of directors, executive
+council, or similar organizational leadership body authorizes one or more independent
+expenditures that expressly advocate the nomination or election of a candidate or passage of
+a ballot issue or authorizes one or more independent expenditures that expressly advocate
+the defeat of a candidate or ballot issue.
+c.
+A foreign national shall not make an independent expenditure, directly or indirectly,
+that advocates the nomination, election, or defeat of any candidate or the passage or defeat of
+any ballot issue. As used in this section, “foreign national” means a person who is not a citizen
+of the United States and who is not lawfully admitted for permanent residence. “Foreign
+national” includes a foreign principal, such as a government of a foreign country or a foreign
+political party, partnership, association, corporation, organization, or other combination of
+persons that has its primary place of business in or is organized under the laws of a foreign
+country. “Foreign national” does not include a person who is a citizen of the United States or
+who is a national of the United States.
+d.
+This section does not apply to a candidate, candidate’s committee, state statutory
+political committee, county statutory political committee, or a political committee.
+This
+section does not apply to a federal committee or an out-of-state committee that makes an
+independent expenditure. A person who makes one or more independent expenditures and
+files all statements required by this section shall not be required to organize a committee or
+file the statement of organization required under section 68A.201.
+3.
+A person, other than a committee registered under this chapter, that makes one or more
+independent expenditures shall file an independent expenditure statement. All statements
+required by this section shall be filed in an electronic format as prescribed by rule.
+4. a.
+An independent expenditure statement shall be filed within forty-eight hours of the
+making of an independent expenditure in excess of one thousand dollars in the aggregate,
+or within forty-eight hours of disseminating the communication to its intended audience,
+whichever is earlier. For purposes of this section, an independent expenditure is made when
+the independent expenditure communication is purchased or ordered regardless of whether
+or not the person making the independent expenditure has been billed for the cost of the
+independent expenditure.
+b.
+An independent expenditure statement shall be filed with the board and the board shall
+immediately make the independent expenditure statement available for public viewing.
+c.
+For purposes of this section, an independent expenditure is made at the time that the
+cost is incurred.
+5.
+The independent expenditure statement shall contain all of the following information:
+a.
+Identification of the individuals or persons filing the statement.
+b.
+Description of the position advocated by the individuals or persons with regard to the
+clearly identified candidate or ballot issue.
+c.
+Identification of the candidate or ballot issue benefited by the independent expenditure.
+d.
+The dates on which the expenditure or expenditures took place or will take place.
+e.
+Description of the nature of the action taken that resulted in the expenditure or
+expenditures.
+f.
+The fair market value of the expenditure or expenditures.
+g.
+A certification by an officer representing the person, if the person is other than
+an individual or individuals, that the board of directors, executive council, or similar
+organizational leadership body expressly authorized the independent expenditure or use
+of treasury funds for the independent expenditure by resolution or other affirmative action
+within the calendar year when the independent expenditure was incurred.
+h.
+The name and address of every contributor or source of funding that provided anything
+of value that was provided for the purpose of furthering the independent expenditure. A
+person making an independent expenditure shall not be required to disclose the names and
+addresses of individual members who pay dues to a labor union, organization, or association
+or individual stockholders of a business corporation.
+6.
+Any person making an independent expenditure shall comply with the attribution
+requirements of section 68A.405.
+7.
+A person making an independent expenditure shall not engage or retain an advertising
+firm or consultant that has also been engaged or retained within the prior six months by
+the candidate, candidate’s committee, or ballot issue committee that is benefited by the
+independent expenditure.
+8. a.
+The board shall develop, prescribe, furnish, and distribute forms for the independent
+expenditure statements required by this section.
+b.
+The board shall adopt rules pursuant to chapter 17A for the implementation of this
+section.
+[C75, 77, 79, 81, §56.13; 81 Acts, ch 35, §11]
+86 Acts, ch 1023, §10; 93 Acts, ch 163, §33; 94 Acts, ch 1180, §36; 95 Acts, ch 198, §12; 99
+Acts, ch 136, §8, 17; 2002 Acts, ch 1073, §9, 11; 2003 Acts, ch 40, §4, 9
+CS2003, §68A.404
+2005 Acts, ch 72, §13 – 15; 2006 Acts, ch 1010, §41; 2008 Acts, ch 1191, §116, 117; 2009
+Acts, ch 42, §5; 2010 Acts, ch 1119, §3, 7; 2015 Acts, ch 54, §10, 11; 2015 Acts, ch 82, §3 – 7
+Referred to in §68A.201, 68A.402B, 68A.405, 68A.503
+68A.405 Attribution statement on published material.
+1. a.
+For purposes of this subsection:
+(1)
+“Individual” includes a candidate for public office who has not filed a statement of
+organization under section 68A.201.
+(2)
+“Organization” includes an organization established to advocate the passage or defeat
+of a ballot issue but that has not filed a statement of organization under section 68A.201.
+(3)
+“Published material” means any newspaper, magazine, shopper, outdoor advertising
+facility, poster, direct mailing, brochure, internet site, campaign sign, or any other form
+of printed or electronic general public political advertising. “Published material” includes
+television, video, or motion picture advertising.
+b. (1)
+Except as set out in subsection 2, published material designed to expressly advocate
+the nomination, election, or defeat of a candidate for public office or the passage or defeat of
+a ballot issue shall include on the published material an attribution statement disclosing who
+is responsible for the published material.
+(2)
+The person who is responsible for the published material has the sole responsibility
+and liability for the attribution statement required by this section.
+c.
+If the person paying for the published material is an individual, the words “paid for by”
+and the name and address of the person shall appear on the material.
+d.
+If more than one individual is responsible, the words “paid for by”, the names of the
+individuals, and either the addresses of the individuals or a statement that the addresses of
+the individuals are on file with the Iowa ethics and campaign disclosure board shall appear
+on the material.
+e.
+If the person responsible is an organization, the words “paid for by”, the name and
+address of the organization, and the name of one officer of the organization shall appear on
+the material.
+f.
+If the person responsible is a corporation, the words “paid for by”, the name and address
+of the corporation, and the name and title of the corporation’s chief executive officer shall
+appear on the material.
+g.
+If the person responsible is a committee that has filed a statement of organization
+pursuant to section 68A.201, the words “paid for by” and the name of the committee shall
+appear on the material.
+h.
+If the published material is the result of an independent expenditure subject to section
+68A.404, the published material shall include a statement that the published material was not
+authorized by any candidate, candidate’s committee, or ballot issue committee.
+2.
+The requirement to include an attribution statement does not apply to any of the
+following:
+a.
+The editorials or news articles of a newspaper, magazine, television station, or other
+print or electronic media that are not paid political advertisements.
+b.
+Small items upon which the inclusion of the statement is impracticable including but
+not limited to campaign signs as provided in section 68A.406, subsection 3, bumper stickers,
+pins, buttons, pens, political business cards, and matchbooks.
+c.
+T-shirts, caps, and other articles of clothing.
+d.
+Any published material that is subject to federal regulations regarding an attribution
+requirement.
+e.
+Any material published by an individual, acting independently, who spends one
+hundred dollars or less of the individual’s own money to advocate the passage or defeat of a
+ballot issue.
+3.
+For television, video, or motion picture advertising, the attribution statement shall be
+displayed on the screen in a clearly readable manner for at least four seconds.
+4.
+The board shall adopt rules relating to the placing of an attribution statement on
+published materials.
+86 Acts, ch 1023, §11; 86 Acts, ch 1246, §620
+C87, §56.14
+87 Acts, ch 112, §8; 94 Acts, ch 1178, §1; 95 Acts, ch 198, §13; 96 Acts, ch 1079, §2; 99 Acts,
+ch 136, §9, 17; 2002 Acts, ch 1119, §125; 2003 Acts, ch 40, §9
+CS2003, §68A.405
+2004 Acts, ch 1114, §4; 2005 Acts, ch 72, §16; 2009 Acts, ch 41, §27; 2010 Acts, ch 1025, §7;
+2010 Acts, ch 1119, §4, 7; 2013 Acts, ch 90, §257; 2015 Acts, ch 30, §32
+Referred to in §68A.404, 68A.406
+68A.405A Self-promotion with taxpayer funds prohibited.
+1. a.
+Except as provided in sections 29C.3 and 29C.6, a statewide elected official or
+member of the general assembly shall not permit the expenditure of public moneys under
+the control of the statewide elected official or member of the general assembly, including
+but not limited to moneys held in a private purpose trust fund as defined by section 8.2, for
+the purpose of any paid advertisement or promotion bearing the written name, likeness, or
+voice of the statewide elected official or member of the general assembly distributed through
+any of the following means:
+(1)
+A paid direct mass mailing.
+(2)
+A paid radio advertisement or promotion.
+(3)
+A paid newspaper advertisement or promotion.
+(4)
+A paid television advertisement or promotion.
+(5)
+A paid internet advertisement or promotion.
+(6)
+A paid exhibit display at the Iowa state fair or a fairground or grounds as defined in
+section 174.1.
+b.
+Except as otherwise provided by law,
+paragraph “a” shall not apply to bona
+fide ministerial or ceremonial records or ordinary, common, and frequent constituent
+correspondence containing the name of the statewide elected official or member of the
+general assembly.
+2.
+A person who willfully violates this section shall be subject to a civil penalty of an
+amount up to the amount of moneys withdrawn from a public account or private purpose trust
+fund as defined in section 8.2 used to fund the communication found to be in violation of this
+section by the board or, for members of the general assembly, by an appropriate legislative
+ethics committee. A penalty imposed pursuant to this section shall be paid by the candidate’s
+committee. Such penalty shall be determined and assessed by the board or, for a member of
+the general assembly, the appropriate legislative ethics committee, and paid into the account
+from which such moneys were withdrawn. Additional criminal or civil penalties available
+under section 68A.701 or established by the board pursuant to section 68B.32A may also be
+determined and assessed by the board for violations of this section. Nothing in this section
+shall prevent the imposition of any penalty or sanction for a violation of this section by a
+legislative ethics committee.
+3.
+For the purposes of this section, “direct mass mailing” means a mailing, regardless of
+whether the mailing was sent in response to a request or due to the recipient’s enrollment
+in a program, that provides information to the recipient about a person, policy, product,
+service, program, initiative, law, legislation, event, or activity promoted by the statewide
+elected official that is all of the following:
+a.
+Printed material delivered by the United States mail or other delivery service.
+b.
+Sent to more than two hundred physical addresses.
+c.
+Substantially similar or identical as regards each mailing.
+d.
+Sent at the same time or within a thirty-day period.
+4.
+Notwithstanding subsection 3, a mailing that is sent to any participant in a program or
+the participant’s address within sixty days of an election in which an office listed in section
+39.9 is to appear on the ballot shall be considered a direct mass mailing for the purposes
+of subsection 1 if the purpose of the mailing is to provide a participant with information
+relevant to the participant’s existing account with a program sponsored and administered by
+the statewide elected official who sent the mailing.
+2018 Acts, ch 1172, §70; 2022 Acts, ch 1153, §31; 2024 Acts, ch 1185, §115, 116
+68A.406 Campaign signs — yard signs.
+1.
+Campaign signs may be placed with the permission of the property owner or lessee on
+any of the following:
+a.
+Residential property.
+b.
+Agricultural land owned by individuals or by a family farm operation as defined in
+section 9H.1, subsections 9, 10, and 11.
+c.
+Property leased for residential purposes including but not limited to apartments,
+condominiums, college housing facilities, and houses if placed only on leased property space
+that is actually occupied.
+d.
+Vacant lots owned by a person who is not a prohibited contributor under section
+68A.503.
+e.
+Property owned by an organization that is not a prohibited contributor under section
+68A.503.
+f.
+Property leased by a candidate, committee, or an organization established to advocate
+the nomination, election, or defeat of a candidate or the passage or defeat of a ballot issue that
+has not yet registered pursuant to section 68A.201, when the property is used as campaign
+headquarters or a campaign office and the placement of the sign is limited to the space that
+is actually leased.
+2. a.
+Campaign signs shall not be placed on any of the following:
+(1)
+Any property owned by the state or the governing body of a county, city, or other
+political subdivision of the state, including all property considered the public right-of-way.
+Upon a determination by the board that a sign has been improperly placed, the sign shall
+be removed by highway authorities as provided in section 318.5, or by county or city law
+enforcement authorities in a manner consistent with section 318.5.
+(2)
+Property owned, leased, or occupied by a prohibited contributor under section
+68A.503 unless the sign advocates the passage or defeat of a ballot issue or is exempted
+under subsection 1.
+(3)
+On any property without the permission of the property owner or lessee.
+(4)
+On election day either on the premises of any polling place or within three hundred
+feet of any outside door of any building affording access to any room where the polls are held,
+or of any outside door of any building affording access to any hallway, corridor, stairway, or
+other means of reaching the room where the polls are held.
+(5)
+On the premises of or within three hundred feet of any outside door of any building
+affording access to an absentee voting site during the hours when absentee ballots are
+available in the office of the county commissioner of elections as provided in section 53.10.
+(6)
+On the premises of or within three hundred feet of any outside door of any building
+affording access to a satellite absentee voting station during the hours when absentee ballots
+are available at the satellite absentee voting station as provided in section 53.11.
+b.
+Paragraph “a”, subparagraphs (4), (5), and (6) shall not apply to the posting of signs on
+private property not a polling place, except that the placement of a sign on a motor vehicle,
+trailer, or semitrailer, or any attachment to a motor vehicle, trailer, or semitrailer parked on
+public property within three hundred feet of any outside door of any building affording access
+to any room serving as a polling place, which sign is more than ninety square inches in size,
+is prohibited.
+3.
+Campaign signs with dimensions of thirty-two square feet or less are exempt from
+the attribution statement requirement in section 68A.405.
+Campaign signs in excess of
+thirty-two square feet, or signs that are affixed to buildings or vehicles regardless of size
+except for bumper stickers, are required to include the attribution statement required by
+section 68A.405. The placement or erection of campaign signs shall be exempt from the
+requirements of chapter 480 relating to underground facilities information.
+2004 Acts, ch 1114, §5; 2005 Acts, ch 3, §18; 2005 Acts, ch 72, §17 – 19; 2006 Acts, ch 1097,
+§13; 2007 Acts, ch 14, §7; 2007 Acts, ch 215, §244; 2008 Acts, ch 1032, §160; 2008 Acts, ch
+1191, §118
+Referred to in §68A.405, 68A.503
+SUBCHAPTER V
+PROHIBITED ACTS — CONTRIBUTIONS,
+PUBLIC MONEYS, CAMPAIGN PRACTICES
+68A.501 Funds from unknown source — escheat.
+The expenditure of funds from an unknown or unidentifiable source received by a
+candidate or committee is prohibited. Such funds received by a candidate or committee shall
+escheat to the state. Any candidate or committee receiving such contributions shall remit
+such contributions to the board which shall forward it to the treasurer of state for deposit
+in the general fund of the state. Persons requested to make a contribution at a fundraising
+event shall be advised that it is illegal to make a contribution in excess of twenty-five dollars
+unless the person making the contribution also provides the person’s name and address.
+[C77, 79, 81, §56.27]
+C91, §56.3A
+2003 Acts, ch 40, §9; 2003 Acts, ch 145, §286
+CS2003, §68A.501
+2007 Acts, ch 14, §8; 2015 Acts, ch 54, §12
+68A.502 Contribution sources — identification — illegal contributions or expenditures
+— loans.
+1.
+A person making a contribution in excess of twenty-five dollars shall provide the
+person’s name and address to the candidate or committee receiving the contribution.
+2.
+A person shall not make a contribution or expenditure in the name of another person,
+and a person shall not knowingly accept a contribution or expenditure made by one person
+in the name of another.
+3.
+For the purpose of this section, an illegal contribution or expenditure is any of the
+following:
+a.
+A contribution or expenditure made by one person which is ultimately reimbursed by
+another person who has not been identified as the ultimate source or recipient of the funds.
+b.
+A contribution or expenditure made using a fictitious name. A name is fictitious in the
+case of an individual if the name does not include the individual’s legal surname at the time
+of the contribution or expenditure.
+c.
+A contribution or expenditure made by a person who borrowed the money from another
+person if the original source of said money is not disclosed.
+4.
+Any candidate or committee receiving funds, the original source of which was a
+loan, shall be required to list the lender as a contributor. No candidate or committee shall
+knowingly receive funds from a contributor who has borrowed the money without listing
+the original source of said money.
+[C75, 77, 79, 81, §56.12]
+95 Acts, ch 198, §11; 2003 Acts, ch 40, §9
+CS2003, §68A.502
+2018 Acts, ch 1059, §5
+68A.503 Financial institution, insurance company, and corporation contributions —
+sham newspapers.
+1.
+Except as provided in subsections 3, 4, 5, and 6, an insurance company, savings
+association, bank, credit union, or corporation shall not make a monetary or in-kind
+contribution to a candidate or committee except for a ballot issue committee.
+2.
+Except as provided in subsection 3, a candidate or committee, except for a ballot issue
+committee, shall not receive a monetary or in-kind contribution from an insurance company,
+savings association, bank, credit union, or corporation.
+3.
+An insurance company, savings association, bank, credit union, or corporation may use
+money, property, labor, or any other thing of value of the entity for the purposes of soliciting its
+stockholders, administrative officers, professional employees, and members for contributions
+to a political committee sponsored by that entity and for financing the administration of a
+political committee sponsored by that entity. The entity’s employees to whom the foregoing
+authority does not extend may voluntarily contribute to such a political committee but shall
+not be solicited for contributions. A candidate or committee may solicit, request, and receive
+money, property, labor, and any other thing of value from a political committee sponsored by
+an insurance company, savings association, bank, credit union, or corporation as permitted
+by this subsection.
+4.
+The prohibitions in subsections 1 and 2 shall not apply to an insurance company,
+savings association, bank, credit union, or corporation engaged in any of the following
+activities:
+a.
+Using its funds to encourage registration of voters and participation in the political
+process or to publicize public issues.
+b.
+Using its funds to expressly advocate the passage or defeat of ballot issues.
+c.
+Using its funds for independent expenditures as provided in section 68A.404.
+d.
+Using its funds to place campaign signs as permitted under section 68A.406.
+5. a.
+The prohibitions in subsections 1 and 2 shall not apply to media organizations when
+discussing candidates, nominations, public officers, or public questions.
+b.
+Notwithstanding paragraph “a”, the board shall adopt rules requiring the owner,
+publisher, or editor of a sham newspaper that promotes in any way the candidacy of a
+person for any public office to comply with this section and section 68A.404. As used in
+this subsection, “sham newspaper” means a newspaper publication that is published for the
+primary purpose of evading the requirements of this section or section 68A.404, and “owner”
+means a person having an ownership interest exceeding ten percent of the equity or profits
+of the publication.
+6.
+The prohibitions in subsections 1 and 2 shall not apply to a nonprofit organization
+communicating with its own members. The board shall adopt rules pursuant to chapter 17A
+to administer this subsection.
+7.
+For purposes of this section “corporation” means a for-profit or nonprofit corporation
+organized pursuant to the laws of this state, the United States, or any other state, territory,
+or foreign country.
+[S13, §1641-h, -i, -k; C24, 27, 31, 35, 39, §8405 – 8407; C46, 50, 54, 58, §491.69 – 491.71;
+C62, 66, 71, 73, 75, §491.69 – 491.71, 496A.145; C77, 79, 81, §56.29; 81 Acts, ch 35, §14]
+83 Acts, ch 139, §13, 14
+C91, §56.15
+93 Acts, ch 142, §9; 94 Acts, ch 1178, §2; 95 Acts, ch 198, §14; 99 Acts, ch 136, §10, 11, 17;
+2003 Acts, ch 40, §9
+CS2003, §68A.503
+2004 Acts, ch 1042, §7; 2004 Acts, ch 1114, §6; 2004 Acts, ch 1175, §364; 2005 Acts, ch 3,
+§19; 2005 Acts, ch 72, §20; 2007 Acts, ch 61, §2; 2008 Acts, ch 1031, §23; 2009 Acts, ch 41, §28;
+2009 Acts, ch 42, §6; 2010 Acts, ch 1025, §8; 2010 Acts, ch 1119, §5, 7; 2012 Acts, ch 1017, §44
+Referred to in §68A.201A, 68A.406
+68A.504 Prohibiting contributions during the legislative session.
+1.
+A lobbyist or political committee, other than a state statutory political committee,
+county statutory political committee, or a national political party, shall not contribute to, act
+as an agent or intermediary for contributions to, or arrange for the making of monetary or
+in-kind contributions to the campaign of an elected state official, member of the general
+assembly, or candidate for state office on any day during the regular legislative session and,
+in the case of the governor or a gubernatorial candidate, during the thirty days following the
+adjournment of a regular legislative session allowed for the signing of bills. Except as set
+out in subsection 2, an elected state official, member of the general assembly, or candidate
+for state office shall not accept a contribution as prohibited in this subsection.
+2.
+The prohibition in subsection 1 shall not apply to the following:
+a.
+The receipt of contributions by an elected state official, member of the general
+assembly, or candidate for state office who has taken affirmative action to seek nomination
+or election to a federal elective office so long as the contribution is placed in a federal
+campaign account.
+b.
+The receipt of contributions by a candidate for state office who filed nomination
+papers for an office for which a special election is called or held during the regular legislative
+session, if the candidate receives the contribution during the period commencing on the date
+that at least two candidates have been nominated for the office and ending on the date the
+election is held. A person who is an elected state official shall not solicit contributions during
+a legislative session from any lobbyist or political committee, other than a state statutory
+political committee, county statutory political committee, or a national political party, for
+another candidate for a state office for which a special election is held.
+92 Acts, ch 1228, §26
+C93, §56.15A
+93 Acts, ch 129, §1; 2003 Acts, ch 40, §9
+CS2003, §68A.504
+2004 Acts, ch 1042, §8
+68A.505 Use of public moneys for political purposes.
+1.
+The state and the governing body of a county, city, or other political subdivision of the
+state shall not expend or permit the expenditure of public moneys for political purposes,
+including expressly advocating the passage or defeat of a ballot issue.
+2.
+This section shall not be construed to limit the freedom of speech of officials or
+employees of the state or of officials or employees of a governing body of a county, city, or
+other political subdivision of the state. This section also shall not be construed to prohibit
+the state or a governing body of a political subdivision of the state from expressing an
+opinion on a ballot issue through the passage of a resolution or proclamation.
+91 Acts, ch 226, §7
+CS91, §56.12A
+93 Acts, ch 142, §8; 99 Acts, ch 136, §7, 17; 2003 Acts, ch 40, §9
+CS2003, §68A.505
+68A.506 Use of false caller identification for campaign purposes prohibited.
+1.
+A person shall not knowingly use or provide to another person either of the following:
+a.
+False caller identification information with intent to defraud for purposes related to
+expressly advocating the nomination, election, or defeat of a clearly identified candidate or
+for the passage or defeat of a clearly identified ballot issue.
+b.
+Caller identification information pertaining to an actual person without that person’s
+consent and with intent to deceive the recipient of a call about the identity of the caller.
+2.
+This section shall not apply to conduct that was lawfully authorized as investigative,
+protective, or intelligence activity of a law enforcement agency of the United States, a state,
+or a political subdivision of a state.
+3.
+As used in this section:
+a.
+“Caller identification information” means information regarding the origination of the
+telephone call, such as the name or the telephone number of the caller.
+b.
+“Telephone call” means a call made using or received on a telecommunications service
+or voice over internet protocol service.
+c.
+“Voice over internet protocol service” means a service to which all of the following apply:
+(1)
+The service provides real-time two-way voice communications transmitted using
+internet protocol, or a successor protocol.
+(2)
+The service is offered to the public, or such classes of users as to be effectively available
+to the public.
+(3)
+The service has the capability to originate traffic to, or terminate traffic from, the public
+switched telephone network or a successor network.
+4.
+The board shall adopt rules pursuant to chapter 17A to administer this section.
+5.
+A person who violates this section is subject to sections 68A.701 and 68B.32D.
+2009 Acts, ch 64, §1
+SUBCHAPTER VI
+INCOME TAX CHECKOFF
+68A.601 through 68A.609
+Repealed by 2017 Acts, ch 144, §13, 14.
+SUBCHAPTER VII
+PENALTY
+68A.701 Penalty.
+Any person who willfully violates any provisions of this chapter shall, upon conviction, be
+guilty of a serious misdemeanor.
+[S13, §1137-a6; C24, 27, 31, 35, 39, §980; C46, 50, 54, 58, 62, 66, 71, 73, §56.9; C75, 77, 79,
+81, §56.16]
+2003 Acts, ch 40, §9
+CS2003, §68A.701
+2023 Acts, ch 64, §13
+Referred to in §68A.401A, 68A.405A, 68A.506
