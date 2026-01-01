@@ -1,0 +1,65 @@
+CHAPTER 25A
+WORKPLACE TRAINING BY GOVERNMENT ENTITIES
+25A.1
+Training prohibited by state and
+local governments — specific
+defined concepts.
+25A.1 Training prohibited by state and local governments — specific defined concepts.
+1.
+For purposes of this section, unless the context otherwise requires:
+a.
+“Agency” or “state agency” means the same as defined in section 8A.101.
+b.
+“Governmental entity” means any unit of government in the executive, legislative,
+or judicial branch of government; an agency or political subdivision; any unit of state
+government, including its political subdivisions; or any association or other organization
+whose membership consists primarily of one or more of any of the foregoing and whose
+budget is comprised primarily of tax-generated revenue.
+c.
+“Governmental subdivision” means a county or city or combination thereof.
+d.
+“Race or sex scapegoating” means the same as defined in section 261H.8, subsection 1.
+e.
+“Race or sex stereotyping” means the same as defined in section 261H.8, subsection 1.
+f.
+“Specific defined concepts” means the same as defined in section 261H.8.
+2.
+Each agency, governmental entity, or governmental subdivision may continue training
+that fosters a workplace and learning environment that is respectful of all employees.
+However,
+the head of an agency,
+governmental entity,
+or governmental subdivision
+shall ensure that any mandatory staff training provided by an employee of an agency,
+governmental entity, or governmental subdivision, or by a contractor hired by the agency,
+governmental entity, or governmental subdivision does not teach, advocate, encourage,
+promote, or act upon stereotyping, scapegoating, or prejudice toward others on the basis
+of demographic group membership or identity. This subsection shall not be construed as
+preventing an employee or contractor who provides mandatory training from responding to
+questions regarding stereotyping, scapegoating, or prejudice raised by participants in the
+training.
+3.
+Each agency, governmental entity, or governmental subdivision shall prohibit its
+employees from discriminating against other employees by any characteristic protected
+under the federal Civil Rights Act of 1964, Pub. L. No. 88-352, as amended, and applicable
+state law.
+4.
+This section shall not be construed to do any of the following:
+a.
+Prevent an agency, governmental entity, or governmental subdivision from promoting
+racial, cultural, ethnic, or intellectual diversity or inclusiveness, provided such efforts are
+consistent with the provisions of this section.
+b.
+Create any right or benefit, substantive or procedural, enforceable at law or in equity
+by any party against the state of Iowa, its departments, agencies, or entities, its officers,
+employees, or agents, or any other person.
+c.
+Prohibit a state or federal court or agency of competent jurisdiction from ordering a
+training or remedial action containing discussions of specific defined concepts as a remedial
+action due to a finding of discrimination, including discrimination based on race or sex.
+d.
+Prohibit the use of curriculum that teaches the topics of sexism, slavery, racial
+oppression, racial segregation, or racial discrimination, including topics relating to the
+enactment and enforcement of laws resulting in sexism, racial oppression, segregation, and
+discrimination.
+2021 Acts, ch 163, §1
