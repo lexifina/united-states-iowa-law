@@ -1,0 +1,371 @@
+CHAPTER 73
+PREFERENCES
+Referred to in §8A.311B, 84A.1B, 331.341
+Competitive bidding preferences, see §8A.311, 8A.311B
+SUBCHAPTER I
+IOWA PRODUCTS AND LABOR
+73.1
+Preference — conditions.
+73.2
+Advertisements for bids — form.
+73.3
+and 73.4
+Repealed by 2011 Acts,
+ch 133, §9 – 11.
+73.5
+Violations — criminal penalty.
+73.6
+Iowa coal.
+73.7
+and 73.8
+Reserved.
+73.9
+Violations — remedy.
+73.10
+Exceptions.
+73.11
+Inconsistency with federal law.
+73.12
+and 73.13
+Reserved.
+SUBCHAPTER II
+MINORITY-OWNED, SERVICE-DISABLED
+VETERAN-OWNED, AND FEMALE-OWNED BUSINESSES
+73.14
+Minority-owned, service-disabled
+veteran-owned, and
+female-owned businesses
+— bond issuance services.
+SUBCHAPTER III
+TARGETED SMALL BUSINESS PROCUREMENT
+73.15
+Title and definitions.
+73.16
+Procurements from small
+businesses and targeted small
+businesses — goals.
+73.17
+Targeted small business
+procurement goals —
+preliminary procedures.
+73.18
+Notice of solicitation for bids —
+identification of targeted small
+businesses.
+73.19
+Negotiated price or bid contract.
+73.20
+Determination of ability to
+perform.
+73.21
+Other procurement procedures.
+73.22
+Reports.
+SUBCHAPTER I
+IOWA PRODUCTS AND LABOR
+73.1 Preference — conditions.
+1.
+Every commission, board, committee, officer, or other governing body of the state, or
+of any county, township, school district or city, and every person acting as contracting or
+purchasing agent for any such commission, board, committee, officer, or other governing
+body shall use only those products and provisions grown and coal produced within the
+state of Iowa, when they are found in marketable quantities in the state and are of a quality
+reasonably suited to the purpose intended, and can be secured without additional cost
+over foreign products or products of other states. This section shall apply to horticultural
+products grown in this state even if the products are not in the stage of processing that the
+agency usually purchases the product.
+However, this section does not apply to a school
+district purchasing food while the school district is participating in the federal school lunch
+or breakfast program.
+2.
+All requests for proposals for materials, products, supplies, provisions, and other
+needed articles and services to be purchased at public expense shall not knowingly be
+written in such a way as to exclude an Iowa-based company capable of filling the needs of
+the purchasing entity from submitting a responsive proposal.
+[C27, 31, 35, §1171-b1; C39, §1171.01; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §73.1]
+86 Acts, ch 1096, §10; 2004 Acts, ch 1046, §1; 2010 Acts, ch 1069, §8
+73.2 Advertisements for bids — form.
+1. a.
+All requests made for bids and proposals for materials, products, supplies,
+provisions, and other needed articles to be purchased at public expense, shall be made
+in general terms and by general specifications and not by brand, trade name, or other
+individual mark.
+b.
+All such requests and bids shall contain a paragraph in easily legible print, reading as
+follows:
+By virtue of statutory authority, a preference will be given to
+products and provisions grown and coal produced within the state
+of Iowa.
+2.
+In addition to any method of advertisement required by law, any executive branch
+agency, the general assembly, and the judicial branch shall advertise any request for bids
+and proposals on the official state internet site operated by the department of administrative
+services. An electronic link to an internet site maintained by an executive branch agency, the
+general assembly, or the judicial branch on which requests for bids and proposals for that
+agency or for the general assembly or judicial branch are posted satisfies the requirements
+of this subsection.
+[C27, 31, 35, §1171-b2; C39, §1171.02; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §73.2]
+2002 Acts, ch 1072, §1; 2003 Acts, ch 145, §286; 2008 Acts, ch 1032, §163; 2018 Acts, ch
+1026, §28
+Referred to in §8A.311
+73.3 and 73.4
+Repealed by 2011 Acts, ch 133, §9 – 11.
+73.5 Violations — criminal penalty.
+An officer or person who is connected with, or is a member or agent or representative of a
+commission, board, committee, officer or other governing body of this state, or of any county,
+township, school district, city, or contractor, who fails to give preference as required in this
+chapter is guilty of a simple misdemeanor. Each separate case of failure to give preference is
+a separate offense.
+[C31, 35, §1171-d3; C39, §1171.05; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §73.5]
+86 Acts, ch 1096, §11
+73.6 Iowa coal.
+It shall be unlawful for any commission, board, county officer or other governing body
+of the state, or of any county, township, school district or city, to purchase or use any coal,
+except that mined or produced within the state by producers who are, at the time such coal
+is purchased and produced, complying with all the workers’ compensation and mining laws
+of the state. The provisions of this section shall not be applicable if coal produced within
+the state cannot be procured of a quantity or quality reasonably suited to the needs of such
+purchaser, nor if the equipment now installed is not reasonably adapted to the use of coal
+produced within the state, nor if the use of coal produced within the state would materially
+lessen the efficiency or increase the cost of operating such purchaser’s heating or power plant,
+nor to mines employing miners not now under the provisions of the workers’ compensation
+Act or who permit the miners to work in individual units in their own rooms.
+[C39, §1171.06; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §73.6]
+Referred to in §73.9, 73.10
+73.7 and 73.8
+Reserved.
+73.9 Violations — remedy.
+Any contract entered into or carried out in whole or in part, in violation of the provisions
+of section 73.6, shall be void and the contract or any claim growing out of the sale, delivery,
+or use of the coal specified in the contract, shall be unenforceable in any court. In addition to
+any other proper party or parties, any unsuccessful bidder at a letting provided for in section
+73.6 shall have the right to maintain an action in equity to prevent the violation of the terms
+of section 73.6.
+[C39, §1171.09; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §73.9]
+95 Acts, ch 71, §1
+Referred to in §73.10
+73.10 Exceptions.
+The provisions of sections 73.6 and 73.9 shall not apply to municipally owned and operated
+public utilities.
+[C39, §1171.10; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §73.10]
+2002 Acts, ch 1050, §8
+73.11 Inconsistency with federal law.
+If it is determined by the attorney general that any provision of this chapter would cause
+denial of funds or services from the United States government which would otherwise be
+available, or would otherwise be inconsistent with requirements of federal law, such provision
+shall be suspended, but only to the extent necessary to prevent denial of such funds or services
+or to eliminate the inconsistency with federal requirements.
+[C75, 77, 79, 81, §73.11]
+73.12 and 73.13
+Reserved.
+SUBCHAPTER II
+MINORITY-OWNED, SERVICE-DISABLED VETERAN-OWNED, AND FEMALE-OWNED
+BUSINESSES
+73.14 Minority-owned, service-disabled veteran-owned, and female-owned businesses
+— bond issuance services.
+1.
+The state,
+board of regents institutions,
+counties,
+townships,
+school districts,
+community colleges, cities, and other public entities, and every person acting as contracting
+agent for any such entity, shall, when issuing bonds or other obligations, make a good-faith
+effort to utilize minority-owned,
+service-disabled veteran-owned,
+and female-owned
+businesses for attorneys, accountants, financial advisors, banks, underwriters, insurers, and
+other occupations necessary to carry out the issuance of bonds or other obligations by the
+entity.
+2.
+For purposes of this section:
+a.
+“Female-owned business” means a business that is fifty-one percent or more owned,
+operated, and actively managed by one or more women.
+b.
+“Minority-owned business” means a business that is fifty-one percent or more owned,
+operated, and actively managed by one or more minority persons.
+c.
+“Service-disabled veteran-owned business” means a business that is fifty-one percent
+or more owned, operated, and actively managed by one or more service-disabled veterans,
+as defined in 15 U.S.C. §632.
+2010 Acts, ch 1184, §91; 2015 Acts, ch 136, §35, 36, 54, 55
+Referred to in §73.16
+SUBCHAPTER III
+TARGETED SMALL BUSINESS PROCUREMENT
+73.15 Title and definitions.
+1.
+This subchapter may be cited as the “Iowa Targeted Small Business Procurement Act”.
+2.
+As used in this subchapter, unless the context requires otherwise, “small business” and
+“targeted small business” mean as defined in section 15.102.
+86 Acts, ch 1245, §831; 2014 Acts, ch 1026, §143
+Referred to in §8A.311, 11.26, 12E.12, 15.108, 97B.7A
+73.16 Procurements from small businesses and targeted small businesses — goals.
+Notwithstanding any provision of law or rule relating to competitive bidding procedures:
+1.
+Every agency, department, commission, board, committee, officer, or other governing
+body of the state shall purchase goods and services supplied by small businesses and
+targeted small businesses in Iowa.
+In addition to the other provisions of this section
+relating to procurement contracts for targeted small businesses, all purchasing authorities
+shall assure that a proportionate share of small businesses and targeted small businesses
+identified under the uniform small business vendor application program of the economic
+development authority are given the opportunity to bid on all solicitations issued by agencies
+and departments of state government.
+2. a.
+Prior to the commencement of a fiscal year, the director of each agency or
+department of state government having purchasing authority, in cooperation with the
+targeted small business project manager of the economic development authority, shall
+establish for that fiscal year a procurement goal from certified targeted small businesses
+identified pursuant to section 15.108, subsection 6, paragraph “d”.
+(1)
+The procurement goal shall include the procurement of all goods and services,
+including construction, but not including utility services.
+(2)
+A procurement goal shall be stated in terms of a dollar amount of certified purchases
+and shall be established at a level that exceeds the procurement levels from certified targeted
+small businesses during the previous fiscal year.
+b.
+The director of an agency or department of state government that has established a
+procurement goal as required under this subsection shall provide a report within fifteen
+business days following the end of each calendar quarter to the targeted small business
+marketing and compliance manager of the economic development authority, providing the
+total dollar amount of certified purchases from certified targeted small businesses during
+the previous calendar quarter. The required report shall be made in a form approved by the
+targeted small business marketing and compliance manager.
+c. (1)
+The director of each department and agency of state government shall cooperate
+with the director of the department of inspections, appeals, and licensing, the director of the
+economic development authority, and the director of the department of management and do
+all acts necessary to carry out the provisions of this subchapter.
+(2)
+The director of each agency or department of state government having purchasing
+authority shall issue electronic bid notices for distribution to the targeted small business
+internet site located at the economic development authority if the director releases a
+solicitation for bids for procurement of equipment, supplies, or services. The notices shall
+be provided to the targeted small business marketing manager forty-eight hours prior to the
+issuance of all bid notices. The notices shall contain a description of the subject of the bid, a
+point of contact for the bid, and any subcontract goals included in the bid.
+(3)
+A community college, area education agency, or school district shall establish a
+procurement goal from certified targeted small businesses, identified pursuant to section
+15.108, subsection 6, paragraph “d”, of at least ten percent of the value of anticipated
+procurements of goods and services including construction, but not including utility services,
+each fiscal year.
+d.
+Of the total value of anticipated procurements of goods and services under this
+subsection, an additional goal shall be established to procure at least forty percent from
+minority-owned businesses and forty percent from female-owned businesses and forty
+percent from service-disabled veteran-owned businesses, as defined in section 73.14, that
+are targeted small businesses.
+86 Acts, ch 1245, §832; 88 Acts, ch 1273, §11; 90 Acts, ch 1156, §6; 94 Acts, ch 1076, §5;
+2000 Acts, ch 1231, §35; 2007 Acts, ch 207, §10, 18; 2008 Acts, ch 1032, §164; 2009 Acts, ch
+133, §19; 2011 Acts, ch 118, §85, 89; 2013 Acts, ch 90, §257; 2014 Acts, ch 1026, §143; 2015
+Acts, ch 136, §37, 54, 55; 2017 Acts, ch 160, §10, 11; 2023 Acts, ch 19, §1737
+Referred to in §8A.111, 8A.311, 11.26, 12E.12, 15.107B, 15.108, 73.22, 97B.7A, 262.34A
+State board of regents’ bid procedure, §262.34A
+73.17 Targeted small business procurement goals — preliminary procedures.
+1.
+Quarterly the director of each agency and department of state government shall review
+the agency’s or department’s anticipated purchasing requirements.
+The directors shall
+notify the director of the economic development authority of their anticipated purchases and
+recommended procurements with unit quantities and total costs for procurement contracts
+designated to satisfy the targeted small business procurement goal not later than August 15
+of each fiscal year and quarterly thereafter. The directors may divide the procurements so
+designated into contract award units of economically feasible production runs to facilitate
+offers or bids from targeted small businesses.
+In designating procurements intended to
+satisfy the targeted small business procurement goal, the directors may vary the included
+procurements so that a variety of goods and services produced by different targeted small
+businesses may be procured each year. The director of the economic development authority,
+in conjunction with the director of the department of management, shall review the
+information submitted and may require modifications from the agencies and departments.
+2.
+A community college or area education agency shall, on a quarterly basis, and a
+school district shall, on an annual basis, review the community college’s, area education
+agency’s, or school district’s anticipated purchasing requirements. A community college,
+area education agency, or school district shall notify the department of education, which
+shall report to the economic development authority, of their anticipated purchases and
+recommended procurements with unit quantities and total costs for procurement contracts
+designated to satisfy the targeted small business procurement goal not later than August 15
+of each fiscal year and quarterly thereafter, except that school districts shall report annually.
+86 Acts, ch 1245, §833; 90 Acts, ch 1156, §7; 91 Acts, ch 267, §223; 2011 Acts, ch 118, §85,
+89
+Referred to in §8A.311, 11.26, 12E.12, 15.108, 97B.7A, 262.34A
+Purchases by regents institutions, §262.34A
+73.18 Notice of solicitation for bids — identification of targeted small businesses.
+The director of each agency or department, the administrator of each area education
+agency, the president of each community college, and the superintendent of each school
+district releasing a solicitation for bids or request for proposal under the targeted small
+business procurement goal program shall consult a directory of certified targeted small
+businesses produced by the economic development authority that lists all certified targeted
+small businesses by category of goods or services provided prior to or upon release of the
+solicitation and shall send a copy of the request for proposal or solicitation to any appropriate
+targeted small business listed in the directory. The economic development authority may
+charge the department, agency, area education agency, community college, or school district
+a reasonable fee to cover the cost of producing, distributing, and updating the directory.
+86 Acts, ch 1245, §834; 88 Acts, ch 1273, §12; 90 Acts, ch 1156, §8; 91 Acts, ch 267, §224; 92
+Acts, ch 1244, §36; 2011 Acts, ch 118, §85, 89
+Referred to in §8A.311, 11.26, 12E.12, 15.108, 97B.7A
+73.19 Negotiated price or bid contract.
+In awarding a contract under the targeted small business procurement goal program,
+a director of an agency or department, or community college, area education agency, or
+school district, having purchasing authority may use either a negotiated price or bid contract
+procedure. A director of an agency or department, or community college, area education
+agency, or school district, using a negotiated contract shall consider any targeted small
+business engaged in that business. The director of the economic development authority or
+the director of the department of management may assist in the negotiation of a contract
+price under this section.
+Surety bonds guaranteed by the United States small business
+administration are acceptable security for a construction award under this section.
+86 Acts, ch 1245, §835; 90 Acts, ch 1156, §9; 91 Acts, ch 267, §225; 2011 Acts, ch 118, §85,
+89
+Referred to in §8A.311, 11.26, 12E.12, 15.108, 97B.7A
+73.20 Determination of ability to perform.
+Before announcing a contract award pursuant to the targeted small business procurement
+goal program, the purchasing authority shall evaluate whether the targeted small business
+scheduled to receive the award is able to perform the contract. This determination shall
+include consideration of production and financial capacity and technical competence. If the
+purchasing authority determines that the targeted small business may be unable to perform,
+the director of the economic development authority shall be notified.
+86 Acts, ch 1245, §836; 90 Acts, ch 1156, §10; 2011 Acts, ch 118, §85, 89; 2013 Acts, ch 13,
+§8
+Referred to in §8A.311, 11.26, 12E.12, 15.108, 97B.7A
+73.21 Other procurement procedures.
+All laws and rules pertaining to solicitations, bid evaluations, contract awards, and other
+procurement matters apply to procurement contracts for targeted small businesses to the
+extent there is no conflict. If this subchapter conflicts with other laws or rules, then this
+subchapter governs.
+86 Acts, ch 1245, §837; 90 Acts, ch 1156, §11; 2014 Acts, ch 1026, §143
+Referred to in §8A.311, 11.26, 12E.12, 15.108, 97B.7A
+73.22 Reports.
+1.
+By December 1 of each calendar year, the department of administrative services shall
+provide a written summary to the economic development authority of all activities undertaken
+by the department of administrative services to maximize the purposes of this subchapter
+during the immediately preceding fiscal year.
+2.
+By December 1 of each calendar year, the economic development authority shall
+compile a list of the procurement goals established pursuant to section 73.16, subsection
+2, for the prior fiscal year, and the performance of each agency or department of state
+government having purchasing authority in meeting the goals.
+The compilation shall be
+based upon the reports required to be filed under section 73.16, subsection 2.
+3.
+By January 15 of each calendar year, the economic development authority shall submit
+to the governor and the general assembly a summary of all reports required under this section.
+4.
+The director of the economic development authority,
+in cooperation with the
+department of administrative services and other state agencies shall do all of the following:
+a.
+Publicize the targeted small business procurement goal program to targeted small
+businesses and to agencies of state government.
+b.
+Identify targeted small businesses able to perform contracts under the program.
+c.
+Encourage targeted small businesses to participate in the program.
+2024 Acts, ch 1167, §13
+Referred to in §15.108
