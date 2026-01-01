@@ -1,0 +1,756 @@
+CHAPTER 12E
+TOBACCO SETTLEMENT AUTHORITY
+Referred to in §12.30, 12B.10, 12B.10A, 12B.10B, 12B.10C
+12E.1
+Title.
+12E.2
+Definitions.
+12E.3
+Tobacco settlement authority —
+created — purposes — powers
+— restrictions.
+12E.3A
+Endowment for Iowa’s health
+account — purposes.
+12E.4
+Powers not restricted — law
+complete in itself.
+12E.5
+Governing board.
+12E.6
+Staff — assistance by state
+officers, agencies, and
+departments.
+12E.7
+Limitation of liability.
+12E.8
+General powers.
+12E.9
+Authorization of the sale of
+rights in the master settlement
+agreement.
+12E.10
+Tobacco settlement program
+plan.
+12E.11
+Authority — bonds.
+12E.12
+Tobacco settlement trust fund —
+established — investment —
+liability.
+12E.13
+Moneys of the authority.
+12E.14
+Exemption from competitive bid
+laws.
+12E.15
+Annual report.
+12E.16
+Bankruptcy.
+12E.17
+Dissolution of the authority.
+12E.18
+Liberal interpretation.
+12E.1 Title.
+This chapter shall be known and may be cited as the “Tobacco Settlement Authority Act”.
+2000 Acts, ch 1208, §1, 25
+12E.2 Definitions.
+As used in this chapter, unless the context otherwise requires:
+1.
+“Authority” means the tobacco settlement authority created in this chapter.
+2.
+“Board” means the governing board of the authority.
+3.
+“Bonds” means bonds, notes, and other obligations and financing arrangements issued
+or entered into by the authority pursuant to this chapter.
+4.
+“Financial institution” means a bank or credit union as defined in section 12C.1.
+5.
+“Interest rate agreement” means an interest rate swap or exchange agreement, an
+agreement establishing an interest rate floor or ceiling or both, or any similar agreement.
+Any such agreement may include the option to enter into or cancel the agreement or to
+reverse or extend the agreement.
+6.
+“Master settlement agreement” means the master settlement agreement as defined in
+section 453C.1.
+7.
+“Net proceeds” means the amount of proceeds remaining following each sale of bonds
+which are not required by the authority to establish and fund reserve funds and to pay
+the costs of issuance and other expenses and fees directly related to the authorization and
+issuance of bonds.
+8.
+“Notes” means notes, warrants, loan agreements, and all other forms of evidence of
+indebtedness authorized under this chapter.
+9.
+“Program plan” means the tobacco settlement program plan dated February 14, 2001,
+including exhibits to the program plan, submitted by the authority to the legislative council
+and the executive council, to provide the state with a secure and stable source of funding for
+the purposes designated by section 12E.3A and other provisions of this chapter.
+10.
+“Qualified investments” means investments of the authority authorized pursuant to
+this chapter.
+11.
+“Sales agreement” means any agreement authorized pursuant to this chapter in which
+the state provides for the sale of all or a portion of the state’s share to the authority.
+12.
+“State’s share” means all of the following:
+a.
+All payments required to be made by tobacco product manufacturers to the state, and
+the state’s rights to receive such payments, under the master settlement agreement.
+b.
+To the extent that such amounts have been assigned to the state, all payments of
+attorney fees required to be made by tobacco product manufacturers under the master
+settlement agreement, and all rights to receive such attorney fees.
+13.
+“Tax-exempt bonds” means bonds issued by the authority that are accompanied by a
+written opinion of legal counsel to the authority that the bonds are excluded from the gross
+income of the recipients for federal income tax purposes.
+14.
+“Taxable bonds” means bonds issued by the authority that are not accompanied by a
+written opinion of legal counsel to the authority that the bonds are excluded from the gross
+income of the recipients for federal income tax purposes.
+15.
+“Tobacco settlement trust fund” means the tobacco settlement trust fund created in
+this chapter.
+2000 Acts, ch 1208, §2, 25; 2000 Acts, ch 1232, §13, 15; 2001 Acts, ch 164, §2 – 5, 21; 2008
+Acts, ch 1186, §9, 10, 19
+12E.3 Tobacco settlement authority — created — purposes — powers — restrictions.
+1.
+A tobacco settlement authority is created and constitutes a public instrumentality and
+agency of the state, separate and distinct from the state, exercising public and essential
+governmental functions.
+2.
+The purposes of the authority include all of the following:
+a.
+To implement and administer the program plan and to establish a stable source of
+revenue to be used for the purposes designated in section 12E.3A and other provisions of
+this chapter.
+b.
+To enter into sales agreements.
+c.
+To issue bonds and enter into funding options, consistent with this chapter, including
+refunding and refinancing its debt and obligations.
+d.
+To sell, pledge, or assign, as security or consideration, all or a portion of the state’s share
+sold to the authority pursuant to a sales agreement, to provide for and secure the issuance
+and repayment of its bonds.
+e.
+To invest funds available under this chapter to provide for a source of revenue in
+accordance with the program plan.
+f.
+To enter into agreements with the state for the periodic distribution of amounts due the
+state under any sales agreement.
+g.
+To refund and refinance the authority’s debts and obligations, and to manage its funds,
+obligations, and investments as necessary and if consistent with its purpose.
+h.
+To sell, pledge, or assign, as security or consideration, all or a portion of the state’s
+share to implement alternative funding options.
+i.
+To implement the purposes of this chapter.
+3.
+The authority shall invest its funds and accounts in accordance with this chapter
+and shall not take action or invest in any manner that would cause the state to become a
+stockholder in any corporation or that would cause the state to assume or agree to pay
+the debt or liability of any corporation in violation of the United States Constitution or the
+Constitution of the State of Iowa.
+4.
+The authority shall not create any obligation of this state or any political subdivision of
+this state within the meaning of any constitutional or statutory debt limitation.
+5.
+The authority shall not pledge the credit or taxing power of this state or any political
+subdivision of this state, or make its debts payable out of any moneys except those of the
+authority specifically pledged for their payment.
+6.
+The authority shall not pledge or make its debts payable out of the moneys deposited
+in the tobacco settlement trust fund.
+2000 Acts, ch 1208, §3, 25; 2000 Acts, ch 1232, §14, 15; 2001 Acts, ch 164, §6, 21; 2008 Acts,
+ch 1186, §11, 19
+12E.3A Endowment for Iowa’s health account — purposes.
+1.
+The general assembly reaffirms and reenacts the purposes stated for the use of
+moneys deposited in the healthy Iowans tobacco trust, as the purposes were enacted in
+2000 Iowa Acts, ch. 1232, §12, and codified in section 12.65, Code 2007, as the purposes for
+the endowment for Iowa’s health account. The purposes include those purposes related to
+health care, substance use disorder treatment and enforcement, tobacco use prevention and
+control, and other purposes related to the needs of children, adults, and families in the state.
+2.
+Any net proceeds from the sale of taxable bonds or tax-exempt bonds issued to provide
+funds for the purposes stated in section 12.65, Code 2007, and as reaffirmed and reenacted in
+subsection 1 shall continue to be used for such purposes, including but not limited to any such
+proceeds deposited in the endowment for Iowa’s health account or transferred or otherwise
+credited to the general fund of the state.
+2008 Acts, ch 1186, §12, 19; 2014 Acts, ch 1026, §143; 2023 Acts, ch 19, §17
+Referred to in §12E.2, 12E.3, 12E.9, 12E.10, 12E.11, 12E.12
+12E.4 Powers not restricted — law complete in itself.
+This chapter shall not restrict or limit the powers which the authority has under any other
+law of this state, but is cumulative as to any such powers. A proceeding, notice, or approval is
+not required for the creation of the authority or the issuance of obligations or an instrument
+as security, except as provided in this chapter.
+2000 Acts, ch 1208, §4, 25
+12E.5 Governing board.
+1.
+The powers of the authority are vested in and shall be exercised by a board consisting of
+the treasurer of state, the auditor of state, and the director of the department of management.
+Notwithstanding the provisions of section 12.30, subsection 2, regarding ex officio nonvoting
+status, the treasurer of state shall act as a voting member of the authority.
+2.
+Two members of the board constitute a quorum.
+3.
+The members shall elect a chairperson, vice chairperson, and secretary, annually, and
+other officers as the members determine necessary. The treasurer of state shall serve as
+treasurer of the authority.
+4.
+Meetings of the board shall be held at the call of the chairperson or when a majority of
+the members so requests.
+5.
+The members of the board shall not receive compensation by reason of their
+membership on the board.
+2000 Acts, ch 1208, §5, 25
+12E.6 Staff — assistance by state officers, agencies, and departments.
+1.
+The staff of the office of the treasurer of state shall also serve as staff of the authority
+under the supervision of the treasurer.
+2.
+State officers, agencies, and departments may render services to the authority within
+their respective functions, as requested by the authority.
+2000 Acts, ch 1208, §6, 25
+12E.7 Limitation of liability.
+Members of the board and persons acting on the authority’s behalf, while acting within
+the scope of their employment or agency, are not subject to personal liability resulting from
+carrying out the powers and duties conferred on them under this chapter.
+2000 Acts, ch 1208, §7, 25
+12E.8 General powers.
+1.
+The authority has all the general powers necessary to carry out its purposes and duties
+and to exercise its specific powers, including but not limited to all of the following powers:
+a.
+The power to issue its bonds and to enter into other funding options as provided in this
+chapter.
+b.
+The power to have perpetual succession as a public instrumentality and agency of the
+state, until dissolved in accordance with this chapter.
+c.
+The power to sue and be sued in its own name.
+d.
+The power to make and execute agreements, contracts, and other instruments, with
+any public or private person, in accordance with this chapter.
+e.
+The power to hire and compensate legal counsel, notwithstanding chapter 13.
+f.
+The power to hire investment advisors and other persons as necessary to fulfill its
+purpose.
+g.
+The power to invest or deposit moneys of or held by the authority in any manner
+determined by the authority, notwithstanding chapter 12B or 12C.
+h.
+The power to procure insurance, other credit enhancements, and other financing
+arrangements, and to execute instruments and contracts and to enter into agreements
+convenient or necessary to facilitate financing arrangements of the authority and to fulfill the
+purposes of the authority under this chapter, including but not limited to such arrangements,
+instruments, contracts, and agreements as municipal bond insurance, liquidity facilities,
+interest rate agreements, and letters of credit.
+i.
+The power to accept appropriations, gifts, grants, loans, or other aid from public or
+private entities.
+j.
+The power to adopt rules, consistent with this chapter and in accordance with chapter
+17A, as the board determines necessary.
+k.
+The power to acquire, own, hold, administer, and dispose of property.
+l.
+The power to determine, in connection with the issuance of bonds, and subject to the
+sales agreement, the terms and other details of financing, and the method of implementation
+of the program plan.
+m.
+The power to perform any act not inconsistent with federal or state law necessary to
+carry out the purposes of the authority.
+2.
+The authority is exempt from the requirements of chapter 8A, subchapter III.
+2000 Acts, ch 1208, §8, 25; 2001 Acts, ch 164, §7, 8, 21; 2003 Acts, ch 145, §132
+12E.9 Authorization of the sale of rights in the master settlement agreement.
+1. a.
+The governor or the governor’s designee shall sell and assign all or a portion of
+the state’s share to the authority pursuant to one or more sales agreements for the purpose
+of securitization as described in the program plan and as specified in section 12E.10. The
+attorney general shall assist the governor in the preparation and review of all necessary
+documentation to effect such a sale as soon as reasonably practicable.
+b.
+Any sales agreement shall be consistent with the program plan and this chapter. The
+terms and conditions of the sale established in such sales agreement may include but are not
+limited to any of the following:
+(1)
+A requirement that the state enforce, at the sole expense of the authority, the
+provisions of the master settlement agreement that require payment of the state’s share that
+has been sold to the authority under a sales agreement.
+(2)
+A requirement that the state not agree to any amendment of the master settlement
+agreement that materially and adversely affects the authority’s ability to receive the state’s
+share that has been sold to the authority.
+(3)
+An agreement that the anticipated use by the state of bond proceeds received pursuant
+to the sales agreement shall be for capital projects, certain debt service on outstanding
+obligations that funded capital projects, payment of attorney fees related to the master
+settlement agreement, and to provide a secure and stable source of funding to the state for
+purposes designated by section 12E.3A and other provisions of this chapter.
+(4)
+A statement that the net proceeds from the sale of bonds shall be deposited in the
+tobacco settlement trust fund established under section 12E.12 and that in no event shall the
+amounts in the trust fund be available or be applied for payment of bonds or any claim against
+the authority or any debt or obligation of the authority.
+(5)
+A requirement that the net proceeds received by the authority from the sale of any
+tax-exempt bonds issued to provide funds for capital projects, certain debt service, and
+attorney fees related to the master settlement agreement be paid by the authority to the state
+as consideration for the sale of that portion of the state’s share, that such net proceeds be
+deposited by the state upon receipt in the tax-exempt bond proceeds restricted capital funds
+account of the tobacco settlement trust fund, and that such proceeds are to be held by the
+authority solely for the benefit of the state, subject to annual appropriation by the state in
+accordance with section 12E.10, subsection 1, paragraph “b”.
+(6)
+A requirement that the net proceeds received by the authority from the sale of taxable
+bonds or tax-exempt bonds issued to provide funds for the purposes specified in section
+12E.3A be deposited in the endowment for Iowa’s health account of the tobacco settlement
+trust fund as moneys of the authority until transferred to the state pursuant to section
+12E.12, subsection 1, paragraph “b”, subparagraph (3). Each amount transferred shall be
+the consideration received by the state for that portion of the state’s share.
+(7)
+An agreement that the effective date of the sale is the date of receipt of the bond
+proceeds by the authority and the deposits of the net proceeds of the tax-exempt bonds and
+any taxable bonds in the respective accounts of the tobacco settlement trust fund.
+2.
+The sale made under this section shall be irrevocable during the time when bonds are
+outstanding under this chapter, and shall be a part of the contractual obligation owed to the
+bondholders. The sale shall constitute and be treated as a true sale and absolute transfer of
+the property so transferred and not as a pledge or other security interest for any borrowing.
+The characterization of such a sale as an absolute transfer shall not be negated or adversely
+affected by the fact that only a portion of the state’s share is being sold, or by the state’s
+acquisition or retention of an ownership interest in the residual assets.
+3.
+On or after the effective date of such sale, the state shall not have any right, title, or
+interest in the portion of the master settlement agreement sold and such portion shall be the
+property of the authority and not the state, and shall be owned, received, held, and disbursed
+by the authority or its trustee or assignee, and not the state.
+4.
+On or before the effective date of the sale, the state shall notify the escrow agent
+under the master settlement agreement of the sale and shall instruct the escrow agent that
+subsequent to that date, all payments constituting the portion sold shall be made directly
+to the authority.
+5.
+The authority, the treasurer of state, and the attorney general shall report to the
+legislative council and the executive council on or before the date of the sale, advising them
+of the status of the sale, its terms, and conditions.
+2000 Acts, ch 1208, §9, 25; 2001 Acts, ch 164, §9, 10, 21; 2008 Acts, ch 1186, §13, 19
+12E.10 Tobacco settlement program plan.
+1. a. (1)
+The authority shall implement the program plan and shall proceed with a
+securitization to maximize the transference of risks associated with the master settlement
+agreement.
+(2)
+The authority shall issue tax-exempt bonds as necessary in amounts determined by
+the authority sufficient to provide net proceeds for deposit in the tax-exempt bond proceeds
+restricted capital funds account of the tobacco settlement trust fund, to be used for capital
+projects, certain debt service on outstanding obligations which funded capital projects, and
+attorney fees related to the master settlement agreement.
+(3)
+The authority may also issue taxable bonds or tax-exempt bonds to provide additional
+amounts to be used for the purposes specified in section 12E.3A.
+(4)
+Notwithstanding subparagraphs (1) and (2), the authority is not required to issue
+tax-exempt bonds if the authority determines that the issuance would not be in the best
+interest of the state due to market conditions.
+b.
+It is the expectation of the state that not less than eighty-five percent of the proceeds
+of any issue of tax-exempt bonds will be expended within five years from the effective date
+of the sale, consistent with the requirements of federal law, and that the specific capital
+projects, debt service, and attorney fees payments shall be determined annually through
+appropriations authorized by a constitutional majority of each house of the general assembly
+and approved by the governor.
+c.
+The authority may issue tax-exempt bonds if the securitization of any remaining
+tobacco settlement payments will result in the deposit of net proceeds of not less than one
+hundred eighty-three million dollars for tax-exempt bonds issued after July 1, 2008.
+2.
+The authority shall periodically report to the legislative council and the governor
+regarding implementation of the program plan and shall, prior to any public offering of
+bonds, submit a report to the legislative council and the governor describing the terms of
+the proposed bond issue.
+3.
+Any amendment to the program plan shall be authorized by a constitutional majority
+of each house of the general assembly and approved by the governor.
+4.
+To the extent that any provision of the program plan is inconsistent with this chapter,
+the provisions of this chapter shall govern.
+2000 Acts, ch 1208, §10, 25; 2001 Acts, ch 164, §11, 21; 2008 Acts, ch 1179, §45 – 47; 2008
+Acts, ch 1186, §14, 19
+Referred to in §12E.9
+12E.11 Authority — bonds.
+1.
+The authority may issue bonds and, if bonds are issued, shall make the proceeds from
+the bonds available to the state pursuant to the sales agreement to fund capital projects,
+certain debt service on outstanding obligations that funded capital projects, and attorney
+fees related to the master settlement agreement, and to provide a secure and stable source of
+funding to the state, consistent with the purposes of section 12E.3A and other provisions of
+this chapter. In connection with the issuance of bonds and subject to the terms of the sales
+agreement, the authority shall determine the terms and other details of the financing and
+the method of implementation of the program plan. Bonds issued pursuant to this section
+may be secured by a pledge of all or a portion of the state’s share and any moneys derived
+from the state’s share, and any other sources available to the authority with the exception of
+moneys in the tobacco settlement trust fund. The authority may also issue refunding bonds,
+including advance refunding bonds, for the purpose of refunding previously issued bonds,
+and may issue other types of bonds, debt obligations, and financing arrangements necessary
+to fulfill its purposes or the purposes of this chapter.
+2.
+The authority may issue its bonds in principal amounts which, in the opinion of the
+authority, are necessary to provide sufficient funds for achievement of its purposes, the
+payment of interest on its bonds, the establishment of reserves to secure the bonds, the costs
+of issuance of its bonds, and all other expenditures of the authority incident to and necessary
+to carry out its purposes or powers. The bonds are investment securities and negotiable
+instruments within the meaning of and for the purposes of the uniform commercial code,
+chapter 554.
+3.
+Bonds issued by the authority are payable solely and only out of the moneys, assets,
+or revenues pledged by the authority and are not a general obligation or indebtedness of the
+authority or an obligation or indebtedness of the state or any subdivision of the state. The
+authority shall not pledge the credit or taxing power of the state or any political subdivision
+of the state, or create a debt or obligation of the state, or make its debts payable out of
+any moneys except those of the authority, excluding those moneys deposited in the tobacco
+settlement trust fund.
+4.
+Bonds shall state on their face that they are payable both as to principal and interest
+solely out of the assets of the authority pledged for their purpose and do not constitute an
+indebtedness of the state or any political subdivision of the state; are secured solely by and
+payable solely from assets of the authority pledged for such purpose; constitute neither a
+general, legal, or moral obligation of the state or any of its political subdivisions; and that the
+state has no obligation or intention to satisfy any deficiency or default of any payment of the
+bonds.
+5.
+Any amount pledged by the authority to be received under the master settlement
+agreement shall be valid and binding at the time the pledge is made. Amounts so pledged
+and then or thereafter received by the authority shall immediately be subject to the lien
+of such pledge without any physical delivery thereof or further act. The lien of any such
+pledge shall be valid and binding as against all parties having claims of any kind against the
+authority, whether such parties have notice of the lien. Notwithstanding any other provision
+to the contrary, the resolution of the authority or any other instrument by which a pledge is
+created need not be recorded or filed to perfect such pledge.
+6.
+The proceeds of bonds issued by the authority and not required for deposit in the
+tobacco settlement trust fund may be invested in any manner approved by the board and
+specified in the trust indenture or resolution pursuant to which the bonds must be issued,
+notwithstanding any other provision to the contrary.
+7.
+The bonds shall comply with all of the following:
+a.
+The bonds shall be in a form, issued in denominations, executed in a manner, and
+payable over terms and with rights of redemption, as the board prescribes in the resolution
+authorizing their issuance.
+b.
+The bonds shall be fully negotiable instruments under the laws of this state and may be
+sold at prices, at public or private sale, and in a manner as prescribed by the board. Chapters
+73A, 74, 74A, and 75 shall not apply to the sale or issuance of bonds under this chapter.
+c.
+The bonds shall be subject to the terms, conditions, and covenants providing for
+the payment of the principal, redemption premiums, if any, interest which may be fixed
+or variable during any period the bonds are outstanding, and other terms, conditions,
+covenants, and protective provisions safeguarding payment, not inconsistent with this
+chapter and as determined by resolution of the board authorizing their issuance.
+8.
+The bonds issued under this chapter are securities in which insurance companies
+and associations and other persons engaged in the business of insurance; banks, trust
+companies, savings associations, and investment companies; administrators, guardians,
+executors, trustees, and other fiduciaries; and other persons authorized to invest in bonds
+or other obligations of the state may properly and legally invest funds, including capital, in
+their control or belonging to them.
+9.
+Bonds must be authorized by a resolution of the board.
+However, a resolution
+authorizing the issuance of bonds may delegate to an officer of the authority the power
+to negotiate and fix the details of an issue of bonds by an appropriate certificate of the
+authorized officer.
+10.
+To comply with federal law with respect to the issuance of bonds, the interest of which
+is tax-exempt pursuant to the Internal Revenue Code, the authority may issue a certain series
+of bonds, or periodically issue several series of bonds, so that interest on the bonds remains
+exempt from federal taxation or to comply with the purposes specified in this chapter.
+11.
+The state reserves the right at any time to alter, amend, repeal, or otherwise change
+the structure, organization, programs, or activities of the authority, including the power to
+terminate the authority, except that a law shall not be enacted that impairs any obligation
+made pursuant to a sales agreement or any contract entered into by the authority with or on
+behalf of the holders of the bonds to the extent that any such law would contravene Article I,
+section 21, of the Constitution of the State of Iowa or Article I, section 10, of the Constitution
+of the United States.
+2000 Acts, ch 1208, §11, 25; 2001 Acts, ch 164, §12 – 14, 21; 2005 Acts, ch 3, §10; 2008 Acts,
+ch 1186, §15, 19; 2012 Acts, ch 1017, §39
+12E.12 Tobacco settlement trust fund — established — investment — liability.
+1. a.
+A tobacco settlement trust fund is established, separate and apart from all other
+public moneys or funds of the state, under the control of the authority. The fund shall consist
+of moneys paid to the authority and not pledged to the payment of bonds or otherwise
+obligated.
+Such moneys shall include but are not limited to payments received from the
+master settlement agreement which are not pledged to the payment of bonds or which
+are subsequently released from a pledge to the payment of any bonds; payments which,
+in accordance with any sales agreement with the state, are to be paid to the state and not
+pledged to the bonds, including that portion of the proceeds of any bonds designated for
+purchase of all or a portion of the state’s share, which are designated for deposit in the fund,
+together with all interest, dividends, and rents on the bonds; and all securities or investment
+income and other assets acquired by and through the use of the moneys belonging to the
+fund and any other moneys deposited in the fund. Moneys in the fund are to be used solely
+and only for the payment of all amounts due and to become due to the state, and shall not
+be used for any other purpose. Such moneys shall not be available for the payment of any
+claim against the authority or any debt or obligation of the authority.
+b.
+The fund shall consist of the following accounts:
+(1)
+The tax-exempt bond proceeds restricted capital funds account. The net proceeds
+of tax-exempt bonds issued to provide funds for capital projects, certain debt service,
+and attorney fees related to the master settlement agreement which the state treasurer is
+authorized and directed to deposit on behalf of the state shall be deposited in the account and
+shall be used to fund capital projects, certain debt service, and the payment of attorney fees
+related to the master settlement agreement. With respect to capital projects, it is the intent of
+the general assembly to fund capital projects that qualify as vertical infrastructure projects
+as defined in section 8.57, subsection 3, paragraph “c”, to the extent practicable in any fiscal
+year and without limiting other qualifying capital expenditures considered and approved by
+a constitutional majority of each house of the general assembly and the governor.
+(2)
+The FY 2009 tax-exempt bond proceeds restricted capital funds account.
+The net
+proceeds of tax-exempt bonds issued after July 1, 2008, as a result of the securitization of
+any remaining tobacco settlement payments to provide funds for capital projects which
+the treasurer of state is authorized and directed to deposit on behalf of the state shall be
+deposited in the account and shall be used to fund capital projects. With respect to capital
+projects, it is the intent of the general assembly to fund capital projects that qualify as vertical
+infrastructure projects as defined in section 8.57, subsection 3, paragraph “c”, to the extent
+practicable in any fiscal year and without limiting other qualifying capital expenditures
+considered and approved by a constitutional majority of each house of the general assembly
+and the governor.
+(3)
+The endowment for Iowa’s health account.
+(a)
+The net proceeds of any taxable bonds or tax-exempt bonds issued to provide funds
+for the purposes specified in section 12E.3A, which the authority is directed to deposit in the
+account, any portion of the state’s share which is not sold to the authority, and any other
+moneys appropriated by the state for deposit in the account shall be deposited in the account
+and shall be used for the purposes specified in section 12E.3A.
+(b)
+For each fiscal year beginning July 1, 2009, the moneys deposited in the endowment
+for Iowa’s health account of the tobacco settlement trust fund are transferred to the rebuild
+Iowa infrastructure fund.
+2.
+The treasurer of the authority shall act as custodian and trustee of the fund and shall
+administer the fund as directed by the authority. The treasurer of the authority shall do all of
+the following:
+a.
+Hold the funds.
+b.
+Invest the portion of the funds which, as deemed by the authority, is not necessary for
+current payment of sums to the state under this chapter or the program plan.
+c.
+Disburse funds, if directed by the authority.
+d.
+Sell any securities or other property held by the fund and reinvest the proceeds as
+directed by the authority, when deemed advisable by the authority for the protection of the
+fund or the preservation of the value of the investment.
+Such sale of securities or other
+property held by the fund shall only be made with the advice of the board in the manner
+and to the extent provided in this chapter with regard to the purchase of investments.
+e.
+Subscribe, at the direction of the authority, for the purchase of securities for future
+delivery in anticipation of future income. Such securities shall be paid for by such anticipated
+income or from funds from the sale of securities or other property held by the fund.
+f.
+Pay for securities, as directed by the authority, on the receipt of the purchasing entity’s
+paid statement or paid confirmation of purchase.
+3.
+The authority shall execute the disposition and investment of moneys in the fund in
+accordance with the investment policy and goal statement established by the board.
+a.
+In establishing the investment policy and goal statement of the fund, the standard
+utilized by the board shall be the exercise of judgment and care, under the prevailing
+circumstances, which persons of prudence, discretion, and intelligence exercise in the
+management of their own financial affairs, not for the purpose of speculation, but with
+regard to the permanent disposition of the funds, considering the probable income, as well
+as the probable safety, of their capital.
+b.
+Within the limitations of the standard prescribed in this subsection and the program
+plan, the treasurer of the authority, the authority, and the board may acquire and retain any
+type of property or investment which persons of prudence, discretion, and intelligence would
+acquire or retain for their own financial interests.
+c.
+The authority and the board shall give appropriate consideration to those facts and
+circumstances that the authority and board know or should know are relevant to the
+particular investment or investment policy involved, including the role the investment plays
+in the total value of the fund. For the purposes of this paragraph, “appropriate consideration”
+includes, but is not limited to, a determination by the authority and the board that the
+particular investment or investment policy is reasonably designed to further the purposes
+of the tobacco settlement program plan, taking into consideration the risk of loss and the
+opportunity for gain or other return associated with the investment or investment policy and
+consideration of all of the following as they relate to the tobacco settlement trust fund:
+(1)
+The composition of the fund with regard to diversification.
+(2)
+The liquidity and current return of the investments in the fund relative to the
+anticipated cash flow requirements of the program plan.
+(3)
+The projected return of the investments relative to the funding objectives of the
+program plan.
+d.
+Investments of moneys in the funds are not subject to sections 73.15 through 73.21.
+e.
+If consistent with the investment policy established by the board, the authority may
+invest moneys of or held by the authority in structured notes and investment agreements, the
+repayment of the principal amount of which is protected or guaranteed.
+4.
+The authority, its staff, members of the board, and the treasurer of the authority are
+not personally liable for actions or omissions under this chapter that do not involve malicious
+or wanton misconduct even if those actions or omissions violate the standards established in
+this section.
+5.
+Except as provided in this section, if there is loss to the fund, the treasurer, the authority,
+the board, and the staff are not personally liable, and the loss shall be charged against the
+fund. The amount required to cover a loss may be paid from the fund.
+6. a.
+Expenses incurred in the sale and purchase of securities belonging to the fund shall
+be charged to the fund, and the amount required for the investment management expenses
+may be paid from the fund, subject to the limitations stated in this subsection. The amount
+paid for investment management expenses for a fiscal year under this section shall not exceed
+the reasonable and customary charge to similar funds for similar purposes. The authority
+shall report the investment management expenses for a fiscal year as a percent of the market
+value of the fund in the annual report to the governor submitted pursuant to section 12E.15.
+b.
+A person who has entered into a contract with the authority for investment management
+purposes shall meet the requirements for doing business in Iowa sufficient to be subject to
+taxation under the rules of the department of revenue.
+7.
+All moneys paid to or deposited in the fund are available to the authority to be used for
+the exclusive purpose of the program plan in accordance with this chapter, including but not
+limited to all of the following:
+a.
+For payment of amounts due to the state pursuant to the terms of the sales agreements
+entered into between the state and the authority.
+b.
+For payment of other amounts provided for in the program plan.
+c.
+For payment of the costs of administering the program plan and the costs of the
+authority.
+8.
+With respect to the payment of certain debt service, the debt service to be paid shall be
+those installments of debt service on bonds selected by the treasurer of state and identified
+in the authority’s tax certificate delivered at the time of the issuance of the bonds issued
+pursuant to this chapter, or as otherwise selected by the treasurer of state. Once the bonds
+and the installments of debt service thereon are so selected, that debt service and bonds
+shall not be paid, or provided to be paid, from any other source including the state or any
+of its departments or agencies. Provided, however, that if funds are not appropriated to pay
+debt service on such bonds when due, the issuing agency shall pay the debt service from
+any available source as provided in the bond covenants. To the extent that this section does
+not allow proceeds of previously issued refunding bonds to be applied for the purpose of
+the refunding, the issuing agency may expend such proceeds to improve, remodel, or repair
+buildings or other infrastructure upon authorization of the issuing agency’s authority.
+9.
+Annually, on or before January 15 of each year, a state agency that received an
+appropriation from the tobacco settlement trust fund shall report to the legislative services
+agency and the department of management the status of all projects completed or in
+progress.
+The report shall include a description of the project, the progress of work
+completed, the total estimated cost of the project, a list of all revenue sources being used to
+fund the project, the amount of funds expended, the amount of funds obligated, and the date
+the project was completed or an estimated completion date of the project, where applicable.
+2000 Acts, ch 1208, §12, 25; 2001 Acts, ch 164, §15, 16, 21; 2002 Acts, 2nd Ex, ch 1001, §35,
+46; 2002 Acts, 2nd Ex, ch 1003, §229, 233; 2003 Acts, ch 145, §286; 2003 Acts, ch 179, §94,
+159; 2006 Acts, ch 1179, §38; 2008 Acts, ch 1179, §48, 49; 2008 Acts, ch 1186, §16, 19; 2009
+Acts, ch 184, §31, 41; 2012 Acts, ch 1021, §132
+Referred to in §12E.9
+12E.13 Moneys of the authority.
+1.
+Moneys of the authority, except as otherwise provided in this chapter or specified in
+a trust indenture or resolution pursuant to which the bonds are issued, shall be paid to the
+authority and shall be deposited in a financial institution designated by the authority. The
+moneys shall be withdrawn on the order of the authority or its designee. Deposits shall be
+secured in the manner determined by the authority.
+2.
+The auditor of state or the auditor’s designee, which may include a person hired by the
+auditor with the approval of the board, may periodically examine the accounts and books,
+including its receipts, disbursements, contracts, leases, sinking funds, investments, and any
+other records and papers relating to its financial standing. The authority shall pay the costs
+of any such examination.
+3.
+The authority may contract with the holders of its bonds relating to the custody,
+collection, security, investment, and payment of moneys of the authority, and relating to
+the moneys held in trust or otherwise for payment of bonds, with the exception of moneys
+in the tobacco settlement trust fund. Moneys held in trust or otherwise for the payment of
+bonds or in any way to secure bonds and deposits of the moneys may be secured in the
+same manner as moneys of the authority, and financial institutions and trust companies may
+provide security for the deposits.
+4.
+The authority shall submit to the governor, the attorney general, the auditor of state,
+the department of management, and the legislative services agency, within thirty days of its
+receipt, a copy of the report of every external examination of the books and accounts of the
+authority, other than copies of the reports of examinations of the auditor of state.
+5.
+All moneys of the authority or moneys held by the authority shall be invested and held
+in the name of the authority, whether they are held for the benefit, security, or future payment
+to holders of bonds or to the state. All such moneys and investments shall be considered
+moneys and investments of the authority with the exception of moneys in the tax-exempt
+bond proceeds restricted capital funds account of the tobacco settlement trust fund which
+are moneys of the state.
+2000 Acts, ch 1208, §13, 25; 2001 Acts, ch 164, §17, 21; 2003 Acts, ch 35, §45, 49
+12E.14 Exemption from competitive bid laws.
+The authority and contracts entered into by the authority in carrying out its public and
+essential governmental functions are exempt from the laws of the state which provide for
+competitive bids and hearings in connection with contracts, except as provided in section
+12.30.
+2000 Acts, ch 1208, §14, 25
+12E.15 Annual report.
+1.
+The authority shall submit to the governor, the general assembly, and the attorney
+general, on or before December 31, annually, a report including information regarding all
+of the following:
+a.
+Its operations and accomplishments.
+b.
+Its receipts and expenditures during the previous fiscal year, in accordance with
+classifications it establishes for its operating and capital accounts.
+c.
+Its assets and liabilities at the end of the previous fiscal year and the status of reserve,
+special, and other funds.
+d.
+A schedule of its bonds outstanding at the end of the previous fiscal year, and a
+statement of the amounts redeemed and issued during the previous fiscal year.
+e.
+A statement of its proposed and projected activities.
+f.
+Recommendations to the governor and the general assembly, as deemed necessary.
+g.
+Any other information deemed necessary.
+2.
+The annual report shall identify performance goals of the authority, and clearly indicate
+the extent of progress, during the reporting period, in attaining these goals.
+2000 Acts, ch 1208, §15, 25
+Referred to in §12E.12
+12E.16 Bankruptcy.
+Prior to the date which is three hundred sixty-six days after which the authority no longer
+has any bonds outstanding, the authority is prohibited from filing a voluntary petition under
+chapter nine of the federal bankruptcy code, 11 U.S.C. §901 et seq., or such corresponding
+chapter or section as may, from time to time, be in effect, and a public official or organization,
+entity, or other person shall not authorize the authority to be or become a debtor under
+chapter nine or any successor or corresponding chapter or sections during such periods. The
+provisions of this section shall be part of any contractual obligation owed to the holders of
+bonds issued under this chapter. Any such contractual obligation shall not subsequently be
+modified by state law, during the period of the contractual obligation.
+2000 Acts, ch 1208, §16, 25; 2005 Acts, ch 3, §11
+12E.17 Dissolution of the authority.
+The authority shall dissolve no later than two years from the date of final payment of
+all outstanding bonds and the satisfaction of all outstanding obligations of the authority,
+except to the extent necessary to remain in existence to fulfill any outstanding covenants
+or provisions with bondholders or third parties made in accordance with this chapter.
+Upon dissolution of the authority, all assets of the authority shall be returned to the state
+and shall be deposited in the general fund of the state, unless otherwise directed by the
+general assembly, and the authority shall execute any necessary assignments or instruments,
+including any assignment of any right, title, or ownership to the state for receipt of payments
+under the master settlement agreement.
+2000 Acts, ch 1208, §17, 25; 2001 Acts, ch 164, §18, 21; 2008 Acts, ch 1186, §17, 19
+12E.18 Liberal interpretation.
+This chapter, being deemed necessary for the welfare of the state and its people, shall be
+liberally construed to effect its purpose.
+2000 Acts, ch 1208, §18, 25
