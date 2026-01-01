@@ -1,0 +1,332 @@
+CHAPTER 161D
+LOESS HILLS AND SOUTHERN IOWA
+DEVELOPMENT AND CONSERVATION
+SUBCHAPTER I
+LOESS HILLS DEVELOPMENT AND CONSERVATION
+161D.1
+Loess hills development and
+conservation authority created
+— membership and duties.
+161D.2
+Loess hills development and
+conservation fund.
+161D.3
+Definitions.
+161D.4
+Mission statement.
+161D.5
+Loess hills alliance created.
+161D.6
+Responsibilities.
+161D.7
+Program coordination.
+161D.8
+Annual report — audit.
+161D.9
+Restriction.
+161D.10
+Reserved.
+SUBCHAPTER II
+SOUTHERN IOWA DEVELOPMENT AND CONSERVATION
+AUTHORITY
+161D.11
+Southern Iowa development and
+conservation authority created
+— membership and duties.
+161D.12
+Southern Iowa development and
+conservation fund.
+161D.13
+Annual report — audit.
+SUBCHAPTER I
+LOESS HILLS DEVELOPMENT AND
+CONSERVATION
+161D.1 Loess hills development and conservation authority created — membership and
+duties.
+1.
+A loess hills development and conservation authority is created. The counties of Adams,
+Adair, Audubon, Carroll, Cass, Cherokee, Crawford, Fremont, Guthrie, Harrison, Ida, Lyon,
+Mills, Monona, Montgomery, Page, Plymouth, Pottawattamie, Sac, Shelby, Sioux, Taylor,
+and Woodbury, are entitled to one voting member each on the authority, but membership
+or participation in projects of the authority is not required. Each member of the authority
+shall be appointed by the respective board of supervisors for a term to be determined by each
+board of supervisors, but the term shall not be for less than one year. An appointee shall serve
+without compensation, but an appointee may be reimbursed for actual expenses incurred
+while performing the duties of the authority as determined by each board of supervisors. The
+authority shall meet, organize, and adopt rules of procedures as deemed necessary to carry
+out its duties. The authority may appoint working committees that include other individuals
+in addition to voting members.
+2.
+The mission of the authority is to develop and coordinate plans for projects related to
+the unique natural resource, rural development, and infrastructure problems of counties in
+the deep loess region of western Iowa. The erosion and degradation of stream channels in
+the deep loess soils has occurred due to historic channelization of the Missouri river and
+straightening stream channels of its tributaries. This erosion of land has damaged the rural
+infrastructure of this area, destroyed public roads and bridges, adversely impacted stream
+water quality and riparian habitat, and affected other public and private improvements.
+Stabilization of stream channels is necessary to protect the rural infrastructure in the
+deep loess soils area of the state.
+The authority shall cooperate with the division of soil
+conservation and water quality created within the department of agriculture and land
+stewardship pursuant to section 159.5, the affected soil and water conservation districts, the
+department of natural resources, and the state department of transportation in carrying out
+its mission and duties. The authority shall also cooperate with appropriate federal agencies,
+including the United States environmental protection agency, the United States department
+of interior, and the United States department of agriculture natural resources conservation
+service.
+The authority shall make use of technical resources available through member
+counties and cooperating agencies.
+3.
+The authority shall administer the loess hills development and conservation fund
+created under section 161D.2 and shall deposit and expend moneys in the fund for the
+planning, development, and implementation of development and conservation activities or
+measures in the member counties.
+4.
+A hungry canyons alliance is created. The hungry canyons alliance shall be governed
+by a board of directors appointed as provided in its bylaws and the board shall carry out its
+responsibilities under the general direction of the loess hills development and conservation
+authority. The bylaws of the hungry canyons alliance are subject to review and approval of
+the loess hills development and conservation authority.
+5.
+This subchapter is not intended to affect the authority of the department of natural
+resources in its acquisition, development, and management of public lands within the
+counties represented by the authority.
+6.
+In matters relating to the conservation, preservation, or development of the loess hills,
+state agencies shall coordinate, cooperate, and consult with the loess hills development and
+conservation authority and its associated alliances.
+93 Acts, ch 136, §1; 95 Acts, ch 216, §25; 99 Acts, ch 119, §1; 2000 Acts, ch 1111, §1, 2; 2000
+Acts, ch 1154, §14; 2007 Acts, ch 211, §43; 2015 Acts, ch 103, §36
+Referred to in §161D.2, 161D.3, 161D.5
+161D.2 Loess hills development and conservation fund.
+A loess hills development and conservation fund is created in the state treasury.
+The
+fund shall include a hungry canyons account and a loess hills alliance account which shall
+be administered by the loess hills development and conservation authority. The proceeds
+of the respective accounts shall be used for the purposes specified in section 161D.1 or
+161D.6 as applicable. The loess hills development and conservation authority may accept
+gifts, bequests, other moneys including, but not limited to, state or federal moneys, and
+in-kind contributions for deposit in the fund. The gifts, grants, bequests from public and
+private sources, state and federal moneys, and other moneys received by the authority
+shall be deposited in the respective accounts and any interest earned shall be credited to
+the respective accounts to be used for the purposes specified in section 161D.1 or 161D.6
+as applicable.
+Notwithstanding section 8.33, any unexpended or unencumbered moneys
+remaining in the fund at the end of the fiscal year shall not revert to the general fund of the
+state, but the moneys shall remain available for expenditure by the authority in succeeding
+fiscal years.
+93 Acts, ch 136, §2; 99 Acts, ch 119, §2
+Referred to in §161D.1, 161D.3
+161D.3 Definitions.
+As used in this subchapter, unless the context otherwise requires:
+1.
+“Alliance” means the loess hills alliance created in section 161D.5.
+2.
+“Authority” means the loess hills development and conservation authority created in
+section 161D.1.
+3.
+“Fund” means the loess hills development and conservation fund created in section
+161D.2.
+99 Acts, ch 119, §3; 2000 Acts, ch 1154, §15
+161D.4 Mission statement.
+The mission of the loess hills alliance is to create a common vision for Iowa’s loess hills,
+protecting special natural and cultural resources while ensuring economic viability and
+private property rights of the region.
+99 Acts, ch 119, §4
+161D.5 Loess hills alliance created.
+1.
+A loess hills alliance is created. The alliance shall carry out its responsibilities under the
+general direction of the loess hills development and conservation authority. The alliance shall
+encompass the geographic region including the counties of Plymouth, Woodbury, Monona,
+Harrison, Pottawattamie, Mills, and Fremont. Membership and participation in projects of
+the alliance is not required. The alliance shall be governed by a board of directors appointed
+as follows:
+a.
+Three members appointed by the board of supervisors of each county participating in
+the alliance and at least one of the appointees shall be a member of the board of supervisors
+of a county participating in the alliance.
+b.
+Seven additional voting members who shall be persons with experience in the fields
+of environmental affairs, conservation, finance, development, tourism, or related fields, and
+who shall be appointed by the authority.
+c.
+The voting members of the board of directors appointed pursuant to paragraphs “a” and
+“b” shall include agricultural producers owning real property within the loess hills landform.
+2.
+Each voting member of the board of directors shall be a resident of a county which is
+eligible for membership in the authority pursuant to section 161D.1 and shall be appointed
+to a term of office as determined by the authority. The directors of the alliance shall carry out
+their responsibilities pursuant to bylaws approved by the authority.
+99 Acts, ch 119, §5; 2000 Acts, ch 1111, §3
+Referred to in §161D.3
+161D.6 Responsibilities.
+The board of directors of the alliance shall have the following responsibilities:
+1.
+To prepare and adopt a comprehensive plan for the development and conservation of
+the loess hills area subject to the approval of the authority. The plan shall provide for the
+designation of significant scenic areas, the protection of native vegetation, the education of
+the public on the need for and methods of preserving the natural resources of the loess hills
+area, and the promotion of tourism and related business and industry in the loess hills area.
+2.
+To apply for,
+accept,
+and expend public and private funds for planning and
+implementing projects, programs, and other components of the mission of the alliance
+subject to approval of the authority.
+3.
+To study different options for the protection and preservation of significant historic,
+scenic, geologic, and recreational areas of the loess hills including but not limited to a
+federal or state park, preserve, or monument designation, fee title acquisition, or restrictive
+easement.
+4.
+To make recommendations to and coordinate the planning and projects of the alliance
+with the authority.
+5.
+To develop and implement pilot projects for the protection of loess hills areas with the
+use of restrictive easements from willing sellers and fee title ownership from willing sellers
+subject to approval of the authority.
+6.
+To report annually not later than January 15 to the general assembly the activities of the
+alliance during the preceding fiscal year including, but not limited to, its projects, funding,
+and expenditures.
+99 Acts, ch 119, §6, 7, 9
+Referred to in §161D.2
+161D.7 Program coordination.
+The department of natural resources shall coordinate the blufflands protection program
+with the program and projects of the loess hills alliance.
+99 Acts, ch 119, §8
+Blufflands protection program; §161A.80A
+161D.8 Annual report — audit.
+1.
+The authority shall submit to the department of management, the legislative services
+agency, and the division of soil conservation and water quality of the department of
+agriculture and land stewardship, on or before December 31 annually, a report including
+information regarding all of the following:
+a.
+Its operations and accomplishments.
+b.
+Its budget, receipts, and actual expenditures during the previous fiscal year, in
+accordance with classifications it establishes for its operating and capital accounts.
+c.
+Its assets and liabilities at the end of the previous fiscal year and the status of reserve,
+special, and other funds.
+d.
+A statement of its proposed and projected activities.
+e.
+Recommendations to the governor and the general assembly, as deemed necessary.
+f.
+Any other information deemed necessary.
+2.
+The annual report shall identify performance goals of the authority, and clearly indicate
+the extent of progress during the reporting period in attaining these goals.
+3.
+The fund shall be subject to an annual audit by the auditor of state.
+2001 Acts, ch 185, §45; 2003 Acts, ch 35, §45, 49; 2015 Acts, ch 103, §37
+161D.9 Restriction.
+The loess hills development and conservation authority or the board of directors of the
+loess hills alliance shall not enter into any agreement with a local government or the state
+or federal government if the agreement regulates, on an involuntary basis, the action of a
+private landowner or the use of a private landowner’s land.
+2015 Acts, ch 111, §1
+161D.10
+Reserved.
+SUBCHAPTER II
+SOUTHERN IOWA DEVELOPMENT AND
+CONSERVATION AUTHORITY
+161D.11 Southern Iowa development and conservation authority created — membership
+and duties.
+1.
+A southern Iowa development and conservation authority is created.
+The counties
+of Appanoose, Clarke, Davis, Decatur, Jefferson, Lucas, Monroe, Van Buren, Wapello,
+and Wayne are entitled to one voting member each on the authority, but membership or
+participation in projects of the authority is not required.
+Each member of the authority
+shall be appointed by the respective board of supervisors for a term to be determined by
+each board of supervisors, but the term shall not be for less than one year. An appointee
+shall serve without compensation, but an appointee may be reimbursed for actual expenses
+incurred while performing the duties of the authority as determined by each board of
+supervisors. The authority shall meet, organize, and adopt rules of procedures as deemed
+necessary to carry out its duties.
+The authority may appoint working committees that
+include other individuals in addition to voting members.
+2.
+The mission of the authority is to develop and coordinate plans for projects related to
+the unique natural resources, rural development, and infrastructure problems of counties
+in the most fragile areas of the southern Iowa drift plain.
+The authority’s mission is
+established in part as a response to the erosion of soils, degradation of water resources,
+and the destabilization of stream channels in the fragile glacial till soils of southern Iowa
+that have occurred in a large part due to unchecked conversion of grassland to cropland.
+This land use conversion was brought about by the economic pressures of past federal
+agricultural policies that disregarded the fragile nature of the southern Iowa soil resource
+and the incompatibility of these soils with the subsidized commodities. The resulting erosion
+of the land has damaged the rural infrastructure of this area, destroyed public roads and
+bridges, adversely impacted stream water quality and riparian habitat, affected other public
+and private improvements, and severely threatens the potable water supply of the region.
+Reducing soil erosion, preventing sedimentation, and stopping nutrients and pesticides from
+entering water resources are all necessary to protect the rural infrastructure in the southern
+area of the state. Important protection measures include structural improvements and the
+reestablishment of grasslands for sustainable economic uses.
+3.
+The authority shall cooperate with the division of soil conservation and water quality
+of the department of agriculture and land stewardship and the affected soil and water
+conservation districts, the department of natural resources, and the state department of
+transportation in carrying out its mission and duties. The authority shall also cooperate with
+appropriate federal agencies, including the United States environmental protection agency,
+the United States department of interior, and the United States department of agriculture
+natural resources conservation service. The authority shall make use of technical resources
+available through member counties and cooperating agencies.
+4.
+The authority shall administer the southern Iowa development and conservation fund
+created under section 161D.12 and shall deposit and expend moneys in the fund for the
+planning, development, and implementation of development and conservation activities or
+measures in the member counties.
+5.
+This section is not intended to affect the authority of the department of natural
+resources in its acquisition, development, and management of public lands within the
+counties represented by the authority.
+99 Acts, ch 30, §1; 2015 Acts, ch 103, §38
+Referred to in §161D.12
+161D.12 Southern Iowa development and conservation fund.
+A southern Iowa development and conservation fund is created in the state treasury, to be
+administered by the southern Iowa development and conservation authority. The proceeds
+of the fund shall be used for the purposes specified in section 161D.11. The southern Iowa
+development and conservation authority may accept gifts, bequests, other moneys including,
+but not limited to, state or federal moneys, and in-kind contributions for deposit in the fund.
+The gifts, grants, bequests from public and private sources, state and federal moneys, and
+other moneys received by the authority shall be deposited in the fund and any interest earned
+on moneys in the fund shall be credited to the fund to be used for the purposes specified in
+section 161D.11. Notwithstanding section 8.33, any unexpended or unencumbered moneys
+remaining in the fund at the end of the fiscal year shall not revert to the general fund of the
+state, but the moneys shall remain available for expenditure by the authority in succeeding
+fiscal years.
+99 Acts, ch 30, §2
+Referred to in §161D.11
+161D.13 Annual report — audit.
+1.
+The southern Iowa development and conservation authority shall submit to the
+department of management, the legislative services agency, and the division of soil
+conservation and water quality of the department of agriculture and land stewardship, on or
+before December 31 annually, a report including information regarding all of the following:
+a.
+Its operations and accomplishments.
+b.
+Its budget, receipts, and actual expenditures during the previous fiscal year, in
+accordance with classifications it establishes for its operating and capital accounts.
+c.
+Its assets and liabilities at the end of the previous fiscal year and the status of reserve,
+special, and other funds.
+d.
+A statement of its proposed and projected activities.
+e.
+Recommendations to the governor and the general assembly, as deemed necessary.
+f.
+Any other information deemed necessary.
+2.
+The annual report shall identify performance goals of the authority, and clearly indicate
+the extent of progress during the reporting period in attaining these goals.
+3.
+The southern Iowa development and conservation fund shall be subject to an annual
+audit by the auditor of state.
+2001 Acts, ch 185, §46; 2003 Acts, ch 35, §45, 49; 2015 Acts, ch 103, §39
