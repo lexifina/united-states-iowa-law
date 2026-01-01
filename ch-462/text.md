@@ -1,0 +1,22 @@
+CHAPTER 462
+LANDOWNER LIABILITY TO TRESPASSERS
+462.1
+Liability of possessors and
+occupants of land to
+trespassers.
+462.1 Liability of possessors and occupants of land to trespassers.
+1.
+A possessor of any fee, reversionary, or easement interest in real property, including but
+not limited to an owner, lessee, or other lawful occupant, owes no duty of care to a trespasser
+except to refrain from willfully or wantonly injuring the trespasser and to use reasonable care
+to avoid injuring the trespasser after that trespasser’s presence becomes known.
+2.
+This section shall not be construed to affect the common law doctrine of attractive
+nuisance.
+3.
+This section does not create or increase the civil liability of any possessor or occupant of
+real property and does not affect any immunities from or defenses to civil liability established
+by another section of the Code or available at common law to which a possessor or occupant
+of real property may be entitled.
+2017 Acts, ch 129, §1, 2
+Section applies to all causes of action accrued on or after July 1, 2017; 2017 Acts, ch 129, §2
