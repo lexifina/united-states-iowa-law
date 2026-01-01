@@ -1,0 +1,60 @@
+CHAPTER 308A
+RECREATIONAL BIKEWAYS
+Referred to in §307.26
+308A.1
+Department of natural
+resources and transportation
+commissions to cooperate.
+308A.2
+Funds.
+308A.3
+Certain elevated structures
+prohibited — exception.
+308A.1 Department of natural resources and transportation commissions to cooperate.
+1.
+The department of natural resources, in consultation with the state transportation
+commission, is hereby authorized to establish recreational bikeways within this state for
+the use, enjoyment, and participation of the public in bicycling, not including the use of
+motorized bicycles as defined in section 321.1. The routes established for such bikeways
+shall be designed to maximize the safety of cyclists and motorists and may utilize secondary
+roads when the normal flow of motor vehicle traffic will not be hindered, as well as other
+infrequently traveled roads, streets, parkways, and appropriate thoroughfares.
+Such
+bikeways shall be routed, wherever possible, to allow the enjoyment of scenic views and
+points of historical interest, and may connect state parks and other recreational areas
+throughout the state.
+2.
+Bikeway routes shall be clearly marked with appropriate signs to guide cyclists
+and to alert motorists.
+Such signs shall be placed at intervals and designed in such
+form as prescribed by the department of natural resources in consultation with the state
+transportation commission.
+3.
+The department of natural resources is hereby authorized to cooperate with county
+conservation boards, boards of supervisors, city councils, or any private organizations
+interested in the establishment of bikeways, and may consult with such groups in the
+planning of appropriate bikeway routes and related activities.
+[C71, 73, 75, 77, 79, 81, §308A.1]
+2017 Acts, ch 54, §76; 2021 Acts, ch 125, §1
+Referred to in §308A.2
+308A.2 Funds.
+The department of natural resources may accept in the name of the state funds contributed
+by the groups specified in section 308A.1 and the funds shall be used exclusively in the
+establishment of bikeways as provided in this chapter. Additional funds as may be necessary
+in purchasing signs and otherwise carrying out the provisions of this chapter may be
+expended by the department of natural resources if authorized by the general assembly
+pursuant to appropriations for such purposes. The department shall be authorized to accept
+and expend federal funds made available for the purposes of aiding in the implementation
+of this chapter.
+[C71, 73, 75, 77, 79, 81, §308A.2]
+2019 Acts, ch 59, §86
+308A.3 Certain elevated structures prohibited — exception.
+Bikeways and walkways approved as either incidental features of highway construction
+projects primarily for motor vehicular traffic or as an independent bikeway or walkway
+construction project constructed pursuant to the Highway Act of 1973, 23 U.S.C. §217, shall
+not be constructed as elevated structures joining private buildings or so constructed to
+provide elevated access or egress facilities to private buildings unless the portion of project
+funds that is necessary to obtain federal funds is provided by private parties benefited by
+the facilities.
+[C77, 79, 81, §308A.3]
+2018 Acts, ch 1041, §79
