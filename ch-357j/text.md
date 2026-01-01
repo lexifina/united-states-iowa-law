@@ -1,0 +1,194 @@
+CHAPTER 357J
+EMERGENCY RESPONSE DISTRICTS
+Referred to in §331.382
+357J.1
+Authorization and purpose.
+357J.2
+Definitions.
+357J.3
+Notification of public hearing.
+357J.4
+District — boundary changes.
+357J.5
+through 357J.9
+Repealed by
+2022 Acts, ch 1017, §6.
+357J.10
+Approval of district property tax
+levy.
+357J.11
+Governance authority —
+commission.
+357J.12
+Commission powers.
+357J.13
+District fire chief.
+357J.14
+Fire chiefs.
+Repealed by 2022
+Acts, ch 1017, §6.
+357J.15
+Cities within the district.
+357J.16
+Bonds in anticipation of revenue.
+357J.17
+Transition — township tax
+discontinued.
+357J.18
+Transition — emergency
+medical services district
+taxes discontinued.
+357J.19
+Dissolution of district.
+357J.1 Authorization and purpose.
+1.
+This chapter authorizes the establishment of emergency response districts.
+2.
+The purpose of this chapter is to do all of the following:
+a.
+Serve a public use and promote the health, safety, prosperity, security, and general
+welfare of the citizens of emergency response districts by preventing or reducing duplication,
+overlap, and fragmentation of the functions and facilities of special districts.
+b.
+Better serve the citizens of the state through consolidation.
+c.
+Reduce costs and increase efficiency of operation.
+2008 Acts, ch 1152, §1; 2022 Acts, ch 1017, §1
+357J.2 Definitions.
+As used in this chapter, unless the context otherwise requires:
+1.
+“Commission” means a governing body composed of a member or designee of each
+governmental entity that is a member of the emergency response district.
+2.
+“District” means an emergency response area.
+3.
+“Governmental entity” means a county, city, or township.
+2008 Acts, ch 1152, §2; 2022 Acts, ch 1017, §2
+Referred to in §357J.11
+357J.3 Notification of public hearing.
+1.
+Each governmental entity intending to participate in an emergency response district
+shall issue a notice of intent to hold a public hearing concerning the establishment of a
+proposed district. The hearing shall not be held until at least thirty days after the notice is
+issued but not more than ninety days after the notice is issued.
+2.
+Notice required under subsection 1 shall include all of the following information:
+a.
+A statement explaining the need for fire protection service or emergency medical
+service.
+b.
+The geographic boundaries of the district.
+c.
+The approximate number of families in the district.
+d.
+The proposed personnel, equipment, and facilities to provide the fire protection services
+or emergency medical services.
+e.
+The date, time, and location of the public hearing.
+2008 Acts, ch 1152, §3; 2022 Acts, ch 1017, §3
+357J.4 District — boundary changes.
+1.
+The boundary lines of a district may include any incorporated or unincorporated areas.
+2. a.
+The boundary lines of a district shall not be changed after the district is established
+except as provided in this subsection.
+b.
+The boundary lines of a district shall be changed and shall become effective
+immediately upon approval of the commission and each governmental entity currently
+participating in the emergency response district.
+2008 Acts, ch 1152, §4; 2009 Acts, ch 165, §3, 4; 2022 Acts, ch 1017, §4
+357J.5 through 357J.9
+Repealed by 2022 Acts, ch 1017, §6.
+357J.10 Approval of district property tax levy.
+Annually, the commission shall propose the levy of a tax of not more than one dollar and
+sixty and three-quarters cents per one thousand dollars of assessed value on all taxable
+property within the district.
+A proposed property tax levy rate shall not be approved by
+the commission unless two-thirds of the commission’s members are present when the
+proposed property tax levy rate is approved. The commission shall hold a public hearing
+within thirty days of the commission’s approval of a proposed property tax levy rate to
+receive public comment. Notice of the hearing shall be given by publication in a newspaper
+of general circulation within the district and shall be posted in a public place in each city
+within the district no less than ten days before the public hearing. The notice shall include
+the commission’s proposed property tax levy rate, the reason for the tax, and the time
+when and the place where the hearing shall be held. The commission shall be considered a
+municipality for purposes of adopting and certifying a budget pursuant to chapter 24 and
+shall set the property tax levy rate no more than ten days following the public hearing.
+The tax shall be set to raise only the amount needed. The commission shall have exclusive
+tax-levying authority for the district.
+2008 Acts, ch 1152, §10
+Referred to in §357J.12, 357J.16
+357J.11 Governance authority — commission.
+The district shall be governed by a commission, as defined in section 357J.2.
+2008 Acts, ch 1152, §11
+357J.12 Commission powers.
+1.
+The commission may purchase, own, rent, or maintain fire and emergency medical
+services apparatus or equipment within the state or outside the territorial jurisdiction and
+boundary limits of this state, provide housing for such apparatus and equipment, provide fire
+protection service and emergency medical service and facilities, and may certify for levy an
+annual tax as provided in section 357J.10. The commission may purchase material, employ
+fire protection service personnel, emergency medical service personnel, and other personnel,
+and may perform all other acts necessary to properly maintain and operate the district. The
+commission may contract under chapter 28E with any city or county or public or private
+agency that is not a member of the district for the purpose of providing fire protection service
+or emergency medical service under this chapter. The commissioners are allowed necessary
+expenses in the discharge of their duties.
+2.
+The commission shall draw the boundaries of fire and emergency medical services
+areas within the district to be assigned to various fire departments and stations throughout
+the district.
+2008 Acts, ch 1152, §12
+357J.13 District fire chief.
+The commission shall appoint a district fire chief who shall serve at the pleasure of the
+commission and shall be responsible for the coordination of fire protection service and
+emergency medical service throughout the district.
+2008 Acts, ch 1152, §13
+357J.14 Fire chiefs.
+Repealed by 2022 Acts, ch 1017, §6.
+357J.15 Cities within the district.
+If a city is included in a district, the maximum tax levy authorized for the general fund of
+that city under section 384.1 shall be reduced by the amount of the tax rate levied within the
+city by the district. Such city shall not be responsible for providing fire protection service
+and emergency medical service as provided in section 364.16, and shall have no liability for
+the method, manner, or means by which the district provides the fire protection service and
+emergency medical service.
+2008 Acts, ch 1152, §15
+357J.16 Bonds in anticipation of revenue.
+A district may anticipate the collection of taxes by the levy authorized in section 357J.10,
+and to carry out the purposes of this chapter may issue bonds payable in not more than ten
+equal installments with the rate of interest not exceeding that permitted by chapter 74A. An
+indebtedness shall not be incurred under this chapter until authorized by an election. The
+election shall be conducted by the county commissioner of elections pursuant to chapters 39
+through 53. The commission shall give the county commissioner of elections forty-six days’
+notice of the special election.
+2008 Acts, ch 1152, §16; 2010 Acts, ch 1033, §49, 56
+357J.17 Transition — township tax discontinued.
+When the boundary lines of the district include all or a portion of a township and the
+district has certified a tax levy within the township for the purpose of fire protection service
+and emergency medical service, the township trustees shall no longer levy the tax provided
+by section 359.43 in that portion of the township provided services by the district.
+Any
+indebtedness incurred for the purposes of sections 359.42 through 359.45 for a service
+now provided by the district shall be assumed by the district. Such township shall not be
+responsible for providing fire protection service and emergency medical service as provided
+in section 359.42 for the portion of the township within the district, and shall have no liability
+for the method, manner, or means by which the district provides the fire protection service
+and emergency medical service.
+2008 Acts, ch 1152, §17
+357J.18 Transition — emergency medical services district taxes discontinued.
+When the boundary lines of the emergency response district include all or a portion of an
+emergency medical services district under chapter 357F or chapter 357G and the emergency
+response district has certified a tax to be levied on property located within the emergency
+medical services district for the purpose of emergency medical service, the emergency
+medical services district trustees shall no longer levy the taxes authorized in section 357F.8
+or section 357G.8 in that portion of such emergency medical services district that is provided
+services by the emergency response district. Any indebtedness incurred by an emergency
+medical services district under chapter 357F or chapter 357G for a service now provided by
+the emergency response district shall be assumed by the emergency response district.
+2008 Acts, ch 1152, §18
+357J.19 Dissolution of district.
+Incorporation documents of an emergency response district shall include provisions for
+dissolution, the withdrawal of an individual participant in the emergency response district,
+and the dispensing of property in the case of either event.
+2022 Acts, ch 1017, §5
