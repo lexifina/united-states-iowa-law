@@ -1,0 +1,73 @@
+CHAPTER 34
+EMERGENCY TELEPHONE NUMBER (911)
+This chapter not enacted as a part of this
+title; transferred from chapter 477A in Code 1993
+34.1
+Definitions.
+34.2
+911 service.
+34.1 Definitions.
+As used in this chapter unless the context otherwise requires:
+1.
+“911 service” means a service which provides the user of a public telephone system the
+ability to reach a public safety answering point by dialing the digits 9-1-1.
+2.
+“Private safety entity” means a private entity which provides emergency fire,
+ambulance, or medical services whether by full or part-time employees or on a volunteer
+basis.
+3.
+“Public agency” means the state government and any unit of local government or special
+purpose district located in whole or in part within the state that provides or has authority to
+provide fire fighting, law enforcement, ambulance, medical, or other emergency services.
+4.
+“Public safety agency” means a functional unit of a public agency that provides fire
+fighting, law enforcement, ambulance, medical, or other emergency services.
+5.
+“Public safety answering point” means a communications facility operated on a
+twenty-four hour basis and serving participating jurisdictions, that initially receives 911
+calls and either directly dispatches emergency response services, or relays the calls to the
+appropriate public safety agency.
+86 Acts, ch 1246, §763
+C87, §477A.1
+C93, §34.1
+94 Acts, ch 1023, §6
+Referred to in §321.234A, 321.276, 707.6A
+34.2 911 service.
+1.
+After July 1, 1986, when 911 service is established in a service area each public agency,
+public safety agency, and private safety entity serving territory within the service area shall
+participate in providing the 911 service. The 911 service shall be established according to a
+written plan which has the written approval of the governing bodies of each public agency,
+public safety agency, and private safety entity serving territory within the 911 service area.
+2.
+This chapter does not prohibit or discourage participation in or the provision of 911
+service covering the territory of more than one public agency, public safety agency, or private
+safety entity. A system established pursuant to this section may serve the territory of more
+than one public agency, public safety agency, or private safety entity or may include a part of
+their respective territories. Public agencies, public safety agencies, and private safety entities
+may enter into agreements under chapter 28E to provide 911 service.
+3.
+The digits “911” shall be the primary emergency telephone number within the 911
+service areas established under this section. A public safety agency or a private safety entity
+whose services are available through a 911 system may maintain a separate secondary
+backup number for emergencies, and shall maintain a separate number for nonemergency
+telephone calls.
+4. a.
+A 911 system shall be capable of transmitting requests for law enforcement, fire
+fighting, and emergency medical and ambulance services to a public safety agency or
+agencies that provide the requested service at the place where the call originates. A 911
+system may also provide for transmitting requests for emergency management, poison
+control, suicide prevention, and other emergency services.
+The public safety answering
+point shall be capable of receiving calls from deaf and hard-of-hearing persons through a
+telecommunications device for the deaf and hard of hearing. Conferencing capability with
+counseling, aid to persons with disabilities, and other services as deemed necessary for
+identifying appropriate emergency response services may be provided by the 911 service.
+b.
+A public safety answering point may transmit emergency response requests to private
+safety entities.
+86 Acts, ch 1246, §764
+C87, §477A.2
+92 Acts, ch 1139, §32
+C93, §34.2
+93 Acts, ch 75, §2; 96 Acts, ch 1129, §13; 2020 Acts, ch 1102, §1
