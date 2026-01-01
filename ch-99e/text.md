@@ -1,0 +1,337 @@
+CHAPTER 99E
+INTERNET FANTASY SPORTS CONTESTS
+Referred to in §80.25A, 99D.7, 99D.14, 99F.2, 99F.4, 99F.4B, 99F.10, 232C.4, 714B.10, 725.7, 725.13, 725.15
+99E.1
+Definitions.
+99E.2
+Internet fantasy sports contests
+authorized.
+99E.3
+Commission — powers.
+99E.4
+Requirements of applicant — fee.
+99E.5
+Licenses — fees — terms and
+conditions — revocation.
+99E.6
+Internet fantasy sports contest
+tax — rate — allocation.
+99E.7
+Internet fantasy sports contests
+— age restrictions.
+99E.8
+Licensees — records — reports —
+confidentiality.
+99E.9
+Annual audit of licensee
+operations.
+99E.10
+Civil penalty.
+99E.1 Definitions.
+As used in this chapter, unless the context otherwise requires:
+1.
+“Applicant” means an internet fantasy sports contest service provider applying for a
+license to conduct internet fantasy sports contests under this chapter.
+2.
+“Commission” means the state racing and gaming commission created under section
+99D.5.
+3.
+“Fantasy sports contest” includes any fantasy or simulated game or contest in which
+the fantasy sports contest operator is not a participant in the game or contest, the value of
+all prizes and awards offered to winning participants are established and made known to the
+participants in advance of the contest, all winning outcomes reflect the relative knowledge
+and skill of the participants and shall be determined by accumulated statistical results of the
+performance of individuals, including athletes in the case of sporting events, and no winning
+outcome is solely based on the score, point spread, or any performance or performances of
+any single actual team or solely on any single performance of an individual athlete or player
+in any single actual event. However, until May 1, 2020, “fantasy sports contest” does not
+include any fantasy or simulated game or contest in which any winning outcomes are based
+on statistical results from a collegiate sporting event as defined in section 99F.1.
+4.
+“Internet fantasy sports contest” means a method of entering a fantasy sports contest
+by which a person may establish an account with an internet fantasy sports contest service
+provider, deposit money into the account, and use the account balance for entering a fantasy
+sports contest by utilizing electronic communication.
+5.
+“Internet fantasy sports contest adjusted revenues” means, for each internet fantasy
+sports contest, the amount equal to the total charges and fees collected from all participants
+entering the internet fantasy sports contest less winnings paid to participants in the contest,
+multiplied by the location percentage.
+6.
+“Internet fantasy sports contest player” means a person who is at least twenty-one years
+of age and participates in an internet fantasy sports contest operated by an internet fantasy
+sports contest service provider.
+7.
+“Internet fantasy sports contest service provider” means a person, including a licensee
+under chapter 99D or 99F, who conducts an internet fantasy sports contest as authorized by
+this chapter.
+8.
+“Licensee” means any person licensed under section 99E.5 to conduct internet fantasy
+sports contests.
+9.
+“Location percentage” means, for each internet fantasy sports contest, the percentage,
+rounded to the nearest tenth of a percent, equal to the total charges and fees collected from
+all internet fantasy sports contest players located in this state divided by the total charges and
+fees collected from all participants in the internet fantasy sports contest.
+2019 Acts, ch 132, §26, 45, 46
+Referred to in §80.43, 99B.41, 99D.7, 99F.1, 99F.4, 99F.20
+99E.2 Internet fantasy sports contests authorized.
+The system of entering an internet fantasy sports contest as provided by this chapter is legal
+when conducted by a licensed internet fantasy sports contest service provider as provided in
+this chapter.
+2019 Acts, ch 132, §27, 45, 46
+99E.3 Commission — powers.
+1. The commission shall have full jurisdiction over and shall supervise internet fantasy
+sports contests and internet fantasy sports contest service providers as governed by this
+chapter.
+2.
+The commission shall have the following powers and shall adopt rules pursuant to
+chapter 17A to administer and implement this chapter:
+a.
+To review and investigate applicants and determine the eligibility of applicants for
+a license to conduct internet fantasy sports contests, pursuant to rules adopted by the
+commission.
+b.
+To license and regulate internet fantasy sports contest service providers subject to the
+requirements of this chapter.
+c.
+To provide for the prevention of practices detrimental to the public and to provide for
+the best interests of internet fantasy sports contests.
+d.
+To investigate alleged violations of this chapter or the commission rules, orders, or
+final decisions and to take appropriate disciplinary action against a licensee, or institute
+appropriate legal action for enforcement, or both.
+Information gathered during an
+investigation is confidential during the pendency of the investigation.
+e.
+To assess fines and revoke or suspend licenses and to impose penalties for violations
+of this chapter.
+f.
+To take any other action as may be reasonable or appropriate to enforce this chapter
+and the commission rules.
+2019 Acts, ch 132, §28, 45, 46
+99E.4 Requirements of applicant — fee.
+1.
+An applicant for a license to conduct internet fantasy sports contests shall complete and
+sign an application on the form prescribed and published by the commission. The application
+shall include such information of the applicant that the commission deems necessary for
+purposes of issuing a license pursuant to this chapter.
+2.
+An applicant shall submit fingerprints and information that the commission deems
+necessary to the commission in the manner prescribed on the application forms.
+The
+fingerprints may be submitted to the federal bureau of investigation by the department of
+public safety through the state criminal history repository for the purpose of a national
+criminal history check. The results of a criminal history record check conducted pursuant
+to this subsection shall be considered a confidential record under chapter 22.
+3.
+Before a license is granted, the division of criminal investigation of the department of
+public safety shall conduct a thorough background investigation of the applicant for a license
+to conduct internet fantasy sports contests. The applicant shall provide information on a form
+as required by the division of criminal investigation.
+4.
+The commission shall charge the applicant a reasonable fee set by the division of
+criminal investigation of the department of public safety, to defray those costs associated
+with the fingerprint and national criminal history check requirements of subsection 2 and
+background investigations conducted by agents of the division of criminal investigation as
+provided in subsection 3. These fees and costs are in addition to any other license fees and
+costs charged by the commission. The fees and costs received by the commission shall be
+deposited in the gaming enforcement revolving fund established in section 80.43.
+5.
+The commission shall not grant a license to an applicant if there is substantial evidence
+that any of the following apply:
+a.
+A license issued to the applicant to conduct internet fantasy sports contests in another
+jurisdiction has been revoked, or a request for a license to conduct internet fantasy sports
+contests in another jurisdiction has been denied, by an entity licensing persons to conduct
+such contests in that jurisdiction.
+b.
+The applicant has not demonstrated financial responsibility sufficient to adequately
+meet the requirements of the enterprise proposed.
+c.
+The applicant does not adequately disclose the true owners of the enterprise proposed.
+d.
+The applicant has knowingly made a false statement of a material fact to the
+commission.
+e.
+The applicant has failed to meet a monetary obligation in connection with conducting
+an internet fantasy sports contest.
+f.
+The applicant is not of good repute and moral character or the applicant has pled guilty
+to, or has been convicted of, a felony.
+g.
+Any member of the board of directors of the applicant is not twenty-one years of age
+or older.
+6.
+A person who knowingly makes a false statement on the application is guilty of an
+aggravated misdemeanor.
+7.
+For the purposes of this section, “applicant” includes each member of the board of
+directors of an internet fantasy sports contest service provider.
+2019 Acts, ch 132, §29, 45, 46
+Referred to in §80.43, 99E.5
+99E.5 Licenses — fees — terms and conditions — revocation.
+1.
+If the commission is satisfied that the requirements of this chapter and its rules adopted
+under this chapter applicable to licensees have been or will be complied with, the commission
+shall, upon payment of an initial license fee of five thousand dollars, issue a license for a
+period of not more than three years to an applicant to conduct internet fantasy sports contests
+in this state.
+2.
+A licensed internet fantasy sports contest service provider shall use reasonable methods
+to comply with all of the following requirements:
+a.
+Prevent employees of the internet fantasy sports contest service provider and relatives
+living in the same household of such employees from competing in any internet fantasy sports
+contest on the service provider’s digital platform in which the service provider offers a cash
+prize to the public.
+b.
+Verify that an internet fantasy sports contest player located in this state is twenty-one
+years of age or older.
+c.
+Ensure that coaches, officials, players, contestants, or other individuals who participate
+in a game or contest that is the subject of an internet fantasy sports contest are restricted from
+entering an internet fantasy sports contest in which the outcome is determined, in whole or
+in part, by the accumulated statistical results of a team of individuals in the game or contest
+in which they participate.
+d.
+Include on the internet site or mobile application used by the licensee to conduct
+internet fantasy sports contests the statewide telephone number authorized by the
+department of health and human services to provide problem gambling information and
+extensive responsible gaming features in addition to those described in section 99F.4,
+subsection 22.
+e.
+Allow individuals to establish an account with an internet fantasy sports contest service
+provider by utilizing electronic communication.
+f.
+Disclose the number of entries a single internet fantasy sports contest player may submit
+to each internet fantasy sports contest and take reasonable steps to prevent players from
+submitting more than the allowable number of entries for that internet fantasy sports contest.
+g.
+Segregate internet fantasy sports contest player funds from operational funds or
+maintain a reserve in the form of cash, cash equivalents, an irrevocable letter of credit,
+payment processor reserves and receivables, a bond, or a combination thereof in the
+amount of the deposits in internet fantasy sports contest player accounts for the benefit and
+protection of internet fantasy sports contest player funds held in internet fantasy sports
+contest accounts by the internet fantasy sports contest service provider.
+h.
+Conduct an annual audit under section 99E.9.
+i.
+Pay the tax as provided in section 99E.6.
+j.
+Prohibit participants in an internet fantasy sports contest from making any payments
+by credit card.
+3.
+The annual license fee to conduct internet fantasy sports contests shall be one thousand
+dollars or, for a licensed internet fantasy sports contest service provider with total annual
+internet fantasy sports contest adjusted revenues for the year prior to the annual license fee
+renewal date of one hundred fifty thousand dollars or greater, five thousand dollars. Moneys
+collected by the commission from the license fees paid under this section shall be considered
+appropriated receipts as defined in section 8.2.
+4. a.
+A licensed internet fantasy sports contest service provider shall pay a regulatory fee
+to the commission. The regulatory fee shall be established by the commission based on the
+costs of administering and enforcing this chapter.
+b.
+A licensed internet fantasy sports contest service provider shall receive a credit for the
+amount of the regulatory fee paid by the provider against the taxes to be paid pursuant to
+section 99E.6.
+c.
+The portion of the fee paid pursuant to paragraph “a” relating to the costs of the
+commission shall be deposited into the gaming regulatory revolving fund established in
+section 99F.20.
+5.
+Upon a violation of any of the conditions listed in section 99E.4 or this section by a
+licensee, the commission shall immediately revoke the license.
+2019 Acts, ch 132, §30, 45, 46; 2020 Acts, ch 1066, §2; 2023 Acts, ch 19, §64; 2024 Acts, ch
+1185, §125, 126
+Referred to in §99E.1, 99F.20
+99E.6 Internet fantasy sports contest tax — rate — allocation.
+1.
+A tax is imposed on internet fantasy sports contest adjusted revenues received each
+fiscal year by an internet fantasy sports contest service provider from internet fantasy sports
+contests authorized under this chapter at the rate of six and three-quarters percent.
+2.
+The taxes imposed by this section for internet fantasy sports contests authorized
+under this chapter shall be paid by the internet fantasy sports contest service provider to
+the treasurer of state as determined by the commission and shall be credited as provided
+in section 8.57I.
+2019 Acts, ch 132, §31, 45, 46; 2024 Acts, ch 1185, §127
+Referred to in §99E.5
+99E.7 Internet fantasy sports contests — age restrictions.
+A person under the age of twenty-one years shall not enter an internet fantasy sports
+contest.
+A person who violates this section with respect to entering an internet fantasy
+sports contest commits a scheduled violation under section 805.8C, subsection 13.
+2019 Acts, ch 132, §32, 45, 46
+Referred to in §805.8C(13)
+99E.8 Licensees — records — reports — confidentiality.
+1.
+An internet fantasy sports contest service provider shall keep its books and records
+so as to clearly show the internet fantasy sports contest adjusted revenues for each internet
+fantasy sports contest subject to tax in this state.
+2. a.
+The licensee shall furnish to the commission reports and information as the
+commission may require with respect to the licensee’s activities.
+b.
+A licensee shall promptly report to the commission any criminal or disciplinary
+proceedings commenced against the licensee or its employees in connection with the
+licensee conducting an internet fantasy sports contest, any abnormal contest activity or
+patterns that may indicate a concern about the integrity of an internet fantasy sports
+contest, and any other conduct with the potential to corrupt an outcome of an internet
+fantasy sports contest for purposes of financial gain, including but not limited to match
+fixing, and suspicious or illegal internet fantasy sports contest activities, including the use
+of funds derived from illegal activity, deposits of money to enter an internet fantasy sports
+contest to conceal or launder funds derived from illegal activity, use of agents to enter an
+internet fantasy sports contest, or use of false identification. The commission is required
+to share any information received pursuant to this paragraph with the division of criminal
+investigation, any other law enforcement entity upon request, or any regulatory agency the
+commission deems appropriate.
+The commission shall promptly report any information
+received pursuant to this paragraph with any sports team or sports governing body as the
+commission deems appropriate, but shall not share any information that would interfere
+with an ongoing criminal investigation.
+3.
+Except as provided in subsection 4, the books and records kept by a licensee as provided
+by this section are public records and the examination, publication, and dissemination of the
+books and records are governed by the provisions of chapter 22.
+4.
+The records of the commission shall be governed by the provisions of chapter 22,
+provided that, in addition to records that may be kept confidential pursuant to section 22.7,
+the following records provided by a licensee to the commission shall be kept confidential,
+unless otherwise ordered by a court, by the lawful custodian of the records, or by another
+person duly authorized to release such information:
+a.
+Patron and customer records.
+b.
+Security reports and network audits.
+c.
+Internal control and compliance records.
+d.
+Employee records.
+e.
+Marketing expenses.
+f.
+Supplemental schedules to the certified audit, except for those books and records as
+described in subsection 1 of this section, that are obtained by the commission in connection
+with the annual audit under section 99E.9.
+g.
+Any information specifically requested for inspection by the commission or a
+representative of the commission.
+2019 Acts, ch 132, §33, 45, 46
+99E.9 Annual audit of licensee operations.
+Within one hundred eighty days after the end of the licensee’s fiscal year, the licensee shall
+transmit to the commission an audit of the licensee’s total internet fantasy sports contest
+operations, including an itemization of all expenses and subsidies.
+Each audit shall be
+conducted by a certified public accountant authorized to practice in the state of Iowa under
+chapter 542 who is selected by the licensee and approved by the commission.
+2019 Acts, ch 132, §34, 45, 46
+Referred to in §99E.5, 99E.8
+99E.10 Civil penalty.
+A person who willfully fails to comply with the requirements of this chapter and the rules
+adopted pursuant to chapter 17A under this chapter shall be liable for a civil penalty of not
+more than one thousand dollars for each violation, not to exceed ten thousand dollars for
+violations arising out of the same transaction or occurrence, which shall accrue to the state
+and may be recovered in a civil action.
+2019 Acts, ch 132, §35, 45, 46
