@@ -1,0 +1,162 @@
+CHAPTER 404B
+DISASTER REVITALIZATION TAX EXEMPTIONS
+Referred to in §364.19
+404B.1
+Disaster revitalization area.
+404B.2
+Conditions mandatory.
+404B.3
+Disaster revitalization plan
+amendments.
+404B.4
+Basis of tax exemption.
+404B.5
+Application for exemption by
+property owner.
+404B.6
+Physical review of property by
+assessor.
+404B.7
+Expiration or repeal of ordinance.
+404B.1 Disaster revitalization area.
+1. a.
+The governing body of a city may, by ordinance, designate an area of the city a
+disaster revitalization area if that area is within a county or portion of a county in which the
+governor has proclaimed a disaster emergency or the United States president has declared a
+major disaster.
+b.
+The governing body of a county may, by ordinance, designate an area of the county
+outside the boundaries of a city as a disaster revitalization area if that area is within a county
+or portion of a county in which the governor has proclaimed a disaster emergency or the
+United States president has declared a major disaster.
+2.
+A disaster revitalization area shall be composed of contiguous parcels. However, the
+governing body of a city or the governing body of a county may establish more than one
+disaster revitalization area.
+2009 Acts, ch 100, §23, 30
+Referred to in §404B.2
+404B.2 Conditions mandatory.
+A city or county may only exercise the authority conferred upon it in this chapter after all
+of the following conditions have been met:
+1.
+The governing body has adopted a resolution finding that the property located within
+the area was damaged by a disaster, that revitalization of the area is in the economic interest of
+the residents of the city or county, as applicable, and the area substantially meets the criteria
+of section 404B.1.
+2.
+The city or county has prepared a proposed plan for the designated disaster
+revitalization area.
+The proposed disaster revitalization plan shall include all of the
+following:
+a.
+A legal description of the real property forming the boundaries of the proposed area
+along with a map depicting the existing parcels of real property.
+b.
+The assessed valuation of the real property in the proposed area as of January 1, 2007,
+listing the land and building values separately.
+c.
+A list of names and addresses of the owners of record of real property within the area.
+d.
+The existing zoning classifications and district boundaries and the existing and
+proposed land uses within the area.
+e.
+The exemption percentage applicable in the proposed area pursuant to section 404B.4.
+f.
+A statement specifying whether none, some, or all of the property assessed as
+residential, agricultural, commercial, or industrial property within the designated area is
+eligible for the exemption under section 404B.4.
+g.
+A definition of revitalization, including whether it is applicable to existing buildings,
+new construction, or development of previously vacant land. A definition of revitalization
+may also include a requirement for a minimum increase in assessed valuation of individual
+parcels of property in the area.
+h.
+A statement specifying the duration of the designated disaster revitalization area.
+i.
+A description of planned measures to mitigate or prevent future disaster damage in the
+area.
+j.
+A description of revitalization projects commenced prior to the effective date of the plan
+that are eligible for the exemption under section 404B.4.
+3. a.
+The city or county has scheduled a public hearing and published notice of the
+hearing in accordance with section 362.3 or 331.305, as applicable. In addition to notice by
+publication, notification shall also be given by ordinary mail to the last known address of
+the owners of record. The city or county shall also send notice by ordinary mail addressed
+to the “occupants” of addresses located within the proposed area, unless the governing body
+of the city or county, by reason of lack of a reasonably current and complete address list, or
+for other good cause, shall have waived the notice.
+b.
+The notice provided by mail to owners and occupants within the area shall be given no
+later than thirty days before the date of the public hearing.
+4.
+The public hearing has been held.
+5.
+The city or county has adopted the proposed or amended plan for the disaster
+revitalization area after the hearing.
+2009 Acts, ch 100, §24, 30
+404B.3 Disaster revitalization plan amendments.
+1.
+The city or county may subsequently amend a disaster revitalization plan after a
+hearing. Notice of the hearing shall be published as provided in section 362.3 or 331.305,
+except that at least seven days’ notice must be given, and the public hearing shall not be
+held earlier than the next regularly scheduled city council or board of supervisors meeting
+following the published notice. Notice shall also be provided by ordinary mail to owners and
+occupants within the area and any proposed addition to the area.
+2.
+A city which has adopted a plan for a disaster revitalization area that covers all property
+within the city limits may amend that plan at any time, pursuant to this section, to include
+property which has been or will be annexed to the city. The provisions of the original disaster
+revitalization plan shall be applicable to the property that is annexed and the property shall
+be considered to have been part of the disaster revitalization area as of the effective date of
+its annexation to the city. The notice and hearing provisions of subsection 1 shall apply to
+amendments under this subsection.
+2009 Acts, ch 100, §25, 30
+404B.4 Basis of tax exemption.
+1.
+All real property within a disaster revitalization area is eligible to receive a one
+hundred percent exemption from taxation on the increase in assessed value of the property,
+as compared to the property’s assessed value on January 1, 2007, if the increase in assessed
+value is attributable to revitalization of the property occurring between May 25, 2008, and
+December 31, 2013. The exemption is for a period not to exceed five years, starting with an
+assessment year beginning on or after January 1, 2010.
+2.
+A city or county may adopt a different tax exemption percentage than the exemption
+provided in subsection 1.
+The different percentage adopted shall not allow a greater
+exemption, but may allow a smaller exemption. A different percentage adopted by a city or
+county shall apply to every disaster revitalization area within the city or county. The owners
+of real property eligible for the exemption provided in this section shall elect to take the
+exemption or shall elect to take an eligible exemption provided under another statute. Once
+the election has been made and the exemption granted, the owner is not permitted to change
+the method of exemption.
+2009 Acts, ch 100, §26, 30
+Referred to in §404B.2
+404B.5 Application for exemption by property owner.
+An application shall be filed for each revitalization project resulting in increased assessed
+value for which an exemption is claimed. The application for exemption shall be filed by
+the owner of the property with the local assessor by February 1 of the first assessment year
+for which the exemption is requested. Applications for exemption shall be made on forms
+prescribed by the local assessor and shall contain information pertaining to the requirements
+under this section and any requirements imposed by a city or county governing body.
+2009 Acts, ch 100, §27, 30
+404B.6 Physical review of property by assessor.
+The local assessor shall review each application by making a physical review of the
+property to determine if the revitalization project increased the assessed value of the
+real property. If the assessor determines that the assessed value of the real property has
+increased, the assessor shall proceed to determine the assessed value of the property
+and certify the valuation determined to the county auditor at the time of transmitting the
+assessment rolls.
+The assessor shall notify the applicant of the determination, and the
+assessor’s decision may be appealed to the local board of review at the times specified
+in section 441.37.
+After the tax exemption is granted, the local assessor shall continue
+to grant the tax exemption, with periodic physical review by the assessor, for the time
+period specified by ordinance. The tax exemption for the succeeding years shall be granted
+without the taxpayer having to file an application for the succeeding years, unless additional
+revitalization projects occur on the property.
+2009 Acts, ch 100, §28, 30
+404B.7 Expiration or repeal of ordinance.
+An ordinance enacted under this chapter shall expire or be repealed no later than December
+31, 2016.
+2009 Acts, ch 100, §29, 30
