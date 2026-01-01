@@ -1,0 +1,17 @@
+CHAPTER 104B
+MINIMUM PLUMBING FACILITIES
+Referred to in §10A.104, 103A.5
+104B.1
+Minimum plumbing facilities.
+104B.1 Minimum plumbing facilities.
+1.
+Places of assembly for public use including but not limited to theaters, auditoriums,
+and convention halls, constructed on or after January 1, 1991, shall conform to the standards
+for minimum plumbing facilities as provided in the uniform plumbing code.
+2.
+Restaurants, pubs, and lounges constructed on or after January 1, 1991, shall conform
+to the standards for minimum plumbing facilities as provided in the uniform plumbing code.
+3.
+All toilets installed pursuant to this section shall be water efficient toilets which use
+three gallons or less of water per flush.
+90 Acts, ch 1214, §1; 2011 Acts, ch 95, §4
