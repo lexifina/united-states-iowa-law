@@ -1,0 +1,143 @@
+CHAPTER 215A
+MOISTURE-MEASURING DEVICES
+215A.1
+Definitions.
+215A.2
+Inspection by department.
+215A.3
+Rules adopted — hearing.
+215A.4
+Officer assigned to act.
+215A.5
+Marking with seal.
+215A.6
+Procedure when device rejected.
+215A.7
+Located where visible to public.
+215A.8
+Untested devices not to be used
+— exception.
+215A.9
+Inspection fee.
+215A.10
+Penalty.
+215A.1 Definitions.
+As used in this chapter:
+1.
+“Agricultural products” means any product of agricultural activity which is tested for
+moisture content when offered for sale, processing, or storage.
+2.
+“Department” means the Iowa department of agriculture and land stewardship.
+3.
+“Moisture-measuring devices” means any device or instrument used by any person in
+proving or ascertaining the moisture content of agricultural products.
+4.
+“Person” means an individual, corporation, partnership, cooperative association, or two
+or more persons having a joint or common interest in the same venture and shall include the
+United States, the state, or any subdivision of either.
+5.
+“Secretary” means the secretary of agriculture.
+[C71, 73, 75, 77, 79, 81, §215A.1]
+2012 Acts, ch 1023, §157
+Further definitions, see §189.1
+215A.2 Inspection by department.
+The
+department
+shall
+inspect
+or
+cause
+to
+be
+inspected
+at
+least
+annually
+every
+moisture-measuring device used in commerce in this state, except those belonging to the
+United States or the state, or any subdivision of either, except as herein provided.
+The
+department may inspect or cause to be inspected at the convenience of the department any
+moisture-measuring device upon a request in writing from the owner thereof.
+[C71, 73, 75, 77, 79, 81, §215A.2]
+215A.3 Rules adopted — hearing.
+The department is charged with the enforcement of this chapter and, after due publicity
+and due public hearing, is empowered to establish rules, regulations, specifications,
+standards, and tests as necessary in order to secure the efficient administration of this
+chapter.
+Publicity concerning the public hearing shall be reasonably calculated to give
+interested parties adequate notice and adequate opportunity to be heard. In establishing
+such rules, regulations, specifications, standards, and tests the department may use the
+specifications and tolerances established in section 215.18, and shall use the specifications
+and tolerances established by the United States department of agriculture as of November 15,
+1971, in chapter XII of GR instruction 916-6, equipment manual, used by the United States
+department of agriculture grain inspection, packers and stockyards administration.
+The
+department may from time to time publish such data in connection with the administration
+of this chapter as may be of public interest.
+[C71, 73, 75, 77, 79, 81, §215A.3]
+95 Acts, ch 216, §25
+215A.4 Officer assigned to act.
+The department may at its discretion designate an employee or officer of the department
+to act for the department in any details connected with the administration of this chapter.
+[C71, 73, 75, 77, 79, 81, §215A.4]
+215A.5 Marking with seal.
+If an inspection or comparative test reveals that the moisture-measuring device being
+inspected or tested conforms to the standards and specifications established by the
+department, the department shall cause the same to be marked with an appropriate seal.
+Any moisture-measuring device which upon inspection is found not to conform with
+the specifications and standards established by the department shall be marked with an
+appropriate seal showing such device to be defective, which seal shall not be altered or
+removed until said moisture-measuring device is properly repaired and reinspected. The
+owner or user of such device shall be notified of such defective condition by the department
+or its properly designated employees on an inspection form prepared by the department.
+[C71, 73, 75, 77, 79, 81, §215A.5]
+Referred to in §215A.6, 215A.9
+215A.6 Procedure when device rejected.
+1.
+Any defective moisture-measuring device, while so marked, sealed, or tagged, as
+provided in section 215A.5, may be used to ascertain the moisture content of agricultural
+products offered for sale, processing, or storage, only under the following conditions:
+a.
+The person shall keep a record, open to inspection, of every commercial sample of
+agricultural products inspected by the tagged device, showing that an adjustment was made
+on all such agricultural products tested.
+b.
+The device shall be repaired to comply with section 215A.5 within a period of thirty
+days, and the department thereupon notified.
+2.
+If, upon reinspection, the device is again rejected under the provisions of section
+215A.5, such device shall be sealed and shall not be used until repaired and reinspected.
+[C71, 73, 75, 77, 79, 81, §215A.6]
+2009 Acts, ch 41, §263
+215A.7 Located where visible to public.
+Every device used to ascertain the moisture content of agricultural products offered for sale,
+processing, or storage shall be used in a location visible to the general public and the detailed
+procedure for operating a moisture-measuring device shall be displayed in a conspicuous
+place close to the moisture-measuring device.
+[C71, 73, 75, 77, 79, 81, §215A.7]
+215A.8 Untested devices not to be used — exception.
+No person shall use or cause to be used any grain moisture-measuring device which has
+not been inspected and approved for use by the department; except, a newly purchased grain
+moisture-measuring device may be used prior to regular inspection and approval if the user
+of such device has given notice to the department of the purchase and before use of such new
+device.
+[C71, 73, 75, 77, 79, 81, §215A.8]
+215A.9 Inspection fee.
+1.
+The department shall charge, assess, and cause to be collected at the time of inspection
+an inspection fee in accordance with the fee schedule established pursuant to section 214.3,
+subsection 2.
+2.
+A fee of fifteen dollars shall be charged for each device subject to reinspection under
+section 215A.5. All moneys received by the department under the provisions of this chapter
+shall be handled in the same manner as appropriated receipts as defined in section 8.2, and
+shall be used for the administration and enforcement of the provisions of this chapter.
+[C71, 73, 75, 77, 79, 81, §215A.9]
+90 Acts, ch 1084, §12; 92 Acts, ch 1239, §40; 2018 Acts, ch 1041, §127; 2024 Acts, ch 1185,
+§154
+215A.10 Penalty.
+Every person who uses or causes to be used a moisture-measuring device in commerce
+with knowledge that such device has not been inspected and approved by the department in
+accordance with the provisions of this chapter shall be guilty of a simple misdemeanor.
+[C71, 73, 75, 77, 79, 81, §215A.10]
