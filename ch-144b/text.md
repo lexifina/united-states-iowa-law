@@ -1,0 +1,291 @@
+CHAPTER 144B
+DURABLE POWER OF ATTORNEY FOR HEALTH CARE
+Referred to in §142C.2, 142C.12B, 144A.7, 144D.4, 144F.1, 144F.2, 144F.6, 235B.2, 235B.19, 235E.1, 235F.1, 633.556, 707A.3, 726.24
+144B.1
+Definitions.
+144B.2
+Durable power of attorney for
+health care.
+144B.3
+Requirements.
+144B.4
+Individuals ineligible to be
+attorney in fact.
+144B.5
+Durable power of attorney for
+health care — form.
+144B.6
+Attorney in fact — priority to
+make decisions.
+144B.7
+Authority to review medical
+records.
+144B.8
+Revocation of durable power of
+attorney.
+144B.9
+Immunities and responsibilities.
+144B.10
+Emergency treatment.
+144B.11
+Prohibited practices.
+144B.12
+General provisions.
+144B.1 Definitions.
+For purposes of this chapter, unless the context otherwise requires:
+1.
+“Attorney in fact” means an individual who is designated by a durable power of attorney
+for health care as an agent to make health care decisions on behalf of a principal and has
+consented to act in that capacity.
+2.
+“Designee” means a person named in a declaration under chapter 144C.
+3.
+“Durable power of attorney for health care” means a document authorizing an attorney
+in fact to make health care decisions for the principal if the principal is unable, in the judgment
+of the attending physician or attending physician assistant, to make health care decisions.
+4.
+“Health care” means any care, treatment, service, or procedure to maintain, diagnose,
+or treat an individual’s physical or mental condition.
+“Health care” does not include the
+provision of nutrition or hydration except when they are required to be provided parenterally
+or through intubation.
+5.
+“Health care decision” means the consent, refusal of consent, or withdrawal of consent
+to health care.
+6.
+“Health care provider” means a person who is licensed, certified, or otherwise
+authorized or permitted by the law of this state to administer health care in the ordinary
+course of business or in the practice of a profession.
+7.
+“Principal” means a person age eighteen or older who has executed a durable power of
+attorney for health care.
+91 Acts, ch 140, §1; 2008 Acts, ch 1051, §4, 22; 2017 Acts, ch 30, §1, 4; 2022 Acts, ch 1066,
+§16
+Referred to in §135N.1, 141A.1, 321.189
+144B.2 Durable power of attorney for health care.
+A durable power of attorney for health care authorizes the attorney in fact to make health
+care decisions for the principal if the durable power of attorney for health care substantially
+complies with the requirements of this chapter. A document executed prior to May 8, 1991,
+purporting to create a durable power of attorney for health care shall be deemed valid if the
+document specifically authorizes the attorney in fact to make health care decisions and is
+signed by the principal.
+91 Acts, ch 140, §2
+144B.3 Requirements.
+1.
+An attorney in fact shall make health care decisions only if the following requirements
+are satisfied:
+a.
+The durable power of attorney for health care explicitly authorizes the attorney in fact
+to make health care decisions.
+b.
+The durable power of attorney for health care contains the date of its execution and is
+witnessed or acknowledged by one of the following methods:
+(1)
+Is signed by at least two individuals who, in the presence of each other and the
+principal, witnessed the signing of the instrument by the principal or by another person
+acting on behalf of the principal at the principal’s direction.
+(2)
+Is acknowledged before a notarial officer within this state as provided in chapter 9B.
+2.
+The following individuals shall not be witnesses for a durable power of attorney for
+health care:
+a.
+A health care provider attending the principal on the date of execution.
+b.
+An employee of a health care provider attending the principal on the date of execution.
+c.
+The individual designated in the durable power of attorney for health care as the
+attorney in fact.
+d.
+An individual who is less than eighteen years of age.
+3.
+At least one of the witnesses for a durable power of attorney for health care shall be
+an individual who is not a relative of the principal by blood, marriage, or adoption within the
+third degree of consanguinity.
+4.
+A durable power of attorney for health care or similar document executed in another
+state or jurisdiction in compliance with the law of that state or jurisdiction shall be deemed
+valid and enforceable in this state, to the extent the document is consistent with the laws of
+this state. A durable power of attorney or similar document executed by a veteran of the
+armed forces which is in compliance with the federal department of veterans affairs advance
+directive requirements shall be deemed valid and enforceable.
+91 Acts, ch 140, §3; 98 Acts, ch 1083, §2; 2012 Acts, ch 1050, §38, 60
+144B.4 Individuals ineligible to be attorney in fact.
+The following individuals shall not be designated as the attorney in fact to make health care
+decisions under a durable power of attorney for health care:
+1.
+A health care provider attending the principal on the date of execution.
+2.
+An employee of a health care provider attending the principal on the date of execution
+unless the individual to be designated is related to the principal by blood, marriage, or
+adoption within the third degree of consanguinity.
+91 Acts, ch 140, §4
+144B.5 Durable power of attorney for health care — form.
+1.
+A durable power of attorney for health care executed pursuant to this chapter may, but
+need not, be in the following form:
+I hereby designate ................................
+as my attorney in fact
+(my agent) and give to my agent the power to make health care
+decisions for me.
+This power exists only when I am unable, in
+the judgment of my attending physician or attending physician
+assistant, to make those health care decisions. The attorney in fact
+must act consistently with my desires as stated in this document or
+otherwise made known.
+Except as otherwise specified in this document, this document
+gives my agent the power, where otherwise consistent with the law
+of this state, to consent to my physician or physician assistant not
+giving health care or stopping health care which is necessary to keep
+me alive.
+This document gives my agent power to make health care
+decisions on my behalf, including to consent, to refuse to consent,
+or to withdraw consent to the provision of any care, treatment,
+service, or procedure to maintain, diagnose, or treat a physical or
+mental condition.
+This power is subject to any statement of my
+desires and any limitations included in this document.
+My agent has the right to examine my medical records and to
+consent to disclosure of such records.
+2.
+In addition to the foregoing, the principal may provide specific instructions in the
+document conferring the durable power of attorney for health care, consistent with the
+provisions of this chapter.
+3.
+The principal may include a statement indicating that the designated attorney in fact
+has been notified of and consented to the designation.
+4.
+A durable power of attorney for health care may designate one or more alternative
+attorneys in fact.
+5.
+A durable power of attorney for health care may include a declaration under chapter
+144C that names a designee and alternate designees who may be different persons than the
+attorney in fact or alternate attorneys in fact who are designated in the durable power of
+attorney for health care.
+91 Acts, ch 140, §5; 2008 Acts, ch 1051, §5, 22; 2022 Acts, ch 1066, §17
+144B.6 Attorney in fact — priority to make decisions.
+1.
+Unless the district court sitting in equity specifically finds that the attorney in fact is
+acting in a manner contrary to the wishes of the principal or the durable power of attorney for
+health care provides otherwise, an attorney in fact who is known to the health care provider
+to be available and willing to make health care decisions has priority over any other person,
+including a guardian appointed pursuant to chapter 633, to act for the principal in all matters
+of health care decisions. The attorney in fact has authority to make a particular health care
+decision only if the principal is unable, in the judgment of the attending physician or attending
+physician assistant, to make the health care decision. If the principal objects to a decision
+to withhold or withdraw health care, the principal shall be presumed to be able to make a
+decision.
+2.
+In exercising the authority under the durable power of attorney for health care, the
+attorney in fact has a duty to act in accordance with the desires of the principal as expressed
+in the durable power of attorney for health care or otherwise made known to the attorney
+in fact at any time. A declaration executed by the principal pursuant to the life-sustaining
+procedures Act, chapter 144A, shall not be interpreted as expressing an intent to prohibit the
+withdrawal of hydration or nutrition when required to be provided parenterally or through
+intubation and shall not otherwise restrict the authority of the attorney in fact unless either the
+declaration or the durable power of attorney for health care expressly provides otherwise. If
+the principal’s desires are unknown, the attorney in fact has a duty to act in the best interests
+of the principal, taking into account the principal’s overall medical condition and prognosis.
+91 Acts, ch 140, §6; 2022 Acts, ch 1066, §18
+144B.7 Authority to review medical records.
+Except as limited by the durable power of attorney for health care, an attorney in fact has
+the same right as the principal to receive and review medical records of the principal, and
+to consent to the disclosure of medical records of the principal when acting pursuant to the
+durable power of attorney for health care.
+91 Acts, ch 140, §7
+144B.8 Revocation of durable power of attorney.
+1.
+A durable power of attorney for health care may be revoked at any time and in any
+manner by which the principal is able to communicate the intent to revoke, without regard to
+mental or physical condition. Revocation may be by notifying the attorney in fact orally or in
+writing. Revocation may also be made by notifying a health care provider orally or in writing
+while that provider is engaged in providing health care to the principal. A revocation is only
+effective as to a health care provider upon its communication to the provider by the principal
+or by another to whom the principal has communicated revocation. The health care provider
+shall document the revocation in the treatment records of the principal.
+2.
+The principal is presumed to have the capacity to revoke a durable power of attorney
+for health care.
+3.
+Unless it provides otherwise, a valid durable power of attorney for health care revokes
+any prior durable power of attorney for health care.
+4.
+If authority granted by a durable power of attorney for health care is revoked under
+this section, an individual is not subject to criminal prosecution or civil liability for acting in
+good faith reliance upon the durable power of attorney for health care unless the individual
+has actual knowledge of the revocation.
+5.
+The fact of execution and subsequent revocation of a durable power of attorney shall
+have no effect upon subsequent health care decisions made in accordance with accepted
+principles of law and standards of medical care governing those decisions.
+91 Acts, ch 140, §8
+144B.9 Immunities and responsibilities.
+1.
+A health care provider is not subject to criminal prosecution, civil liability, or
+professional disciplinary action if the health care provider relies on a health care decision
+and both of the following requirements are satisfied:
+a.
+The decision is made by an attorney in fact who the health care provider believes in
+good faith is authorized to make the decision.
+b.
+The health care provider believes in good faith that the decision is not inconsistent
+with the desires of the principal as expressed in the durable power of attorney for health
+care or otherwise made known to the health care provider, and, if the decision is to withhold
+or withdraw health care necessary to keep the principal alive, the health care provider has
+provided an opportunity for the principal to object to the decision.
+2.
+Notwithstanding a contrary health care decision of the attorney in fact, the health care
+provider is not subject to criminal prosecution, civil liability, or professional disciplinary
+action for failing to withhold or withdraw health care necessary to keep the principal alive.
+However, the attorney in fact may make provisions to transfer the responsibility for the care
+of the principal to another health care provider.
+3.
+An attorney in fact is not subject to criminal prosecution or civil liability for any health
+care decision made in good faith pursuant to a durable power of attorney for health care.
+4.
+It shall be presumed that an attorney in fact, and a health care provider acting pursuant
+to the direction of an attorney in fact, are acting in good faith and in the best interests of the
+principal absent clear and convincing evidence to the contrary.
+5.
+For purposes of this section, acting in “good faith” means acting consistent with the
+desires of the principal as expressed in the durable power of attorney for health care or
+otherwise made known to the attorney in fact, or where those desires are unknown, acting in
+the best interests of the principal, taking into account the principal’s overall medical condition
+and prognosis.
+6.
+A health care provider or attorney in fact may presume that a durable power of attorney
+for health care is valid absent actual knowledge to the contrary.
+91 Acts, ch 140, §9
+144B.10 Emergency treatment.
+This chapter does not affect the law governing health care treatment in an emergency.
+91 Acts, ch 140, §10
+144B.11 Prohibited practices.
+1.
+A health care provider, health care service plan, insurer, self-insured employee welfare
+benefit plan, or nonprofit hospital plan shall not condition admission to a facility, or the
+providing of treatment, or insurance, on the requirement that an individual execute a durable
+power of attorney for health care.
+2.
+A policy of life insurance shall not be legally impaired or invalidated in any manner by
+the withholding or withdrawing of health care pursuant to the direction of an attorney in fact
+appointed pursuant to this chapter.
+91 Acts, ch 140, §11
+144B.12 General provisions.
+1.
+This chapter does not create a presumption concerning the intention of an individual
+who has not executed a durable power of attorney for health care and does not impair
+or supersede any right or responsibility of an individual to consent, refuse to consent, or
+withdraw consent to health care on behalf of another in the absence of a durable power of
+attorney for health care.
+2.
+This chapter shall not be construed to condone, authorize, or approve any affirmative
+or deliberate act or omission which would constitute mercy killing or euthanasia.
+3.
+If after executing a durable power of attorney for health care designating a spouse as
+attorney in fact, the marriage between the principal and the attorney in fact is dissolved, the
+power is thereby revoked. In the event of remarriage to each other, the power is reinstated
+unless otherwise revoked by the principal.
+4.
+It is the responsibility of the principal to provide for notification of a health care provider
+of the terms of the principal’s durable power of attorney for health care.
+91 Acts, ch 140, §12
