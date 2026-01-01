@@ -1,0 +1,2630 @@
+CHAPTER 481A
+WILDLIFE CONSERVATION
+Referred to in §232.8, 321K.1, 350.5, 455A.4, 455A.5, 456A.14, 456A.24, 482.1, 483A.21, 483A.32, 484B.3, 717B.2, 717B.3A, 717D.3,
+805.16, 903.1
+This chapter not enacted as a part of this title; transferred from chapter 109 in Code 1993
+SUBCHAPTER I
+GENERAL PROVISIONS
+481A.1
+Definitions.
+481A.2
+State ownership and title —
+exceptions.
+481A.3
+Conclusive presumption.
+481A.4
+Fish hatcheries — game farms.
+481A.5
+State game refuges.
+481A.6
+Game management area.
+481A.6A
+Pen-reared pheasants — release
+by landowners and tenants.
+481A.6B
+Pheasant population studies —
+reports.
+Repealed by its own
+terms; 2012 Acts, ch 1106, §1.
+481A.7
+Hunting on game refuges.
+481A.8
+Notice of establishment.
+481A.9
+Spawning grounds.
+481A.10
+Reports and accounting.
+481A.10A
+Farmer advisory committee.
+Repealed by 2024 Acts, ch
+1170, §368.
+481A.11
+Seized or accidentally killed
+game — disposition.
+481A.12
+Seizure of wildlife taken or
+handled illegally.
+481A.13
+Search warrants.
+481A.13A
+Conviction required for property
+confiscation — return of
+property.
+481A.14
+Dams — fishways.
+481A.15
+Destruction or alteration of dam.
+481A.16
+Taking by director for stocking
+and exchange.
+481A.17
+Target shooting sports program.
+481A.18
+Hunting incidents — mandatory
+reporting.
+481A.19
+Reciprocity of states.
+481A.20
+Parrots and canaries.
+481A.21
+Birds as targets.
+481A.22
+Field and retriever meets —
+permits and tags required.
+481A.23
+Transportation for sale
+prohibited.
+481A.24
+Use of mobile radio transmitter
+prohibited — exceptions.
+481A.25
+Reserved.
+481A.26
+Unlawful transportation.
+481A.27
+through 481A.29
+Reserved.
+481A.30
+Entire shipment contraband.
+481A.31
+Game brought into state.
+481A.32
+Violations — penalties.
+481A.33
+Violations relating to dams.
+481A.34
+Violations by common carrier.
+481A.35
+Attorney general and county
+attorneys.
+481A.36
+Information — venue.
+481A.37
+Presumptive evidence.
+SUBCHAPTER II
+PROPAGATION AND PROTECTION OF FISH, GAME, WILD
+BIRDS, AND ANIMALS
+481A.38
+Prohibited acts — restrictions on
+the taking of wildlife — special
+licenses.
+481A.39
+Biological balance maintained.
+481A.40
+Use of drugs on wildlife —
+penalty.
+481A.41
+Reserved.
+481A.42
+Nongame protected — exclusion.
+481A.43
+through 481A.46
+Reserved.
+481A.47
+Importing fish and game —
+permits.
+SUBCHAPTER III
+TERRITORIES, OPEN SEASONS, AND BAG AND
+POSSESSION LIMITS FOR GAME
+481A.48
+Restrictions on game birds and
+animals.
+481A.49
+Reserved.
+481A.50
+Selling birds.
+481A.51
+Hunting license not trapping
+license.
+481A.52
+Exhibiting catch to officer.
+481A.53
+Chasing from dens.
+481A.54
+Shooting rifle, shotgun, pistol, or
+revolver over water, highway,
+or railroad right-of-way.
+481A.55
+Selling game.
+481A.56
+Training dogs.
+481A.56A
+Retrieval of wounded deer by
+leashed dogs.
+481A.57
+Possession and storage.
+481A.58
+Trapping birds or poisoning
+animals.
+481A.59
+Pigeons — interference
+prohibited.
+SUBCHAPTER IV
+GAME BREEDERS
+481A.60
+Raising game — rulemaking
+authority.
+481A.61
+Licensed game breeders —
+marketing game — penalty.
+481A.62
+Records — reports — inspection.
+481A.63
+and 481A.64
+Reserved.
+SUBCHAPTER V
+SCIENTIFIC COLLECTING
+481A.65
+Licenses.
+481A.66
+Banding or marking.
+SUBCHAPTER VI
+ANGLING LAWS
+481A.67
+Seasons and limits — turtle
+harvesting restrictions.
+481A.68
+Tip-up fishing device.
+481A.69
+Fish designated.
+481A.70
+Reserved.
+481A.71
+Releasing unlawful catch.
+481A.72
+Hooks and lines.
+481A.73
+Trotlines and tagged lines.
+481A.74
+Where permitted.
+481A.75
+Reserved.
+481A.76
+Unlawful means — exception.
+481A.77
+Reserved.
+481A.78
+Stocking private water.
+481A.79
+through 481A.82
+Reserved.
+481A.83
+Prohibited stocking.
+481A.84
+Frogs — catching — selling.
+481A.85
+Prohibited areas.
+481A.86
+Federal employees excepted.
+SUBCHAPTER VII
+TRAPPING OR HUNTING OF FUR-BEARING ANIMALS
+481A.87
+Open seasons — exceptions.
+481A.88
+Reserved.
+481A.89
+Permit to hold hides.
+481A.90
+Disturbing dens.
+481A.91
+Shooting or spearing.
+481A.92
+Traps — disturbing dens — tags
+for traps.
+481A.93
+Hunting by artificial light.
+SUBCHAPTER VIII
+FUR DEALERS
+481A.94
+Definition.
+481A.95
+License — reciprocity.
+481A.96
+Possession by dealer.
+481A.97
+Reports.
+481A.98
+Reporting violations.
+481A.99
+through 481A.119
+Reserved.
+SUBCHAPTER IX
+PROHIBITED ACTS
+481A.120
+Hunting from aircraft or
+snowmobiles prohibited.
+481A.121
+Turtles and crayfish — taking by
+nonresidents or aliens.
+481A.122
+Hunters’ orange apparel.
+481A.123
+Prohibited hunting near
+buildings, feedlots.
+481A.124
+Taking predominantly white
+deer of the whitetail species
+prohibited.
+481A.125
+Intentional interference with
+lawful hunting, fishing, or
+fur-harvesting activities —
+penalties.
+481A.125A
+Remote control or internet
+hunting — criminal and civil
+penalties.
+SUBCHAPTER X
+TAXIDERMY
+481A.126
+Taxidermy.
+481A.127
+through 481A.129
+Reserved.
+SUBCHAPTER XI
+CIVIL DAMAGES — SUSPENSIONS
+481A.130
+Damages in addition to penalty
+— animals — ginseng.
+481A.131
+Judgment — execution.
+481A.132
+Service of process or arrest —
+pendency of damage claim.
+481A.133
+Suspension of licenses,
+certificates, and permits.
+SUBCHAPTER XII
+CANCELLATIONS, SUSPENSIONS, REVOCATIONS, AND
+PENALTIES
+481A.134
+Authority to cancel, suspend, or
+revoke license — point system.
+481A.135
+Repeat offender — records,
+enforcement, and penalties.
+481A.136
+Unlawful commercialization of
+wildlife — penalty.
+481A.137
+Abandonment of dead or injured
+wildlife.
+481A.138
+through 481A.140
+Reserved.
+SUBCHAPTER XIII
+AQUACULTURE
+481A.141
+Aquaculture — license required.
+481A.142
+Licensed aquaculture units —
+activities allowed.
+481A.143
+Licensed aquaculture units —
+requirements.
+481A.144
+Licensed bait dealers —
+requirements.
+481A.145
+Taking and selling of minnows
+and other bait — regulations.
+481A.146
+Authority of the director.
+481A.147
+Theft of fish.
+481A.148
+through 481A.150
+Reserved.
+SUBCHAPTER XIV
+POLLUTION — RESTITUTION
+481A.151
+Restitution for pollution causing
+injury to wild animals.
+SUBCHAPTER I
+GENERAL PROVISIONS
+481A.1 Definitions.
+Words and phrases as used in this chapter and chapters 350, 456A, 456B, 457A, 461A, 461B,
+461C, 462A, 462B, 464A, 465A, 465B, 465C, 481B, 482, 483A, 484A, and 484B and such other
+chapters as relate to the subject matter of these chapters shall be construed as follows:
+1.
+“Alien” shall not be construed to mean any person who has applied for naturalization
+papers.
+2.
+“Amphibian” means a member of the class Amphibia.
+3.
+“Aquaculture” means the controlled propagation, growth, and harvest of aquatic
+organisms, including, but not limited to fish, amphibians, reptiles, mollusks, crustaceans,
+gastropods, algae, and other aquatic plants, by an aquaculturist.
+4.
+“Aquaculture unit” means all private waters for aquaculture with or without buildings,
+used for the purpose of propagating, raising, holding, or harvesting aquatic organisms for
+commercial purposes.
+5.
+“Aquaculturist” means an individual involved in producing, transporting, or marketing
+aquatic products from private waters for commercial purposes.
+6.
+“Bag limit” or “possession limit” is the number of any kind of game, fish, bird or animal
+or other wildlife form permitted to be taken or held in a specified time.
+7.
+“Bait” includes but is not limited to minnows, green sunfish, orange-spotted sunfish,
+gizzard shad, frogs, crayfish, and salamanders.
+8.
+“Biological balance” means that condition when the number of animals present over
+the long term is at or near the number of animals of a particular species that the available
+habitat is capable of supporting.
+9.
+“Bird” means a member of the class Aves.
+10.
+“Buy” means to purchase, offer to purchase, barter for, trade for, or lease.
+11.
+“Closed season” is that period of time during which hunting, fishing, trapping or taking
+is prohibited.
+12.
+“Commercial purposes” means selling, giving, or furnishing to others.
+13.
+“Commission” means the natural resource commission.
+14.
+“Contraband” as used in the laws pertaining to the work of the commission shall
+mean anything, the possession of which was illegally procured, or the possession of which is
+unlawful.
+15.
+“Department” means the department of natural resources.
+16.
+“Director” means the director of the department or the director’s designee.
+17.
+“Farm deer” means the same as defined in section 170.1.
+18.
+“Fish” means a member of the class Pisces.
+19.
+“Frog” means a member of the order Anura.
+20.
+“Fur-bearing animals” means the following which are declared to be fur-bearing
+animals for the purpose of regulation and protection under the Code:
+beaver, badger,
+mink, otter, muskrat, raccoon, skunk, opossum, spotted skunk or civet cat, weasel, coyote,
+bobcat, wolf, groundhog, red fox, and gray fox. This chapter does not apply to domesticated
+fur-bearing animals.
+21.
+“Game” means all of the animals specified in this subsection except those designated
+as not protected, and includes the heads, skins, and any other parts, and the nests and eggs
+of birds and their plumage.
+a.
+The Anatidae:
+such as swans, geese, brant, and ducks.
+b.
+The Rallidae:
+such as rails, coots, mudhens, and gallinules.
+c.
+The Limicolae:
+such as shorebirds, plovers, surfbirds, snipe, woodcock, sandpipers,
+tattlers, godwits, and curlews.
+d.
+The Galliformes:
+such as wild turkeys, grouse, pheasants, partridges, and quail.
+e.
+The Columbidae:
+such as mourning doves and wild rock doves only.
+f.
+The Sciuridae:
+such as gray squirrels and fox squirrels.
+g.
+The Leporidae:
+cottontail rabbits and jackrabbits only.
+h.
+The Cervidae:
+such as elk or deer, other than farm deer.
+22.
+“Measurement of fish” is the length from end of nose to longest tip of tail.
+23.
+“Minnows” means chubs, suckers, shiners, dace, stonerollers, mud minnows,
+redhorse, blunt-nose, and fathead minnows.
+24.
+“Mussels” means the pearly fresh water mussels, clams or naiads, and their shells.
+25.
+“Open season” is that period of time during which hunting, fishing, trapping or taking
+is permitted.
+26.
+“Person” shall mean any person, firm, partnership, or corporation.
+27.
+“Possession” is both active and constructive possession and any control of things
+referred to.
+28.
+“Private
+waters
+for
+aquaculture”
+means
+waters
+confined
+within
+an
+artificial
+containment, such as man-made ponds, vats, tanks, raceways, and other indoor or outdoor
+facilities constructed wholly within or on the land of an owner or lessee and used for
+aquaculture.
+29.
+“Reptile” means a member of the class Reptilia.
+30.
+“Sell” or “sale” is selling, bartering, exchanging, offering or exposing for sale.
+31.
+“Spawn” means any of the eggs of any fish, amphibian, or mussel.
+32.
+“Take” or “taking” or “attempting to take” or “hunt” is any pursuing, or any hunting,
+fishing, killing, trapping, snaring, netting, searching for or shooting at, or stalking or lying
+in wait for any game, animal, bird, or fish protected by the state laws or rules adopted by the
+commission whether or not such animal be then subsequently captured, killed, or injured.
+33.
+“Transport” or “transportation” is all carrying or moving or causing to be carried or
+moved.
+34.
+“Turtle” means any member of the order Testudines.
+35.
+“Whitetail” means an animal belonging to the Cervidae family and classified as part
+of the Virginianus species of the Odocoileus genus, commonly referred to as whitetail.
+36.
+“Wild animal” means a wild mammal, bird, fish, amphibian, reptile, or other wildlife
+found in this state, whether game or nongame, migratory or nonmigratory, the ownership
+and title to which is claimed by this state.
+37.
+“Wild mammal” means a member of the class Mammalia.
+[C39, §1703.60; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.1]
+83 Acts, ch 168, §5; 86 Acts, ch 1245, §1850 – 1852; 88 Acts, ch 1216, §1, 2; 92 Acts, ch 1160,
+§17; 92 Acts, ch 1186, §1; 92 Acts, ch 1216, §1
+C93, §481A.1
+93 Acts, ch 99, §1; 95 Acts, ch 134, §5; 2003 Acts, ch 149, §14 – 16, 23; 2012 Acts, ch 1118,
+§4; 2014 Acts, ch 1026, §110; 2021 Acts, ch 48, §4; 2022 Acts, ch 1021, §135; 2023 Acts, ch 66,
+§115
+Referred to in §456A.37, 556H.1, 717B.1, 717B.2, 717B.3A, 717B.6, 717D.3
+481A.2 State ownership and title — exceptions.
+The title and ownership of all fish, mussels, clams, and frogs in any of the public waters of
+the state, and in all ponds, sloughs, bayous, or other land and waters adjacent to any public
+waters stocked with fish by overflow of public waters, and of all wild game, animals, and
+birds, including their nests and eggs, and all other wildlife, found in the state, whether game
+or nongame, native or migratory, except deer in parks and in public and private preserves,
+the ownership of which was acquired prior to April 19, 1911, are hereby declared to be in
+the state, except as otherwise provided in this chapter. The title and ownership of all aquatic
+organisms in aquaculture units and private aquacultural waters shall be in private persons.
+[S13, §2562-c, 2563-j; SS15, §2562-b; C24, 27, 31, 35, 39, §1704; C46, 50, 54, 58, 62, 66, 71,
+73, 75, 77, 79, 81, §109.2]
+90 Acts, ch 1044, §1; 92 Acts, ch 1216, §2
+C93, §481A.2
+Referred to in §1.9
+481A.3 Conclusive presumption.
+Any person catching, taking, killing, or having in possession any of such fish, mussels,
+clams, frogs, game, animals, or birds, their nests or eggs, or other wildlife in violation of the
+provisions of this chapter, shall be held to consent that the title to the same shall be and remain
+in the state for the purpose of regulating and controlling the catching, taking, or having in
+possession the same, and disposing thereof after such catching, taking, or killing.
+[S13, §2562-c; SS15, §2562-b; C24, 27, 31, 35, 39, §1705; C46, 50, 54, 58, 62, 66, 71, 73, 75,
+77, 79, 81, §109.3]
+C93, §481A.3
+481A.4 Fish hatcheries — game farms.
+The commission may establish and control the state hatcheries and game farms, which shall
+be used for the purpose of stocking the waters of the state with fish and the natural covers
+with game birds to the extent of the means provided for that purpose; and for impartially and
+equitably distributing all birds, eggs, and fry raised by or furnished to the state, or for the
+state through other sources, in the streams, lakes, and natural covers of the state.
+[C97, §2539; SS15, §2539; C24, 27, 31, 35, 39, §1709; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77,
+79, 81, §109.4]
+C93, §481A.4
+2019 Acts, ch 24, §69
+481A.5 State game refuges.
+1.
+The commission may establish state game refuges or sanctuaries on any land owned by
+the state of Iowa suitable for this purpose when necessary for the preservation of biological
+balance pursuant to the provisions of section 481A.39, for the protection of public parks, for
+the protection of the public health, safety and welfare, or to effect sound wildlife management.
+2.
+In emergency situations when the maintenance of the biological balance as provided
+in section 481A.39 is threatened, the director may establish temporary state game refuges
+in conformity with sound wildlife management. The establishment of a temporary refuge
+shall be accomplished by posting notices in conspicuous places around the refuge.
+The
+establishment of a temporary refuge by the director shall be effective until five days after the
+next meeting of the commission or for such longer time as the commission may determine
+is necessary to maintain a biological balance as provided in section 481A.39 and to effect
+sound wildlife management.
+[C27, 31, 35, §1709-a1; C39, §1709.1; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.5]
+C93, §481A.5
+481A.6 Game management area.
+The commission may establish a game management area upon any public lands or
+waters, or with the consent of the owner upon any private lands or waters, when necessary
+to maintain a biological balance as provided in section 481A.39 or to provide for public
+hunting, fishing, or trapping in conformity with sound wildlife management. When a game
+management area is established, the commission shall with the consent of the owner, if
+any, have the right to post and prohibit, and to regulate or limit the lands or waters against
+trespassing, hunting, fishing, or trapping. Any violation of the regulations is unlawful.
+[C35, §1709-e1; C39, §1709.2; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.6]
+90 Acts, ch 1216, §6
+C93, §481A.6
+2025 Acts, ch 30, §81
+Referred to in §805.8B(3)(c)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph c
+Section amended
+481A.6A Pen-reared pheasants — release by landowners and tenants.
+1.
+As used in this section, “pen-reared pheasant” means a Chinese ring-necked pheasant
+(Phasianus colchicus torquatus) and its subspecies which originates from a captive
+population and which has been propagated and held by a hatchery.
+For the purposes of
+this section “pen-reared pheasant” does not include a Reeves (Syrmaticus reevesii) or Lady
+Amherst (Chrysolophus amherstiae) pheasant, a subspecies of the Chinese ring-necked
+pheasant classified as a Japanese (Phasianus versicolor) or a Black-necked (P. colchicus
+colchicus) pheasant, or a melanistic mutant (black, white, or other color mix) of the Chinese
+ring-necked pheasant. This subsection is not applicable to game birds released for officially
+sanctioned field meets or trials and retriever meets or trials on private land pursuant to
+section 481A.22, pen-raised game birds used on private land pursuant to section 481A.56, or
+game birds released on hunting preserves pursuant to chapter 484B.
+2.
+Notwithstanding section 481A.60, an owner or tenant of land may obtain pen-reared
+pheasants from a hatchery approved by the department, and raise or release the pen-reared
+pheasants on the owner’s or tenant’s land. A person shall not relocate a pen-reared pheasant
+to any other land.
+3.
+A person taking a pen-reared pheasant shall comply with all requirements provided in
+this chapter and chapter 483A.
+2010 Acts, ch 1180, §1; 2012 Acts, ch 1118, §5; 2013 Acts, ch 90, §143
+Referred to in §484B.3
+481A.6B Pheasant population studies — reports.
+Repealed by its own terms; 2012 Acts,
+ch 1106, §1.
+481A.7 Hunting on game refuges.
+1.
+It shall be unlawful to hunt, pursue, kill, trap or take any wild animal, bird, or game on
+any state game refuge so established at any time of the year, and no one shall carry firearms
+thereon, providing, however, that predatory birds and animals may be killed or trapped under
+the authority and direction of the director.
+2.
+The commission may specify the distance from a state game refuge where shooting
+is prohibited, and shall have notice of same posted at such distance in conspicuous
+places around the refuge, provided, however, this prohibition shall not apply to owners or
+tenants hunting on their own land outside of a state game refuge. The commission may
+prohibit shooting at any reasonable distance from a state game refuge deemed necessary to
+accomplish the purposes for which the refuge is established.
+[C27, 31, 35, §1709-a2; C39, §1709.3; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.7]
+86 Acts, ch 1245, §1855
+C93, §481A.7
+Referred to in §805.8B(3)(d)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph d
+481A.8 Notice of establishment.
+When any such refuge or preserve is established by the commission, it shall post notices of
+such establishment in conspicuous places around the refuge.
+[C27, 31, 35, §1709-a3; C39, §1709.4; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.8]
+C93, §481A.8
+481A.9 Spawning grounds.
+To effect sound wildlife management and maintain biological balance as provided in section
+481A.39, the commission may set aside certain portions of any state waters for spawning
+grounds where the same are suitable for this purpose for such length of time as it may deem
+advisable by the posting of notices in conspicuous places around such area, and it shall be
+unlawful for any person to fish or to in any manner interfere with the spawning of fish in this
+area. Any person violating any of the provisions of this section shall be guilty of a simple
+misdemeanor.
+[C31, 35, §1709-c1; C39, §1709.5; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.9]
+C93, §481A.9
+481A.10 Reports and accounting.
+At the time provided by law, the director shall make a report to the governor of the
+director’s doings for the preceding biennial period, including therein an itemized statement
+of all receipts and disbursements; also all contracts for the taking of soft fish from the waters
+of this state, with the profits accruing from such contracts; also such other information upon
+the subject of the culture of fish and the protection of game as may be of value. All funds
+derived under said contracts shall be paid into the state fish and game protection fund.
+[C97, §2539; SS15, §2539; C24, 27, 31, 35, 39, §1710; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77,
+79, 81, §109.10]
+C93, §481A.10
+481A.10A Farmer advisory committee.
+Repealed by 2024 Acts, ch 1170, §368.
+481A.11 Seized or accidentally killed game — disposition.
+Except as provided in section 481A.13 or 481A.13A, any game or fish seized by the
+commission under section 481A.12 or any game accidentally killed by a motor vehicle on a
+public highway shall, when salvageable, be disposed of as determined by the commission
+or its designee.
+[C77, 79, 81, §109.11]
+C93, §481A.11
+2018 Acts, ch 1150, §1
+481A.12 Seizure of wildlife taken or handled illegally.
+The director or any peace officer shall seize with or without warrant and take possession of,
+or direct the disposal of, any fish, furs, birds, animals, mussels, clams, or frogs, which have
+been caught, taken, or killed at a time, in a manner, or for a purpose, or had in possession
+or under control, or offered for shipment, or illegally transported in the state or to a point
+beyond its borders, contrary to the Code. All fish, furs, birds, animals, mussels, clams, or
+frogs seized under this section shall be relinquished to a representative of the commission,
+disposed of, or kept as provided in section 481A.13.
+[SS15, §2539; C24, 27, 31, 35, 39, §1714; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§109.12]
+88 Acts, ch 1216, §3
+C93, §481A.12
+94 Acts, ch 1148, §1; 2018 Acts, ch 1150, §2
+Referred to in §331.653, 481A.11, 481A.13A, 483A.33, 716.8
+481A.13 Search warrants.
+1.
+Any court having jurisdiction of the offense, upon receiving proof of probable cause
+for believing that any fish, mussels, clams, frogs, birds, furs, or animals caught, taken, killed,
+had in possession, under control, or shipped, contrary to the Code, or hidden or concealed in
+any place, shall issue a search warrant and cause a search to be made in any place therefor.
+2.
+The property so seized under warrant shall be safely kept under the direction of the
+court so long as necessary for the purpose of being used as evidence in any trial. If a trial
+results in a conviction, the property seized shall be confiscated by the director or the director’s
+officers. If the trial does not result in a conviction, the property shall be returned to the person
+pursuant to section 481A.13A unless the property is fish or wildlife that is illegal to possess,
+including fish or wildlife that was taken, possessed, or transported unlawfully.
+[SS15, §2539; C24, 27, 31, 35, 39, §1716; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§109.13]
+88 Acts, ch 1216, §4
+C93, §481A.13
+2018 Acts, ch 1150, §3; 2019 Acts, ch 24, §70
+Referred to in §481A.11, 481A.12, 481A.13A
+Search warrant proceedings, chapters 808 and 809
+481A.13A Conviction required for property confiscation — return of property.
+1.
+The state shall not confiscate property seized under section 481A.12 or 481A.13 unless
+the person from whom the property was seized is convicted of the violation for which the
+property was seized. However, the state shall not return any fish or wildlife that is illegal to
+possess, including fish or wildlife that was taken, possessed, or transported unlawfully.
+2.
+If the person from whom the property was seized is not convicted of the violation
+for which the property was seized, the department, law enforcement agency, or other
+governmental agency in possession of the seized property shall return the seized property
+to the person within thirty days of any of the following:
+a.
+The date the person is found not guilty of the violation.
+b.
+The date the action involving the violation is dismissed.
+c.
+The date the statute of limitations expires for the alleged violation for which the
+property was seized.
+3.
+For purposes of this section, “convicted” includes a finding of guilt, payment of
+a scheduled fine, a plea of guilty, deferred judgment, deferred or suspended sentence,
+adjudication of delinquency, or circumstance where a person is not charged with a criminal
+offense related to the violation based in whole or in part on the person’s agreement to
+provide information regarding the criminal activity of another person.
+2018 Acts, ch 1150, §4
+Referred to in §481A.11, 481A.13, 483A.32, 483A.33
+481A.14 Dams — fishways.
+It shall be unlawful for any person, firm, or corporation to place, erect, or cause to be placed
+or erected, any dam or other device or contrivance in such manner as to hinder or obstruct
+the free passage of fish up, down, or through such waters, except as otherwise provided in
+this chapter. Dams for manufacturing or other lawful purposes may be erected across the
+waters of the state. No permanent dam or obstruction across such waters shall be erected or
+maintained which is not provided with a fishway, except by written approval of the director,
+nor shall any pumping station or plant except sand pumping and dredging machines, in or
+connected with such waters be constructed or operated except by written approval of the
+director, which is not provided with screens to prevent fish from entering the pumping station
+or plant. Such fishways and screens shall be constructed and used according to the plans
+and specifications prepared and furnished by the director. Any dam, obstruction, or pumping
+plant which is not so constructed is a public nuisance and may be abated accordingly.
+[C97, §2540, 2547, 2548; S13, §2547; SS15, §2540, 2548; C24, 27, 31, 35, 39, §1741; C46, 50,
+54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.14]
+86 Acts, ch 1245, §1855
+C93, §481A.14
+Nuisances in general, chapter 657
+481A.15 Destruction or alteration of dam.
+It is unlawful for any owner or the owner’s agent to remove or destroy any existing dam,
+or alter it in a way so as to lower the water level, without having received written approval
+from the environmental protection commission of the department.
+[C24, 27, 31, 35, 39, §1742; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.15; 82 Acts,
+ch 1199, §54, 96]
+86 Acts, ch 1245, §1853
+C93, §481A.15
+481A.16 Taking by director for stocking and exchange.
+The director may take from the public waters of the state, at any time and in any manner,
+any fish for the purpose of propagating or restocking other waters, or exchanging with fish
+and wildlife agencies of other states, the federal government, or private fish hatcheries.
+[C97, §2546; S13, §2546; C24, 27, 31, 35, 39, §1744; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77,
+79, 81, §109.16]
+83 Acts, ch 110, §1
+C93, §481A.16
+481A.17 Target shooting sports program.
+The department shall establish a target shooting sports program to promote recreational
+target shooting sports.
+The purposes of the program shall be to introduce more Iowans
+to target shooting sports, promote existing target shooting programs, provide more target
+shooting facilities, and improve existing target shooting facilities. The commission may adopt
+rules to achieve these purposes.
+2012 Acts, ch 1118, §6
+481A.18 Hunting incidents — mandatory reporting.
+This section applies to a person who is involved in a hunting incident with a firearm or a fall
+from a device that allows or assists a person to hunt from an elevated location, if the hunting
+incident results in an injury to a person, or property damage exceeding one hundred dollars.
+The person shall report the hunting incident to the sheriff’s office in the county where the
+hunting incident occurred or to the department within twelve hours after the hunting incident
+occurred. However, if an injury caused by the hunting incident prevents timely reporting, the
+person shall make the report as soon as practicable. A person who fails to report the hunting
+incident as required in this section is guilty of a simple misdemeanor.
+90 Acts, ch 1198, §1
+C91, §109.18
+C93, §481A.18
+2008 Acts, ch 1161, §15
+481A.19 Reciprocity of states.
+1. a.
+Any person licensed by the authority of Illinois, Minnesota, Missouri, Wisconsin,
+Nebraska, or South Dakota to take fish, game, mussels, or fur-bearing animals from or in
+the waters forming the boundary between such state and Iowa, may take such fish, game,
+mussels, or fur-bearing animals from that portion of said waters lying within the territorial
+jurisdiction of this state, without having procured a license from the director of this state, in
+the same manner that persons holding Iowa licenses may do, if the laws of Illinois, Minnesota,
+Missouri, Wisconsin, Nebraska, or South Dakota, respectively, extend a similar privilege to
+persons so licensed under the laws of Iowa.
+b.
+Any person licensed by the authority of Illinois, Minnesota, Missouri, Wisconsin,
+Nebraska, or South Dakota to take fish, game, mussels, or fur-bearing animals from or in
+lands under the jurisdiction of any of those states may take such fish, game, mussels, or
+fur-bearing animals from or in lands under the jurisdiction of the commission when such
+land is adjacent to that respective state but is separated from other land in Iowa by a body of
+water, without having procured a license from the director of this state, in the same manner
+that persons holding Iowa licenses may do, if the laws of Illinois, Minnesota, Missouri,
+Wisconsin, Nebraska, or South Dakota, respectively, extend a similar privilege to persons
+so licensed under the laws of Iowa.
+2.
+Any privileges conferred by this section shall be subject to a reciprocal agreement as
+negotiated by the commission and the authority of a state provided in subsection 1 which
+confers upon a licensee of this state reciprocal rights, privileges, and immunities as provided
+in section 483A.31. Such agreements may include determination of which state’s seasons and
+limits shall apply for specific geographical areas.
+[C24, 27, 31, 35, 39, §1762; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.19]
+86 Acts, ch 1245, §1855
+C93, §481A.19
+2008 Acts, ch 1161, §16; 2009 Acts, ch 144, §15, 16; 2011 Acts, ch 34, §108
+481A.20 Parrots and canaries.
+This chapter shall not be construed to forbid the selling or shipping of parrots, canaries, or
+any other cage birds which are imported from other countries or not native to any part of the
+United States.
+[S13, §2563-r; C24, 27, 31, 35, 39, §1777; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§109.20]
+C93, §481A.20
+481A.21 Birds as targets.
+A person shall not keep or use any live pigeon or other bird as a target, to be shot at for
+amusement or as a test of skill in marksmanship, or shoot at a bird kept or used for such
+purpose, or be a party to such shooting, or lease any building, room, field, or premises, or
+knowingly permit the use thereof, for the purpose of such shooting. This section does not
+prevent any person from shooting at live pigeons, sparrows, and starlings when used in the
+training of hunting dogs. This section does not prevent any person from shooting at a game
+bird that is released a minimum of twenty-five yards from that person on a licensed hunting
+preserve. For the purposes of this section, “game bird” means the same as defined in section
+484B.1.
+[S13, §2563-i; C24, 27, 31, 35, 39, §1778; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§109.21]
+88 Acts, ch 1216, §5
+C93, §481A.21
+2009 Acts, ch 179, §213, 217; 2010 Acts, ch 1154, §1
+Referred to in §481A.22, 805.8B(3)(c)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph c
+481A.22 Field and retriever meets — permits and tags required.
+1. a.
+All officially sanctioned field meets or trials and retriever meets or trials where the
+skill of dogs is demonstrated in pointing, retrieving, trailing, or chasing any game bird, game
+animal, or fur-bearing animal shall require a field trial permit. Except as otherwise provided
+by law, it shall be unlawful to kill any wildlife in such events. Notwithstanding the provisions
+of section 481A.21 it shall be lawful to hold field meets or trials and retriever meets or
+trials where dogs are permitted to work in exhibition or contest whereby the skill of dogs is
+demonstrated by retrieving dead or wounded game birds which have been propagated by
+licensed game breeders within the state or secured from lawful sources outside the state
+and lawfully brought into the state. All of the birds must be released on the day of trials on
+premises where the trials are held.
+b.
+Any birds released may be shot by official guns after having secured a permit as
+provided in this section.
+c.
+The permits may be issued by the director of the department upon proper application
+and the payment of a fee of two dollars for each trial held. A representative of the department
+shall attend all such trials and enforce the laws and regulations governing same.
+2.
+The person or persons designated by the committee in charge to do the shooting for
+the trials shall be known as the official guns, and no other person shall be permitted to kill
+or attempt to kill any of the birds released for such trials.
+3.
+Before any birds are released under this section, they must each have attached a tag
+provided by the department and attached by a representative of the department at a cost of
+not more than ten cents for each tag. All tags are to remain attached to birds until prepared
+for consumption.
+4.
+It is unlawful for any person to hold, conduct, or to participate in a field or retriever
+trial before the permit required by this section has been secured or for any person to possess
+or remove from the trial grounds any birds which have not been tagged as required in this
+section.
+[C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.22]
+86 Acts, ch 1244, §24; 90 Acts, ch 1216, §7
+C93, §481A.22
+2015 Acts, ch 30, §157; 2016 Acts, ch 1011, §88
+Referred to in §481A.6A, 805.8B(3)(c)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph c
+481A.23 Transportation for sale prohibited.
+It shall be unlawful for any person, firm, or corporation, except as otherwise provided, to
+offer for transportation or to transport by common carrier or vehicle of any kind, to any place
+within or without the state, for the purposes of sale, any of the fish, game, animals, or birds
+taken, caught, or killed within the state, or to peddle any of such fish, game, animals, or birds.
+[C97, §2555; SS15, §2540, 2555; C24, 27, 31, 35, 39, §1780; C46, 50, 54, 58, 62, 66, 71, 73,
+75, 77, 79, 81, §109.23]
+C93, §481A.23
+Penalties and exceptions, see §481A.32 and 481A.38
+481A.24 Use of mobile radio transmitter prohibited — exceptions.
+1.
+For the purposes of this section:
+a.
+“One-way mobile radio transmitter” means a radio capable of transmitting a signal only
+but not capable of transmitting a voice signal. The signal may be tracked or located by radio
+telemetry or located by an audible sound.
+b.
+“Two-way mobile radio transmitter” means a radio capable of transmitting and
+receiving voice messages including, but not limited to, a citizen band radio or a cellular
+telephone.
+2.
+Except as otherwise provided in this section, a person who is hunting shall not use
+a one-way or two-way mobile radio transmitter to communicate the location or direction of
+game or fur-bearing animals or to coordinate the movement of other hunters. This subsection
+does not apply to the hunting of coyotes except during the shotgun deer season as set by the
+commission under section 481A.38.
+3.
+A licensed falconer may use a one-way mobile radio transmitter to recover a free-flying
+bird of prey properly banded and covered on the falconry permit.
+4.
+A person hunting with the aid of a dog may use at any time a one-way mobile transmitter
+designed to track or aid in the recovery of the dog.
+[C79, 81, §109.24]
+88 Acts, ch 1216, §6
+C93, §481A.24
+93 Acts, ch 119, §1; 94 Acts, ch 1147, §1
+Referred to in §805.8B(3)(d)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph d
+481A.25
+Reserved.
+481A.26 Unlawful transportation.
+Except as otherwise provided, in any one day, a person shall not ship, carry, or transport
+game, fish, birds, or animals, except fur-bearing animals, in excess of the number the person
+is legally permitted to possess.
+[C97, §2555; SS15, §2555; C24, 27, 31, §1783; C35, §1782-e1; C39, §1782.1; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §109.26]
+C93, §481A.26
+2023 Acts, ch 66, §116
+Referred to in §805.8B(3)(c)
+For applicable scheduled fine, see §805.8B, subsection 3, paragraph c
+481A.27 through 481A.29
+Reserved.
+481A.30 Entire shipment contraband.
+In the shipping of fish, game, animals, birds, or furs, whenever a container includes one
+or more fish, game, animals, birds, or furs that are contraband, the entire contents of the
+container shall be deemed contraband and shall be seized by the director or the director’s
+officers.
+[C24, 27, 31, 35, 39, §1787; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.30]
+C93, §481A.30
+2022 Acts, ch 1032, §81
+481A.31 Game brought into state.
+It shall be lawful for any person, firm, or corporation to possess any fish or game lawfully
+taken outside the state and lawfully brought into the state, but the burden of proof shall be
+upon the person in possession of the fish or game to show that the fish or game was lawfully
+killed and lawfully brought into the state.
+[SS15, §2555; C24, 27, 31, 35, 39, §1788; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§109.31]
+C93, §481A.31
+2025 Acts, ch 30, §82
+Section amended
+481A.32 Violations — penalties.
+1.
+A person who does any of the following is guilty of a simple misdemeanor and shall be
+assessed a minimum fine of twenty dollars for each offense for which no other punishment
+is provided:
+a.
+Takes, catches, kills, injures, destroys, has in possession, buys, sells, ships, or
+transports any frogs, fish, mussels, birds, their nests, eggs, or plumage, fowls, game,
+or animals or their fur or raw pelt in violation of the provisions of this chapter or of
+administrative rules of the commission.
+b.
+Uses any device, equipment, seine, trap, net, tackle, firearm, drug, poison, explosive,
+or other substance or means, the use of which is prohibited by this chapter.
+c.
+Uses any device, equipment, seine, trap, net, tackle, firearm, drug, poison, explosive,
+or other substance or means at a time, place, or in a manner or for a purpose prohibited.
+d.
+Does any other act in violation of the provisions of this chapter or of administrative
+rules of the commission.
+2.
+Each fish, fowl, bird, bird’s nest, egg, or plumage, and animal unlawfully caught, taken,
+killed, injured, destroyed, possessed, bought, sold, or shipped shall be a separate offense.
+3.
+A person convicted of taking a deer, antelope, moose, buffalo, or elk with a prohibited
+weapon as defined by rules of the department, is subject to a fine of one hundred dollars for
+each offense committed while taking the animal with the prohibited weapon.
+[R60, §4381 – 4383; C73, §4048, 4053, 4063; C97, §2543, 2544, 2551, 2552, 2556, 2558, 2561;
+S13, §2547-e, 2551-b, 2561, 2563-a8, -i, -o, -s, -v; SS15, §2540-a, 2544, 2551, 2552, 2556; C24,
+27, 31, 35, 39, §1789; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.32]
+88 Acts, ch 1216, §7, 8
+C93, §481A.32
+2002 Acts, ch 1147, §1; 2018 Acts, ch 1026, §150
+Referred to in §481A.59
+Prohibitions and exceptions, see §481A.23 and 481A.38
+481A.33 Violations relating to dams.
+1.
+A person who erects any dam or other obstruction prohibited by this chapter or at a
+place or in a manner prohibited shall be guilty of a simple misdemeanor.
+2.
+A person who injures or destroys any dam lawfully erected shall be guilty of an
+aggravated misdemeanor.
+[C97, §2548, 2550; SS15, §2548; C24, 27, 31, 35, 39, §1790; C46, 50, 54, 58, 62, 66, 71, 73,
+75, 77, 79, 81, §109.33]
+C93, §481A.33
+2021 Acts, ch 80, §312
+481A.34 Violations by common carrier.
+A common carrier, and any agent, employee, or servant of a common carrier, which
+violates any of the provisions of this chapter relating to receiving, having in possession,
+shipping, or delivering any fish, fowl, birds, birds’ nests, eggs, or plumage, fur, raw pelts,
+game, or animals, in violation of the provisions of the Code or contrary to the regulations
+and restrictions provided in this chapter, is guilty of a simple misdemeanor.
+[C73, §4049; C97, §2557; C24, 27, 31, 35, 39, §1791; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77,
+79, 81, §109.34]
+88 Acts, ch 1216, §9
+C93, §481A.34
+2025 Acts, ch 30, §83
+Section amended
+481A.35 Attorney general and county attorneys.
+It shall be the duty of the attorney general, when requested by the director, to give the
+attorney general’s opinion in writing upon any question of law arising under this chapter;
+and it shall be the duty of all county attorneys in this state when requested by the director
+or any officer appointed by the commission, to prosecute all criminal actions brought in
+their respective counties for violations of the provisions of this chapter.
+Nothing in this
+chapter shall be construed as prohibiting any person from instituting legal proceedings for
+the enforcement of any of the provisions thereof.
+[R60, §4385; C73, §4051; C97, §2559; SS15, §2559; C24, 27, 31, 35, 39, §1792; C46, 50, 54,
+58, 62, 66, 71, 73, 75, 77, 79, 81, §109.35]
+C93, §481A.35
+Referred to in §331.756(23)
+481A.36 Information — venue.
+1.
+In all prosecutions under this chapter, any number of violations may be charged in one
+information, but each charge shall be set out in a separate count if more than one charge is
+included in one information.
+2.
+Prosecutions for violations may be brought in the county in which any fish, fowl, bird,
+bird’s nest, eggs, or plumage, or animals protected by this chapter were unlawfully caught,
+taken, killed, trapped, ensnared, bought, sold, or shipped unlawfully, or in any county into or
+through which they were received, transported, or found in the possession of any person.
+[R60, §4385; C73, §4051; C97, §2559; SS15, §2559; C24, 27, 31, 35, 39, §1793; C46, 50, 54,
+58, 62, 66, 71, 73, 75, 77, 79, 81, §109.36]
+C93, §481A.36
+2018 Acts, ch 1041, §127; 2019 Acts, ch 24, §71
+481A.37 Presumptive evidence.
+It shall be presumptive evidence of a violation of the provisions of this chapter for any
+person to:
+1.
+Have in possession any fish, game, furs, birds, birds’ nests, eggs or plumage, or animals,
+which have been unlawfully caught, taken, or killed.
+2.
+Be in possession of such fish, game, furs, birds, or animals at a time when or place
+where it shall be unlawful to take, catch, or kill the same, except game, birds or animals,
+during the first ten days of the closed season.
+3.
+Have in possession any implements, devices, equipment, or means whatever of taking
+fish, birds, or animals protected by the Code at any place where the possession or use thereof
+is prohibited.
+[C97, §2554; S13, §2563-a10; SS15, §2554, 2555; C24, 27, 31, 35, 39, §1794; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §109.37]
+88 Acts, ch 1216, §10, 11
+C93, §481A.37
+SUBCHAPTER II
+PROPAGATION AND PROTECTION OF FISH, GAME, WILD BIRDS, AND ANIMALS
+481A.38 Prohibited acts — restrictions on the taking of wildlife — special licenses.
+It is unlawful for a person to take, pursue, kill, trap or ensnare, buy, sell, possess, transport,
+or attempt to so take, pursue, kill, trap or ensnare, buy, sell, possess, or transport any game,
+protected nongame animals, fur-bearing animals or fur or skin of such animals, mussels,
+frogs, spawn or fish or any part thereof, except upon the terms, conditions, limitations, and
+restrictions set forth herein, and administrative rules necessary to carry out the purposes set
+out in section 481A.39, or as provided by the Code.
+1. a.
+The commission may upon its own motion and after an investigation, alter, limit,
+or restrict the methods or means employed and the instruments or equipment used in
+taking wild mammals, birds subject to section 481A.48, fish, reptiles, and amphibians, if
+the investigation reveals that the action would be desirable or beneficial in promoting the
+interests of conservation, or the commission may, after an investigation when it is found
+there is imminent danger of loss of fish through natural causes, authorize the taking of fish
+by means found advisable to salvage imperiled fish populations.
+b.
+The commission shall adopt a rule permitting a crossbow to be used only by individuals
+with disabilities who are physically incapable of using a bow and arrow under the conditions
+in which a bow and arrow is permitted. The commission shall prepare an application to be
+used by an individual requesting the status. The application shall require the individual’s
+physician or physical therapist licensed under chapter 148A to sign a statement declaring
+that the individual is not physically able to use a bow and arrow.
+2.
+If the commission finds that the number of hunters licensed or the type of license issued
+to take deer or wild turkey should be limited or further regulated, the commission shall adopt
+procedures, by rule, for issuing the licenses. This subsection does not apply to the hunting of
+wild turkey on a hunting preserve licensed under chapter 484B.
+3.
+The department and the commission shall exercise regulatory authority regarding
+seasons, bag limits, possession limits, locality, the method of taking, or the taking of fish
+and wildlife within the boundaries of the Sac and Fox tribe settlement in Tama county only
+to the extent provided in a written agreement between the tribal council of the Sac and
+Fox tribe of the Mississippi in Iowa and the department. The written agreement shall not
+be construed to supersede or impair the regulatory authority exercised by the commission
+pursuant to the federal Migratory Bird Treaty Act, the federal Migratory Bird Stamp Hunting
+Act, the federal Endangered Species Act, or other federal law, and shall not be construed
+to supersede or impair the regulatory authority exercised by the Sac and Fox tribe of the
+Mississippi in Iowa pursuant to any federal act, statute, or law. The department and the
+commission shall not unreasonably fail to enter into an agreement and shall pursue such an
+agreement in an expedient manner. This subsection shall become effective upon signing of
+the written agreement by the director of the department and the chairperson of the Sac and
+Fox tribe of the Mississippi in Iowa.
+[R60, §4381; C73, §4048; C97, §2551, 2555; S13, §2562-c, 2563-j, -k, -m, -n; SS15, §2540,
+2551, 2555, 2562-b, -c, 2563-a1, -a2, -u; C24, 27, 31, §1718, 1719, 1755, 1767, 1774; C35,
+§1718-c1; C39, §1794.001; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.38; 82 Acts, ch
+1037, §1]
+84 Acts, ch 1213, §1; 84 Acts, ch 1260, §1; 88 Acts, ch 1216, §12; 89 Acts, ch 87, §1; 90 Acts,
+ch 1109, §1; 92 Acts, ch 1160, §18
+C93, §481A.38
+96 Acts, ch 1129, §97; 99 Acts, ch 39, §1; 2001 Acts, ch 134, §1, 2; 2007 Acts, ch 189, §1, 2;
+2011 Acts, ch 25, §143; 2023 Acts, ch 106, §1
+Referred to in §456A.24, 481A.24, 481A.48, 481A.67, 483A.24, 483A.28, 805.8B(3)(f), 805.8B(3)(g)
+Prohibited transportation and penalites, see §481A.23 and 481A.32
+For applicable scheduled fines, see §805.8B, subsection 3, paragraphs f and g
+481A.39 Biological balance maintained.
+The commission is designated the sole agency to determine the facts as to whether
+biological balance does or does not exist.
+The commission shall, by administrative rule,
+extend, shorten, open, or close seasons and set, increase, or reduce catch limits, bag limits,
+size limits, possession limits, or territorial limitations or further regulate taking conditions
+in accordance with sound fish and wildlife management principles.
+[C39, §1794.002; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.39]
+88 Acts, ch 1216, §13
+C93, §481A.39
+Referred to in §481A.5, 481A.6, 481A.9, 481A.38, 481A.48, 481A.67, 483A.6A, 483A.28
+481A.40 Use of drugs on wildlife — penalty.
+1.
+For the purposes of this section, “drug” means any chemical substance, other than food,
+that affects the structure or biological function of any wildlife under the jurisdiction of the
+department of natural resources.
+2.
+Except with written authorization from the director or the director’s designee or as
+otherwise provided by law, a person shall not administer any drug to any wildlife under the
+jurisdiction of the department of natural resources, including but not limited to drugs used
+for fertility control, disease prevention or treatment, immobilization, or growth stimulation.
+3.
+This section does not prohibit the treatment of sick or injured wildlife by a licensed
+veterinarian or holder of a wildlife rehabilitation permit.
+4.
+This section shall not be construed to limit employees of agencies of the state, the
+United States, or local animal control officers, licensed animal shelters, or licensed pounds
+in the performance of their official duties related to public health, wildlife management, or
+wildlife removal. However, a drug shall not be administered by any person for fertility control
+or growth stimulation except as provided in subsection 2.
+5.
+An officer of the department may take possession of or dispose of any wildlife under
+the jurisdiction of the department of natural resources that the officer reasonably believes
+has been administered drugs in violation of this section.
+6.
+A person who violates this section is guilty of a serious misdemeanor.
+2007 Acts, ch 56, §1
+481A.41
+Reserved.
+481A.42 Nongame protected — exclusion.
+Protected nongame species include wild fish, wild birds, wild bats, wild reptiles, and wild
+amphibians, an egg, a nest, a dead body or part of a dead body, and a product made from
+part of a body of a wild fish, wild bird, wild bat, wild reptile, or wild amphibian. However,
+nongame does not include game, fish that may be taken pursuant to regulations established
+under the Code or departmental rule, fur-bearing animals, turtles, or frogs, as defined in this
+chapter. The commission shall designate by rule those species of nongame which by their
+abundance or habits are declared a nuisance, and these species shall not be protected. Rules
+adopted shall include but are not limited to a provision that states that any bat, except for
+the Indiana bat, which is found within a building that is occupied by human beings is not a
+protected nongame species.
+[S13, §2563-q; C24, 27, 31, §1776; C39, §1794.005; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79,
+81, §109.42]
+83 Acts, ch 168, §6; 92 Acts, ch 1107, §1
+C93, §481A.42
+93 Acts, ch 20, §1
+Referred to in §717B.1
+481A.43 through 481A.46
+Reserved.
+481A.47 Importing fish and game — permits.
+1.
+Unless application is first made in writing to the commission for a permit and a permit
+is granted, a person, firm, or corporation shall not, except as otherwise provided, bring into
+the state of Iowa for the purpose of propagating or introducing, or place or introduce into any
+of the inland or boundary waters of the state, any fish or spawn thereof that are not native to
+such waters, or introduce or stock any bird or animal.
+2.
+A permit shall be granted only after the commission has made such investigation or
+inspection of the fish, birds, or animals as the commission may deem necessary to determine
+whether or not such fish, birds, or animals are free from disease and whether or not such
+introduction will be beneficial or detrimental to the native wildlife and the people of the
+state, and may or may not approve such planting, releasing, or introduction according to
+its findings.
+3.
+Nothing in this section shall prohibit licensed game breeders from securing native or
+exotic birds or animals from outside the state and bringing them into the state and a game
+breeder shall not be required to have a permit as provided in this section when such birds or
+animals are not released to the wild but are held on the game breeder’s premises as breeding
+stock.
+[C39, §1794.010; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.47]
+C93, §481A.47
+2018 Acts, ch 1026, §151
+Referred to in §805.8B(3)(d)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph d
+SUBCHAPTER III
+TERRITORIES, OPEN SEASONS, AND BAG AND POSSESSION LIMITS FOR GAME
+481A.48 Restrictions on game birds and animals.
+1.
+A person, except as otherwise provided by law, shall not willfully disturb, pursue,
+shoot, kill, take or attempt to take, or have in possession any of the following game birds or
+animals except within the open season established by the commission:
+gray or fox squirrel,
+bobwhite quail, cottontail or jackrabbit, duck, snipe, pheasant, goose, woodcock, partridge,
+mourning dove, coot, rail, ruffed grouse, wild turkey, pigeon, or deer.
+The seasons, bag
+limits, possession limits, and locality shall be established by the department or commission
+under the authority of sections 456A.24, 481A.38, and 481A.39.
+2.
+The commission may adopt rules for the taking and possession of migratory birds which
+are subject to the federal Migratory Bird Treaty Act and Migratory Bird Stamp Hunting Act
+during the time and in the manner permitted under those federal Acts. The commission shall
+not adopt a rule for the taking or possession of a migratory bird for which an open season is
+not authorized by another paragraph of this section.
+3.
+The commission may by rule permit the taking and possession of designated raptors
+and crows during the time and in the manner permitted under the federal Migratory Bird
+Treaty Act.
+4.
+The commission shall establish methods by which pigeons may be taken which may
+include but are not limited to the use of trapping, chemical repellants, or toxic perches.
+5.
+The commission shall establish one or more pistol or revolver seasons for hunting
+deer as separate firearm seasons or to coincide with one or more other firearm deer hunting
+seasons. Any pistol or revolver with a barrel length of at least four inches and firing straight
+wall or other centerfire ammunition propelling an expanding-type bullet with a maximum
+diameter of no less than three hundred fifty thousandths of one inch and no larger than
+five hundred thousandths of one inch and with a published or calculated muzzle energy of
+five hundred foot pounds or higher is legal for hunting deer during the pistol or revolver
+seasons. The commission shall adopt rules to allow black powder pistols or revolvers for
+hunting deer. The rules may limit types of projectiles. A person who is twenty years of age
+or less shall not hunt deer with a pistol or revolver unless that person is accompanied and
+under direct supervision throughout the hunt by a responsible person with a valid hunting
+license who is at least twenty-one years of age, with the consent of a parent, guardian, or
+spouse who is at least twenty-one years of age, pursuant to section 724.22, subsection 4. The
+responsible person with a valid hunting license who is at least twenty-one years of age shall
+be responsible for the conveyance of the pistol or revolver while the pistol or revolver is not
+actively being used for hunting. A person possessing a prohibited pistol or revolver while
+hunting deer commits a scheduled violation under section 805.8B, subsection 3, paragraph
+“h”, subparagraph (5).
+6.
+The commission shall adopt rules pursuant to chapter 17A allowing the use of cartridge
+rifles to hunt deer as follows:
+a.
+A cartridge rifle may be used to hunt deer during youth and disabled deer hunting
+season and first and second shotgun deer hunting seasons by a person who has a valid deer
+hunting license and is otherwise qualified to hunt.
+b.
+A cartridge rifle that is allowed pursuant to this subsection shall be of the same caliber
+and shall use the same straight wall or other ammunition as is allowed for use in a pistol
+or revolver for hunting deer as provided in subsection 5. In addition, the commission shall
+provide, by rule, for the use of straight wall or other ammunition under this subsection
+that meets ballistics specifications similar to the requirements for straight wall or other
+ammunition allowed for use in a pistol or revolver for hunting deer as provided in subsection
+5.
+c.
+A person possessing a prohibited rifle while hunting deer commits a scheduled violation
+under section 805.8B, subsection 3, paragraph “h”, subparagraph (6). In addition, the hunting
+privileges of a person convicted of possessing a prohibited rifle while hunting deer shall be
+suspended for two years.
+[R60, §4381; C73, §4048; C97, §2551, 2552; S13, §2563-q; SS15, §2551, 2552, 2563-u; C24,
+§1767, 1768, 1776; C27, 31, §1767, 1767-a1, 1768, 1776; C39, §1794.011; C46, 50, 54, 58, 62,
+66, 71, 73, 75, 77, 79, 81, §109.48]
+86 Acts, ch 1133, §2, 3
+C93, §481A.48
+97 Acts, ch 141, §1; 2001 Acts, ch 137, §5; 2011 Acts, ch 3, §1; 2017 Acts, ch 68, §1; 2020
+Acts, ch 1071, §2; 2022 Acts, ch 1021, §136
+Referred to in §170.8, 481A.38, 483A.8C, 805.8B(3)(h)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph h
+Section not amended; internal reference change applied
+481A.49
+Reserved.
+481A.50 Selling birds.
+No part of the plumage, skin, or body of any bird protected by this chapter shall be sold or
+had in possession for sale, irrespective of whether said bird was captured or killed within or
+without the state, except as otherwise provided.
+[C39, §1794.013; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.50]
+C93, §481A.50
+Referred to in §481A.55, 805.8B(3)(c)
+For applicable scheduled fine, see §805.8B, subsection 3, paragraph c
+481A.51 Hunting license not trapping license.
+A hunting license shall not permit the holder to trap any fur-bearing animal as defined in
+this chapter.
+[SS15, §2563-a1; C24, 27, §1718; C31, §1718-c1; C39, §1794.014; C46, 50, 54, 58, 62, 66, 71,
+73, 75, 77, 79, 81, §109.51]
+C93, §481A.51
+481A.52 Exhibiting catch to officer.
+A person who has in possession any game bird, game animal, fish, or fur or part thereof
+shall upon request of the director or any officer appointed by the department exhibit the game
+bird, game animal, fish, or fur or part thereof to the director or officer. A person who refuses
+to comply with a request made under this section commits a scheduled violation under section
+805.8B.
+[C31, §1768-c1; C39, §1794.015; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.52]
+88 Acts, ch 1216, §14
+C93, §481A.52
+2022 Acts, ch 1021, §137
+Referred to in §805.8B(3)(d)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph d
+481A.53 Chasing from dens.
+It is unlawful to have in possession while hunting or to use while hunting any ferret or any
+device or any substance to be used for chasing animals from their dens.
+[C31, §1767-c1; C39, §1794.016; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.53]
+88 Acts, ch 1216, §15
+C93, §481A.53
+Referred to in §805.8B(3)(d)
+For applicable scheduled fine, see §805.8B, subsection 3, paragraph d
+481A.54 Shooting rifle, shotgun, pistol, or revolver over water, highway, or railroad
+right-of-way.
+1.
+A person shall not shoot any rifle on or over any of the public waters or public highways
+of the state or any railroad right-of-way.
+2.
+A person shall not shoot a shotgun with a slug load, pistol, or revolver on or over a
+public roadway as defined in section 321.1, subsection 65.
+3.
+This section does not apply to any peace officers or military personnel in the
+performance of their official duties.
+[C31, §1772-c2; C39, §1794.017; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.54]
+91 Acts, ch 234, §1
+C93, §481A.54
+Referred to in §805.8B(3)(b)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph b
+481A.55 Selling game.
+1.
+Except as otherwise provided, a person shall not buy or sell, dead or alive, a bird or
+animal or any part of one which is protected by this chapter, but this section does not apply
+to fur-bearing animals, bones of wild turkeys that were legally taken, and the skins, plumage,
+and antlers of legally taken game. This section does not prohibit the purchase of jackrabbits
+from sources outside this state. A person shall not purchase, sell, barter, or offer to purchase,
+sell, or barter for millinery or ornamental use the feathers of migratory game birds; and a
+person shall not purchase, sell, barter, or offer to purchase, sell, or barter mounted specimens
+of migratory game birds.
+2.
+Section 481A.50 and this section do not apply to a game species, fur-bearing animal
+species, or variety of fish protected under this chapter which is sold by a nonprofit
+corporation as a part of a meal. The number of game of a game species or fur-bearing animal
+species, or a variety of fish protected by this chapter which are donated by a person to a
+nonprofit corporation plus any additional game of the same species or same variety of fish
+in the person’s possession must not exceed the person’s legal possession limit.
+[C97, §2554; SS15, §2554; C24, 27, 31, §1769; C39, §1794.018; C46, 50, 54, 58, 62, 66, 71,
+73, 75, 77, 79, 81, §109.55]
+87 Acts, ch 176, §1; 88 Acts, ch 1216, §16
+C93, §481A.55
+2007 Acts, ch 28, §13
+Referred to in §805.8B(3)(d)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph d
+481A.56 Training dogs.
+1. a.
+A person having a valid hunting license may train a bird dog on any game birds and
+a person having a valid fur harvester license may train a coonhound, foxhound, or trailing
+dog on any fur-bearing animals at any time of the year including during the closed season
+on such birds or animals. However, the animals when pursued to a tree or den shall not be
+further chased or removed in any manner from the tree or den. A person having a hunting
+license may train a dog on coyote or groundhog.
+b.
+Only a pistol, revolver, or other gun shooting blank cartridges shall be used while
+training dogs during closed season except as provided in subsection 2 of this section.
+2.
+Any pen-raised game bird may be used and may be shot in the training of bird dogs.
+Before any bird is released or used in the training of dogs, the bird shall have attached a band
+procured from the commission. The commission may charge a fee for such bands but the fee
+shall not exceed ten cents for each band.
+3.
+A call back pen or live trap may be used for the purpose of retrieving banded birds
+when released in the wild for training purposes. Any bird not so banded when taken in a call
+back pen or trap shall be immediately returned unbanded to the wild. All call back pens or
+live traps when in use shall have attached a metal tag plainly labeled with the owner’s name
+and address. Conservation officers shall have authority to confiscate such traps when found
+in use and not properly labeled.
+4.
+The commission shall have the power to adopt rules prohibiting the training of any
+hunting dog on any game bird, game animal, or fur-bearing animal in the wild at any
+time when it has been determined that such training might have an adverse effect on the
+populations of these species.
+[C39, §1794.019; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.56]
+85 Acts, ch 10, §1; 86 Acts, ch 1245, §1854; 88 Acts, ch 1216, §17
+C93, §481A.56
+2011 Acts, ch 25, §143
+Referred to in §481A.6A, 484B.10, 805.8B(3)(c)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph c
+481A.56A Retrieval of wounded deer by leashed dogs.
+A person having a valid hunting license and a valid deer hunting license who has wounded
+a deer while hunting may use a dog to track and retrieve the wounded deer. An unarmed
+dog handler assisting in the recovery of a wounded deer is exempt from the licensing
+requirements as long as the handler is associated with the licensed hunter who wounded the
+deer. Any person using a dog for tracking wounded deer must maintain physical control of
+the dog at all times during the search by means of a maximum fifty-foot lead attached to the
+dog’s collar or harness. The licensed hunter who wounded the deer may dispatch the deer
+using a legal method of take authorized by the person’s deer hunting license consistent with
+all rules and regulations for that season. A person shall not chase, hunt, wound, or kill any
+animal other than the deer that the hunter is tracking, except in self-defense. Using a dog to
+track a wounded deer on private property is permissible with consent of the property owner.
+A person using a dog to track a wounded deer outside of legal deer hunting hours shall not
+be in possession of a firearm or archery device. The commission may adopt rules pursuant
+to chapter 17A to implement this section.
+2020 Acts, ch 1096, §1; 2021 Acts, ch 43, §1
+Referred to in §805.8B(3)(q)
+For applicable scheduled fine, see §805.8B, subsection 3, paragraph q
+481A.57 Possession and storage.
+A person having lawful possession of game or fur-bearing animals or their pelts lawfully
+taken by that person with a valid hunting or trapping license, may hold, possess, or store the
+game or fur-bearing animals or their pelts in an amount that does not exceed the possession
+limit for the game or fur-bearing animal, from the date of taking until the day before the first
+day of the next open season for that game or fur-bearing animal. Any person may possess up
+to twenty-five pounds of deer venison if the deer was obtained from a lawful source.
+[C39, §1794.020; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.57]
+88 Acts, ch 1216, §18
+C93, §481A.57
+2002 Acts, ch 1147, §2; 2016 Acts, ch 1021, §1
+Referred to in §805.8B(3)(e)
+For applicable scheduled fine, see §805.8B, subsection 3, paragraph e
+481A.58 Trapping birds or poisoning animals.
+No person except those acting under the authority of the director shall capture or take, or
+attempt to capture or take, any game bird with any trap, snare, or net, nor shall any person use
+any poison, any medicated or poisoned food, or any other substance for the killing, capturing,
+or taking of any game bird or animal.
+[R60, §4381; C73, §4048; C97, §2551; SS15, §2539, 2551; C24, 27, 31, §1773; C39, §1794.021;
+C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.58]
+86 Acts, ch 1245, §1855
+C93, §481A.58
+2022 Acts, ch 1032, §82
+Referred to in §805.8B(3)(d)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph d
+481A.59 Pigeons — interference prohibited.
+1.
+It shall be unlawful for any person or persons, except the owner or the owner’s
+representatives, to shoot, kill, maim, injure, steal, capture, detain, or to interfere with any
+homing pigeon, commonly called “carrier pigeon”, which shall at the time, have the name,
+initials, or other identification of its owner, stamped, marked, or attached thereon; or to
+remove any mark, band, or other means of identification from such pigeon which has the
+name, initials, or emblem of the owner stamped or marked upon it.
+2.
+A person who violates the provisions of this section shall be punished as is provided in
+section 481A.32.
+[C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.59]
+C93, §481A.59
+2018 Acts, ch 1026, §152
+SUBCHAPTER IV
+GAME BREEDERS
+481A.60 Raising game — rulemaking authority.
+A person shall not raise or sell game or fur-bearing animals of the kinds protected by this
+chapter, except rock doves and pigeons, without first procuring a game breeder’s license
+as provided by law.
+The commission may adopt rules which ensure that all game birds,
+game animals, and fur-bearing animals handled and confined by licensed game breeders are
+provided with humane care and treatment. A violation of a rule adopted by the commission is
+a cause for license revocation. This section does not apply to governmental zoos and exhibits.
+[C39, §1794.022; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.60]
+88 Acts, ch 1216, §19; 91 Acts, ch 237, §1
+C93, §481A.60
+Referred to in §481A.6A, 805.8B(3)(c)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph c
+481A.61 Licensed game breeders — marketing game — penalty.
+1.
+Except as otherwise provided by law, a licensed game breeder whose original stock
+is obtained from a lawful source may possess any game bird, game animal, or fur-bearing
+animal, or any of their parts.
+Possession and use of the game birds, game animals, or
+fur-bearing animals obtained from a licensed game breeder are lawful.
+2.
+Fur-bearing animals shall not be acquired for breeding or propagating purposes from
+any source unless they have been pen-raised for at least two successive generations.
+3.
+A game breeder’s license is not a license to possess, breed, propagate, sell, or dispose of
+any species which is defined as endangered or threatened under state law unless the species
+is listed on the license. Its possession, breeding, propagation, sale, and disposal are subject
+to all applicable state and federal statutes.
+4.
+A licensed game breeder shall not acquire protected live game animals, game birds,
+their eggs, or fur-bearing animals taken from the wild within this state.
+5.
+Game birds or game animals may be sold for food only under the following conditions:
+a.
+The licensed game breeder shall file with the commission a facsimile of a stamp of
+similar type to that used by the United States department of agriculture in grading meat.
+b.
+Licensed game breeders may sell dressed game birds or game animals to markets for
+resale providing each game bird or game animal has affixed upon it in a conspicuous and
+legible manner the imprint of the game breeder’s stamp.
+c.
+The stamp shall bear the name and number of the game breeder in letters of at least
+twelve point type size.
+6.
+Markets selling stamped game shall:
+a.
+Maintain the stamp on each game bird or game animal until the bird or animal is
+disposed of or sold.
+b.
+Keep a record showing the total number of game birds or game animals sold together
+with the name and address of the game breeder from whom purchased and the number of
+game birds and animals in each purchase.
+7.
+Markets selling stamped game, together with their records, are subject to inspection by
+an authorized representative of the commission at any reasonable time.
+8.
+Violation of a provision of this section may be cause for license revocation.
+[C39, §1794.023; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.61]
+86 Acts, ch 1245, §1854; 88 Acts, ch 1216, §20
+C93, §481A.61
+Referred to in §805.8B(3)(c)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph c
+481A.62 Records — reports — inspection.
+1.
+A holder of a game breeder’s license shall keep the records and make the reports
+required by this section on forms provided by the department. The records shall be open for
+inspection at any reasonable time by the department or its authorized agents.
+2.
+At the time of every sale or conveyance of an animal, animal parts, or products, the
+licensee shall complete a game breeder’s sales receipt on forms provided by the department.
+The forms shall require the following information:
+a.
+The name, address, county, and license number assigned to the breeder.
+b.
+The name and address of the purchaser.
+c.
+The number, species, sex, and age of the animals or birds conveyed.
+3. a.
+Licensees shall maintain business records for all species in an annual report record
+book. The records shall include the following information:
+(1)
+For each animal acquired other than by birth on the licensee’s game farm, the sex and
+species, the date of acquisition, the number acquired, and the name and address of the source
+from which acquired.
+(2)
+For each animal born on the licensee’s game farm, the sex, species, date of birth, and
+number of any band, tag, or tattoo subsequently attached to the animal.
+(3)
+For each animal sold or disposed of other than by death the same information required
+by the game breeder’s sales receipt.
+(4)
+For each animal which dies, disappears, or is destroyed on the licensee’s game farm,
+the sex, species, date of death, and the number of any band, tag, or tattoo attached to the
+animal.
+b.
+The licensee’s copies of the required sales receipts shall be kept with the record book
+and are considered a part of it.
+c.
+Records required by this section shall be entered in the annual report record book
+within forty-eight hours of the event.
+4.
+Each licensee shall file an annual report with the commission on or before January
+31. The report shall detail the game breeder’s operations during the preceding license year.
+The original report shall be forwarded to the department and a copy shall be retained in the
+breeder’s file for a period of three years from the date of expiration of the breeder’s last
+license issued. Failure to keep or submit the required records and report are grounds for a
+refusal to renew a license for the succeeding year.
+5.
+An on-site inspection of facilities shall be conducted by an officer of the commission
+prior to the initial issuance of a game breeder’s license. The facilities may be reinspected by
+an officer of the commission at any reasonable time.
+6.
+Any officer of the commission may enter any place where any game bird, game animal,
+or fur-bearing animal is at the time located, or where it has been kept, or where the carcass
+of such animal may be, for the purpose of examining it in any way that may be necessary to
+determine whether it was or is infected with any contagious or infectious disease.
+7.
+For the purpose of this section, infectious and contagious disease includes rabies,
+hoof-and-mouth disease, leptospirosis, blackhead, or any other communicable disease so
+designated by the commission.
+8.
+The commission may regulate or prohibit the importation into the state and exportation
+from the state of any species of game bird, game animal, or fur-bearing animal, domesticated
+or not, which in its opinion, for any reason, is determined to be detrimental to the health of
+animals within or without the state.
+9.
+The commission may quarantine or destroy any game bird, game animal, or fur-bearing
+animal which is found to be infected with any contagious or infectious disease.
+10.
+A licensed game breeder or other person having control of any game bird, game
+animal, or fur-bearing animal shall not knowingly offer for sale, sell, or barter such birds
+or animals which have an infectious or contagious disease, or allow those birds or animals
+to run at large or come in contact with any other game birds, game animals, or fur-bearing
+animals.
+[C39, §1794.024; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.62]
+88 Acts, ch 1216, §21
+C93, §481A.62
+2011 Acts, ch 25, §143
+Referred to in §805.8B(3)(c)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph c
+481A.63 and 481A.64
+Reserved.
+SUBCHAPTER V
+SCIENTIFIC COLLECTING
+481A.65 Licenses.
+The director, after investigation, may issue to any person a scientific collector’s license,
+a wildlife salvage permit, educational project permit, or a wildlife rehabilitation permit. A
+scientific collector’s license will authorize the licensee to collect for scientific purposes only,
+any birds, nests, eggs, or wildlife.
+A wildlife salvage permit will authorize the permittee
+to salvage for educational purposes, any birds, nests, eggs, or animals according to the
+rules of the department. An educational project permit authorizes the permittee to collect,
+keep, or possess for educational purposes birds, fish, or wildlife which are not endangered,
+threatened, or otherwise specially managed according to the rules of the department.
+A wildlife rehabilitation permit will authorize the permittee to possess for rehabilitation
+purposes only, any orphaned or injured wildlife according to the rules of the department.
+A person to whom a license or permit is issued shall not dispose of any birds, nests, eggs,
+or wildlife or their parts except upon written permission of the director. The application for
+such licenses and permits shall be made upon blanks furnished by the department.
+The
+commission shall establish, by rule, the tenure and applicable fee for each permit authorized
+in this section. Each holder of a license or permit shall, by January 31 of each year, file with
+the department a report showing all specimens collected or possessed under authority of
+the license or permit. Upon a showing of cause the department may enter and inspect the
+premises and collections authorized by this section. A license or permit may be revoked by
+the director, after due notice, at any time for cause.
+[S13, §2563-o, -p; C24, 27, 31, §1779; C39, §1794.027; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77,
+79, 81, §109.65]
+88 Acts, ch 1216, §23
+C93, §481A.65
+95 Acts, ch 46, §1
+Referred to in §717F.7
+481A.66 Banding or marking.
+It shall be unlawful for any person to capture birds or animals for banding purposes except
+that the commission may, after investigation, issue a permit to any person permitting the
+person to capture birds or animals for the purpose of banding or marking same for scientific
+study, but no such birds or animals may be killed or injured or retained in possession, but
+must be liberated safely and promptly. Such permit may be revoked at any time for cause.
+Each holder of such permit shall report to the commission once each month the number, kind
+of birds or animals banded, and the band numbers.
+[C39, §1794.028; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.66]
+C93, §481A.66
+SUBCHAPTER VI
+ANGLING LAWS
+481A.67 Seasons and limits — turtle harvesting restrictions.
+1.
+It is unlawful for a person, except as otherwise expressly provided, to take, capture, or
+kill fish, frogs, or turtles except during the open season established by the commission. It is
+unlawful during open season to take in any one day an amount in excess of the daily catch
+limit designated for each variety or each locality, or have in possession any variety of fish,
+frog, or turtle in excess of the possession limit, or have in possession any frog, fish, or turtle
+at any time under the minimum length or weight. The open season, possession limit, daily
+catch limit, and the minimum length or weight for each variety of fish, frog, or turtle shall be
+established by rule of the department or commission under the authority of sections 456A.24,
+481A.38, 481A.39, and 482.1.
+2.
+Notwithstanding any provision of law to the contrary, the natural resource commission
+shall adopt rules pursuant to chapter 17A establishing seasons and daily catch limits for the
+noncommercial harvest of turtles in any waters of the state pursuant to section 483A.28.
+Seasons established pursuant to this subsection shall not apply to the noncommercial harvest
+of snapping turtles.
+3.
+Notwithstanding any provision of law to the contrary, the natural resource commission
+shall adopt rules pursuant to chapter 17A establishing seasons and daily catch limits for the
+commercial harvest of turtles in any waters of the state.
+[C97, §2540; SS15, §2540; C24, 27, 31, §1731, 1732, 1733; C39, §1794.029; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §109.67]
+86 Acts, ch 1245, §1854; 88 Acts, ch 1216, §24
+C93, §481A.67
+2016 Acts, ch 1024, §1, 2
+Referred to in §805.8B(3)(i)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph i
+481A.68 Tip-up fishing device.
+1.
+As used in this section, “tip-up fishing device” means an ice fishing mechanism with an
+attached flag or signal to indicate fishing action, used to hold a fishing rod or pole with line
+and hook.
+2.
+A person shall not use more than three tip-up fishing devices for fishing in the waters
+of the Mississippi river, the Missouri river, and the Big Sioux river, and their connected
+backwaters. A person may use two or three hooks on the same line, but the total number of
+hooks used by each person shall not exceed three. Each tip-up fishing device used in fishing
+shall have attached a tag plainly labeled with the owner’s name and address. A person shall
+not use a tip-up fishing device for fishing within three hundred feet of a dam or spillway or
+in a part of the river which is closed or posted against use of the device. Three tip-up fishing
+devices may be used in addition to the two lines with no more than two hooks per line, as
+specified in section 481A.72.
+3.
+An untagged tip-up fishing device found in use shall be confiscated by any officer
+appointed pursuant to section 456A.13 or 456A.14.
+88 Acts, ch 1041, §1
+C89, §109.68
+C93, §481A.68
+2003 Acts, ch 31, §1
+481A.69 Fish designated.
+The commission may adopt rules designating game fish, commercial fish, and rough fish.
+88 Acts, ch 1216, §25
+C89, §109.69
+C93, §481A.69
+Referred to in §805.8B(3)(b)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph b
+481A.70
+Reserved.
+481A.71 Releasing unlawful catch.
+Any fish caught that is less than lawful minimum length or weight shall be handled with
+wet hands and released under water immediately with as little injury as possible.
+[C39, §1794.033; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.71]
+C93, §481A.71
+Referred to in §805.8B(3)(b)
+For applicable scheduled fine, see §805.8B, subsection 3, paragraph b
+481A.72 Hooks and lines.
+1.
+Except as otherwise provided in this chapter, a person shall not at any time take from
+the waters of the state any fish except with hook, line, and bait. A person shall not use more
+than three lines nor more than two hooks on each line in still fishing or trolling. In fly fishing
+not more than two flies may be used on one line, and in trolling and bait casting not more
+than two trolling spoons or artificial bait may be used on one line.
+2.
+A person shall not leave fish line or lines and hooks in the water unattended by being
+out of visual sight of the lines and hooks.
+3.
+One hook means a single, double, or treble pointed hook, and all hooks attached as a
+part of an artificial bait or lure shall be counted as one hook.
+88 Acts, ch 1216, §26
+C89, §109.72
+C93, §481A.72
+2012 Acts, ch 1096, §2, 23; 2013 Acts, ch 90, §144
+Referred to in §481A.68, 483A.28, 805.8B(3)(b)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph b
+481A.73 Trotlines and tagged lines.
+In the waters of the state open to their use, a person shall not use more than five tagged
+lines set to take fish such as trotlines or throw lines. Such tagged lines shall not have in the
+aggregate more than fifteen hooks. Each separate line when in use shall have attached a
+tag plainly labeled with the owner’s name and address, shall be checked at least once each
+twenty-four hours, and a person shall not use tagged lines in a stocked lake or within three
+hundred feet of a dam or spillway or in a stream or portion of stream, which is closed or
+posted against the use of such tackle. One end of such lines shall be set from the shore and
+be visible above the shore waterline, but no such line shall be set entirely across a stream or
+body of water. Any untagged or unlawful lines when found in use shall be confiscated by any
+officer appointed by the director.
+[C73, §4052; C97, §2540, 2542; SS15, §2540; C24, 27, 31, §1734; C39, §1794.035, 1794.037;
+C46, 50, 54, 58, 62, 66, 71, 73, §109.73, 109.75; C75, 77, 79, 81, §109.73]
+88 Acts, ch 1216, §27
+C93, §481A.73
+Referred to in §805.8B(3)(j)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph j
+481A.74 Where permitted.
+Trotlines and throw lines may be used in the border rivers of the state and in the inland
+waters. However, the commission may by rule prohibit the use of trotlines or throw lines in
+certain inland waters.
+[C73, §4052; C97, §2540, 2542; C24, 27, 31, §1734; C39, §1794.036; C46, 50, 54, 58, 62, 66,
+71, 73, 75, 77, 79, 81, §109.74]
+C93, §481A.74
+481A.75
+Reserved.
+481A.76 Unlawful means — exception.
+It is unlawful, except as otherwise provided, to use on or in the waters of the state any
+grabhook, snaghook, any kind of a net, seine, trap, firearm, dynamite, or other explosives,
+or poisonous or stupefying substances, lime, ashes, electricity, or hand fishing in the taking
+or attempting to take any fish, except that gaffhooks or landing nets may be used to assist
+in landing fish. The commission may permit designated fish to be taken by hand fishing,
+by snagging, by spearing, by bow and arrow, and with artificial light at the times and at the
+places as determined by rules of the commission.
+[C97, §2540; SS15, §2540; C24, 27, 31, §1735; C39, §1794.038; C46, 50, 54, 58, 62, 66, 71,
+73, 75, 77, 79, 81, §109.76]
+88 Acts, ch 1216, §28
+C93, §481A.76
+2000 Acts, ch 1116, §1
+Referred to in §805.8B(3)(d)
+For applicable scheduled fine, see §805.8B, subsection 3, paragraph d
+481A.77
+Reserved.
+481A.78 Stocking private water.
+No private water may be stocked by the commission unless the owner agrees that such
+waters shall be open to the public for fishing, except that the commission may, after
+investigation to determine their suitability as to size, depth, living conditions for fish, and
+management, provide a breeding stock of fish for privately owned farm ponds on request of
+the owner.
+[C39, §1794.040; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.78]
+C93, §481A.78
+Referred to in §481A.141
+481A.79 through 481A.82
+Reserved.
+481A.83 Prohibited stocking.
+A person shall not stock or introduce into the waters of the state a live fish, except for
+hooked bait, without the permission of the director. This section does not apply to privately
+owned ponds and lakes.
+88 Acts, ch 1216, §30
+C89, §109.83
+C93, §481A.83
+Referred to in §805.8B(3)(c)
+For applicable scheduled fine, see §805.8B, subsection 3, paragraph c
+481A.84 Frogs — catching — selling.
+1.
+Frogs may be taken by holders of a fishing license only and they may be used for bait
+or food purposes, but no person shall take more than four dozen frogs in any one day or have
+in possession at any one time more than eight dozen frogs. Licensed bait dealers authorized
+by law to sell bait may have in their possession to supply the bait needs of their customers,
+not more than twenty dozen frogs.
+2.
+No person shall use any device, net, barrier or fence of any kind which prevents frogs
+from having free access to and egress from the water.
+3.
+Transportation out of the state in any manner or for any purposes, of frogs taken in
+Iowa, is prohibited.
+4.
+Nothing in this chapter shall be construed to prevent the purchase, sale or possession
+of frogs or any portion of the carcasses of frogs that have been legally taken and shipped in
+from without the state.
+5.
+Nothing herein shall prevent any person from catching frogs on the person’s own
+premises for the person’s private use.
+[C39, §1794.046; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.84]
+C93, §481A.84
+Referred to in §805.8B(3)(c)
+Frog open season and limits, see §481A.67
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph c
+481A.85 Prohibited areas.
+It shall be unlawful for any person at any time, except as otherwise provided, to take any
+fish, minnows, frogs, or other aquatic, biological life from any state fish hatchery, nursery, or
+other area under the jurisdiction of the commission operated for fish production purposes.
+[C39, §1794.047; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.85]
+C93, §481A.85
+Referred to in §805.8B(3)(e)
+For applicable scheduled fine, see §805.8B, subsection 3, paragraph e
+481A.86 Federal employees excepted.
+Authorized employees of the United States bureau of sport fisheries and wildlife are hereby
+authorized to conduct fish culture operations, rescue work on the boundary waters of the
+state, and other operations necessary for rescue and hatchery work.
+[C39, §1794.048; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.86]
+C93, §481A.86
+SUBCHAPTER VII
+TRAPPING OR HUNTING OF FUR-BEARING ANIMALS
+481A.87 Open seasons — exceptions.
+1.
+Except as otherwise provided, a person shall not take, capture, kill, or have in
+possession a fur-bearing animal or any of its parts at any time except during the open season
+as set by the commission.
+2.
+A person may shoot, trap, or ensnare a fur-bearing animal when the killing, trapping,
+or ensnaring is for the protection of a person or public or private property with the prior
+permission of a duly appointed representative of the commission.
+If prior permission is
+impractical or impossible to obtain and the fur-bearing animal represents a threat to a
+person, domestic animal, or private property, the fur-bearing animal may be taken without
+prior permission.
+3.
+Prior permission is not required for an owner or tenant of agricultural property or an
+associated residence located outside the corporate limits of a city to take, capture using a
+cage trap or dog-proof trap, shoot, or temporarily possess, for the purpose of destroying or
+disposing of, a raccoon, opossum, or skunk on the property if the owner or tenant in good
+faith deems the animal to be a nuisance. This subsection does not apply to animals listed
+pursuant to the federal Endangered Species Act or listed as endangered by the commission
+pursuant to section 481B.3.
+4.
+All fur-bearing animals and all parts thereof taken as provided in subsection 2 or 3 shall
+be disposed of on the site or shall be relinquished to a representative of the commission.
+[C97, §2553; SS15, §2553; C24, §1766; C27, 31, §1766, 1766-a1; C39, §1794.049; C46,
+§109.87, 109.93; C50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.87]
+88 Acts, ch 1216, §31
+C93, §481A.87
+94 Acts, ch 1148, §2; 2023 Acts, ch 38, §1
+Referred to in §481A.89, 805.8B(3)(l)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph “l”
+481A.88
+Reserved.
+481A.89 Permit to hold hides.
+Upon application, which shall be filed with the commission within ten days after the close of
+the open season, any person may be permitted to hold hides or skins of fur-bearing animals
+lawfully taken for a longer time than specified in section 481A.87. Such application shall
+be verified and shall show the number and varieties of the skins or hides to be held by the
+applicant. The commission shall thereupon issue a permit to such applicant to hold such
+skins or hides, which permit shall authorize the holder to sell or otherwise dispose of such
+skins or hides.
+[C31, §1766-c4; C39, §1794.051; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.89]
+C93, §481A.89
+2023 Acts, ch 66, §117
+481A.90 Disturbing dens.
+1.
+A person shall not molest or disturb, in any manner, any den, lodge, or house of a
+fur-bearing animal or beaver dam except by written permission of an officer appointed by
+the director.
+2.
+This section does not prohibit the owner from destroying a den to protect the owner’s
+property.
+[C39, §1794.052; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.90]
+88 Acts, ch 1216, §32; 89 Acts, ch 83, §23
+C93, §481A.90
+Referred to in §805.8B(3)(d)
+For applicable scheduled fine, see §805.8B, subsection 3, paragraph d
+481A.91 Shooting or spearing.
+A person shall not kill a beaver, mink, otter, or muskrat with a shotgun or spear. A person
+shall not possess a beaver, mink, otter, or muskrat or the carcasses, skins, or parts of any one
+of those animals that have been killed with a shotgun or spear.
+[C31, §1767-c2; C39, §1794.053; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.91]
+C93, §481A.91
+2016 Acts, ch 1073, §137
+Referred to in §805.8B(3)(d)
+For applicable scheduled fine, see §805.8B, subsection 3, paragraph d
+481A.92 Traps — disturbing dens — tags for traps.
+1.
+A person shall not use or attempt to use colony traps in taking, capturing, trapping,
+or killing any game or fur-bearing animals except muskrats as determined by rule of the
+commission. Box traps capable of capturing more than one game or fur-bearing animal at
+each setting are prohibited. A valid hunting license is required for box trapping cottontail
+rabbits and squirrels. All traps and snares used for the taking of fur-bearing animals shall
+have a metal tag attached plainly labeled with the user’s name and address. All traps and
+snares, except those which are placed entirely under water, shall be checked at least once
+every twenty-four hours. Officers appointed by the department may confiscate such traps
+and snares found in use that are not properly labeled or checked.
+2.
+Except as otherwise provided, a person shall not use chemicals, explosives, smoking
+devices, mechanical ferrets, wire, tool, instrument, or water to remove fur-bearing animals
+from their dens. Humane traps, or traps designed to kill instantly, with a jaw spread, as
+originally manufactured, exceeding eight inches are unlawful to use except when placed
+entirely under water.
+3.
+Conibear type traps and snares shall not be set on the right-of-way of a public road
+within two hundred yards of the entry to a private drive serving a residence without the
+permission of the occupant.
+4.
+A snare when set shall not have a loop larger than eight inches in horizontal
+measurement except for a snare set with at least one-half of the loop under water.
+A
+snare set on private land other than roadsides within thirty yards of a pond, lake, creek,
+drainage ditch, stream, or river shall not have a loop larger than eleven inches in horizontal
+measurement.
+5.
+All snares shall have a functional deer lock which will not allow the snare loop to close
+smaller than two and one-half inches in diameter.
+[R60, §4381; C73, §4048; C97, §2551, 2558; SS15, §2539, 2551; C24, 27, 31, §1771, 1773;
+C39, §1794.054; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.92]
+88 Acts, ch 1216, §33
+C93, §481A.92
+99 Acts, ch 40, §1
+Referred to in §805.8B(3)(c)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph c
+481A.93 Hunting by artificial light.
+1.
+A person who is in possession or control, either singly or as one of a group of persons,
+of any firearm, bow, or other implement or device whereby a bird or animal could be killed
+or taken shall not throw or cast the rays of a spotlight, headlight, or other artificial light on a
+highway, or in a field, woodland, or forest, for the purpose of spotting, locating, or taking or
+attempting to take or hunt a bird or animal.
+2.
+This section does not apply to any of the following:
+a.
+Deer being taken by or under the control of a local governmental body within its
+corporate limits pursuant to an approved special deer population control plan.
+b.
+A person who is totally blind using a laser sight on a bow or gun while hunting, if all
+of the following apply:
+(1)
+The person’s total blindness is supported by medical evidence produced by an eye
+care professional who is an ophthalmologist, optometrist, or medical doctor. The eye care
+professional must certify that the person has no vision or light perception in either eye. The
+certification must be carried on the person of the totally blind person and made available for
+inspection by the department.
+(2)
+The totally blind person is accompanied and aided by a person who is at least eighteen
+years of age and whose vision is not seriously impaired. The accompanying person must
+purchase a hunting license that includes the wildlife habitat fee as provided in rules adopted
+pursuant to section 483A.1 if applicable. If the accompanying person is not required to have
+a hunting license the person is not required to pay the wildlife habitat fee. During the hunt,
+the accompanying adult must be within arm’s reach of the totally blind person, and must be
+able to identify the target and the location of the laser sight beam on the target. A person
+other than the totally blind person shall not shoot the laser sight-equipped gun or bow.
+c.
+A person using an infrared light source to hunt coyotes as long as the infrared light
+source is mounted to the method of take or to a scope mounted on the method of take.
+However, no person shall use an infrared light source to hunt coyotes during any established
+muzzleloader, bow, or shotgun deer hunting season.
+d.
+The spotting, locating, or taking or attempting to take or hunt raccoons or other
+fur-bearing animals that have been treed with the aid of dogs.
+[C62, 66, 71, 73, 75, 77, 79, 81, §109.93]
+88 Acts, ch 1216, §34
+C93, §481A.93
+98 Acts, ch 1203, §1; 2008 Acts, ch 1161, §20; 2012 Acts, ch 1096, §3, 23; 2018 Acts, ch 1159,
+§14, 28; 2020 Acts, ch 1021, §1; 2022 Acts, ch 1021, §138
+Referred to in §805.8B(3)(e)
+For applicable scheduled fine, see §805.8B, subsection 3, paragraph e
+SUBCHAPTER VIII
+FUR DEALERS
+481A.94 Definition.
+The term “fur dealer” as used in this chapter shall mean any person, firm, partnership, or
+corporation engaged in the business of buying, bartering, trading, or otherwise obtaining raw
+hides or skins of fur-bearing animals.
+[C39, §1794.055; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.94]
+C93, §481A.94
+481A.95 License — reciprocity.
+1.
+A license shall be required of each fur dealer and each employee, agent, or
+representative of a fur dealer except when the employee, agent, or representative is
+operating solely on the premises of a licensed fur dealer. A fur dealer shall conduct business
+only at the location specified on the dealer’s license, at an established fur auction, at the
+nonadvertised residence of a licensed fur harvester, or at the place of business specified
+on the license of any fur dealer. A nonresident licensed fur dealer may purchase location
+permits to operate at locations other than at the location specified on the fur dealer’s license.
+A resident licensed fur dealer may obtain location permits without fee. Each location permit
+shall be valid only for the one location specified on the location permit and shall entitle the
+fur dealer and employee, agent, or representative of the licensed fur dealer to operate at that
+location. The commission shall, upon application and the payment of the required license
+fee, if any, furnish the proper license and location permits to the dealer.
+2.
+A resident of another state shall pay the fee provided by statute for the nonresident fur
+dealer’s license unless that state has a reciprocity agreement with this state. The reciprocity
+agreement must provide that each state will charge nonresidents from the other state the
+same fee for the nonresident fur dealer’s license and the fee under the agreement must be
+less than the statutory fee of this state for nonresidents and higher than the statutory fee of
+this state for residents.
+[C31, §1766-c3; C35, §1794-e1; C39, §1794.056; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79,
+81, §109.95]
+84 Acts, ch 1199, §1; 89 Acts, ch 90, §1; 91 Acts, ch 237, §2
+C93, §481A.95
+Referred to in §805.8B(3)(e)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph e
+481A.96 Possession by dealer.
+A licensed fur dealer may have in possession at any time skins or hides of animals which
+have been lawfully taken.
+[C31, §1766-c4; C39, §1794.058; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.96]
+C93, §481A.96
+481A.97 Reports.
+Fur dealers shall keep accurate, current records of their transactions. The records shall
+show the number and kinds of hides and skins which have been purchased, the date
+of purchase, and the name and address of the seller.
+Such records shall be open at all
+reasonable times to inspection by the commission. On or before May 15 of each year, each
+fur dealer shall file a verified inventory with the commission. The inventory shall include all
+transactions for the preceding year.
+[C31, §1766-c1; C39, §1794.059; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.97]
+C93, §481A.97
+Referred to in §805.8B(3)(d)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph d
+481A.98 Reporting violations.
+Each fur dealer shall report to the commission the name of any person, if known to the
+dealer, who attempts to sell any skins or hides which appear to have been unlawfully taken
+or possessed by that person.
+[C31, §1766-c2; C39, §1794.060; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.98]
+88 Acts, ch 1216, §35
+C93, §481A.98
+2021 Acts, ch 76, §121
+481A.99 through 481A.119
+Reserved.
+SUBCHAPTER IX
+PROHIBITED ACTS
+481A.120 Hunting from aircraft or snowmobiles prohibited.
+A person, either singly or as one of a group of persons, shall not intentionally kill or wound,
+attempt to kill or wound, or pursue any animal, fowl, or fish from or with an aircraft in flight
+or from or with any self-propelled vehicles designed for travel on snow or ice which utilize
+sled type runners, skis, an endless belt tread, or wheels, or any combination thereof, and
+which are commonly known as snowmobiles.
+[C50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §109.120]
+88 Acts, ch 1216, §36
+C93, §481A.120
+2022 Acts, ch 1032, §83
+Referred to in §805.8B(3)(e)
+For carrying or discharging a firearm from a snowmobile, see §321G.13
+For applicable scheduled fine, see §805.8B, subsection 3, paragraph e
+481A.121 Turtles and crayfish — taking by nonresidents or aliens.
+It shall be unlawful for any nonresident or alien to take turtles or crayfish in Iowa, by any
+means or method, except from the Missouri and Mississippi rivers and the Big Sioux river.
+[C62, 66, 71, 73, 75, 77, 79, 81, §109.121]
+C93, §481A.121
+481A.122 Hunters’ orange apparel.
+1.
+A person shall not hunt deer with firearms unless the person is at the time wearing one
+or more of the following articles of visible, external apparel, the color and material of which
+shall be solid blaze orange:
+A vest, coat, jacket, sweatshirt, sweater, shirt, or coveralls.
+2.
+A person shall not hunt upland game birds, as defined by the department, unless the
+person is at the time wearing one or more of the following articles of visible, external apparel,
+the color and material of which shall be at least fifty percent solid blaze orange:
+A hat, cap,
+vest, coat, jacket, sweatshirt, sweater, shirt, or coveralls.
+3.
+This section is not applicable to a person who is legally hunting with a raptor.
+[C71, 73, 75, 77, 79, 81, §109.122]
+88 Acts, ch 1216, §37
+C93, §481A.122
+2004 Acts, ch 1115, §1; 2009 Acts, ch 144, §17; 2022 Acts, ch 1021, §139
+Referred to in §805.8B(3)(d)
+For applicable scheduled fine, see §805.8B, subsection 3, paragraph d
+481A.123 Prohibited hunting near buildings, feedlots.
+1.
+A person shall not discharge a firearm or shoot or attempt to shoot a game or fur-bearing
+animal within two hundred yards of a building inhabited by people or domestic livestock or
+within two hundred yards of a feedlot unless the owner or tenant has given consent. However,
+within the corporate limits of a city, a person may take deer with a firearm within fifty yards
+of a building inhabited by people or domestic livestock, or a feedlot pursuant to an approved
+special deer population control plan, if the person obtains permission of the owner or tenant
+of the building or feedlot.
+2.
+As used in this section, “feedlot” means a lot, yard, corral, or other area in which
+livestock are present and confined, for the purposes of feeding and growth before slaughter.
+The term does not include areas which are used for the raising of crops or other vegetation
+and upon which livestock are allowed to graze or feed.
+3. a.
+This section does not apply to the discharge of a firearm for the purpose of target
+shooting on premises posted as a target shooting range that is open to the public, if the
+premises have been used as a target shooting range prior to the erection of a building
+inhabited by people or domestic livestock, or prior to the construction of a feedlot, located
+within two hundred yards of the target shooting range. This subsection applies only to the
+erection of a building inhabited by people or domestic livestock or to the construction of
+a feedlot located within two hundred yards of a target shooting range that is open to the
+public and that is identified as a target shooting range by the city, county, state, or federal
+government, which erection or construction occurs on or after May 14, 2004.
+b.
+As used in this subsection, “target shooting” means the discharge of a firearm at an
+inanimate object, for amusement or as a test of skill in marksmanship.
+4. a.
+This section does not apply to the discharge of a firearm on premises identified as a
+public hunting area, if the premises have been identified as a public hunting area prior to the
+erection of a building inhabited by people or domestic livestock, or prior to the construction
+of a feedlot, located within two hundred yards of the public hunting area. This subsection
+applies only to the erection of a building inhabited by people or domestic livestock or to the
+construction of a feedlot located within two hundred yards of a public hunting area, which
+erection or construction occurs on or after May 14, 2004.
+b.
+As used in this subsection, “public hunting area” means public lands or waters available
+for hunting by the public, and identified as a public hunting area by the city, county, state, or
+federal government.
+5. a.
+This section does not apply to the discharge of a firearm on a farm unit by the owner
+or tenant of the farm unit or by a family member of the owner or tenant of the farm unit.
+b.
+As used in this subsection, “family member”, “farm unit”, “owner”, and “tenant” mean
+the same as defined in section 483A.24, subsection 2.
+6.
+This section does not apply to the discharge of a firearm for the purpose of developing
+and retaining the shooting proficiency of certified law enforcement officers on premises
+owned by the state, a county, or a municipality, and operated by a law enforcement agency,
+which are not open to the general public and which were in operation prior to March 28,
+2013.
+7.
+Subject to subsection 1, an owner or tenant of private premises located in the
+unincorporated area of a county, or a person to whom the owner or tenant has given consent,
+may discharge a firearm for the purpose of target shooting on those private premises. The
+use of such private premises for target shooting shall not be found to be in violation of a
+noise ordinance or declared a public or private nuisance or be otherwise prohibited under
+state or local law. As used in this subsection, “target shooting” means the discharge of a
+firearm at an inanimate object, for amusement or as a test of skill in marksmanship.
+[C77, 79, 81, §109.123]
+88 Acts, ch 1216, §38; 90 Acts, ch 1194, §1; 92 Acts, ch 1149, §1
+C93, §481A.123
+2000 Acts, ch 1116, §2; 2004 Acts, ch 1160, §1, 2; 2007 Acts, ch 28, §14; 2013 Acts, ch 9, §1,
+2; 2017 Acts, ch 69, §48
+Referred to in §805.8B(3)(c)
+For applicable scheduled fine, see §805.8B, subsection 3, paragraph c
+481A.124 Taking predominantly white deer of the whitetail species prohibited.
+1.
+A person shall not take a predominantly white deer in this state.
+2.
+This section only applies to whitetail, other than farm deer that are kept as provided in
+chapter 170.
+3.
+A person violating subsection 1 is guilty of a simple misdemeanor.
+88 Acts, ch 1184, §1
+C89, §109.124
+C93, §481A.124
+2003 Acts, ch 149, §17, 23
+481A.125 Intentional interference with lawful hunting,
+fishing,
+or fur-harvesting
+activities — penalties.
+1.
+As used in this section, “interfere with hunting, fishing, or fur-harvesting activities”
+means one or more of the following:
+a.
+To intentionally place oneself in a location where a human presence may affect the
+behavior of a fur-bearing animal, game, bird, or fish or the feasibility of killing or taking a
+fur-bearing animal, game, bird, or fish with the intent of obstructing or harassing another
+person who is lawfully hunting, fishing, or fur harvesting.
+b.
+To intentionally create a visual, aural, olfactory, or physical stimulus for the purpose of
+affecting the behavior of a fur-bearing animal, game, bird, or fish with the intent of obstructing
+or harassing another person who is lawfully hunting, fishing, or fur harvesting.
+c.
+To intentionally affect the condition or alter the placement of personal property used
+for the purpose of killing or taking a fur-bearing animal, game, bird, or fish with the intent of
+obstructing or harassing another person who is lawfully hunting, fishing, or fur harvesting.
+2.
+A person shall not interfere with the lawful hunting, fishing, or fur-harvesting activities
+of another person in an area where hunting, fishing, or fur harvesting is authorized by a
+custodian of public property or an owner or lessee of private property.
+3.
+A person who commits:
+a.
+A first offense of interfering with hunting, fishing, or fur-harvesting activities is guilty
+of a simple misdemeanor.
+b.
+A second or subsequent offense is punishable as a serious misdemeanor.
+4.
+If a person who commits interfering with hunting, fishing, or fur-harvesting activities
+possesses a license, certificate, or permit issued by the department, the license, certificate, or
+permit is subject to suspension or revocation pursuant to section 481A.134.
+5.
+This section shall not prohibit a landowner, tenant, or an employee of a landowner or
+tenant from performing normal agricultural operations or a law enforcement officer from
+performing official duties.
+91 Acts, ch 234, §2
+CS91, §109.125
+C93, §481A.125
+2000 Acts, ch 1076, §1; 2000 Acts, ch 1232, §76, 77
+481A.125A Remote control or internet hunting — criminal and civil penalties.
+1.
+As used in this section, “remote control or internet hunting” means use of a computer or
+other electronic device, equipment, or software to remotely control the aiming or discharge
+of a firearm or other weapon, allowing a person who is not physically present to take a wild
+animal, a game bird or ungulate kept on a hunting preserve under chapter 484B, or a preserve
+whitetail kept on a hunting preserve under chapter 484C.
+2.
+A person shall not offer for sale, take, or assist in the taking of a wild animal, a game
+bird or ungulate kept on a hunting preserve under chapter 484B, or a preserve whitetail kept
+on a hunting preserve under chapter 484C, by remote control or internet hunting.
+3.
+A person who violates this section is guilty of a serious misdemeanor. A second or
+subsequent violation of this section is punishable as a class “D” felony.
+4.
+In addition, any person who violates this section is subject to a civil penalty, which may
+be levied by the department, of not more than ten thousand dollars for each violation of this
+section. The moneys collected from imposition of a civil penalty shall be deposited in the
+state fish and game protection fund.
+2007 Acts, ch 156, §1
+SUBCHAPTER X
+TAXIDERMY
+481A.126 Taxidermy.
+1.
+“Taxidermist” as used in this section means a person engaged in the business of
+preserving or mounting game, fish, or fur-bearing animals as defined in this chapter.
+2.
+A license is required for the practice of taxidermy. The commission, upon application
+and payment of the required license fee, shall furnish proper certificates to the applicant. The
+director may revoke the license for good cause.
+3.
+A licensed taxidermist may possess at any time game, fish, or fur-bearing animals which
+have been lawfully taken.
+4.
+A taxidermist shall keep accurate records of its transactions showing the numbers and
+kinds of specimens received for preserving, the date of acquisition, and the name and address
+of the owner of the specimens.
+5.
+A person shall not put or leave any game, fish, or fur-bearing animal in the custody of
+another person for the purpose of having taxidermy services performed unless each specimen
+has a tag attached which is signed by the possessor and states the address of the possessor,
+the total number and species of the specimens and the date the specimens were killed.
+6.
+All transactions, tags, and specimens left in the custody of the taxidermist by another
+person shall be open to inspection by a conservation officer at any reasonable hour.
+[82 Acts, ch 1010, §1]
+C83, §109.126
+88 Acts, ch 1216, §39, 40
+C93, §481A.126
+Referred to in §805.8B(3)(d)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph d
+481A.127 through 481A.129
+Reserved.
+SUBCHAPTER XI
+CIVIL DAMAGES — SUSPENSIONS
+481A.130 Damages in addition to penalty — animals — ginseng.
+1.
+In addition to the penalties for violations of this chapter and chapters 350, 461A,
+481B, and 482, a person convicted of unlawfully selling, taking, catching, killing, injuring,
+destroying, or having in possession any animal, shall reimburse the state for the value of
+such as follows:
+a.
+For each elk, antelope, buffalo, or moose, two thousand five hundred dollars.
+b.
+For each wild turkey, two hundred dollars.
+c.
+For each bird or animal or the raw pelt or plumage of such bird or animal for which
+damages are not otherwise prescribed, fifty dollars.
+d.
+For each reptile, mussel, or amphibian, fifteen dollars.
+e.
+For each beaver, bobcat, mink, otter, red fox, gray fox, or raccoon, two hundred dollars.
+f.
+For each animal classified by the commission as an endangered or threatened species,
+one thousand dollars.
+g.
+For each antlered deer, reimbursement shall be based on the score of the antlered deer
+as measured by the Boone and Crockett club’s scoring system for whitetail deer as follows:
+(1)
+150 gross inches or less:
+A minimum of two thousand dollars and not more than five
+thousand dollars, and eighty hours of community service or, in lieu of the community service,
+a minimum of four thousand dollars and not more than ten thousand dollars, in an amount
+that is deemed reasonable by the court.
+(2)
+More than 150 gross inches:
+A minimum of five thousand dollars and not more than
+ten thousand dollars, and eighty hours of community service or, in lieu of the community
+service, a minimum of ten thousand dollars and not more than twenty thousand dollars, in
+an amount that is deemed reasonable by the court.
+h.
+For each antlerless deer, seven hundred fifty dollars.
+i.
+For each swan or crane, one thousand five hundred dollars.
+j.
+For each fish, reimbursement shall be as follows:
+(1)
+For each fish of a species other than shovelnose sturgeon, with an established daily
+limit greater than twenty-five, fifteen dollars.
+(2)
+For each fish of a species other than paddlefish and muskellunge, with an established
+daily limit of twenty-five or less, fifty dollars.
+(3)
+For each shovelnose sturgeon, paddlefish, and muskellunge, one thousand dollars.
+2.
+In addition to any other penalty, a person convicted of unlawfully harvesting wild
+ginseng in violation of section 456A.24 shall reimburse the state at one hundred fifty percent
+of the ginseng’s market value, as determined by the department.
+3.
+This section does not apply to a landowner who cooperates with the department
+of natural resources and the department of agriculture and land stewardship to remove
+all whitetail from enclosed land as provided in section 170.5, even if all whitetail are not
+removed.
+4.
+This section does not apply to a person who is liable to pay restitution to the department
+pursuant to section 481A.151 for injury to a wild animal caused by polluting a water of this
+state in violation of state law.
+[C75, 77, 79, 81, §109.130; 82 Acts, ch 1211, §1 – 3]
+88 Acts, ch 1216, §41; 90 Acts, ch 1142, §1; 92 Acts, ch 1186, §2
+C93, §481A.130
+93 Acts, ch 38, §2; 98 Acts, ch 1203, §2, 3; 99 Acts, ch 58, §1; 2003 Acts, ch 149, §18, 23; 2004
+Acts, ch 1124, §1; 2007 Acts, ch 28, §15; 2009 Acts, ch 144, §18 – 20; 2022 Acts, ch 1137, §1, 2
+Referred to in §481A.131, 481A.132, 481A.133, 716.8
+481A.131 Judgment — execution.
+1.
+In each case of conviction of unlawfully taking, catching, killing, injuring, destroying, or
+having in possession any fish, game, or fur-bearing animal, the court shall enter a judgment
+in favor of the state of Iowa for liquidated damages in an amount as provided in section
+481A.130. If two or more persons who have acted together are convicted of the unlawful
+taking, catching, killing, injuring, destroying, or having possession of any fish, game, or
+fur-bearing animal, the judgment shall be entered against them jointly.
+2.
+Any liquidated damages assessed under this section and section 481A.130 shall be paid
+to the clerk of court. The clerk of court shall remit the damages paid to the department of
+natural resources. The department of natural resources shall credit such damages to the state
+fish and game protection fund.
+3.
+The return of any uninjured fish, game, or fur-bearing animal which has been
+unlawfully taken, caught, or possessed, to the place where taken or caught or to any other
+place approved by the commission, shall constitute the discharge of any liquidated damages
+provided under section 481A.130.
+4.
+Civil suits for the collection of judgments may be prosecuted by the attorney general or
+by county attorneys.
+[C75, 77, 79, 81, §109.131; 82 Acts, ch 1211, §4]
+86 Acts, ch 1245, §1854
+C93, §481A.131
+2012 Acts, ch 1118, §7
+Referred to in §716.8
+481A.132 Service of process or arrest — pendency of damage claim.
+Service of process upon or arrest of any person charged with provisions of this chapter
+for which damages may be assessed pursuant to section 481A.130, shall serve as notice of
+the pendency of the liquidated damage claim. Trial on the criminal charge may be separated
+from the determination of the liquidated damage claim in the discretion of the court or by
+the request of the defendant, but upon conviction of the defendant in the criminal case, the
+only issue to be determined by the court on the liquidated damage claim is the fact of such
+conviction.
+[C77, 79, 81, §109.132]
+C93, §481A.132
+481A.133 Suspension of licenses, certificates, and permits.
+A person who is assessed damages pursuant to section 481A.130 shall immediately
+surrender all licenses, certificates, and permits to hunt, fish, or trap in the state to the
+department. The licenses, permits, and certificates, and the privileges associated with them
+shall remain suspended until the assessed damages and any accrued interest are paid in full.
+Upon payment of the assessed damages and any accrued interest, the suspension shall be
+lifted. Interest shall begin to accrue as of the date of judgment at a rate of ten percent per
+year.
+90 Acts, ch 1198, §2
+C91, §109.133
+C93, §481A.133
+2007 Acts, ch 28, §16
+SUBCHAPTER XII
+CANCELLATIONS, SUSPENSIONS, REVOCATIONS, AND PENALTIES
+481A.134 Authority to cancel, suspend, or revoke license — point system.
+The department shall establish rules pursuant to chapter 17A providing for the suspension
+or revocation of licenses issued by the department. The rules may include procedures for
+summary cancellation of a license based on documentation that the licensee failed to pay
+the applicable fee for the license. For purposes of determining when to suspend or revoke
+a license issued by the department under this section, the department shall adopt a point
+system pursuant to chapter 17A for the purpose of weighing the seriousness of violations of
+the provisions of this chapter or chapter 481B, 482, 483A, 484A, or 484B, or of committing
+trespass as defined in section 716.7 while hunting deer, other than farm deer as defined in
+section 170.1 or preserve whitetail as defined in section 484C.1. The weighted scale may be
+amended from time to time as experience dictates.
+90 Acts, ch 1198, §3
+C91, §109.134
+92 Acts, ch 1160, §19
+C93, §481A.134
+2004 Acts, ch 1070, §1; 2007 Acts, ch 28, §17
+Referred to in §481A.125
+481A.135 Repeat offender — records, enforcement, and penalties.
+1.
+The
+commission
+shall
+establish
+by
+rule,
+a
+recordkeeping
+system
+and
+other
+administrative procedures necessary to administer this section.
+2.
+A person who pleads guilty or is convicted of a violation of any provision of this chapter
+or chapter 481B, 482, 483A, 484A, or 484B, or trespass as defined in section 716.7 while
+hunting deer, other than farm deer as defined in section 170.1 or preserve whitetail as defined
+in section 484C.1, while the person’s license or licenses are suspended or revoked is guilty of
+a simple misdemeanor if the person has no other violations within the previous three years
+which occurred while the person’s license or licenses have been suspended or revoked.
+3.
+A person who pleads guilty or is convicted of a violation of any provision of this chapter
+or chapter 481B, 482, 483A, 484A, or 484B, or trespass as defined in section 716.7 while
+hunting deer, other than farm deer as defined in section 170.1 or preserve whitetail as defined
+in section 484C.1, while the person’s license or licenses are suspended or revoked is guilty of
+a serious misdemeanor if the person has one other violation within the previous three years
+which occurred while the person’s license or licenses have been suspended or revoked.
+4.
+A person who pleads guilty or is convicted of a violation of any provision of this chapter
+or chapter 481B, 482, 483A, 484A, or 484B, or trespass as defined in section 716.7 while
+hunting deer, other than farm deer as defined in section 170.1 or preserve whitetail as defined
+in section 484C.1, while the person’s license or licenses are suspended or revoked is guilty
+of an aggravated misdemeanor when the person has had two or more convictions within
+the previous three years which occurred while the person’s license or licenses have been
+suspended or revoked.
+5.
+An indictment or trial information for a violation requiring an enhanced penalty under
+this section shall specify the underlying violation committed by the person.
+90 Acts, ch 1198, §4
+C91, §109.135
+92 Acts, ch 1160, §20
+C93, §481A.135
+2007 Acts, ch 28, §18; 2010 Acts, ch 1140, §22
+481A.136 Unlawful commercialization of wildlife — penalty.
+1.
+A person shall not buy or sell a wild animal or part of a wild animal if the wild animal
+is taken, transported, or possessed in violation of the laws of this state, or a rule adopted by
+the department.
+2.
+A person violating subsection 1 is guilty of a serious misdemeanor.
+92 Acts, ch 1186, §3
+481A.137 Abandonment of dead or injured wildlife.
+1.
+While taking or attempting to take game or fur-bearing animals, a person shall not
+abandon an injured game or fur-bearing animal without making a reasonable effort to retrieve
+the animal from the field. A person shall not leave a useable portion of game or a fur-bearing
+animal in the field.
+2.
+A person violating subsection 1 is subject to a scheduled fine as provided in section
+805.8B, subsection 3, paragraph “e”.
+3.
+As used in this section, “useable portion” means the following:
+a.
+For game,
+that part of an animal which is customarily processed for human
+consumption.
+b.
+For a fur-bearing animal, the fur or hide of the animal.
+4.
+This section does not apply to pigeons or crows.
+92 Acts, ch 1149, §2; 2001 Acts, ch 137, §5
+Referred to in §805.8B(3)(e)
+481A.138 through 481A.140
+Reserved.
+SUBCHAPTER XIII
+AQUACULTURE
+481A.141 Aquaculture — license required.
+1.
+A person shall not engage in the business of aquaculture until that person has applied
+for and has been issued an aquaculture unit license from the department. The application
+period extends from January 1, or the date of the application, through December 31.
+A
+license shall not be issued to operate an aquaculture unit on private or nonmeandered lakes
+and streams and ponds that may become stocked with fish from public waters or natural
+migration. A pond stocked by the department pursuant to section 481A.78 shall not be used
+for aquaculture purposes.
+2.
+The following persons must obtain an aquaculture unit license:
+a.
+A person who, for commercial purposes, rears or maintains live animals or plants for
+food, bait, or for stocking in waters of the state.
+b.
+An owner or operator of a pond where guests or customers are allowed to fish for a fee,
+or allowed to take fish without regard to angling licenses, seasons, gear restrictions, or bag
+limits.
+3.
+The cultivation and sale of tropical fish species or ornamental aquatic plants or animals,
+not utilized for human consumption or bait purposes, but maintained in closed systems and
+utilized by the pet industry or hobbyists are exempt from license requirements.
+92 Acts, ch 1216, §3
+481A.142 Licensed aquaculture units — activities allowed.
+A holder of an aquaculture unit license may:
+1.
+Possess, propagate, buy, sell, deal in, and transport the aquatic organisms produced
+from breeding stock legally acquired, including minnows.
+2.
+Sell fish for stocking purposes within or outside the state.
+Fish which are
+nonindigenous to Iowa shall not be received or sold in the state unless the aquaculture unit
+has obtained an importation permit from the department. The department shall establish, by
+rule, requirements governing importation, and shall include a list of approved aquaculture
+species. Failure to comply with this subsection will result in loss of license and a violator is
+subject to the scheduled fine provided in section 805.8B.
+3.
+Hold, feed, and sell carp, buffalofish, and other fish legally taken by commercial fishers.
+4.
+Harvest aquatic life on land under control of the aquaculture unit with commercial
+devices without obtaining any permits for the devices.
+5. a.
+Sell bait, including minnows and frogs, propagated or raised within the licensed unit
+without having to obtain a bait dealer’s license. However, aquaculture units wishing to take
+bait from areas other than their licensed units must also obtain a bait dealer’s license.
+b.
+A nonresident aquaculture unit licensee shall be limited to selling bait at wholesale
+unless the home state of the nonresident licensee allows residents of this state to sell bait at
+retail.
+6.
+Take any gull, tern, or merganser within the bounds of the unit. An owner or operator
+of the licensed aquaculture unit, however, must first obtain a permit for this activity from the
+department or the United States fish and wildlife service. Each permittee shall file an annual
+report with the department which itemizes the birds taken during the period covered by the
+permit, and dispose of birds taken according to methods established by the department. The
+department shall not issue a subsequent permit to any person failing to file this report.
+92 Acts, ch 1216, §4; 2001 Acts, ch 137, §5; 2004 Acts, ch 1029, §1; 2012 Acts, ch 1118, §8
+Referred to in §805.8B(3)(d)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph d
+481A.143 Licensed aquaculture units — requirements.
+1.
+Each licensed aquaculture unit shall prepare an annual report of all fish bought, sold,
+and shipped. The records shall include species name as well as the weight, volume, or count
+of fish involved. Reports shall be filed on or before December 31 of each year for the preceding
+year. The department may refuse to renew a unit license if the annual report is not provided.
+2.
+Each licensed aquaculture unit shall secure its breeding stock from licensed
+aquaculture units or licensed aquaculturists in the state or from lawful sources outside the
+state. An aquaculture unit shall not secure stock in any other manner.
+3.
+A shipment of fish must be accompanied by a duplicate of the sales invoice showing
+the name and address of the producer, date of shipment, the species being transported,
+the weight, volume, or count of each species being shipped and the name and address of
+the consignee. A duplicate of the sales invoice must be retained by the aquaculture unit or
+aquaculturist for one year following the sale.
+4.
+A licensed aquaculture unit shall comply with all state laws pertaining to possession,
+taking, or selling of bait which it handles. The director may revoke the unit license of any
+person violating this subsection or a rule adopted by the department.
+5.
+Minnow and bait boxes and tanks within licensed aquaculture units shall be open for
+inspection by the department at all times.
+6.
+Aquaculture units shall not import live fish, viable eggs, or semen of any species of
+the salmonid family (trout, salmon, or char) and ictalurid family (catfishes and bullheads),
+including hybrids, unless the owner or operator possesses a fish importation permit. For
+the species listed in this subsection only, importation permits shall not be issued unless the
+fish, eggs, or semen have been inspected by the department and found to be free of disease
+detrimental to the state’s fishery resources. The owner or operator of an aquaculture unit
+must provide a statement certifying the fish listed in this subsection or their eggs or semen
+to be disease free, and include the date of inspection. Certification is not required for other
+fish species, but the department may require inspection at any time. The department shall
+establish, by rule, those diseases detrimental to the state’s fishery resources and the location
+of authorized certified pathologists for inspection.
+92 Acts, ch 1216, §5
+481A.144 Licensed bait dealers — requirements.
+1.
+A person shall not sell minnows, frogs, crayfish, or salamanders for fish bait without
+first obtaining a bait dealer’s license from the department upon payment of the license fee.
+A licensee shall comply with all laws pertaining to taking, possessing, and selling of bait
+handled by the licensee. If convicted of violating a provision of this chapter or a rule adopted
+pursuant to this chapter, a licensee shall forfeit the licensee’s bait dealer license upon demand
+of the director.
+2.
+When taking bait from lakes and streams, bait dealers shall take only the size of bait
+which they can use, and shall return all small minnows and frogs to the water immediately.
+3.
+A minnow and bait box and a tank shall be open to inspection by the department at all
+times. A licensee shall have tanks and bait boxes of sufficient size and with proper aeration
+to keep the bait alive and prevent substantial loss.
+4.
+A person shall not take or attempt to take minnows for commercial purposes from
+any waters of the state or shall not transport minnows without first obtaining a bait dealer’s
+license. However, a person taking or transporting minnows for personal use is not required
+to have a bait dealer’s license.
+92 Acts, ch 1216, §6; 93 Acts, ch 99, §2; 2012 Acts, ch 1118, §9
+Referred to in §805.8B(3)(k)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraph k
+481A.145 Taking and selling of minnows and other bait — regulations.
+1.
+Except for species listed as threatened or endangered under chapter 481B, a licensed
+bait dealer may take sufficient bait from lakes and streams of this state that are not closed to
+the taking of bait, to supply the licensee’s customers for hook and line fishing if the licensee
+is present while the bait is being taken.
+2.
+Except as otherwise provided in this chapter, a person shall not carry, transport, ship,
+or cause to be carried, transported, or shipped, any minnows for the purpose of sale beyond
+the boundaries of the state. Minnows which are bred, hatched, propagated, or raised on a
+licensed aquaculture unit may be transported outside the state.
+3.
+A person shall not transport, use, sell or offer to sell for bait or introduce into any inland
+waters of this state or into any waters from which the waters of the state may become stocked,
+any minnows or fish of the carp, quillback, gar, or dogfish species. Fish of the carp, quillback,
+gar, or dogfish species may be returned to the waters from which they are taken. A person
+shall not possess live gizzard shad at any lake in this state.
+4.
+Minnow traps not exceeding thirty-six inches in length may be used when the taking of
+minnows is allowed. Each trap, when in use, shall have a metal tag attached plainly labeled
+with the owner’s name and address.
+5.
+A person shall not use a minnow dip net which exceeds four feet in diameter, a cast net
+which exceeds ten feet in diameter, or a minnow seine which exceeds twenty feet in length
+or has a mesh size smaller than one-quarter inch bar measure. Licensed bait dealers may
+obtain a permit from the department to use minnow seines longer than twenty feet, but not
+exceeding fifty feet in length.
+6.
+The department may designate certain lakes and streams, and parts of them, from
+which minnow populations should be protected for the best management of the lakes or
+streams.
+If an investigation of a lake or stream or a portion of a lake or stream by the
+department indicates that the minnow population should be protected, the lake or stream or
+a portion of the lake or stream shall be closed to the taking of minnows for a period of time
+deemed advisable by the department.
+92 Acts, ch 1216, §7; 93 Acts, ch 99, §3 – 5
+Referred to in §805.8B(3)(c), 805.8B(3)(d), 805.8B(3)(k)
+For applicable scheduled fines, see §805.8B, subsection 3, paragraphs c, d, and k
+481A.146 Authority of the director.
+The director may take any fish from the public waters of the state, at any time and in any
+manner, for the purpose of propagation or restocking other waters, or exchanging with fish
+and wildlife agencies of other states, the federal government, or licensed aquaculture units.
+92 Acts, ch 1216, §8
+481A.147 Theft of fish.
+All fish in an aquaculture unit are private property and are not the property of the state,
+and the theft of fish from an aquaculture unit is punishable as provided in section 714.2.
+92 Acts, ch 1216, §9
+481A.148 through 481A.150
+Reserved.
+SUBCHAPTER XIV
+POLLUTION — RESTITUTION
+481A.151 Restitution for pollution causing injury to wild animals.
+1.
+A person who is liable for polluting a water of this state in violation of state law,
+including this chapter, shall also be liable to pay restitution to the department for injury
+caused to a wild animal by the pollution. The amount of the restitution shall also include
+the department’s administrative costs for investigating the incident. The administration of
+this section shall not result in a duplication of damages collected by the department under
+section 455B.392, subsection 1, paragraph “a”, subparagraph (3).
+2.
+The commission shall adopt rules providing for procedures for investigations and the
+administrative assessment of restitution amounts. The rules shall establish an opportunity to
+appeal a departmental action including by a contested case proceeding under chapter 17A.
+A final administrative decision assessing an amount of restitution may be enforced by the
+attorney general at the request of the director.
+3.
+Rules adopted by the commission shall provide for methods used to determine the
+extent of an injury and the monetary values for the loss of injured wild animals based on
+species.
+a.
+The rules shall provide for methods used to count dead fish and to calculate restitution
+values. The rules may incorporate methods and values published by the American fisheries
+society.
+To every extent practicable, the values shall be based on the estimates of lost
+recreational angler opportunities where applicable. As an alternative method of valuation,
+the rules may provide that for fish species that are protected by catch limits, possession
+limits, size limits, or closed seasons applicable to anglers, liquidated damages apply. The
+amount of the liquidated damages shall not exceed fifteen dollars per fish. For fish species
+that are classified by the commission as endangered or threatened, the rules may establish
+liquidated damages not to exceed one thousand dollars per fish.
+b.
+The rules shall provide guidelines for estimating the extent of loss of a species that is
+affected by a pollution incident but which would not be practical to count in sample areas.
+The rules may establish liquidated damage amounts for species whose replacement cost is
+difficult to determine.
+4.
+Moneys collected by the department in restitution shall be deposited into the state fish
+and game protection fund. The moneys shall be used exclusively to support restoration or
+improvement of fisheries, including but not limited to aquatic habitat improvement projects
+as provided in rules adopted by the commission. However, moneys collected from restitution
+paid for investigative costs shall be used as determined by the director.
+2002 Acts, ch 1137, §58, 71
+Referred to in §481A.130
