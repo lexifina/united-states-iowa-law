@@ -1,0 +1,2448 @@
+CHAPTER 29B
+MILITARY JUSTICE
+Referred to in §29A.51
+SUBCHAPTER I
+GENERAL JURISDICTION
+29B.1
+Persons subject to code —
+definitions — short title.
+29B.2
+Jurisdiction to try personnel.
+29B.3
+Territorial applicability of code.
+SUBCHAPTER II
+APPREHENSION AND RESTRAINT
+29B.4
+Apprehension.
+29B.5
+Apprehension of deserters.
+29B.6
+Imposition of restraint.
+29B.7
+Probable cause.
+29B.8
+Restraint of persons charged with
+offenses.
+29B.9
+Posting of bond.
+29B.10
+Confinement in jails.
+29B.11
+Reports and receiving of
+prisoners.
+29B.12
+Punishment prohibited before
+trial.
+29B.13
+Delivery of offenders to civil
+authorities.
+SUBCHAPTER III
+NONJUDICIAL PUNISHMENT
+29B.14
+Commanding officer’s
+nonjudicial punishment.
+SUBCHAPTER IV
+COURTS-MARTIAL
+29B.15
+Courts-martial classified.
+29B.16
+Jurisdiction of courts-martial in
+general.
+29B.17
+Jurisdiction of general
+courts-martial.
+29B.18
+Jurisdiction of special or
+summary courts-martial.
+29B.19
+Sentences of dismissal or
+dishonorable discharge to be
+approved by the governor.
+29B.20
+Complete record.
+29B.21
+Confinement instead of fine.
+29B.22
+Judge advocates and legal
+officers.
+SUBCHAPTER V
+APPOINTMENT AND COMPOSITION OF COURTS-MARTIAL
+29B.23
+Who may convene general
+courts-martial.
+29B.24
+Who may convene special
+courts-martial.
+29B.25
+Summary courts-martial — who
+may convene.
+29B.26
+Who may serve on courts-martial.
+29B.27
+Military judge of a general
+court-martial.
+29B.28
+Detail of trial counsel and defense
+counsel.
+29B.29
+Detail or employment of reporters
+and interpreters.
+29B.30
+Absent and additional members.
+SUBCHAPTER VI
+PRETRIAL PROCEDURES
+29B.31
+Charges and specifications.
+29B.32
+Compulsory self-incrimination
+prohibited.
+29B.33
+Investigation.
+29B.34
+Forwarding of charges.
+29B.35
+Advice of staff judge advocate
+and reference for trial.
+29B.36
+Service of charges.
+SUBCHAPTER VII
+TRIAL PROCEDURE
+29B.37
+Adjutant general may prescribe
+rules.
+29B.38
+Unlawfully influencing action of
+court.
+29B.39
+Duties of trial counsel and
+defense counsel.
+29B.40
+Sessions.
+29B.41
+Continuances.
+29B.42
+Challenges.
+29B.43
+Oaths.
+29B.44
+Statute of limitations.
+29B.45
+Former jeopardy.
+29B.46
+Pleas of the accused.
+29B.47
+Opportunity to obtain witnesses
+and other evidence.
+29B.48
+Refusal to appear or testify.
+29B.49
+Contempts.
+29B.50
+Depositions.
+29B.51
+Admissibility of records of courts
+of inquiry.
+29B.52
+Voting and rulings.
+29B.53
+Number of votes required.
+29B.54
+Court to announce action.
+29B.55
+Record of trial.
+SUBCHAPTER VIII
+SENTENCES
+29B.56
+Cruel and unusual punishments
+prohibited.
+29B.57
+Maximum fines.
+29B.58
+Effective date of sentences.
+29B.59
+Execution of confinement.
+SUBCHAPTER IX
+REVIEW BY COURT-MARTIAL
+29B.60
+Execution of sentence —
+suspension of sentence.
+29B.61
+Initial action of record.
+29B.62
+General court-martial records.
+29B.63
+Reconsideration and revision.
+29B.64
+Rehearings.
+29B.65
+Review of records — disposition.
+29B.66
+Error of law — lesser included
+offenses.
+29B.67
+Review counsel.
+29B.68
+Vacation of suspension.
+29B.69
+Petition for a new trial.
+29B.70
+Remission or suspension.
+29B.71
+Restoration.
+29B.72
+Finality of proceedings —
+findings and sentences.
+SUBCHAPTER X
+PUNITIVE ARTICLES
+29B.73
+Persons to be tried or punished.
+29B.74
+Principals.
+29B.75
+Accessory after the fact.
+29B.76
+Conviction of lesser included
+offenses.
+29B.77
+Attempts.
+29B.78
+Conspiracy.
+29B.79
+Solicitation.
+29B.80
+Fraudulent enlistment —
+appointment or separation.
+29B.81
+Unlawful enlistment —
+appointment or separation.
+29B.82
+Desertion.
+29B.83
+Absence without leave.
+29B.84
+Missing movement.
+29B.85
+Contempt toward officials.
+29B.86
+Disrespect toward superior
+commissioned officer.
+29B.87
+Assaulting or willfully disobeying
+superior commissioned officer.
+29B.88
+Insubordinate conduct
+toward warrant officer,
+noncommissioned officer, or
+petty officer.
+29B.89
+Failure to obey order or
+regulation.
+29B.90
+Cruelty and maltreatment.
+29B.90A
+Interference with report of
+a crime to civilian law
+enforcement.
+29B.91
+Mutiny or sedition.
+29B.92
+Resistance, breach of arrest and
+escape.
+29B.93
+Releasing prisoner without
+proper authority.
+29B.94
+Unlawful detention of another.
+29B.95
+Noncompliance with procedural
+rules.
+29B.96
+Misbehavior before the enemy.
+29B.97
+Subordinate compelling
+surrender.
+29B.98
+Improper use of countersign.
+29B.99
+Forcing a safeguard.
+29B.100
+Captured or abandoned property.
+29B.101
+Aiding the enemy.
+29B.102
+Misconduct of a prisoner.
+29B.103
+False official statements —
+forgery.
+29B.104
+Property crimes.
+29B.105
+Improper hazarding of vessel.
+29B.106
+Drunken or reckless driving.
+29B.107
+Drunk on duty — sleeping on post
+— leaving post before relief.
+29B.107A
+Wrongful use or possession of
+controlled substances.
+29B.108
+Dueling.
+29B.109
+Malingering.
+29B.110
+Riot or breach of peace.
+29B.111
+Provoking speeches or gestures.
+29B.112
+Perjury.
+29B.113
+Frauds against the government.
+29B.114
+Larceny and wrongful
+appropriation.
+29B.115
+Conduct unbecoming an officer.
+29B.116
+General article.
+SUBCHAPTER XI
+MISCELLANEOUS PROVISIONS
+29B.116A
+Jurisdiction of offenses by
+civilian courts and notification
+of civilian authorities.
+29B.116B
+Adjutant general report.
+29B.117
+Courts of inquiry.
+29B.118
+Complaints or wrongs.
+29B.119
+Redress of injuries to property.
+29B.120
+Process of military courts.
+29B.121
+through 29B.124
+Reserved.
+29B.125
+Immunity for action of military
+courts.
+29B.126
+Payment and disposition of fines.
+29B.127
+Presumption of jurisdiction.
+29B.128
+Delegation of authority by the
+governor.
+29B.129
+Authority to administer oaths.
+29B.130
+Uniformity of interpretation.
+SUBCHAPTER I
+GENERAL JURISDICTION
+29B.1 Persons subject to code — definitions — short title.
+1.
+A person shall not be punished for an offense under this chapter unless the person is a
+member of the military forces of the state and any of the following applies:
+a.
+The person is on national guard duty or state active duty, including between consecutive
+drill periods which are less than twenty-four hours apart. For purposes of this paragraph, a
+member of the state military forces is on national guard duty or state active duty during travel
+to or from the member’s duty location.
+b. (1)
+The person is not on national guard duty or state active duty but a nexus exists
+between the offense and the military forces of the state. Only a commanding officer holding
+a position in the grade of 0-6 and above may impose nonjudicial punishment for an offense
+subject to this paragraph.
+(2)
+For purposes of this paragraph, the military forces of the state shall have the burden to
+show the existence of a nexus by a preponderance of the evidence and the term nexus shall
+be liberally construed in favor of finding the existence of a nexus.
+2.
+As used in this chapter, unless the context otherwise requires:
+a.
+“Code” means this chapter.
+b.
+“State military forces” means the same as defined in section 29A.6.
+3.
+This chapter may be cited as the “Iowa Code of Military Justice”.
+[C66, 71, 73, 75, 77, 79, 81, §29B.1; 82 Acts, ch 1042, §1]
+2002 Acts, ch 1117, §41, 52; 2012 Acts, ch 1072, §21; 2017 Acts, ch 63, §2; 2021 Acts, ch 65,
+§2; 2021 Acts, ch 80, §15
+29B.2 Jurisdiction to try personnel.
+1.
+Each person discharged from the state military forces who is later charged with
+having fraudulently obtained a discharge is, subject to section 29B.44, subject to trial by
+court-martial on that charge and is after apprehension subject to this code while in the
+custody of the military for that trial. Upon conviction of that charge the person is subject
+to trial by court-martial for all offenses under this code committed before the fraudulent
+discharge.
+2.
+No person who has deserted from the state military forces may be relieved from
+amenability to the jurisdiction of this code by virtue of a separation from any later period
+of service.
+3.
+A person who is charged with having committed an offense against this code may
+be called or ordered to duty for the purpose of investigation under section 29B.33, trial by
+court-martial, or nonjudicial punishment under section 29B.14.
+4.
+A member of the state military forces who is subject to this code at the time of
+commission of an offense made punishable by this code is not relieved from amenability to
+the jurisdiction of this code by virtue of the termination of a period of duty.
+[C66, 71, 73, 75, 77, 79, 81, §29B.2]
+89 Acts, ch 82, §1; 2017 Acts, ch 54, §76; 2017 Acts, ch 63, §3
+29B.3 Territorial applicability of code.
+1.
+This code applies throughout the state. It also applies to all persons otherwise subject
+to this code while they are serving outside the state, and while they are going to and returning
+from such service outside the state, in the same manner and to the same extent as if they were
+serving inside the state.
+2.
+Courts-martial and courts of inquiry may be convened and held in units of the state
+military forces while those units are serving outside the state with the same jurisdiction and
+powers as to persons subject to this code as if the proceedings were held inside the state and
+offenses committed outside the state may be tried and punished either inside or outside the
+state.
+[C66, 71, 73, 75, 77, 79, 81, §29B.3]
+2019 Acts, ch 24, §104
+SUBCHAPTER II
+APPREHENSION AND RESTRAINT
+29B.4 Apprehension.
+1.
+“Apprehension” is the taking of a person into custody. Any person authorized by this
+code, or by regulations issued under it, to apprehend persons subject to this code, any
+marshal of a court-martial appointed pursuant to the provisions of this code, and any peace
+officer authorized to do so by law, may do so upon reasonable belief that an offense has
+been committed and that the person apprehended committed it.
+2.
+Commissioned officers, warrant officers, noncommissioned officers, and military
+police may quell quarrels, frays, and disorders among persons subject to this code and may
+apprehend persons subject to this code who take part therein.
+[C54, 58, 62, §29.65; C66, 71, 73, 75, 77, 79, 81, §29B.4; 82 Acts, ch 1042, §2]
+2019 Acts, ch 24, §104; 2022 Acts, ch 1032, §10
+29B.5 Apprehension of deserters.
+Any civil officer having authority to apprehend offenders under the laws of the United
+States or of a state, territory, commonwealth, or possession, or the District of Columbia may
+summarily apprehend a deserter from the state military forces and deliver the deserter into
+the custody of the state military forces. If an offender is apprehended outside the state the
+offender’s return to the area must be in accordance with normal extradition procedures or
+reciprocal agreement.
+[C66, 71, 73, 75, 77, 79, 81, §29B.5]
+29B.6 Imposition of restraint.
+1.
+“Arrest” is the restraint of a person by an order, not imposed as a punishment for an
+offense, directing the person to remain within certain specified limits. “Confinement” is the
+physical restraint of a person.
+2.
+An enlisted member may be ordered into arrest or confinement by any commissioned
+officer by an order, oral or written, delivered in person or through other persons subject to
+this code or through any person authorized by this code to apprehend persons.
+3.
+A commanding officer may authorize warrant officers or noncommissioned officers to
+order enlisted members of the officer’s command or subject to the officer’s authority into
+arrest or confinement.
+4.
+A commissioned officer or a warrant officer may be ordered apprehended or into
+arrest or confinement only by a commanding officer to whose authority the commissioned
+or warrant officer is subject, by an order, oral or written, delivered in person or by another
+commissioned officer. The authority to order such persons apprehended or into arrest or
+confinement may not be delegated.
+5.
+This section does not limit the authority of persons authorized to apprehend offenders
+to secure the custody of an alleged offender until the proper authority is notified.
+[C54, 58, 62, §29.66; C66, 71, 73, 75, 77, 79, 81, §29B.6, 29B.7; 82 Acts, ch 1042, §3]
+2016 Acts, ch 1011, §7
+29B.7 Probable cause.
+A person shall not be ordered apprehended or into arrest or confinement except for
+probable cause.
+[C54, 58, 62, §29.66; C66, 71, 73, 75, 77, 79, 81, §29B.7; 82 Acts, ch 1042, §4]
+29B.8 Restraint of persons charged with offenses.
+Any person subject to this code charged with an offense under this code shall be ordered
+into arrest or confinement, as circumstances may require; but when charged only with an
+offense normally tried by a summary court-martial, such person shall not ordinarily be placed
+in confinement. When any person subject to this code is placed in arrest or confinement prior
+to trial, after charges are placed against the person, immediate steps shall be taken to inform
+the person of the specific wrong of which the person is accused and to try the person within
+sixty days of informing the accused or to dismiss the charges and release the person.
+[C35, §467-f35; C39, §467.37; C46, 50, §29.37; C54, 58, 62, §29.67; C66, 71, 73, 75, 77, 79,
+81, §29B.8]
+29B.9 Posting of bond.
+The accused may post bond in the amount ordered by the convening authority but not to
+exceed twice the authorized fine for such offense, however, no bond is permitted for capital
+offenses.
+[C66, 71, 73, 75, 77, 79, 81, §29B.9]
+29B.10 Confinement in jails.
+Persons confined other than in a guardhouse, whether before, during or after trial by a
+military court, shall be confined in civil jails, penitentiaries, or prisons.
+[C66, 71, 73, 75, 77, 79, 81, §29B.10]
+29B.11 Reports and receiving of prisoners.
+Every commander of a guard, master-at-arms, warden, keeper, or officer of a city or county
+jail or of any other jail, penitentiary, or prison, to whose charge a prisoner is committed shall,
+within twenty-four hours after that commitment or as soon as relieved from guard, report to
+the commanding officer of the prisoner the name of the prisoner, the offense charged against
+the prisoner, and the name of the person who ordered or authorized the commitment.
+[C54, 58, 62, §29.68; C66, 71, 73, 75, 77, 79, 81, §29B.11]
+29B.12 Punishment prohibited before trial.
+Subject to section 29B.58, no person, while being held for trial or the result of a trial, may
+be subjected to punishment or penalty other than arrest or confinement upon the charges
+pending against the person, nor shall the arrest or confinement imposed upon the person
+be any more rigorous than the circumstances require to insure the person’s presence, but the
+person may be subjected to minor punishment during that period for infractions of discipline.
+[C66, 71, 73, 75, 77, 79, 81, §29B.12]
+29B.13 Delivery of offenders to civil authorities.
+1.
+Under regulations as may be prescribed under this code a person subject to this code
+who is on national guard duty or state active duty who is accused of an offense against civil
+authority may be delivered, upon request, to the civil authority for trial.
+2.
+When delivery under this section is made to any civil authority of a person undergoing
+sentence of a court-martial, the delivery, if followed by conviction in a civil tribunal, shall be
+held to interrupt the execution of the sentence of the court-martial, and the offender after
+having answered to the civil authorities for the offense shall, upon the request of competent
+military authority, be returned to military custody for the completion of the sentence.
+[C35, §467-f61; C39, §467.63; C46, 50, §29.63; C54, 58, 62, §29.61; C66, 71, 73, 75, 77, 79,
+81, §29B.13]
+2002 Acts, ch 1117, §42, 52; 2004 Acts, ch 1086, §16; 2012 Acts, ch 1072, §22
+SUBCHAPTER III
+NONJUDICIAL PUNISHMENT
+29B.14 Commanding officer’s nonjudicial punishment.
+1.
+Under regulations as the adjutant general may prescribe limitations may be placed
+on the powers granted by this section with respect to the kind and amount of punishment
+authorized, the categories of commanding officers and warrant officers authorized to
+exercise those powers, the applicability of this section to an accused who demands trial by
+court-martial, and the kinds of courts-martial to which the case may be referred upon such a
+demand. However, punishment shall not be imposed upon any member of the state military
+forces under this section if the member demands trial by court-martial in lieu of punishment
+before imposition of the punishment. The adjutant general may adopt rules relating to the
+suspension and mitigation of punishments authorized under this code. The adjutant general,
+or an officer of a general rank in command may delegate powers under this section to a
+principal assistant who is a member of the state military forces according to rules adopted
+by the adjutant general.
+2.
+Subject to rules of the adjutant general, any commanding officer may, in addition to
+or in lieu of admonition or reprimand, impose disciplinary punishments for minor offenses
+without the intervention of a court-martial as follows:
+a.
+Upon officers under the officer’s command any one or a combination of the following:
+(1)
+Withholding of privileges for not more than two consecutive weeks.
+(2)
+Restriction to certain specified limits with or without suspension from duty, for not
+more than two consecutive weeks.
+(3)
+If imposed by a commanding officer of the state military forces of field grade or above,
+a fine of any amount up to a maximum of the equivalent of ten days’ pay or the forfeiture of
+not more than ten days’ pay.
+b.
+Upon other military personnel under the officer’s command any one or a combination
+of the following:
+(1)
+Withholding of privileges for not more than two consecutive weeks.
+(2)
+Restriction to certain specified limits, with or without suspension from duty, for not
+more than two consecutive weeks.
+(3)
+Extra duties for not more than fourteen days, which need not be consecutive, and for
+not more than two hours per day, holidays included.
+(4)
+Reduction to the next inferior pay grade if the current grade from which demoted is
+within the promotion authority of the officer imposing the reduction or an officer subordinate
+to the one imposing the reduction.
+(5)
+A fine of any amount up to a maximum of the equivalent of four days’ pay or the
+forfeiture of not more than four days’ pay.
+c.
+If the commanding officer is of field grade or above, any one or a combination of the
+following:
+(1)
+Any of the punishments stated in paragraph “b”, subparagraph (1), (2), or (3).
+(2)
+A fine of any amount up to the maximum of the equivalent of ten days’ pay or the
+forfeiture of not more than ten days’ pay.
+(3)
+Reduction to the lowest or any intermediate pay grade, if the current grade from which
+demoted is within the promotion authority of the officer imposing the reduction or an officer
+subordinate to the one imposing the reduction, but enlisted members in pay grades above E-4
+shall not be reduced more than two pay grades.
+d.
+Maximum allowable punishments of withholding of privileges, restrictions, and extra
+duties shall not be combined to run consecutively.
+3.
+A person punished under this section who considers the punishment unjust or
+disproportionate to the offense may appeal to the next superior authority through the proper
+channel. The authority considering the appeal may refer a case that has been appealed to
+a staff judge advocate or legal officer for consideration and advice and shall do so before
+deciding on the appeal when the punishment is restriction, withholding of privileges, extra
+duties, forfeiture of pay, or reduction from the fourth or higher pay grade. The appeal shall
+be promptly forwarded and decided, but the person punished may in the meantime be
+required to undergo the punishment adjudged. The officer who imposes the punishment, the
+officer’s successor in command, or superior authority may suspend, set aside, or remit any
+part or amount of the punishment and restore all rights, privileges and property affected.
+In addition the officer or authority may at any time place the offender on probation and
+suspend a reduction in grade or forfeiture whether or not executed.
+4.
+The imposition and enforcement of disciplinary punishment under this section for any
+act or omission is not a bar to trial by court-martial for a serious crime or offense growing out
+of the same act or omission, and not properly punishable under this section, but the fact that
+a disciplinary punishment has been enforced may be shown by the accused upon trial, and
+when so shown shall be considered in determining the measure of punishment to be adjudged
+in the event of a finding of guilty.
+5.
+When a punishment of forfeiture of pay and allowances is imposed under this section,
+the forfeiture may apply to pay or allowances accruing on or after that punishment is imposed
+and to pay and allowances accrued before that date.
+[C54, 58, 62, §29.62; C66, 71, 73, 75, 77, 79, 81, §29B.14; 82 Acts, ch 1042, §5]
+89 Acts, ch 82, §2 – 4
+Referred to in §29B.2, 29B.18, 29B.44
+SUBCHAPTER IV
+COURTS-MARTIAL
+29B.15 Courts-martial classified.
+1.
+In the state military forces there are general, special, and summary courts-martial
+constituted like similar courts of the armed forces of the United States.
+They have the
+jurisdiction and powers, except as to punishments, and shall follow the forms and procedures
+provided for those courts.
+2.
+The three kinds of courts-martial are:
+a.
+General courts-martial, consisting of either of the following:
+(1)
+A military judge and not less than five members.
+(2)
+Only a military judge, if before the court is assembled the accused, knowing the
+identity of the military judge, and after consultation with defense counsel, requests in writing
+a court composed only of a military judge and the military judge approves.
+b.
+Special courts-martial, consisting of any of the following:
+(1)
+Not less than three members.
+(2)
+A military judge and not less than three members.
+(3)
+Only a military judge, if one has been detailed to the court, and the accused requests
+only a military judge under the same conditions as prescribed in subsection 2, paragraph “a”,
+subparagraph (2).
+c.
+Summary courts-martial, consisting of one commissioned officer.
+[C35, §467-f33, -f61; C39, §467.35, 467.63; C46, 50, §29.35, 29.63; C54, 58, 62, §29.69; C66,
+71, 73, 75, 77, 79, 81, §29B.15; 82 Acts, ch 1042, §6]
+2008 Acts, ch 1032, §201
+29B.16 Jurisdiction of courts-martial in general.
+1.
+Each force of the state military forces has court-martial jurisdiction over all persons
+subject to this code.
+2.
+Courts-martial have primary jurisdiction of military offenses as defined in sections
+29B.77 through 29B.116 of this code.
+[C35, §467-f33, -f61; C39, §467.35, 467.63; C46, 50, §29.35, 29.63; C54, 58, 62, §29.69; C66,
+71, 73, 75, 77, 79, 81, §29B.16]
+2014 Acts, ch 1069, §1
+Referred to in §29B.17, 29B.18
+29B.17 Jurisdiction of general courts-martial.
+Subject to section 29B.16, general courts-martial have jurisdiction to try persons subject
+to this code for any offense made punishable by this code and may, under such limitations
+as the adjutant general may prescribe, adjudge any one or a combination of the following
+punishments:
+1.
+A fine of not more than five thousand dollars.
+2.
+Forfeiture of not more than twenty days’ pay and allowances.
+3.
+A reprimand.
+4.
+Dismissal or dishonorable discharge.
+5.
+Reduction of a noncommissioned officer to the ranks.
+[C39, §467.33; C46, 50, §29.33; C54, 58, 62, §29.71; C66, 71, 73, 75, 77, 79, 81, §29B.17]
+2008 Acts, ch 1026, §1; 2009 Acts, ch 41, §23
+29B.18 Jurisdiction of special or summary courts-martial.
+1. a.
+Subject to section 29B.16, special courts-martial have jurisdiction to try persons
+subject to this code for any offense for which they may have been punished under this code
+and may, under such limitations as the adjutant general may impose by rule, adjudge any
+one or a combination of the following punishments:
+(1)
+A fine not exceeding two thousand five hundred dollars.
+(2)
+Forfeiture of not more than twenty days’ pay and allowances.
+(3)
+A reprimand.
+(4)
+Dismissal or dishonorable discharge.
+(5)
+Reduction of a noncommissioned officer to the ranks.
+b.
+A special courts-martial shall not try a commissioned officer.
+2. a.
+Subject to section 29B.16, summary courts-martial have jurisdiction to try persons
+subject to this code, for any offense made punishable by this code.
+b.
+A person with respect to whom summary courts-martial have jurisdiction shall not be
+brought to trial before a summary court-martial if the person objects, unless under section
+29B.14 the person has been permitted and has elected to refuse punishment under that
+section. If objection to trial by summary court-martial is made by an accused who has not
+been permitted to refuse punishment under section 29B.14, trial shall be ordered by special
+or general court-martial, as appropriate.
+c.
+A summary court-martial may, under limitations the adjutant general imposes by rule,
+adjudge any of the following punishments:
+(1)
+A fine of not more than one thousand dollars for a single offense.
+(2)
+Forfeiture of not more than twenty days’ pay and allowances.
+(3)
+Reduction of a noncommissioned officer to the ranks.
+[C54, 58, 62, §29.72, 29.73; C66, 71, 73, 75, 77, 79, 81, §29B.18, 29B.24; 82 Acts, ch 1042, §7]
+89 Acts, ch 82, §5; 2007 Acts, ch 22, §13; 2008 Acts, ch 1026, §2, 3
+29B.19 Sentences of dismissal or dishonorable discharge to be approved by the governor.
+In the state military forces a sentence of dismissal or dishonorable discharge shall not be
+executed until it is approved by the governor.
+[C54, 58, 62, §29.75; C66, 71, 73, 75, 77, 79, 81, §29B.19; 82 Acts, ch 1042, §8]
+Referred to in §29B.128
+29B.20 Complete record.
+A sentence imposing a dishonorable discharge, discharge under other than honorable
+conditions, dismissal, or confinement shall not be adjudged unless a complete record of the
+proceedings and testimony has been made, counsel having the qualifications prescribed
+under this code was detailed to represent the accused, and a military judge was detailed
+to the trial, except in any case in which a military judge could not be detailed to the trial
+because of physical conditions or military exigencies. If a military judge was not detailed to
+the trial, the convening authority shall make a detailed written statement, to be appended to
+the record, stating the reason a military judge could not be detailed.
+[C66, 71, 73, 75, 77, 79, 81, §29B.20; 82 Acts, ch 1042, §9]
+2000 Acts, ch 1154, §5
+Referred to in §29B.60
+29B.21 Confinement instead of fine.
+In the state military forces, not on federal active duty, a court-martial may, instead of
+imposing a fine, sentence to confinement for not more than one day for each three dollars of
+the authorized fine.
+[C35, §467-f35; C39, §467.37; C46, 50, §29.37; C54, 58, 62, §29.74; C66, 71, 73, 75, 77, 79,
+81, §29B.21]
+2012 Acts, ch 1072, §23
+29B.22 Judge advocates and legal officers.
+1.
+A judge advocate in the state military forces shall be a commissioned officer who is a
+member of the bar of the state. However, a judge advocate serving in the military forces of
+the state on April 22, 2002, who is not a member of the bar of the state shall not be required to
+become a member of the bar of the state to maintain military membership as a judge advocate.
+A judge advocate shall be either a federally recognized judge advocate or appointed as a judge
+advocate in the state military forces by the adjutant general.
+2.
+The adjutant general shall designate a staff judge advocate for the army national guard
+and the air national guard. The adjutant general may appoint the number of judge advocates
+of the state military forces as the adjutant general considers necessary to perform state active
+duty to supplement or replace national guard judge advocates in emergencies or when the
+national guard judge advocates are on federal active duty.
+3.
+Convening authorities shall at all times communicate directly with their staff judge
+advocates in matters relating to the administration of military justice; and the staff judge
+advocate of any command may communicate directly with the staff judge advocate of any
+command.
+4.
+No person who has acted as member, law officer, trial counsel, assistant trial counsel,
+defense counsel, assistant defense counsel, or investigating officer, or who has been a witness
+for either the prosecution or defense, in any case may later act as staff judge advocate or legal
+officer to any reviewing authority upon the same case.
+[C66, 71, 73, 75, 77, 79, 81, §29B.22]
+2002 Acts, ch 1117, §43, 52; 2003 Acts, ch 44, §20; 2012 Acts, ch 1072, §24
+SUBCHAPTER V
+APPOINTMENT AND COMPOSITION OF COURTS-MARTIAL
+29B.23 Who may convene general courts-martial.
+In the state military forces general courts-martial may be convened by the governor, or by
+the adjutant general of the state of Iowa.
+[C39, §467.33; C46, 50, §29.33; C54, 58, 62, §29.71; C66, 71, 73, 75, 77, 79, 81, §29B.23; 82
+Acts, ch 1042, §10]
+Referred to in §29B.128
+29B.24 Who may convene special courts-martial.
+In the state military forces, the commanding officer of a garrison, fort, post, camp, air base,
+auxiliary air base, or other place where members of the state military forces are on duty,
+or of a division, brigade, regiment, wing, group, detached battalion, separate squadron, or
+other detached command, may convene special courts-martial. When any such officer is an
+accuser, the court shall be convened by superior competent authority.
+[C54, 58, 62, §29.72; C66, 71, 73, 75, 77, 79, 81, §29B.24; 82 Acts, ch 1042, §11]
+29B.25 Summary courts-martial — who may convene.
+1.
+In the state military forces, the commanding officer of a garrison, fort, post, camp, air
+base, auxiliary air base, or other place where members of the state military forces are on
+duty, or of a division, brigade, regiment, wing, group, detached battalion, detached squadron,
+detached company, or other detachment, may convene a summary court-martial consisting
+of one commissioned officer. The proceedings shall be informal.
+2.
+When only one commissioned officer is present with a command or detachment, the
+officer shall be the summary court officer of that command or detachment and shall hear and
+determine all summary court-martial cases.
+[C54, 58, 62, §29.73; C66, 71, 73, 75, 77, 79, 81, §29B.25; 82 Acts, ch 1042, §12]
+2019 Acts, ch 24, §104
+29B.26 Who may serve on courts-martial.
+1. a.
+Any commissioned officer of or on duty with the state military forces is eligible to
+serve on all courts-martial for the trial of any person who may lawfully be brought before the
+courts for trial.
+b.
+Any warrant officer of or on duty with the state military forces is eligible to serve on
+general and special courts-martial for the trial of any person, other than a commissioned
+officer, who may lawfully be brought before the courts for trial.
+c.
+Any enlisted member of the state military forces who is not a member of the same unit
+as the accused is eligible to serve on general and special courts-martial for the trial of any
+enlisted member who may lawfully be brought before the courts for trial, but the enlisted
+member shall serve as a member of a court only if, before the end of any pretrial session
+that is held or if none is held before the convening of the court, the accused personally has
+requested in writing, that enlisted members serve on it. After such a request, the accused
+shall not be tried by a general or special court-martial the membership of which does not
+include enlisted members in a number comprising at least one-third of the total membership
+of the court, unless eligible members cannot be obtained on account of physical conditions or
+military exigencies. If such members cannot be obtained, the court may be convened and the
+trial held without them, but the convening authority shall make a detailed written statement,
+to be appended to the record, stating why they could not be obtained.
+d.
+In this section, the word “unit” means any regularly organized body of the state military
+forces.
+2.
+When it can be avoided, a person subject to this code shall not be tried by a court-martial
+any member of which is junior to the person in rank or grade.
+3.
+When convening a court-martial, the convening authority shall detail as members
+of the courts-martial persons who in the convening authority’s opinion, are best qualified
+for the duty by reason of age, education, training, experience, length of service, and
+judicial temperament. A person is not eligible to serve as a member of a general or special
+court-martial when the person is the accuser or a witness for the prosecution or has acted as
+investigating officer, staff judge advocate, or as counsel in the same case. If a military judge
+is not appointed for a special court-martial and if a commissioned officer who is a member of
+the bar of the highest court of the state and of appropriate rank and grade is present and not
+otherwise disqualified and within the command of the convening authority, the convening
+authority shall appoint the commissioned officer as president of a special court-martial.
+Failure to meet this requirement does not divest a military court of jurisdiction.
+[C66, 71, 73, 75, 77, 79, 81, §29B.26; 82 Acts, ch 1042, §13]
+2015 Acts, ch 29, §5
+29B.27 Military judge of a general court-martial.
+1.
+The authority convening a general court-martial shall detail a military judge to the
+court-martial.
+Subject to rules of the adjutant general, the authority convening a special
+court-martial may detail a military judge to the court-martial. A military judge shall preside
+over each open session of the court-martial to which the military judge has been detailed.
+2.
+A military judge must be a commissioned officer of the state armed forces or a retired
+officer of the reserve components of the armed forces of the United States, a member of the
+bar of a federal court or a member of the bar of the highest court of the state, and certified to be
+qualified for the duty by the appropriate staff judge advocate of the state force concerned. The
+judge advocate responsible for certifying the military judge may recommend to the adjutant
+general that the adjutant general order to active duty retired personnel of the national guard
+or the United States armed forces who are qualified to act as military judges.
+3.
+Unless the court-martial was convened by the governor neither the convening
+authority nor any member of the convening authority’s staff shall prepare or review any
+report concerning the effectiveness, fitness, or efficiency of the military judge so detailed to
+perform the duties of a military judge. A person is not eligible to act as a military judge in a
+case if the person is the accuser or a witness for the prosecution or has acted as investigating
+officer or as a counsel in the same case.
+The military judge of a court-martial shall not
+consult with the members of the court except in the presence of the accused, trial counsel,
+and defense counsel, nor shall the military judge vote with members of the court.
+[C35, §467-f38; C39, §467.40; C46, 50, §29.40; C54, 58, 62, §29.79; C66, 71, 73, 75, 77, 79,
+81, §29B.27; 82 Acts, ch 1042, §14]
+2002 Acts, ch 1117, §44, 52; 2017 Acts, ch 54, §76
+29B.28 Detail of trial counsel and defense counsel.
+1.
+For each general and special court-martial the authority convening the court shall
+detail trial counsel and defense counsel and assistants the authority considers appropriate.
+A person who has acted as investigating officer, military judge, or court member in a case
+shall not act later as trial counsel, assistant trial counsel, or, unless expressly requested by
+the accused, as defense counsel, or assistant defense counsel in the same case. A person
+who has acted for the prosecution shall not act later in the same case for the defense, nor
+shall a person who has acted for the defense act later in the same case for the prosecution.
+2.
+Trial counsel or defense counsel detailed for a general court-martial must be a person
+who is a member of the bar of the highest court of the state and certified as competent for the
+duty by the staff judge advocate.
+3.
+In the case of a special court-martial:
+a.
+The accused has the right to be represented at the trial by counsel having the
+qualifications stated in this section unless counsel having such qualifications cannot be
+provided because of physical conditions or military exigencies. If such counsel cannot be
+provided, the court may be convened and the trial held, but the convening authority shall
+append a detailed written statement to the record stating why such counsel was not provided.
+b.
+If the trial counsel is qualified to act as counsel before a general court-martial, the
+defense counsel detailed by the convening authority must be a person similarly qualified.
+c.
+If the trial counsel is a member of the bar of the highest court of the state, the defense
+counsel detailed by the convening authority must also be a member of the bar of the highest
+court of the state.
+[C66, 71, 73, 75, 77, 79, 81, §29B.28; 82 Acts, ch 1042, §15]
+2002 Acts, ch 1117, §45, 52; 2008 Acts, ch 1032, §201
+Referred to in §29B.39, 29B.67
+29B.29 Detail or employment of reporters and interpreters.
+Under such regulations as the adjutant general may prescribe, the convening authority of
+a general or special court-martial or court of inquiry shall detail or employ certified court
+reporters, who shall record the proceedings of and testimony taken before that court. Under
+like regulations, the convening authority of a military court may detail or employ interpreters
+who shall interpret for the court.
+[C66, 71, 73, 75, 77, 79, 81, §29B.29]
+29B.30 Absent and additional members.
+1.
+A member of a general or special court-martial shall not be absent or excused after the
+court has been assembled for the trial of the accused except for physical disability or as the
+result of a challenge or by order of the convening authority for good cause.
+2.
+If a general court-martial, except a general court-martial composed of a military
+judge only, is reduced below five members, the trial shall not proceed until the convening
+authority details new members sufficient in number to provide not less than five members.
+The trial may proceed with the new members present after the recorded evidence previously
+introduced before the members of the court has been read to the new members of the court
+in the presence of the military judge, the accused, and counsel for both sides.
+3.
+If a special court-martial, except a special court-martial composed of a military judge
+only, is reduced below three members, the trial shall not proceed until the convening authority
+details new members sufficient in number to provide not less than three members.
+The
+trial shall proceed with the new members present as if no evidence had previously been
+introduced at the trial, unless a verbatim record of the evidence previously introduced before
+the members of the court is read to the new members of the court in the presence of the
+military judge, if any, the accused, and counsel for both sides.
+4.
+If the military judge of a court-martial composed of a military judge only is unable to
+proceed with the trial because of physical disability, as a result of a challenge, or for other
+good cause, the trial shall proceed after the detail of a new military judge as if no evidence had
+previously been introduced unless a verbatim record of the evidence previously introduced
+or a stipulation thereof is read in court in the presence of the new military judge, the accused,
+and counsel for both sides.
+[C66, 71, 73, 75, 77, 79, 81, §29B.30; 82 Acts, ch 1042, §16]
+SUBCHAPTER VI
+PRETRIAL PROCEDURES
+29B.31 Charges and specifications.
+1.
+Charges and specifications shall be signed by a person subject to this code under oath
+before a person authorized by this code to administer oaths and shall state:
+a.
+That the signer has personal knowledge of, or has investigated, the matters set forth
+therein; and
+b.
+That they are true in fact to the best of the signer’s knowledge and belief.
+2.
+Upon the preferring of charges, the proper authority shall take immediate steps to
+determine what disposition should be made thereof in the interest of justice and discipline,
+and the person accused shall be informed of the charges against the person as soon as
+practicable.
+[C54, 58, 62, §29.64; C66, 71, 73, 75, 77, 79, 81, §29B.31]
+2008 Acts, ch 1032, §201
+Referred to in §29B.50
+29B.32 Compulsory self-incrimination prohibited.
+1.
+No person subject to this code may compel any person to make a self-incriminating
+statement or to answer any question the answer to which may tend to incriminate the person.
+2.
+No person subject to this code may interrogate, or request any statement from, an
+accused or a person suspected of an offense without first informing the accused or suspect of
+the nature of the accusation and advising the accused or suspect that the accused or suspect
+does not have to make any statement regarding the offense of which the person is accused or
+suspected and that any statement made by the accused or suspect may be used as evidence
+against the accused or suspect in a trial by court-martial.
+3.
+No person subject to this code may compel any person to make a statement or produce
+evidence before any military tribunal if the statement or evidence is not material to the issue
+and may tend to degrade the person.
+4.
+No statement obtained from any person in violation of this section, or through the use
+of coercion, unlawful influence, or unlawful inducement may be received in evidence against
+the person in a trial by court-martial.
+[C66, 71, 73, 75, 77, 79, 81, §29B.32]
+2017 Acts, ch 54, §76
+29B.33 Investigation.
+1.
+A charge or specification shall not be referred to a general court-martial for trial until a
+thorough and impartial investigation of all the matters set forth in the charge or specification
+is made. This investigation shall include inquiry as to the truth of the matter set forth in the
+charges, consideration of the form of charges, and a recommendation as to the disposition
+which should be made of the case in the interest of justice and discipline.
+2.
+The accused shall be advised of the charges and of the right to be represented at the
+investigation by counsel. Upon the accused’s own request the accused shall be represented
+by civilian counsel at the expense of the accused, or military counsel of the accused’s own
+selection if such counsel is reasonably available, or by counsel detailed by the convening
+authority. At that investigation full opportunity shall be given to the accused to cross-examine
+prosecution witnesses if they are available and to present anything the accused may desire
+in the accused’s own behalf, either in defense or mitigation, and the investigating officer
+shall examine witnesses requested by the accused. If the charges are forwarded after the
+investigation, they shall be accompanied by a statement of the substance of the testimony
+taken on both sides and a copy thereof shall be given to the accused.
+3.
+If an investigation of the subject matter of an offense has been conducted before the
+accused is charged with the offense, and if the accused was present at the investigation
+and afforded the opportunities for representation, cross-examination, and presentation
+prescribed above, no further investigation of that charge is necessary under this section
+unless it is demanded by the accused after the accused is informed of the charge. A demand
+for further investigation entitles the accused to recall witnesses for further cross-examination
+and to offer any new evidence in the accused’s own behalf.
+4.
+The requirements of this section are binding on all persons administering this code but
+failure to follow them does not divest a military court of jurisdiction.
+[C66, 71, 73, 75, 77, 79, 81, §29B.33; 82 Acts, ch 1042, §17]
+2017 Acts, ch 54, §76
+Referred to in §29B.2
+29B.34 Forwarding of charges.
+When a person is held for trial by general court-martial the commanding officer shall,
+within eight days after the accused is ordered into arrest or confinement, if practicable,
+forward the charges directly to the person exercising general court-martial jurisdiction,
+together with the investigation and allied papers. If that is not practicable, the commanding
+officer shall report in writing to the adjutant general the reasons for delay.
+[C66, 71, 73, 75, 77, 79, 81, §29B.34; 82 Acts, ch 1042, §18]
+29B.35 Advice of staff judge advocate and reference for trial.
+1.
+Before directing the trial of any charge by general court-martial, the convening
+authority shall refer the charge to the appropriate staff judge advocate of the state force
+concerned for consideration and advice. The convening authority may not refer a charge
+to a general court-martial for trial unless the authority has found that the charge alleges
+an offense under this code and is warranted by evidence indicated in the report of the
+investigation.
+2.
+If the charges or specifications are not formally correct or do not conform to the
+substance of the evidence contained in the report of the investigating officer, formal
+corrections and such changes in the charges and specifications as are needed to make them
+conform to the evidence may be made.
+[C66, 71, 73, 75, 77, 79, 81, §29B.35]
+2002 Acts, ch 1117, §46, 52; 2019 Acts, ch 24, §104; 2020 Acts, ch 1062, §15
+29B.36 Service of charges.
+The trial counsel to whom court-martial charges are referred for trial shall cause to be
+served upon the accused a copy of the charges upon which trial is to be had. The accused
+shall not be brought to trial before a general court-martial or be required to participate in
+a session before a military judge under section 29B.40 within a period of five days after the
+service of the charges upon the accused, or before a special court-martial within a period of
+three days after the service of the charges upon the accused, unless the accused consents
+otherwise.
+[C66, 71, 73, 75, 77, 79, 81, §29B.36; 82 Acts, ch 1042, §19]
+SUBCHAPTER VII
+TRIAL PROCEDURE
+29B.37 Adjutant general may prescribe rules.
+The procedures, including modes of proof, in cases before military courts and other military
+tribunals shall be prescribed by the adjutant general by rule, but shall not be contrary to or
+inconsistent with this code. All courts and other proceedings shall be conducted under the
+procedural rules established under 10 U.S.C. ch. 47 unless otherwise provided in this code.
+[C66, 71, 73, 75, 77, 79, 81, §29B.37; 82 Acts, ch 1042, §20]
+2010 Acts, ch 1087, §2
+29B.38 Unlawfully influencing action of court.
+1.
+The authority convening a general, special, or summary court-martial or any other
+commanding officer, or officer serving on the staff of the authority, shall not censure,
+reprimand, or admonish the court or any member, military judge, or counsel of the court,
+with respect to the findings or sentence adjudged by the court, or with respect to any other
+exercise of its or the court or military judge or counsel’s functions in the conduct of the
+proceeding. A person subject to this code shall not attempt to coerce or, by any unauthorized
+means, influence the action of the court-martial or any other military tribunal or any member
+thereof, in reaching the findings or sentence in any case, or the action of any convening,
+approving, or reviewing authority with respect to the authority’s judicial acts. Any violation
+of this section shall be punished as a court-martial may direct.
+2.
+In the preparation of an effectiveness, fitness, or efficiency report or any other report
+or document used to determine whether a member of the state military force is qualified to
+be advanced in grade, reassigned, transferred, or retained on active duty, a person shall not
+do either of the following:
+a.
+Consider or evaluate the performance of duty of the member as a member of a
+court-martial or military judge.
+b.
+Give a less favorable rating or evaluation of a member of the state military forces
+because of the zeal with which the member, as counsel, represented an accused before a
+court-martial.
+[C66, 71, 73, 75, 77, 79, 81, §29B.38; 82 Acts, ch 1042, §21]
+29B.39 Duties of trial counsel and defense counsel.
+1.
+The trial counsel of a general or special court-martial shall prosecute in the name of
+the state, and shall, under the direction of the court, prepare the record of the proceedings.
+2.
+The accused has the right to be represented in the accused’s defense before a general
+or special court-martial by civilian counsel if provided at the expense of the accused, or by
+military counsel selected by the accused if reasonably available, or by the defense counsel
+detailed under section 29B.28. If the accused selects defense counsel, the defense counsel,
+and assistant defense counsel, if any, who were detailed, shall, if the accused so desires, act
+as associate counsel for the accused; otherwise they shall be excused by the military judge
+or by the president of the court-martial if there is no military judge.
+3.
+In every court-martial proceeding, the defense counsel may, in the event of conviction,
+forward for attachment to the record of proceedings a brief of such matters the defense
+counsel feels should be considered in behalf of the accused on review, including any
+objection to the contents of the record which the defense counsel considers appropriate.
+4.
+An assistant trial counsel of a general court-martial may, under the direction of the trial
+counsel or when the assistant is qualified to be a trial counsel as required by section 29B.28,
+perform any duty imposed by law, regulation, or the custom of the service upon the trial
+counsel of the court. An assistant trial counsel of a special court-martial may perform any
+duty of the trial counsel.
+5.
+An assistant defense counsel of a general or special court-martial may, under the
+direction of the defense counsel or when the assistant is qualified to be the defense counsel
+as required by section 29B.28, perform any duty imposed by law, regulation, or the custom
+of the service upon counsel for the accused.
+[C66, 71, 73, 75, 77, 79, 81, §29B.39; 82 Acts, ch 1042, §22]
+2017 Acts, ch 54, §76
+29B.40 Sessions.
+1.
+At any time after the service of charges referred for trial to a court-martial composed of
+a military judge and members, the military judge may, subject to this chapter, call the court
+into session without the presence of the members for the purpose of any of the following:
+a.
+Hearing and determining motions raising defenses or objections which are capable of
+determination without trial of the issues raised by a plea of not guilty.
+b.
+Hearing and ruling upon any matter which may be ruled upon by the military judge
+under this code, whether or not the matter is appropriate for later consideration or decision
+by the members of the court.
+c.
+If permitted by rules of the adjutant general holding the arraignment and receiving the
+pleas of the accused.
+d.
+Performing any other procedural function which may be performed by the military
+judge under this code or under rules adopted pursuant to this code and which does not require
+the presence of the members of the court.
+2. a.
+These proceedings shall be conducted in the presence of the accused, the defense
+counsel, and the trial counsel and shall be made a part of the record.
+b.
+When the members of a court-martial deliberate or vote, only the members may be
+present. All other proceedings, including any other consultation of the members of the court
+with counsel or the military judge, shall be made a part of the record and shall be in the
+presence of the accused, the defense counsel, the trial counsel, and in cases in which a military
+judge has been detailed to the court, the military judge.
+[C66, 71, 73, 75, 77, 79, 81, §29B.40; 82 Acts, ch 1042, §23]
+2008 Acts, ch 1032, §201
+Referred to in §29B.36
+29B.41 Continuances.
+A military judge or court-martial without a military judge may, for reasonable cause, grant
+a continuance to any party for such time, and as often, as may appear to be just.
+[C66, 71, 73, 75, 77, 79, 81, §29B.41; 82 Acts, ch 1042, §24]
+29B.42 Challenges.
+1.
+The military judge and members of a general or special court-martial may be challenged
+by the accused or the trial counsel for cause stated to the court. The military judge or the court
+in the absence of a military judge shall determine the relevancy and validity of challenges for
+cause, and shall not receive a challenge to more than one person at a time. Challenges by
+the trial counsel shall ordinarily be presented and decided before those by the accused are
+offered.
+2.
+Each accused and the trial counsel is entitled to one peremptory challenge, but the
+military judge shall not be challenged except for cause.
+[C66, 71, 73, 75, 77, 79, 81, §29B.42; 82 Acts, ch 1042, §25]
+2019 Acts, ch 24, §104
+29B.43 Oaths.
+Before performing their official duties, military judges, members of a general and special
+courts-martial, trial counsel, assistant trial counsel, defense counsel, assistant defense
+counsel, reporters, and interpreters shall take an oath to perform their duties faithfully. The
+adjutant general shall adopt rules prescribing the form of the oath, the time and place of
+the taking of the oath, the manner of recording, and whether the oath must be taken for
+all cases in which official duties must be performed or for a particular case. The rules may
+provide that an oath to perform duties faithfully as a military judge, trial counsel, assistant
+trial counsel, defense counsel, or assistant defense counsel may be taken at any time by any
+judge advocate or legal officer, or other person certified to be qualified or competent for the
+duty, and that once taken the oath need not be taken again each time the person is detailed
+to that duty.
+[C66, 71, 73, 75, 77, 79, 81, §29B.43; 82 Acts, ch 1042, §26]
+2021 Acts, ch 76, §10
+29B.44 Statute of limitations.
+1.
+A person charged with desertion or absence without leave in time of war, or with aiding
+the enemy or with mutiny, may be tried and punished at any time without limitation.
+2.
+Except as otherwise provided in this section, a person charged with desertion in time
+of peace or with any other offense under this code is not liable to be tried by court-martial
+if the offense was committed more than five years before the receipt of sworn charges and
+specifications by an officer exercising summary court-martial jurisdiction over the command.
+3.
+Except as otherwise provided in this section, a person charged with any offense under
+this code is not liable to be punished under section 29B.14 if the offense was committed more
+than two years before the imposition of punishment under section 29B.14.
+4.
+Periods in which the accused was absent from territory in which the state has the
+authority to apprehend the accused, or in the custody of civil authorities, or in the hands of
+the enemy, shall be excluded in computing the period of limitation prescribed in this section.
+5.
+If charges or specifications are dismissed as defective or insufficient for any cause and
+the period prescribed by the applicable statute of limitations has expired or will expire within
+one hundred eighty days after the date the charges or specifications are dismissed, trial by
+court-martial or punishment under section 29B.14 is not barred by the statute of limitations
+if the following conditions are met:
+a.
+The charges and specifications are received by an officer exercising summary
+court-martial jurisdiction or having the authority to conduct punishment under section
+29B.14 within one hundred eighty days after the charges or specifications are dismissed.
+b.
+The charges and specifications allege some or all of the same acts or omissions that
+were alleged in the dismissed charges or specifications.
+[C66, 71, 73, 75, 77, 79, 81, §29B.44]
+2017 Acts, ch 54, §76; 2017 Acts, ch 63, §4
+Referred to in §29B.2
+29B.45 Former jeopardy.
+1.
+No person may, without the person’s consent, be tried a second time in any military
+court of the state for the same offense.
+2.
+No proceeding in which an accused has been found guilty by a court-martial upon any
+charge or specification is a trial in the sense of this section until the finding of guilty has
+become final after review of the case has been fully completed.
+3.
+A proceeding which, after the introduction of evidence but before a finding, is
+dismissed or terminated by the convening authority or on motion of the prosecution for
+failure of available evidence or witnesses without any fault of the accused is a trial in the
+sense of this section.
+[C66, 71, 73, 75, 77, 79, 81, §29B.45]
+2017 Acts, ch 54, §76
+29B.46 Pleas of the accused.
+1.
+If the accused after arraignment makes an irregular pleading, or after a plea of guilty
+sets up defenses inconsistent with the plea, or if it appears that the accused has entered the
+plea of guilty improvidently or through lack of understanding of its meaning and effect, or if
+the accused fails or refuses to plead, a plea of not guilty shall be entered in the record, and
+the court shall proceed as though the accused had pleaded not guilty.
+2.
+With respect to any charge or specification to which a plea of guilty has been made by
+the accused and accepted by the military judge, or by a court-martial without a military judge,
+a finding of guilty of the charge or specification may, if permitted by rules of the adjutant
+general be entered immediately without vote. This finding shall constitute the finding of the
+court unless the plea of guilty is withdrawn prior to the announcement of the sentence, in
+which case the proceedings shall continue as though the accused had pleaded not guilty.
+[C66, 71, 73, 75, 77, 79, 81, §29B.46; 82 Acts, ch 1042, §27]
+29B.47 Opportunity to obtain witnesses and other evidence.
+1.
+The trial counsel, the defense counsel, and the court-martial shall have equal
+opportunity to obtain witnesses and other evidence in accordance with such regulations as
+the adjutant general may prescribe.
+2.
+The military judge or the president of a court-martial without a military judge may:
+a.
+Issue a warrant for the arrest of any accused person who having been served with a
+warrant and a copy of the charges, disobeys a written order by the convening authority to
+appear before the court;
+b.
+Issue subpoenas duces tecum and other subpoenas;
+c.
+Enforce by attachment the attendance of witnesses and the production of books and
+papers; and
+d.
+Sentence for refusal to be sworn or to answer, as provided in actions before civil courts
+of the state.
+3.
+Process issued in court-martial cases to compel witnesses to appear and testify and to
+compel the production of other evidence shall run to any part of the United States and shall
+be executed by civil officers as prescribed by laws of the United States or the place where the
+witness or evidence is located.
+[C35, §467-f37; C39, §467.39; C46, 50, §29.39; C54, 58, 62, §29.76; C66, 71, 73, 75, 77, 79,
+81, §29B.47; 82 Acts, ch 1042, §28]
+2008 Acts, ch 1032, §201; 2010 Acts, ch 1087, §3
+29B.48 Refusal to appear or testify.
+1.
+Any person not subject to this code is guilty of a simple misdemeanor if the person does
+all of the following:
+a.
+Has been duly subpoenaed to appear as a witness or to produce books and records
+before a military court or before any military or civil officer and designated to take a
+deposition to be read in evidence before such a court.
+b.
+Has been duly paid or tendered the fees and mileage of a witness at the rates allowed
+to witnesses attending the courts of the state.
+c.
+Willfully neglects or refuses to appear, or refuses to qualify as a witness or to testify or
+to produce any evidence which that person has been legally subpoenaed to produce.
+2.
+Upon certification of the facts in a case under this section by the military judge,
+president of courts-martial without a military judge, or summary courts-martial officer, the
+county attorney of the county where the offense occurred shall prosecute the offense as if it
+were included in the Iowa criminal code.
+[C66, 71, 73, 75, 77, 79, 81, §29B.48; 82 Acts, ch 1042, §29]
+2006 Acts, ch 1010, §19
+29B.49 Contempts.
+1.
+A military court may punish for contempt any person subject to this code who uses any
+menacing word, sign, or gesture in its presence, or who disturbs its proceedings by any riot
+or disorder. The punishment shall not exceed confinement for thirty days or a fine of one
+hundred dollars, or both.
+2.
+A person who is not subject to this code who engages in conduct described in subsection
+1 is guilty of a simple misdemeanor. The facts shall be certified to the county attorney of the
+county in which the offense occurred who shall prosecute the case as if the offense were
+included in the Iowa criminal code.
+[C66, 71, 73, 75, 77, 79, 81, §29B.49; 82 Acts, ch 1042, §30]
+29B.50 Depositions.
+1.
+At any time after charges have been signed, as provided in section 29B.31 any party may
+take oral or written depositions unless the military judge or court-martial without a military
+judge hearing the case, or if the case is not being heard, an authority competent to convene
+a court-martial for the trial of those charges forbids it for good cause. If a deposition is to
+be taken before charges are referred for trial, the authority may designate commissioned
+officers to represent the prosecution and the defense and may authorize those officers to take
+the deposition of any witness.
+2.
+The party at whose instance a deposition is to be taken shall give to every other party
+reasonable written notice of the time and place for taking the deposition.
+3.
+Depositions may be taken before and authenticated by any military or civil officer
+authorized to administer oaths by the laws of the United States or by the laws of the place
+where the deposition is taken.
+4.
+A duly authenticated deposition taken upon reasonable notice to the other parties, so
+far as otherwise admissible under the rules of evidence, may be read in evidence before
+any court-martial or in any proceeding before a court of inquiry, if any of the following are
+apparent:
+a.
+That the witness resides or is out of the state of Iowa and the witness’ appearance
+cannot be obtained, unless it appears that the absence of the witness was procured by the
+party offering the deposition.
+b.
+That the witness by reason of death, age, sickness, bodily infirmity, imprisonment,
+military necessity, or other reasonable cause, is unable to appear and testify in person at
+the place of trial or hearing.
+c.
+That the party offering the deposition has been unable to procure the attendance of the
+witness by subpoena or other process and the present whereabouts of the witness is unknown.
+[C66, 71, 73, 75, 77, 79, 81, §29B.50; 82 Acts, ch 1042, §31]
+2008 Acts, ch 1032, §201
+29B.51 Admissibility of records of courts of inquiry.
+1.
+In any case not extending to the dismissal of a commissioned officer, the sworn
+testimony, contained in the duly authenticated record of proceedings of a court of inquiry,
+of a person whose oral testimony cannot be obtained, may, if otherwise admissible under
+the rules of evidence, be read in evidence by any party before a court-martial if the accused
+was a party before the court of inquiry, and if the same issue was involved or if the accused
+consents to the introduction of such evidence.
+2.
+Such testimony may be read in evidence only by the defense in cases extending to the
+dismissal of a commissioned officer.
+3.
+Such testimony may also be read in evidence before a court of inquiry or a military
+board.
+[C66, 71, 73, 75, 77, 79, 81, §29B.51]
+2008 Acts, ch 1032, §201
+29B.52 Voting and rulings.
+1.
+Voting by members of a general or special court-martial on the findings and on the
+sentence, and by members of a court-martial without a military judge upon questions of
+challenge shall be by secret written ballot. The junior member of the court shall count the
+votes. The count shall be checked by the president, who shall immediately announce the
+result of the ballot to the members of the court.
+2.
+The military judge and, except for questions of challenge, the president of a
+court-martial without a military judge, shall rule upon all questions of law and all
+interlocutory questions arising during the proceedings. A ruling made by the military judge
+upon a question of law or an interlocutory question other than the factual issue of mental
+responsibility of the accused, or by the president of a court-martial without a military
+judge upon a question of law other than a motion for a finding of not guilty is final and
+constitutes the ruling of the court. However, the military judge may change a ruling at any
+time during the trial. Unless the ruling is final, if a member objects to the ruling, the court
+shall be cleared and closed and the question decided by a voice vote as provided in this code
+beginning with the junior in rank.
+3.
+Before a vote is taken on the findings, the military judge or the president of a
+court-martial without a military judge shall, in the presence of the accused and counsel,
+instruct the members of the court as to the elements of the offense and charge them as
+follows:
+a.
+That the accused must be presumed to be innocent until guilt is established by legal
+and competent evidence beyond reasonable doubt.
+b.
+That in the case being considered, if there is a reasonable doubt as to the guilt of
+the accused, the doubt must be resolved in favor of the accused and the accused must be
+acquitted.
+c.
+That, if there is a reasonable doubt as to the degree of guilt, the finding must be in a
+lower degree as to which there is no reasonable doubt.
+d.
+That the burden of proof for establishing the guilt of the accused beyond reasonable
+doubt is upon the state.
+4.
+Subsection 3 does not apply to a court-martial composed of a military judge only.
+The military judge of a court-martial composed only of a military judge shall determine all
+questions of law and fact arising during the proceedings, and, if the accused is convicted,
+adjudge an appropriate sentence. The military judge shall make a general finding and shall
+find the facts specifically on request. If an opinion or memorandum of decision is filed, it is
+sufficient if the findings of fact appear in the opinion or memorandum of decision.
+[C66, 71, 73, 75, 77, 79, 81, §29B.52; 82 Acts, ch 1042, §32]
+29B.53 Number of votes required.
+1.
+A person shall not be convicted of an offense, except as provided in this code by the
+concurrence of two-thirds of the members present at the time the vote is taken.
+2.
+All sentences shall be determined by the concurrence of two-thirds of the members
+present at the time that the vote is taken.
+3.
+All other questions to be decided by the members of a general or special court-martial
+shall be determined by a majority vote. A tie vote on a challenge disqualifies the member
+challenged. A tie vote on a motion for a finding of not guilty or on a motion relating to the
+question of the accused’s sanity is a determination against the accused. A tie vote on any
+other question is a determination in favor of the accused but a determination to reconsider
+a finding of guilty or to reconsider a sentence for the purpose of possible reduction may be
+made by any lesser vote if the determination to reconsider is not opposed by two-thirds of
+the members present.
+[C66, 71, 73, 75, 77, 79, 81, §29B.53; 82 Acts, ch 1042, §33]
+2008 Acts, ch 1032, §201
+29B.54 Court to announce action.
+A court-martial shall announce its findings and sentence to the parties as soon as
+determined.
+[C66, 71, 73, 75, 77, 79, 81, §29B.54]
+29B.55 Record of trial.
+1.
+Each general court-martial shall keep a separate record of the proceedings in each case
+brought before it, and the record shall be authenticated by the signature of the military judge.
+If the record cannot be authenticated by the military judge by reason of death, disability, or
+absence of the military judge, it shall be authenticated by the signature of the trial counsel
+or by the signature of a member if the trial counsel is unable to authenticate it by reason
+of death, disability, or absence. In a court-martial consisting of only a military judge the
+record shall be authenticated by the court reporter under the same conditions which would
+impose such a duty on a member under this subsection. If the proceedings have resulted in an
+acquittal of all charges and specifications or, if not affecting a general officer, in a sentence not
+including discharge, dismissal, or confinement and not in excess of that which may otherwise
+be adjudged by a special court-martial, the record shall contain matters prescribed by rules
+of the adjutant general.
+2.
+Each special and summary court-martial shall keep a separate record of the
+proceedings in each case, and the record shall contain the matter and shall be authenticated
+in the manner required by rules of the adjutant general.
+3.
+A copy of the record of the proceedings of each general and special court-martial shall
+be given to the accused as soon as the record is authenticated. If a verbatim record of trial
+by general court-martial is not required, but is made, the accused may buy the record as
+prescribed in rules of the adjutant general.
+[C66, 71, 73, 75, 77, 79, 81, §29B.55; 82 Acts, ch 1042, §34]
+2008 Acts, ch 1032, §201
+SUBCHAPTER VIII
+SENTENCES
+29B.56 Cruel and unusual punishments prohibited.
+Punishment by cruel or unusual punishment may not be adjudged by any court-martial or
+inflicted upon any person subject to this code.
+[C66, 71, 73, 75, 77, 79, 81, §29B.56]
+29B.57 Maximum fines.
+The punishment which a court-martial may direct for an offense may not exceed limits
+prescribed by this code.
+[C66, 71, 73, 75, 77, 79, 81, §29B.57]
+29B.58 Effective date of sentences.
+1.
+When a sentence of a court-martial as lawfully adjudged and approved includes a
+forfeiture of pay or allowances in addition to confinement not suspended or deferred, the
+forfeiture shall apply only to pay or allowances becoming due on or after the date the
+sentence is approved by the convening authority. A forfeiture shall not extend to any pay or
+allowances accrued before that date.
+2.
+A period of confinement included in a sentence of a court-martial begins to run from
+the date the sentence is adjudged by the court-martial but periods during which the sentence
+to confinement is suspended or deferred shall be excluded in computing the service of the
+term of confinement, provided that credit be given for confinement served prior to trial. Rules
+prescribed by the adjutant general may provide that sentences of confinement shall not be
+executed until approved by designated officers.
+3.
+All other sentences of courts-martial are effective on the date ordered executed.
+4.
+On application by an accused who is under sentence to confinement that has not been
+ordered executed, the convening authority, or if the accused is no longer under the jurisdiction
+of the convening authority, the person exercising general court-martial jurisdiction, may in
+the person’s discretion defer service of the sentence to confinement. The deferral terminates
+when the sentence is ordered executed. The deferral may be rescinded at any time by the
+officer who granted it, or, if the accused is no longer under jurisdiction of that officer, by the
+person exercising general court-martial jurisdiction.
+5.
+Unless otherwise provided in rules of the adjutant general, a court-martial sentence
+of an enlisted member in pay grade above E-1, that includes a discharge under other than
+honorable conditions or confinement and that is approved by the convening authority reduces
+the member to pay-grade E-1, effective on the date of the approval.
+6.
+If the sentence of a member who is reduced in pay grade under subsection 5 is set aside
+or disapproved, or, as finally approved, does not include a punishment named in subsection
+5, the rights and privileges of which the member was deprived because of the reduction shall
+be restored and the member is entitled to the pay and allowances lost during the period the
+reduction was in effect.
+[C66, 71, 73, 75, 77, 79, 81, §29B.58; 82 Acts, ch 1042, §35]
+Referred to in §29B.12
+29B.59 Execution of confinement.
+1.
+A sentence of confinement adjudged by a military court, whether or not the sentence
+includes discharge or dismissal, and whether or not the discharge or dismissal has been
+executed, may be carried into execution by confinement in any place of confinement under
+the control of any of the forces of the state military forces or in any jail, penitentiary, or prison
+designated for that purpose. Persons so confined in a jail, penitentiary, or prison are subject
+to the same discipline and treatment as persons confined or committed to the jail, penitentiary
+or prison by the courts of the state or of any political subdivision thereof.
+2.
+The omission of the words “hard labor” from any sentence or punishment of a
+court-martial adjudging confinement does not deprive the authority executing that sentence
+or punishment of the power to require hard labor as a part of the punishment.
+3.
+The keepers, officer, and wardens of city or county jails and of other jails, penitentiaries,
+or prisons shall receive persons ordered into confinement before trial and persons committed
+to such confinement by a military court and shall confine them according to law. No such
+keeper, officer or warden may require payment of any fee or charge for so receiving or
+confining a person.
+[C66, 71, 73, 75, 77, 79, 81, §29B.59]
+2017 Acts, ch 54, §76
+SUBCHAPTER IX
+REVIEW BY COURT-MARTIAL
+29B.60 Execution of sentence — suspension of sentence.
+Except as provided in sections 29B.20 and 29B.65, a court-martial sentence, unless
+suspended or deferred, may be ordered executed by the convening authority when approved
+by the convening authority. The convening authority shall approve the sentence or the part,
+amount, or commuted form of the sentence as the convening authority sees fit, and may
+suspend or defer the execution of the sentence.
+[C66, 71, 73, 75, 77, 79, 81, §29B.60; 82 Acts, ch 1042, §36]
+29B.61 Initial action of record.
+1.
+After a trial by court-martial the record shall be forwarded to the convening authority,
+as reviewing authority, and action may be taken by the person who convened the court, a
+commissioned officer commanding for the time being, a successor in command, or by the
+adjutant general.
+2.
+In acting on the findings and sentence of a court-martial, the convening authority may
+approve only such findings of guilty, and the sentence or part or amount of the sentence
+as the convening authority finds correct in law and fact and as in the convening authority’s
+discretion should be approved. Unless the convening authority indicates otherwise, approval
+of the sentence includes approval of the findings.
+[C66, 71, 73, 75, 77, 79, 81, §29B.61; 82 Acts, ch 1042, §37]
+2019 Acts, ch 24, §104
+29B.62 General court-martial records.
+The convening authority shall refer the record of each general court-martial to the
+appropriate staff judge advocate of the state force concerned, who shall submit a written
+opinion thereon to the convening authority. If the final action of the court has resulted in
+an acquittal of all charges and specifications, the opinion shall be limited to questions of
+jurisdiction.
+[C66, 71, 73, 75, 77, 79, 81, §29B.62]
+2002 Acts, ch 1117, §47, 52
+29B.63 Reconsideration and revision.
+1.
+If a specification before a court-martial has been dismissed on motion and the ruling
+does not amount to a finding of not guilty, the convening authority may return the record to
+the court for reconsideration of the ruling and any further appropriate action.
+2.
+Where there is an apparent error or omission in the record or where the record shows
+improper or inconsistent action by a court-martial with respect to a finding or sentence
+which can be rectified without material prejudice to the substantial rights of the accused, the
+convening authority may return the record to the court for appropriate action. In no case,
+however, may the record be returned:
+a.
+For reconsideration of a finding of not guilty, or a ruling which amounts to a finding of
+not guilty;
+b.
+For reconsideration of a finding of not guilty of any charge, unless the record shows
+a finding of guilty under a specification laid under that charge, which sufficiently alleges a
+violation of some section of this code; or
+c.
+For increasing the severity of the sentence unless the sentence prescribed for the
+offense is mandatory.
+[C66, 71, 73, 75, 77, 79, 81, §29B.63]
+2008 Acts, ch 1032, §201
+29B.64 Rehearings.
+1.
+If the convening authority disapproves the findings and sentence of a court-martial the
+convening authority may, except where there is lack of sufficient evidence in the record to
+support the findings, order a rehearing. In such case the convening authority shall state the
+reasons for disapproval. If the convening authority disapproves the findings and sentence
+and does not order a rehearing, the convening authority shall dismiss the charges.
+2.
+Each rehearing shall take place before a court-martial composed of members not
+members of the court-martial which first heard the case.
+Upon a rehearing the accused
+may not be tried for any offense of which the accused was found not guilty by the first
+court-martial, and no sentence in excess of or more severe than the original sentence may be
+imposed, unless the sentence is based upon a finding of guilty of an offense not considered
+upon the merits in the original proceedings, or unless the sentence prescribed for the offense
+is mandatory.
+[C66, 71, 73, 75, 77, 79, 81, §29B.64]
+2019 Acts, ch 24, §104
+29B.65 Review of records — disposition.
+1.
+If the convening authority is the governor or adjutant general, the convening authority’s
+action on the review of any record of trial is final.
+2.
+In all other cases not covered by subsection 1, if the sentence of a special court-martial
+as approved by the convening authority includes a bad-conduct discharge, dishonorable
+discharge, dismissal, or confinement, whether or not suspended, the entire record shall be
+sent to the appropriate staff judge advocate of the state force concerned to be reviewed in
+the same manner as a record of trial by general court-martial.
+3.
+All other special and summary court-martial records shall be sent to the appropriate
+staff judge advocate of the state force concerned and shall be acted upon, transmitted, and
+disposed of as prescribed by rules of the adjutant general.
+4. a.
+The staff judge advocate of the state force concerned shall review the record of
+trial in each case sent for review as provided under this section. If the final action of the
+court-martial has resulted in an acquittal of all charges and specifications, the opinion of the
+staff judge advocate is limited to questions of jurisdiction.
+b.
+The staff judge advocate shall take final action in any case reviewable by the staff judge
+advocate.
+5.
+In a case reviewable by the appropriate staff judge advocate under this section, the
+staff judge advocate may act only with respect to the findings and sentence as approved by
+the convening authority. The staff judge advocate may affirm only such findings of guilty,
+and the sentence or such part or amount of the sentence, as the staff judge advocate finds
+correct in law and fact and determines, on the basis of the entire record, should be approved.
+In consideration of the record, the staff judge advocate may weigh the evidence, judge the
+credibility of witnesses, and determine controverted questions of fact, recognizing that the
+trial court saw and heard the witnesses. If the staff judge advocate sets aside the findings
+and sentence, the staff judge advocate may, except where the setting aside is based on lack of
+sufficient evidence in the record to support the findings, order a rehearing. If the staff judge
+advocate sets aside the findings and sentence and does not order a rehearing, the staff judge
+advocate shall order that the charges be dismissed.
+6.
+In a case reviewable by the staff judge advocate under this section, the staff judge
+advocate shall instruct the convening authority to act in accordance with the decision on
+the review. If the staff judge advocate has ordered a rehearing but the convening authority
+finds a rehearing impracticable, the staff judge advocate may dismiss the charges.
+7.
+The staff judge advocate may order one or more boards of review each composed of
+not less than three commissioned officers of the state military forces, each of whom must
+be a member of the bar of the highest court of the state. Each board of review shall review
+the record of any trial by court-martial including a sentence to a dishonorable discharge,
+dismissal or confinement, referred to it by the staff judge advocate. Boards of review have
+the same authority on review as the staff judge advocate has under this section.
+[C66, 71, 73, 75, 77, 79, 81, §29B.65; 82 Acts, ch 1042, §38]
+2002 Acts, ch 1117, §48, 52; 2008 Acts, ch 1032, §201
+Referred to in §29B.60
+29B.66 Error of law — lesser included offenses.
+1.
+A finding or sentence of a court-martial may not be held incorrect on the ground of an
+error of law unless the error materially prejudices the substantial rights of the accused.
+2.
+Any reviewing authority with the power to approve or affirm a finding of guilty may
+approve or affirm so much of the finding as includes a lesser included offense.
+[C66, 71, 73, 75, 77, 79, 81, §29B.66]
+2019 Acts, ch 24, §104
+29B.67 Review counsel.
+1.
+Upon the final review of a sentence of a general court-martial or of a sentence
+to a dishonorable discharge, dismissal, or confinement, the accused has the right to be
+represented by counsel before the reviewing authority and before the appropriate staff judge
+advocate.
+2.
+Upon the request of an accused entitled to be so represented, the appropriate staff judge
+advocate shall appoint a lawyer who is a member of the state military forces and who has the
+qualifications prescribed in section 29B.28, if available, to represent the accused before the
+reviewing authority and before the appropriate staff judge advocate, in the review of cases
+specified in this section.
+3.
+If provided by the accused, an accused entitled to be so represented may be represented
+by civilian counsel before the reviewing authority and before the appropriate staff judge
+advocate.
+[C66, 71, 73, 75, 77, 79, 81, §29B.67; 82 Acts, ch 1042, §39]
+2002 Acts, ch 1117, §49, 52; 2017 Acts, ch 54, §76
+29B.68 Vacation of suspension.
+1.
+Before the vacation of the suspension of a special court-martial sentence which
+as approved includes a discharge under other than honorable conditions, a dismissal,
+or a confinement, or of any general court-martial sentence, the officer having special
+court-martial jurisdiction over the probationer shall hold a hearing on the alleged violation of
+probation. The probationer shall be represented at the hearing by counsel if the probationer
+so desires.
+2.
+The record of the hearing and the recommendation of the officer having special
+court-martial jurisdiction shall be sent for action to the adjutant general in cases involving a
+general court-martial sentence and to the commanding officer of the force of state military
+forces of which the probationer is a member in all other cases covered by this section. If the
+adjutant general or commanding officer vacates the suspension, any unexecuted part of the
+sentence except a dismissal shall be executed.
+3.
+The suspension of any other sentence may be vacated by any authority competent to
+convene, for the command in which the accused is serving or assigned, a court of the kind
+that imposed the sentence.
+[C66, 71, 73, 75, 77, 79, 81, §29B.68; 82 Acts, ch 1042, §40]
+2017 Acts, ch 54, §76
+29B.69 Petition for a new trial.
+At any time within two years after approval by the convening authority of a court-martial
+sentence which extends to dismissal, dishonorable or bad-conduct discharge, the accused
+may petition the governor for a new trial on ground of newly discovered evidence or fraud
+on the court-martial.
+[C66, 71, 73, 75, 77, 79, 81, §29B.69; 82 Acts, ch 1042, §41]
+Referred to in §29B.72
+29B.70 Remission or suspension.
+1.
+A convening authority may remit or suspend any part or amount of the unexecuted part
+of any sentence, including all uncollected forfeitures.
+2.
+The governor may, for good cause, substitute an administrative form of discharge for a
+discharge or dismissal executed in accordance with the sentence of a court-martial.
+[C66, 71, 73, 75, 77, 79, 81, §29B.70]
+2019 Acts, ch 24, §104
+29B.71 Restoration.
+1.
+Under such regulations as the adjutant general may prescribe, all rights, privileges, and
+property affected by an executed part of a court-martial sentence which has been set aside or
+disapproved, except an executed dismissal or discharge, shall be restored unless a new trial
+or rehearing is ordered and such executed part is included in a sentence imposed upon a new
+trial or rehearing.
+2.
+If a previously executed sentence of dishonorable or bad-conduct discharge is not
+imposed on a new trial, the adjutant general shall substitute therefor a form of discharge
+authorized for administrative issuance unless the accused is to serve out the remainder of
+the accused’s enlistment.
+3.
+If a previously executed sentence of dismissal is not imposed on a new trial, the
+adjutant general shall substitute therefor a form of discharge authorized for administrative
+issue, and the commissioned officer dismissed by that sentence may be reappointed by the
+governor alone to such commissioned grade and with such rank as in the opinion of the
+governor that former officer would have attained had the former officer not been dismissed.
+The reappointment of such a former officer may be made if a position vacancy is available
+under applicable tables of organization. All times between the dismissal and reappointment
+shall be considered as service for all purposes.
+[C66, 71, 73, 75, 77, 79, 81, §29B.71]
+2017 Acts, ch 54, §76
+29B.72 Finality of proceedings — findings and sentences.
+The proceedings, findings, and sentences of court-martial as reviewed and approved,
+as required by this code, and all dismissals and discharges carried into execution under
+sentences by courts-martial following review and approval, as required by this code, are
+final and conclusive. Orders publishing the proceedings are binding upon all departments,
+courts, agencies, and officers of the state, subject only to action upon a petition for a new
+trial as provided in section 29B.69.
+[C66, 71, 73, 75, 77, 79, 81, §29B.72]
+SUBCHAPTER X
+PUNITIVE ARTICLES
+29B.73 Persons to be tried or punished.
+A person shall not be tried or punished for any offense provided for in this code unless it
+was committed while the person was in a duty status or during a time when the person was
+under lawful orders to be in a duty status.
+[C66, 71, 73, 75, 77, 79, 81, §29B.73; 82 Acts, ch 1042, §42]
+29B.74 Principals.
+Any person subject to this code is a principal if the person does any of the following:
+1.
+Commits an offense punishable by this code, or aids, abets, counsels, commands, or
+procures its commission.
+2.
+Causes an act to be done which if directly performed by the person would be punishable
+by this code.
+[C66, 71, 73, 75, 77, 79, 81, §29B.74]
+2006 Acts, ch 1010, §20
+29B.75 Accessory after the fact.
+Any person subject to this code who, knowing that an offense punishable by this code has
+been committed, receives, comforts, or assists the offender in order to hinder or prevent the
+offender’s apprehension, trial or punishment shall be punished as a court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.75]
+29B.76 Conviction of lesser included offenses.
+An accused may be found guilty of an offense necessarily included in the offense charged or
+of an attempt to commit either the offense charged or an offense necessarily included therein.
+[C66, 71, 73, 75, 77, 79, 81, §29B.76]
+29B.77 Attempts.
+1.
+An act, done with specific intent to commit an offense under this code, amounting to
+more than mere preparation and tending, even though failing, to effect its commission, is an
+attempt to commit that offense.
+2.
+Any person subject to this code who attempts to commit any offense punishable by this
+code shall be punished as a court-martial may direct, unless otherwise specifically prescribed.
+3.
+Any person subject to this code may be convicted of an attempt to commit an offense
+although it appears on the trial that the offense was consummated.
+[C66, 71, 73, 75, 77, 79, 81, §29B.77]
+2017 Acts, ch 54, §76
+Referred to in §29B.16
+29B.78 Conspiracy.
+Any person subject to this code who conspires with any other person to commit an offense
+under this code shall, if one or more of the conspirators does an act to effect the object of the
+conspiracy, be punished as a court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.78]
+Referred to in §29B.16
+29B.79 Solicitation.
+1.
+Any person subject to this code who solicits or advises another or others to desert
+in violation of section 29B.82 or mutiny in violation of section 29B.91 shall, if the offense
+solicited or advised is attempted or committed, be punished with the punishment provided
+for the commission of the offense, but, if the offense solicited or advised is not committed or
+attempted, the person shall be punished as a court-martial may direct.
+2.
+Any person subject to this code who solicits or advises another or others to commit an
+act of misbehavior before the enemy in violation of section 29B.96 or sedition in violation
+of section 29B.91 shall, if the offense solicited or advised is committed, be punished with the
+punishment provided for the commission of the offense, but, if the offense solicited or advised
+is not committed, the person shall be punished as a court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.79]
+2019 Acts, ch 24, §104
+Referred to in §29B.16
+29B.80 Fraudulent enlistment — appointment or separation.
+Any person shall be punished as a court-martial may direct if the person does any of the
+following:
+1.
+Procures the person’s own enlistment or appointment in the state military forces by
+knowingly false representation or deliberate concealment as to the person’s qualifications
+for that enlistment or appointment and receives pay or allowances thereunder.
+2.
+Procures the person’s own separation from the state military forces by knowingly false
+representation or deliberate concealment as to the person’s eligibility for that separation.
+[C97, §2196 – 2198; SS15, §2215-f63; C24, 27, 31, §464; C35, §467-f59; C39, §467.61; C46,
+50, §29.61; C54, 58, 62, §29.63(1); C66, 71, 73, 75, 77, 79, 81, §29B.80]
+2006 Acts, ch 1010, §21
+Referred to in §29B.16
+29B.81 Unlawful enlistment — appointment or separation.
+Any person subject to this code who effects an enlistment or appointment in or a separation
+from the state military forces of any person who is known to the person subject to this code to
+be ineligible for that enlistment, appointment, or separation because it is prohibited by law,
+regulation, or order shall be punished as a court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.81]
+Referred to in §29B.16
+29B.82 Desertion.
+1.
+Any member of the state military forces who does any of the following is guilty of
+desertion:
+a.
+Without authority goes or remains absent from the member’s unit, organization, or
+place of duty with intent to remain away therefrom permanently.
+b.
+Quits the member’s unit, organization or place of duty with intent to avoid hazardous
+duty or to shirk important services.
+c.
+Without being regularly separated from one of the state military forces enlists or accepts
+an appointment in the same or another one of the state military forces, or in one of the armed
+forces of the United States, without duly disclosing the fact that the member has not been
+regularly separated.
+2.
+Any commissioned officer of the state military forces who, after tender of the officer’s
+resignation and before notice of its acceptance, quits a post or proper duties without leave
+and with intent to remain away therefrom permanently is guilty of desertion.
+3.
+Any person found guilty of desertion or attempt to desert shall be punished as a
+court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.82]
+2005 Acts, ch 3, §17
+Referred to in §29B.16, 29B.79
+29B.83 Absence without leave.
+Any person subject to this code shall be punished as a court-martial may direct if the person
+without authority does any of the following:
+1.
+Fails to go to the person’s appointed place of duty at the time prescribed.
+2.
+Goes from that place.
+3.
+Leaves or remains absent from the unit, organization, or place of duty at which the
+person is required to be at the time prescribed.
+[C97, §2196 – 2198; SS15, §2215-f63; C24, 27, 31, §464; C35, §467-f59; C39, §467.61; C46,
+50, §29.61; C54, 58, 62, §29.63(3); C66, 71, 73, 75, 77, 79, 81, §29B.83]
+2006 Acts, ch 1010, §22
+Referred to in §29B.16
+29B.84 Missing movement.
+Any person subject to this code who through neglect or design misses the movement of a
+ship, aircraft, or unit with which the person is required in the course of duty to move shall be
+punished as a court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.84]
+Referred to in §29B.16
+29B.85 Contempt toward officials.
+Any person subject to this code who uses contemptuous words against the president, the
+governor, or the governor of any other state, territory, commonwealth, or possession in which
+that person may be serving, shall be punished as a court-martial may direct.
+[C97, §2196 – 2198; SS15, §2215-f63; C24, 27, 31, §464; C35, §467-f59; C39, §467.61; C46,
+50, §29.61; C54, 58, 62, §29.63(4); C66, 71, 73, 75, 77, 79, 81, §29B.85]
+Referred to in §29B.16
+29B.86 Disrespect toward superior commissioned officer.
+Any person subject to this code who behaves with disrespect toward the person’s superior
+commissioned officer shall be punished as a court-martial may direct.
+[C97, §2196 – 2198; SS15, §2215-f63; C24, 27, 31, §464; C35, §467-f59; C39, §467.61; C46,
+50, §29.61; C54, 58, 62, §29.63(5); C66, 71, 73, 75, 77, 79, 81, §29B.86]
+Referred to in §29B.16
+29B.87 Assaulting or willfully disobeying superior commissioned officer.
+Any person subject to this code shall be punished as a court-martial may direct if the person
+does any of the following:
+1.
+Strikes the person’s superior commissioned officer or draws or lifts up any weapon
+or offers any violence against the superior commissioned officer while the superior
+commissioned officer is in the execution of the officer’s office.
+2.
+Willfully disobeys a lawful command of the person’s superior commissioned officer.
+[C97, §2196 – 2198; SS15, §2215-f63; C24, 27, 31, §464; C35, §467-f59; C39, §467.61; C46,
+50, §29.61; C54, 58, 62, §29.63(6); C66, 71, 73, 75, 77, 79, 81, §29B.87]
+2006 Acts, ch 1010, §23
+Referred to in §29B.16
+29B.88 Insubordinate conduct toward warrant officer, noncommissioned officer, or petty
+officer.
+Any warrant officer or enlisted member shall be punished as a court-martial may direct if
+the person does any of the following:
+1.
+Strikes or assaults a warrant officer, noncommissioned officer, or petty officer, while
+that officer is in the execution of the officer’s office.
+2.
+Willfully disobeys the lawful order of a warrant officer, noncommissioned officer, or
+petty officer.
+3.
+Treats with contempt or is disrespectful in language or deportment toward a warrant
+officer, noncommissioned officer, or petty officer, while that officer is in the execution of the
+officer’s office.
+[C97, §2196 – 2198; SS15, §2215-f63; C24, 27, 31, §464; C35, §467-f59; C39, §467.61; C46,
+50, §29.61; C54, 58, 62, §29.63(7); C66, 71, 73, 75, 77, 79, 81, §29B.88]
+2006 Acts, ch 1010, §24
+Referred to in §29B.16
+29B.89 Failure to obey order or regulation.
+Any person subject to this code shall be punished as a court-martial may direct if the person
+does any of the following:
+1.
+Violates or fails to obey any lawful general order or regulation.
+2.
+Having knowledge of any other lawful order issued by a member of the state military
+forces which it is the person’s duty to obey, fails to obey the order.
+3.
+Is derelict in the performance of the person’s duties.
+[C66, 71, 73, 75, 77, 79, 81, §29B.89]
+2006 Acts, ch 1010, §25
+Referred to in §29B.16
+29B.90 Cruelty and maltreatment.
+Any person subject to this code who is guilty of cruelty toward, or oppression or
+maltreatment of, any person subject to orders of the person subject to this code shall be
+punished as a court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.90]
+Referred to in §29B.16
+29B.90A Interference with report of a crime to civilian law enforcement.
+Any person subject to this code shall be punished as a court-martial may direct if the person
+does any of the following:
+1.
+Interferes with or reprises against any member of the state military forces who has
+indicated the intent to make or who has made a report to civilian law enforcement of a crime
+listed in section 29B.116A, subsection 1, where the accused and the victim are subject to this
+code at the time of the offense.
+2.
+Fails to cooperate with or obstructs a civilian law enforcement investigation based upon
+a report in subsection 1.
+2014 Acts, ch 1069, §2
+Referred to in §29B.16
+29B.91 Mutiny or sedition.
+1.
+Any person subject to this code who:
+a.
+With intent to usurp or override lawful military authority refuses, in concert with any
+other person, to obey orders or otherwise do the person’s duty or creates any violence or
+disturbance against that authority is guilty of mutiny;
+b.
+With intent to cause the overthrow or destruction of lawful civil authority, creates, in
+concert with any other person, revolt, violence, or other disturbance against that authority is
+guilty of sedition;
+c.
+Fails to do the person’s utmost to prevent and suppress a mutiny or sedition being
+committed in the person’s presence, or fails to take all reasonable means to inform the
+person’s superior commissioned officer or commanding officer of a mutiny or sedition which
+the person knows or has reason to believe is taking place, is guilty of a failure to suppress
+or report a mutiny or sedition.
+2.
+A person who is found guilty of attempted mutiny, mutiny, sedition, or failure to
+suppress or report a mutiny or sedition shall be punished as a court-martial may direct.
+[C97, §2196 – 2198; SS15, §2215-f63; C24, 27, 31, §464; C35, §467-f59; C39, §467.61; C46,
+50, §29.61; C54, 58, 62, §29.63(8); C66, 71, 73, 75, 77, 79, 81, §29B.91]
+2008 Acts, ch 1032, §201
+Referred to in §29B.16, 29B.79
+29B.92 Resistance, breach of arrest and escape.
+Any person subject to this code who resists apprehension or breaks arrest or who escapes
+from physical restraint lawfully imposed shall be punished as a court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.92]
+Referred to in §29B.16
+29B.93 Releasing prisoner without proper authority.
+Any person subject to this code who, without proper authority, releases any prisoner
+committed to the person’s charge, or who through neglect or design suffers any such
+prisoner to escape, shall be punished as a court-martial may direct, whether or not the
+prisoner was committed in strict compliance with law.
+[C97, §2196 – 2198; SS15, §2215-f63; C24, 27, 31, §464; C35, §467-f59; C39, §467.61; C46,
+50, §29.61; C54, 58, 62, §29.63(9); C66, 71, 73, 75, 77, 79, 81, §29B.93]
+Referred to in §29B.16
+29B.94 Unlawful detention of another.
+Any person subject to this code who, except as provided by law or regulation, apprehends,
+arrests, or confines any person shall be punished as a court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.94]
+Referred to in §29B.16
+29B.95 Noncompliance with procedural rules.
+Any person subject to this code shall be punished as a court-martial may direct if the person
+does any of the following:
+1.
+Is responsible for unnecessary delay in the disposition of any case of a person accused
+of an offense under this code.
+2.
+Knowingly and intentionally fails to enforce or comply with any provisions of this code
+regulating the proceedings before, during, or after trial of an accused.
+[C66, 71, 73, 75, 77, 79, 81, §29B.95]
+2006 Acts, ch 1010, §26
+Referred to in §29B.16
+29B.96 Misbehavior before the enemy.
+Any person subject to this code shall be punished as a court-martial may direct if the person,
+before or in the presence of the enemy, does any of the following:
+1.
+Runs away.
+2.
+Shamefully abandons, surrenders, or delivers up any command, unit, place, or military
+property which it is the person’s duty to defend.
+3.
+Through disobedience, neglect, or intentional misconduct endangers the safety of any
+such command, unit, place, or military property.
+4.
+Casts away the person’s arms or ammunition.
+5.
+Is guilty of cowardly conduct.
+6.
+Quits the person’s place of duty to plunder or pillage.
+7.
+Causes false alarms in any command, unit, or place under control of the armed forces
+of the United States or the state military forces.
+8.
+Willfully fails to do the person’s utmost to encounter, engage, capture, or destroy any
+enemy troops, combatants, vessels, aircraft, or any other thing, which it is the person’s duty
+so to encounter, engage, capture or destroy.
+9.
+Does not afford all practicable relief and assistance to any troops, combatants, vessels,
+or aircraft of the armed forces belonging to the United States or their allies, to the state, or
+to any other state, when engaged in battle.
+[C66, 71, 73, 75, 77, 79, 81, §29B.96]
+2006 Acts, ch 1010, §27
+Referred to in §29B.16, 29B.79
+29B.97 Subordinate compelling surrender.
+A person subject to this code who compels or attempts to compel the commander of any
+place, vessel, aircraft, or other military property or any body of the state military forces, or
+of any other state, to surrender the place, property, or forces to an enemy or to abandon
+the place, property, or forces, or who strikes the colors or flag to an enemy without proper
+authority, shall be punished as a court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.97; 82 Acts, ch 1042, §43]
+Referred to in §29B.16
+29B.98 Improper use of countersign.
+Any person subject to this code who in time of war discloses the parole or countersign
+to any person not entitled to receive it, or who gives to another who is entitled to receive
+and use the parole or countersign a different parole or countersign from that which, to the
+person’s knowledge, the person was authorized and required to give, shall be punished as a
+court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.98]
+Referred to in §29B.16
+29B.99 Forcing a safeguard.
+Any person subject to this code who forces a safeguard shall be punished as a court-martial
+may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.99]
+Referred to in §29B.16
+29B.100 Captured or abandoned property.
+1.
+All persons subject to this code shall secure all public property taken from the enemy
+for the service of the United States, and shall give notice and turn over to the proper authority
+without delay all captured or abandoned property in their possession, custody, or control.
+2.
+Any person subject to this code shall be punished as a court-martial may direct if the
+person does any of the following:
+a.
+Fails to carry out the duties prescribed herein.
+b.
+Buys, sells, trades, or in any way deals in or disposes of captured or abandoned
+property, whereby the person receives or expects any profit, benefit, or advantage to the
+person or another directly or indirectly connected with the person.
+c.
+Engages in looting or pillaging.
+[C66, 71, 73, 75, 77, 79, 81, §29B.100]
+2006 Acts, ch 1030, §9
+Referred to in §29B.16
+29B.101 Aiding the enemy.
+Any person subject to this code shall be punished as a court-martial may direct if the person
+does any of the following:
+1.
+Aids, or attempts to aid, the enemy with arms, ammunition, supplies, money, or other
+things.
+2.
+Without proper authority, knowingly harbors or protects or gives intelligence to, or
+communicates or corresponds with or holds any intercourse with the enemy, either directly
+or indirectly.
+[C66, 71, 73, 75, 77, 79, 81, §29B.101]
+2006 Acts, ch 1010, §28
+Referred to in §29B.16
+29B.102 Misconduct of a prisoner.
+Any person subject to this code shall be punished as a court-martial may direct if the person,
+while in the hands of the enemy in time of war, does any of the following:
+1.
+For the purpose of securing favorable treatment by the captors acts without proper
+authority in a manner contrary to law, custom, or regulation, to the detriment of others of
+whatever nationality held by the enemy as civilian or military prisoners.
+2.
+While in a position of authority over such persons maltreats them without justifiable
+cause.
+[C66, 71, 73, 75, 77, 79, 81, §29B.102]
+2006 Acts, ch 1010, §29
+Referred to in §29B.16
+29B.103 False official statements — forgery.
+1.
+A person subject to this code who, with intent to deceive, signs any false record, return,
+regulation, order, or other official document, knowing it to be false, or makes any other false
+official statement knowing it to be false, shall be punished as a court-martial may direct.
+2.
+A person subject to this code who with intent to defraud does either or both of the
+following is guilty of forgery and shall be punished as a court-martial may direct:
+a.
+Falsely makes or alters a signature to, or a part of, a writing which would if genuine
+apparently impose a legal liability on another or change the person’s legal right or prejudice
+the person’s liability.
+b.
+Utters, offers, issues, or transfers written material the person knows is falsely made or
+altered.
+[C97, §2196 – 2198; SS15, §2215-f63; C24, 27, 31, §464; C35, §467-f59; C39, §467.61; C46,
+50, §29.61; C54, 58, 62, §29.63(2); C66, 71, 73, 75, 77, 79, 81, §29B.103; 82 Acts, ch 1042, §44]
+Referred to in §29B.16
+29B.104 Property crimes.
+1.
+A person subject to this code who, while in a duty status, willfully or recklessly wastes,
+spoils, or otherwise willfully and wrongfully destroys or damages property other than military
+property of the United States or of the state shall be punished as a court-martial may direct.
+2.
+A person subject to this code who without proper authority sells or otherwise disposes
+of or who willfully or through neglect damages, destroys, or loses or who causes willfully or
+through neglect the damage, destruction, sale, or wrongful disposition of military property
+of the United States or the state shall be punished as a court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.104; 82 Acts, ch 1042, §45]
+Referred to in §29B.16
+29B.105 Improper hazarding of vessel.
+1.
+Any person subject to this code who willfully and wrongfully hazards or suffers to be
+hazarded any vessel of the armed forces of the United States or of the state military forces
+shall be punished as a court-martial may direct.
+2.
+Any person subject to this code who negligently hazards or suffers to be hazarded any
+vessel of the armed forces of the United States or of the state military forces shall be punished
+as a court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.105]
+2019 Acts, ch 24, §104
+Referred to in §29B.16
+29B.106 Drunken or reckless driving.
+Any person subject to this code who operates any vehicle while under the influence of an
+alcoholic beverage, a narcotic, hypnotic or other drug, or any combination of such substances,
+or in a reckless or wanton manner, shall be punished as a court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.106]
+Referred to in §29B.16
+For operating while intoxicated provisions, see chapter 321J
+29B.107 Drunk on duty — sleeping on post — leaving post before relief.
+Any person subject to this code who is found drunk on duty or sleeping upon the person’s
+post, or who leaves the person’s post before the person is regularly relieved, shall be punished
+as a court-martial may direct.
+[C97, §2196 – 2198; SS15, §2215-f63; C24, 27, 31, §464; C35, §467-f59; C39, §467.61; C46,
+50, §29.61; C54, 58, 62, §29.63(10); C66, 71, 73, 75, 77, 79, 81, §29B.107]
+Referred to in §29B.16
+29B.107A Wrongful use or possession of controlled substances.
+1.
+Any person subject to this code who wrongfully uses, possesses, manufactures,
+distributes, or introduces into an installation, vessel, vehicle, or aircraft used by or under the
+control of the armed forces of the United States or of the state military forces, a controlled
+substance shall be punished as a court-martial may direct.
+2.
+For purposes of this section, “controlled substance” includes but is not limited to any
+of the following:
+a.
+Opium, heroin, cocaine, amphetamine, lysergic acid diethylamide, methamphetamine,
+phencyclidine, barbituric acid, and marijuana and any compound or derivative of any such
+substance.
+b.
+Any substance listed on a schedule of controlled substances prescribed by the president
+of the United States for the purposes of the uniform code of military justice, 10 U.S.C. ch. 47.
+c.
+Any substance listed in schedules I through V of section 202 of the federal Controlled
+Substances Act, 21 U.S.C. §812.
+3.
+Notwithstanding subsection 2, “controlled substance” does not include hemp or a hemp
+product excluded from schedule I of controlled substances as provided in section 124.204,
+subsection 7.
+2010 Acts, ch 1087, §4; 2019 Acts, ch 130, §20, 33
+Referred to in §29B.16
+29B.108 Dueling.
+Any person subject to this code who fights or promotes, or is concerned in or connives at
+fighting a duel, or who, having knowledge of a challenge sent or about to be sent, fails to
+report the fact promptly to the proper authority, shall be punished as a court-martial may
+direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.108]
+Referred to in §29B.16
+29B.109 Malingering.
+Any person subject to this code shall be punished as a court-martial may direct if the person
+for the purpose of avoiding work, duty, or service in the state military forces does any of the
+following:
+1.
+Feigns illness, physical disablement, mental lapse, or derangement.
+2.
+Intentionally inflicts self-injury.
+[C66, 71, 73, 75, 77, 79, 81, §29B.109]
+2006 Acts, ch 1010, §30
+Referred to in §29B.16
+29B.110 Riot or breach of peace.
+Any person subject to this code who causes or participates in any riot or breach of the peace
+shall be punished as a court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.110]
+Referred to in §29B.16
+29B.111 Provoking speeches or gestures.
+Any person subject to this code who uses provoking or reproachful words or gestures
+toward any other person subject to this code shall be punished as a court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.111]
+Referred to in §29B.16
+29B.112 Perjury.
+Any person subject to this code who in a judicial proceeding or in a court of justice
+conducted under this code willfully and corruptly gives, upon a lawful oath or in any form
+allowed by law to be substituted for an oath, any false testimony material to the issue or
+matter of inquiry is guilty of perjury and shall be punished as a court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.112]
+Referred to in §29B.16
+29B.113 Frauds against the government.
+Any person subject to this code shall, upon conviction of any of the following, be punished
+as a court-martial may direct:
+1.
+The person, knowing it to be false or fraudulent, does any of the following:
+a.
+Makes any claim against the United States, the state, or any officer thereof.
+b.
+Presents to any person in the civil or military service thereof, for approval or payment
+any claim against the United States, the state, or any officer thereof.
+2.
+The person, for the purpose of obtaining the approval, allowance, or payment of any
+claim against the United States, the state, or any officer thereof, does any of the following:
+a.
+Makes or uses any writing or other paper knowing it to contain any false or fraudulent
+statements.
+b.
+Makes any oath to any fact or to any writing or other paper knowing the oath to be
+false.
+c.
+Forges or counterfeits any signature upon any writing or other paper, or uses any such
+signature knowing it to be forged or counterfeited.
+3.
+The person, having charge, possession, custody, or control of any money, or other
+property of the United States or the state, furnished or intended for the armed forces of the
+United States or the state military forces, knowingly delivers to any person having authority
+to receive it, any amount thereof less than that for which the person receives a certificate
+or receipt.
+4.
+The person, being authorized to make or deliver any paper certifying the receipt of
+any property of the United States or the state, furnished or intended for the armed forces of
+the United States or the state military forces, makes or delivers to any person such writing
+without having full knowledge of the truth of the statements therein contained and with intent
+to defraud the United States or the state.
+[C97, §2196 – 2198; SS15, §2215-f63; C24, 27, 31, §464; C35, §467-f59; C39, §467.61; C46,
+50, §29.61; C54, 58, 62, §29.63(13); C66, 71, 73, 75, 77, 79, 81, §29B.113]
+2006 Acts, ch 1010, §31
+Referred to in §29B.16
+29B.114 Larceny and wrongful appropriation.
+1.
+Any person subject to this code who wrongfully takes, obtains, or withholds, by any
+means, from the possession of the owner or of any other person any money, personal property,
+or article of value of any kind:
+a.
+With intent permanently to deprive or defraud another person of the use and benefit of
+property or to appropriate it to the person’s own use or the use of any person other than the
+owner, steals that property and is guilty of larceny; or
+b.
+With intent temporarily to deprive or defraud another person of the use and benefit of
+property or to appropriate it to the person’s own use or the use of any person other than the
+owner, is guilty of wrongful appropriation.
+2.
+Any person found guilty of larceny or wrongful appropriation shall be punished as a
+court-martial may direct.
+[C66, 71, 73, 75, 77, 79, 81, §29B.114]
+2006 Acts, ch 1010, §32
+Referred to in §29B.16
+29B.115 Conduct unbecoming an officer.
+A commissioned officer who is convicted of conduct unbecoming an officer shall be
+punished as a court-martial directs.
+[C97, §2196 – 2198; SS15, §2215-f63; C24, 27, 31, §464; C35, §467-f59; C39, §467.61; C46,
+50, §29.61; C54, 58, 62, §29.63(11); C66, 71, 73, 75, 77, 79, 81, §29B.115]
+85 Acts, ch 67, §7
+Referred to in §29B.16
+29B.116 General article.
+Though not specifically mentioned in this code, and subject to section 29B.116A, all
+disorders and neglects to the prejudice of good order and discipline in the state military
+forces and all conduct of a nature to bring discredit upon the state military forces, of which
+persons subject to this code may be guilty, shall be taken cognizance of by a general, special,
+or summary court-martial, according to the nature and degree of the offense, and shall be
+punished at the discretion of that court.
+[C97, §2196 – 2198; SS15, §2215-f63; C24, 27, 31, §464; C35, §467-f59; C39, §467.61; C46,
+50, §29.61; C54, 58, 62, §29.63(12); C66, 71, 73, 75, 77, 79, 81, §29B.116; 82 Acts, ch 1042, §46]
+2000 Acts, ch 1154, §45; 2002 Acts, ch 1117, §50, 52; 2014 Acts, ch 1069, §3; 2015 Acts, ch
+30, §29
+Referred to in §29B.16
+SUBCHAPTER XI
+MISCELLANEOUS PROVISIONS
+29B.116A Jurisdiction of offenses by civilian courts and notification of civilian
+authorities.
+1. a.
+Jurisdiction under this code shall not be extended to the crimes of murder,
+manslaughter, sexual abuse, robbery, arson, extortion, assault, or burglary, jurisdiction of
+which is reserved exclusively to civilian courts.
+b.
+The term “civilian criminal offenses” includes all offenses not defined in this code.
+Primary jurisdiction over civilian criminal offenses shall be with civilian courts, even when
+committed by a member of the state military forces while subject to this code.
+c.
+Where a civilian criminal offense and a military offense defined in this code may be
+charged based on the same event, concurrent civilian and military jurisdiction shall exist.
+2. a.
+A commander, who is made aware of an allegation that an offense under subsection
+1, paragraph “a” or “b”, has been committed by a member of the state military forces against
+another member of the state military forces while both are subject to this code, shall notify,
+without delay, the civilian law enforcement agency having primary jurisdiction over the
+alleged offense. Upon notification, the agency shall promptly assign a case number to the
+allegation and shall share with the national guard the results of any investigation or inform
+the national guard of the reasons for not conducting an investigation.
+b. (1)
+Regarding an allegation of sexual abuse, the commander shall provide the person
+making the allegation with written notice of the person’s right to notify local civilian law
+enforcement authorities independently, as described in subsection 3. The written notice shall
+include contact information for an appropriate civilian law enforcement authority.
+(2)
+Regarding an allegation of sexual abuse, the commander’s obligation to notify
+under paragraph “a” shall not apply to an allegation that is a restricted report, as that term
+is defined in federal military regulations.
+The commander’s obligation to notify under
+paragraph “a” shall apply to an allegation of sexual abuse that is an unrestricted report, as
+that term is defined in federal military regulations. The commander’s written notification
+under subparagraph (1) shall inform the person making an allegation of sexual abuse that if
+the person consents to making an unrestricted report that the person is thereby consenting
+to the commander notifying an appropriate civilian law enforcement authority so that such
+an authority may initiate an investigation or collect evidence.
+The commander’s written
+notification under subparagraph (1) shall also inform the person making the allegation that
+if the person consents to making an unrestricted report that the person is not required to
+speak with civilian law enforcement investigators or otherwise participate in an investigation
+by a civilian law enforcement authority.
+3.
+Members of the state military forces who are victims of offenses described in subsection
+1 retain the right to notify local civilian law enforcement authorities independently.
+2014 Acts, ch 1069, §4; 2018 Acts, ch 1031, §2
+Referred to in §29B.90A, 29B.116, 29B.116B, 803.1
+29B.116B Adjutant general report.
+1.
+The adjutant general shall report annually, by January 15, to the governor and to
+the chairpersons and ranking members of the general assembly’s standing committees on
+veterans affairs on the number of offenses described in section 29B.116A, subsection 1,
+which have been reported to civilian law enforcement authorities in the prior year, if such
+offenses were committed by a member of the state military forces against another member
+of the state military forces while both are subject to this code. The report shall provide such
+numbers by type of offense.
+2.
+The adjutant general may include in the annual report described in subsection 1 the
+number of sexual abuse cases reported to the United States department of defense that are
+not otherwise required to be included in the annual report pursuant to subsection 1.
+2014 Acts, ch 1069, §5; 2015 Acts, ch 30, §30; 2021 Acts, ch 65, §3
+29B.117 Courts of inquiry.
+1. a.
+Courts of inquiry to investigate any matter may be convened by the adjutant general,
+the governor, or by any other person designated by the adjutant general or authorized to
+convene a general court-martial for that purpose, whether or not the persons involved have
+requested the inquiry.
+b.
+A court of inquiry consists of three or more commissioned officers. For each court of
+inquiry the convening authority shall also appoint counsel for the court.
+2.
+Any person subject to this code whose conduct is subject to inquiry shall be designated
+as a party. Any person subject to this code who has a direct interest in the subject of inquiry
+has the right to be designated as a party upon request to the court. Any person designated as
+a party shall be given due notice and has the right to be present, to be represented by counsel,
+to cross-examine witnesses, and to introduce evidence.
+3. a.
+Members of a court of inquiry may be challenged by a party, but only for cause stated
+to the court.
+b.
+The members, counsel, the reporter, and interpreters of courts of inquiry shall take an
+oath or affirmation to faithfully perform their duties.
+c.
+Witnesses may be summoned to appear and testify and be examined before courts of
+inquiry, as provided for courts-martial.
+d.
+Courts of inquiry shall make findings of fact but may not express opinions or make
+recommendations unless required to do so by the convening authority.
+e.
+Each court of inquiry shall keep a record of its proceedings, which shall be
+authenticated by the signatures of the president and counsel for the court and forwarded to
+the convening authority. If the record cannot be authenticated by the president, it shall be
+signed by a member in lieu of the president. If the record cannot be authenticated by the
+counsel for the court, it shall be signed by a member in lieu of the counsel.
+[C97, §2196 – 2198; SS15, §2215-f36; C24, 27, 31, §464; C35, §467-f32; C39, §467.34; C46,
+50, §29.34; C54, 58, 62, §29.70; C66, 71, 73, 75, 77, 79, 81, §29B.117; 82 Acts, ch 1042, §47]
+2008 Acts, ch 1032, §142
+29B.118 Complaints or wrongs.
+Any member of the state military forces who feels wronged by the member’s commanding
+officer, and who, upon due application to that commanding officer, is refused redress, may
+complain to any superior commissioned officer, who shall forward the complaint to the
+governor or adjutant general.
+[C66, 71, 73, 75, 77, 79, 81, §29B.118]
+29B.119 Redress of injuries to property.
+1.
+Whenever complaint is made to any commanding officer that willful damage has been
+done to the property of any person or that the person’s property has been wrongfully taken
+by members of the state military forces, the person may, subject to such regulations as the
+adjutant general may prescribe, convene a board to investigate the complaint. The board shall
+consist of from one to three commissioned officers and, for the purpose of that investigation,
+it has power to summon witnesses and examine them upon oath or affirmation, to receive
+depositions or other documentary evidence, and to assess the damages sustained against the
+responsible parties. The assessment of damages made by the board is subject to the approval
+of the commanding officer, and in the amount approved shall be charged against the pay
+of the offenders. The order of the commanding officer directing charges authorized in this
+section is conclusive, except as provided in this chapter, on any disbursement officer for the
+payment by the officer to the injured parties of the damages so assessed and approved.
+2.
+Any person subject to this code who is accused of causing willful damage to property
+has the right to be represented by counsel, to summon witnesses in the person’s behalf, and
+to cross-examine those appearing against the person. The person has the right of appeal to
+the next higher commander.
+[C66, 71, 73, 75, 77, 79, 81, §29B.119]
+2019 Acts, ch 24, §104; 2020 Acts, ch 1063, §19
+29B.120 Process of military courts.
+1.
+Military courts may issue any process or mandate necessary to carry into effect their
+powers.
+Such a court may issue subpoenas and subpoenas duces tecum and enforce by
+attachment attendance of witnesses and production of books and records, when it is sitting
+within the state and the witnesses, books and records sought are also so located.
+2.
+Process and mandates may be issued by summary courts-martial, provost courts, a
+military judge, or the president of other military courts and may be directed to and executed
+by the marshals of the military court or any peace officer. Process and mandates shall be in
+a form prescribed by rules issued under this code.
+3.
+All officers to whom process or mandates may be so directed shall execute them and
+make return of their acts thereunder according to the requirements of those documents.
+Except as otherwise specifically provided in this code, no such officer may demand or require
+payment of any fee or charge for receiving, executing, or returning such a process or mandate
+or for any service in connection therewith.
+[C35, §467-f34; C39, §467.36; C46, 50, §29.36; C54, 58, 62, §29.77; C66, 71, 73, 75, 77, 79,
+81, §29B.120; 82 Acts, ch 1042, §48]
+2017 Acts, ch 54, §76
+29B.121 through 29B.124
+Reserved.
+29B.125 Immunity for action of military courts.
+An accused shall not bring an action or proceeding against the convening authority or a
+member of a military court or board convened under this code or a person acting under its
+authority or reviewing its proceedings because of the approval, imposition, or execution of
+any sentence or the imposition or collection of a fine or penalty, or the execution of any
+process or mandate of a military court or board convened under this code.
+[82 Acts, ch 1042, §50]
+29B.126 Payment and disposition of fines.
+Fines imposed by a military court may be paid to the court or to an officer executing its
+process. The amount of the fine may be noted upon any state payroll or pay account and fines
+may be deducted from any pay or allowance due or thereafter to become due to the offender,
+until the fine is collected. Any sum so deducted shall be turned into the military court that
+imposed the fine. An officer collecting a fine or penalty imposed by a military court upon an
+officer or enlisted person shall pay the fine within thirty days to the judge advocate, who shall
+transmit the fine to the adjutant general. The adjutant general shall monthly, deposit all fines
+and penalties so received with the state treasurer, to be credited to the general fund of the
+state. Forfeited bonds shall be processed in the same manner.
+[82 Acts, ch 1042, §51]
+29B.127 Presumption of jurisdiction.
+The jurisdiction of the military courts and boards established by this code shall be
+presumed and the burden of proof rests on any person seeking to deny those courts or
+boards jurisdiction in any action or proceeding.
+[82 Acts, ch 1042, §52]
+29B.128 Delegation of authority by the governor.
+The governor may delegate any authority vested in the governor under this code, and may
+provide for the subdelegation of any such authority, except the power given to the governor
+by sections 29B.19 and 29B.23.
+[82 Acts, ch 1042, §53]
+29B.129 Authority to administer oaths.
+The following members of the state military forces may administer oaths for the purposes
+of military administration including military justice, and affidavits may be taken for those
+purposes before persons having the general powers of a notary public as provided in chapter
+9B:
+1.
+All summary courts-martial.
+2.
+Adjutants, assistant adjutants, acting adjutants, and personnel adjutants.
+3.
+Commanding officers.
+4.
+Staff judge advocates and legal officers, and acting or assistant staff judge advocates
+and legal officers.
+5.
+The president, military judge, trial counsel, and assistant trial counsel for general and
+special courts-martial.
+6.
+The president and the counsel for the court of any court of inquiry.
+7.
+Officers designated to take a deposition.
+8.
+Persons detailed to conduct an investigation.
+9.
+Other persons designated by state law or by rules of the governor.
+[82 Acts, ch 1042, §54]
+2002 Acts, ch 1117, §51, 52; 2012 Acts, ch 1050, §33, 60
+29B.130 Uniformity of interpretation.
+This code shall be construed as to effectuate the general purpose of uniformity, so far as
+practical, with the uniform code of military justice, 10 U.S.C. ch. 47.
+2010 Acts, ch 1087, §5
+SUBTITLE 12
+EMERGENCY CONTROL
