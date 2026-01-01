@@ -1,0 +1,462 @@
+CHAPTER 423F
+STATEWIDE SCHOOL INFRASTRUCTURE FUNDING
+Referred to in §76.4, 256.9, 291.10
+Chapter to be repealed January 1, 2051; see §423F.6
+423F.1
+Legislative intent.
+423F.2
+Secure an advanced vision for
+education fund creation and
+distribution — repeal of local
+sales and services taxes.
+423F.3
+Use of revenues.
+423F.4
+Borrowing authority for school
+districts.
+423F.5
+Contents of financial audit.
+423F.6
+Repeal.
+423F.1 Legislative intent.
+It is the intent of the general assembly that the increase in the state sales, services, and use
+taxes under chapter 423, subchapters II and III, from five percent to six percent on July 1,
+2008, shall be used solely for purposes of providing revenues to local school districts under
+this chapter to be used solely for school infrastructure purposes or school district property
+tax relief.
+2008 Acts, ch 1134, §27
+423F.2 Secure an advanced vision for education fund creation and distribution — repeal
+of local sales and services taxes.
+1. a.
+After July 1, 2008, all local sales and services taxes for school infrastructure purposes
+imposed under chapter 423E, Code 2023, are repealed. After July 1, 2008, a county no longer
+has the authority under chapter 423E, Code 2023, or any other provision of law to impose or
+to extend an existing local sales and services tax for school infrastructure purposes.
+b.
+The increase in the state sales, services, and use taxes under chapter 423, subchapters
+II and III, from five percent to six percent shall replace the repeal of the county’s local sales
+and services tax for school infrastructure purposes. The distribution of moneys in the secure
+an advanced vision for education fund and the use of the moneys for infrastructure purposes
+or property tax relief shall be as provided in this chapter.
+c.
+To the extent that any school district has issued bonds anticipating the proceeds of a
+local sales and services tax for school infrastructure purposes prior to July 1, 2008, the pledge
+of such tax receipts for the payment of principal and interest on such bonds shall be replaced
+by a pledge of its share of the revenues the school district receives under this section.
+2.
+A secure an advanced vision for education fund is created as a separate and distinct
+fund in the state treasury under the control of the department of revenue. Moneys in the
+fund include revenues credited to the fund pursuant to this chapter, appropriations made to
+the fund, and other moneys deposited into the fund. Subject to subsection 3, any amounts
+disbursed from the fund shall be utilized for school infrastructure purposes or property tax
+relief.
+3. a.
+The moneys available in a fiscal year in the secure an advanced vision for education
+fund shall be distributed by the department of revenue to each school district on a per pupil
+basis calculated using each school district’s budget enrollment, as defined in section 257.6,
+for that fiscal year.
+b. (1)
+Prior to distribution of moneys in the secure an advanced vision for education fund
+to school districts, an amount equal to the equity transfer amount for the fiscal year minus
+the foundation base transfer amount for the fiscal year shall be distributed and credited to
+the property tax equity and relief fund created in section 257.16A, an amount equal to the
+foundation base transfer amount shall be distributed and credited to the foundation base
+supplement fund created in section 257.16D, and an amount equal to the career academy
+transfer amount for the fiscal year shall be distributed and credited to the career academy
+fund created in section 257.51.
+(2)
+For purposes of this subsection, the equity transfer amount is determined by
+multiplying the equity transfer percentage by the amount of moneys available in the secure
+an advanced vision for education fund in the fiscal year.
+(a)
+For the fiscal year beginning July 1, 2018, the equity transfer percentage is two and
+one-tenth percent. For the fiscal year beginning July 1, 2019, the equity transfer percentage
+is three and one-tenth percent.
+(b)
+For each fiscal year beginning on or after July 1, 2020, the equity transfer percentage
+is equal to the equity transfer percentage for the immediately preceding fiscal year, unless
+the amount of moneys available in the secure an advanced vision for education fund in the
+immediately preceding fiscal year equals or exceeds one hundred two percent of the amount
+of moneys available in the fund for the fiscal year prior to the immediately preceding fiscal
+year, in which case the equity transfer percentage shall be the equity transfer percentage
+for the immediately preceding fiscal year plus one percent subject to the limitation in
+subparagraph division (c).
+(c)
+If the equity transfer percentage calculated under subparagraph division (b) exceeds
+thirty percent, the equity transfer percentage for that fiscal year shall be thirty percent.
+(3)
+For purposes of this subsection, the foundation base transfer amount for the fiscal year
+beginning July 1, 2019, is zero, and for each fiscal year beginning on or after July 1, 2020, the
+foundation base transfer amount equals the equity transfer amount for the fiscal year under
+subparagraph (2) minus the sum of the following:
+(a)
+Three and one-tenth percent of the amount of the moneys available in the secure an
+advanced vision for education fund in the fiscal year.
+(b)
+One-half of the product of the equity transfer percentage for the fiscal year minus
+three and one-tenth percent multiplied by the moneys available in the secure an advanced
+vision for education fund in the fiscal year.
+(4) (a)
+For purposes of this subsection, the career academy transfer amount for the fiscal
+year beginning July 1, 2019, is one million dollars.
+(b)
+For each fiscal year beginning on or after July 1, 2020, the career academy transfer
+amount is equal to the lesser of five million dollars or the amount of the career academy
+transfer amount for the immediately preceding fiscal year, unless the amount of moneys
+available in the secure an advanced vision for education fund in the immediately preceding
+fiscal year equals or exceeds one hundred two and one-half percent of the amount of moneys
+available in the fund for the fiscal year prior to the immediately preceding fiscal year, in which
+case the career academy transfer amount equals the lesser of five million dollars or the sum of
+the amount of the career academy transfer amount for the immediately preceding fiscal year
+plus one-half percent of the amount of moneys available in the secure an advanced vision for
+education fund in the fiscal year following the deposit of revenues in the property tax equity
+and relief fund and the foundation base supplement fund.
+4. a.
+The director of revenue by the last day of each month shall transfer to each school
+district the amount of tax moneys remitted to the department attributable to each school
+district from the preceding month.
+b.
+On or before August 15 of each fiscal year the director of revenue shall provide to each
+school district an estimate of the amount of tax moneys to be distributed to each school district
+for the current fiscal year.
+2008 Acts, ch 1134, §28; 2008 Acts, ch 1191, §72; 2013 Acts, ch 140, §134 – 136; 2019 Acts,
+ch 166, §11; 2022 Acts, ch 1138, §48 – 50
+Referred to in §257.51, 275.12, 275.29, 275.30, 292.1, 292.2, 423.2A, 423.43, 423F.4
+423F.3 Use of revenues.
+1.
+A school district receiving revenues from the secure an advanced vision for education
+fund under this chapter without a valid revenue purpose statement shall expend the revenues
+subject to subsections 2 and 3 for the following purposes:
+a.
+Reduction of bond levies under sections 298.18 and 298.18A and all other debt levies.
+b.
+Reduction of the regular and voter-approved physical plant and equipment levy under
+section 298.2.
+c.
+Reduction of the public educational and recreational levy under section 300.2.
+d.
+For any authorized infrastructure purpose of the school district as defined in subsection
+6.
+e.
+For the payment of principal and interest on bonds issued under sections 423E.5* and
+423F.4.
+2.
+A revenue purpose statement in existence for the expenditure of local sales and services
+tax for school infrastructure purposes imposed by a county pursuant to section 423E.2, Code
+Supplement 2007, prior to July 1, 2008, shall remain in effect until amended or extended. The
+board of directors of a school district may take action to adopt or amend a revenue purpose
+statement specifying the specific purposes for which the revenues received from the secure
+an advanced vision for education fund will be expended. If a school district is located in a
+county which has imposed a local sales and services tax for school infrastructure purposes
+prior to July 1, 2008, this action shall be taken before expending or anticipating revenues to
+be received after the unextended term of the tax unless the school district elects to adopt a
+revenue purpose statement as provided in subsection 3.
+3. a.
+If the board of directors adopts a resolution to use funds received under the operation
+of this chapter solely for providing property tax relief by reducing indebtedness from the
+levies specified under section 298.2 or 298.18, or for radon testing pursuant to section 280.32,
+the board of directors may approve a revenue purpose statement for that purpose without
+submitting the revenue purpose statement to a vote of the electors.
+b. (1)
+If the board of directors intends to use funds for purposes other than those listed
+in paragraph “a”, or change the use of funds to purposes other than those listed in paragraph
+“a”, the board shall adopt a revenue purpose statement or amend an existing revenue purpose
+statement, subject to approval of the electors, listing the proposed use of the funds.
+(2) (a)
+Notwithstanding any provision of law to the contrary, for each school district with
+an existing revenue purpose statement for the use of revenues from the secure an advanced
+vision for education fund adopted under this paragraph or adopted under another provision of
+law before July 1, 2019, such revenue purpose statement shall terminate and be of no further
+force and effect on January 1, 2031, or the expiration date of the revenue purpose statement,
+whichever is earlier. If such a school district intends to use funds for purposes other than those
+listed in paragraph “a” and does not intend to operate without a revenue purpose statement on
+or after January 1, 2031, or the expiration date of the revenue purpose statement, whichever
+is earlier, the board of directors shall submit a revenue purpose statement for approval by the
+electors under subparagraph (1) on or after July 1, 2019, and such revenue purpose statement
+submitted to the electors shall include all proposed uses including those previously approved
+by the electors, if applicable. The following, in substantially the following form, shall be
+included in the notice of the election published under paragraph “d” and published on the
+school district’s internet site:
+If a majority of eligible electors voting on the question fail to
+approve this revenue purpose statement, revenues received by the
+school district from the secure an advanced vision for education
+fund shall first be expended for . . . . (State the purposes in the
+order listed in subsection 1 and as required by subsection 4 of this
+section for which the revenues received by the school district under
+this chapter will be expended.)
+(b)
+Unless a new revenue purpose statement is adopted by the electors, the existing
+revenue purpose statement remains in effect until January 1, 2031, or the expiration date
+of the revenue purpose statement, whichever is earlier. If a revenue purpose statement is
+terminated under the provisions of this subparagraph, such termination shall not affect the
+validity of or a first lien on bonds issued under section 423E.5, Code 2019, or section 423F.5
+prior to the date the revenue purpose statement is terminated under subparagraph division
+(a), or the validity of a contract or other obligation of the school district secured in whole or
+in part by or requiring the payment of funds received under this chapter in effect prior to the
+date the revenue purpose statement is terminated under subparagraph division (a).
+c.
+The board of directors may use funds received under the operation of this chapter for
+a joint infrastructure project with one or more school districts or one or more school districts
+and a community college established under chapter 260C, for which buildings or facilities
+are constructed or leased for the purpose of offering classes under a district-to-community
+college sharing agreement or concurrent enrollment program that meets the requirements
+for funding under section 257.11, subsection 3. If the board intends to use funds received
+under the operation of this chapter for such a joint infrastructure project, the board shall
+adopt a revenue purpose statement or amend an existing revenue purpose statement, subject
+to approval of the electors, stating the proposed use of the funds.
+d.
+The board secretary shall notify the county commissioner of elections of the intent
+to take an issue to the voters pursuant to paragraph “b” or “c”. The county commissioner
+of elections shall publish the notices required by law for special or general elections, and
+the election shall be held on a date specified in section 39.2, subsection 4, paragraph “c”.
+A majority of those voting on the question must favor approval of the revenue purpose
+statement. If the proposal is not approved, the school district shall not submit the same or
+new revenue purpose statement to the electors for a period of six months from the date of
+the previous election.
+4.
+The revenues received pursuant to this chapter shall be expended for the purposes
+specified in the revenue purpose statement. If a board of directors has not approved a revenue
+purpose statement, the revenues shall be expended in the order listed in subsection 1 except
+that the payment of bonds for which the revenues have been pledged shall be paid first.
+Once approved, a revenue purpose statement is effective until amended or repealed by the
+foregoing procedures. A revenue purpose statement shall not be amended or repealed to
+reduce the amount of revenue pledged to the payment of principal and interest on bonds as
+long as any bonds authorized by sections 423E.5* and 423F.4 are outstanding unless funds
+sufficient to pay principal, interest, and premium, if any, on the outstanding obligations at or
+prior to maturity have been properly set aside and pledged for that purpose.
+5.
+A school district with a certified enrollment of fewer than two hundred fifty pupils in
+the entire district or certified enrollment of fewer than one hundred pupils in high school
+shall not expend the amount received for new construction without prior application to the
+department of education and receipt of a certificate of need pursuant to this subsection.
+A certificate of need is not required for repairing schoolhouses or buildings, equipment,
+technology, or transportation equipment for transporting students as provided in section
+298.3, or for construction necessary for compliance with the federal Americans With
+Disabilities Act pursuant to 42 U.S.C. §12101 – 12117. In determining whether a certificate
+of need shall be issued or denied, the department shall consider all of the following:
+a.
+Enrollment trends in the grades that will be served at the new construction site.
+b.
+The cost-benefit analysis of remodeling, reconstructing, or repairing existing buildings.
+c.
+The fire and health safety needs of the school district.
+d.
+The distance, convenience, cost of transportation, and accessibility of the new
+construction site to the students to be served at the new construction site.
+e.
+Availability of alternative, less costly, or more effective means of serving the needs of
+the students.
+f.
+The financial condition of the district, including the effect of the decline of the budget
+guarantee and unspent balance.
+g.
+Broad and long-term ability of the district to support the facility and the quality of the
+academic program.
+h.
+Cooperation with other educational entities including other school districts, area
+education agencies, postsecondary institutions, and local communities.
+i.
+Benefits and effects of the new construction on student learning.
+6. a. (1)
+For purposes of this chapter, “school infrastructure” means those activities
+authorized in section 423E.1, subsection 3, Code 2007.
+(2)
+Additionally, “school infrastructure” includes the payment or retirement of outstanding
+bonds previously issued for school infrastructure purposes as defined in this subsection, and
+the payment or retirement of bonds issued under sections 423E.5* and 423F.4.
+(3)
+Additionally,
+“school infrastructure” includes the acquisition or installation of
+information technology infrastructure.
+For purposes of this subparagraph, “information
+technology infrastructure” means the basic, underlying physical framework or system
+necessary to deliver technology connectivity to a school district and to network school
+buildings within a school district.
+(4)
+Additionally, “school infrastructure” includes school safety and security infrastructure.
+For purposes of this subparagraph, “school safety and security infrastructure” includes but is
+not limited to safe rooms, remote entry technology and equipment, security camera systems,
+card access systems, and communication systems with access to fire and police emergency
+frequencies. For purposes of this subparagraph, “school safety and security infrastructure”
+does not include the cost of personnel, development of safety and security plans, or training
+related to the implementation of safety and security plans.
+(5) (a)
+Additionally,
+“school infrastructure” includes software or other innovative
+technology, and the cost of subscription and monitoring fees associated with such software
+or other innovative technology, that meets all of the following requirements:
+(i)
+Is designed to detect and alert school district employees and first responders if there
+is a visible, unholstered firearm on property owned by the school district.
+(ii)
+Is capable of integrating with local public safety answering point technology.
+(iii)
+Is
+designed
+to
+integrate
+with
+a
+school
+district’s
+existing
+security
+camera
+infrastructure.
+(iv)
+Was developed in the United States without the use of any third-party data or
+open-source data.
+(v)
+Was developed in the United States by an organization in which a majority interest
+and a controlling interest is owned by shareholders who are citizens of the United States.
+(vi)
+Is not associated with any company that is owned or controlled by the People’s
+Republic of China.
+(vii)
+All of the video processing, data processing, and data storage occurs on school
+district property or on servers located within the United States that follow data retention
+policies that are consistent with rules adopted by the department of homeland security
+and emergency management.
+The department of homeland security and emergency
+management shall adopt rules pursuant to chapter 17A to administer this subparagraph
+subdivision.
+The rules adopted by the department of homeland security and emergency
+management shall do all of the following:
+(A)
+Establish security standards related to the transmission and storage of video and data.
+(B)
+Establish model data retention policies related to the storage of video and data.
+(C)
+Establish a list of organizations that satisfy the standards established by the
+department of homeland security and emergency management pursuant to this subparagraph
+subdivision. An organization may submit a request to the department of homeland security
+and emergency management to be included on this list.
+(viii)
+Was developed by an organization that is on the list established by the department of
+homeland security and emergency management pursuant to subparagraph subdivision (vii),
+subparagraph part (C).
+(ix)
+Beginning July 1, 2025, is designated by the secretary of homeland security as
+qualified anti-terrorism technology under 6 U.S.C. §441 et seq.
+(b)
+For purposes of this subparagraph, “school infrastructure” does not include the cost
+of personnel.
+b.
+It is the intent of the general assembly that each school district prioritize the use of
+revenues under this chapter for secure entries for the district’s attendance centers before
+expending such revenues for athletic facility infrastructure projects.
+c.
+A school district that uses secure an advanced vision for education fund moneys for
+school infrastructure shall comply with the state building code in the absence of a local
+building code.
+7. a.
+Prior to approving the use of revenues received under this chapter for an athletic
+facility infrastructure project within the scope of the school district’s approved revenue
+purpose statement or pursuant to subsection 4 for a school district without an approved
+revenue statement, the board of directors shall adopt a resolution setting forth the proposal
+for the athletic facility infrastructure project and hold an additional public hearing on the
+issue of construction of the athletic facility. Notice of the time and place of the public hearing
+shall be published not less than ten nor more than twenty days before the public hearing
+in a newspaper which is a newspaper of general circulation in the school district. If at any
+time prior to the fifteenth day following the hearing, the secretary of the board of directors
+receives a petition containing the required number of signatures and asking that the question
+of the approval of the use of revenues for the athletic facility infrastructure project be
+submitted to the voters of the school district, the board of directors shall either rescind the
+board’s resolution for the use of revenues for the athletic facility infrastructure project or
+direct the county commissioner of elections to submit the question to the registered voters
+of the school district at an election held on a date specified in section 39.2, subsection 4,
+paragraph “c”. The petition must be signed by eligible electors equal in number to not less
+than one hundred or thirty percent of the number of voters at the last preceding election of
+school officials under section 277.1, whichever is greater. If a majority of those voting on
+the question favors the use of the revenues for the athletic facility infrastructure project, the
+board shall be authorized to approve such use by resolution of the board. If a majority of
+those voting on the question does not favor the use of the revenues for the athletic facility
+infrastructure project, the board of directors shall rescind the board’s resolution for the use
+of revenues for the athletic facility infrastructure project. If a petition is not received by the
+board of directors within the prescribed time period, the board of directors may approve the
+use of revenues for the athletic facility infrastructure project without voter approval.
+b.
+After fourteen days from the date of the hearing under paragraph “a” or fourteen days
+after the date of the election held under paragraph “a”, if applicable, whichever is later, an
+action shall not be brought questioning the board of directors’ authority to use funds for
+the athletic facility infrastructure project or questioning the legality of any proceedings in
+connection with the authorization of such use.
+c.
+For purposes of this subsection:
+(1)
+“Athletic facility” means a building or structure, or portion thereof, that is not
+physically attached to a student attendance center.
+(2)
+“Athletic facility infrastructure project” means a school infrastructure project that
+includes in whole or in part the construction of an athletic facility.
+(3)
+“Construction” does not include repair or maintenance of an existing facility.
+8.
+The general assembly shall not alter the purposes for which the revenues received
+under this section may be used from infrastructure and property tax relief purposes to any
+other purpose unless the bill is approved by a vote of at least two-thirds of the members of
+both chambers of the general assembly and is signed by the governor.
+2008 Acts, ch 1134, §29; 2008 Acts, ch 1191, §73; 2013 Acts, ch 88, §36; 2013 Acts, ch 141,
+§50, 51; 2015 Acts, ch 120, §46; 2019 Acts, ch 166, §12 – 16; 2020 Acts, ch 1063, §229; 2022
+Acts, ch 1097, §2, 4; 2024 Acts, ch 1179, §5, 13
+Referred to in §76.4, 275.12, 279.86
+Subsection 8 does not apply to the 2022 amendment to subsection 3, paragraph a; 2022 Acts, ch. 1097, §4
+*Chapter 423E repealed effective June 30, 2023, pursuant to terms of former §423E.7; corrective legislation is pending
+423F.4 Borrowing authority for school districts.
+1.
+Subject to the conditions established under subsection 2, a school district may
+anticipate its share of the revenues under section 423F.2 by issuing bonds in the manner
+provided in section 423E.5, Code 2019. However, to the extent any school district has issued
+bonds anticipating the proceeds of an extended local sales and services tax for school
+infrastructure purposes imposed by a county pursuant to former chapter 423E, Code and
+Code Supplement 2007, prior to July 1, 2008, the pledge of such revenues for the payment
+of principal and interest on such bonds shall be replaced by a pledge of its share of the
+revenues under section 423F.2.
+2. a.
+Bonds issued on or after July 1, 2019, shall not be sold at public sale as provided
+in chapter 75, or at a private sale, without notice and hearing. Notice of the time and place
+of the public hearing shall be published not less than ten nor more than twenty days before
+the public hearing in a newspaper which is a newspaper of general circulation in the school
+district.
+b.
+For bonds subject to the requirements of paragraph “a”, if at any time prior to the
+fifteenth day following the hearing, the secretary of the board of directors receives a petition
+containing the required number of signatures and asking that the question of the issuance
+of such bonds be submitted to the voters of the school district, the board shall either rescind
+its adoption of the resolution or direct the county commissioner of elections to submit the
+question to the registered voters of the school district at an election held on the date specified
+in section 39.2, subsection 4, paragraph “d”. The petition must be signed by eligible electors
+equal in number to not less than one hundred or thirty percent of the number of voters at
+the last preceding election of school officials under section 277.1, whichever is greater. If
+the board submits the question at an election and a majority of those voting on the question
+favors issuance of the bonds, the board shall be authorized to issue the bonds.
+c.
+After fourteen days from the date of the hearing under paragraph “a” or fourteen days
+after the date of the election held under paragraph “b”, if applicable, whichever is later, an
+action shall not be brought questioning the legality of any bonds or the power of the authority
+to issue any bonds or to the legality of any proceedings in connection with the authorization
+or issuance of the bonds.
+2008 Acts, ch 1134, §30; 2019 Acts, ch 166, §17; 2023 Acts, ch 71, §134, 136
+Referred to in §275.12, 275.29, 275.30, 275.53, 275.54, 275.55, 279.85, 423F.3
+2023 amendment to subsection 2, paragraph b applies July 1, 2023, for elections on propositions relating to the issuing of bonds or other
+indebtedness occurring on or after that date; 2023 Acts, ch 71, §136
+423F.5 Contents of financial audit.
+1.
+A school district shall include as part of its financial audit for the budget year beginning
+July 1, 2007, and for each subsequent budget year the amount received during the year
+pursuant to chapter 423E* or this chapter, as applicable. In addition, the financial audit shall
+include the amount of bond levies, physical plant and equipment levy, and public educational
+and recreational levy reduced as a result of the moneys received under chapter 423E* or
+this chapter, as applicable. The amount of the reductions shall be stated in terms of dollars
+and cents per one thousand dollars of valuation and in total amount of property tax dollars.
+Also included shall be an accounting of the amount of moneys received which were spent
+for infrastructure purposes pursuant to chapter 423E* or this chapter, as applicable.
+2.
+The auditor of state may prescribe necessary forms and procedures for the consistent
+collection of the information required by this section.
+2008 Acts, ch 1134, §31; 2011 Acts, ch 25, §43
+Referred to in §291.10, 423F.3
+*Chapter 423E repealed effective June 30, 2023, pursuant to terms of former §423E.7; corrective legislation is pending
+423F.6 Repeal.
+This chapter is repealed January 1, 2051.
+2008 Acts, ch 1134, §32; 2019 Acts, ch 166, §18
