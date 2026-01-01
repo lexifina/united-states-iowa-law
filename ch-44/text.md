@@ -1,0 +1,448 @@
+CHAPTER 44
+NOMINATIONS BY NONPARTY POLITICAL ORGANIZATIONS
+Referred to in §39.3, 39.28, 39A.1, 39A.2, 39A.6, 43.2, 43.112, 43.121, 43.123, 47.1, 48A.24, 99B.1, 260C.15, 260C.39, 275.35, 277.3, 296.4,
+298.18, 331.254, 357J.16, 360.1, 372.2, 376.1, 376.3, 376.6, 376.8, 420.137
+See also definitions in §39.3
+44.1
+Nonparty political organizations.
+44.2
+Nominations certified.
+44.3
+Certificate.
+44.4
+Nominations and objections —
+time and place of filing.
+44.5
+Notice of objections.
+44.6
+Hearing before state
+commissioner.
+44.7
+Hearing before commissioner.
+44.8
+Hearing before mayor.
+44.9
+Withdrawals.
+44.10
+Effect of withdrawal.
+44.11
+Vacancies filled.
+44.12
+Insufficient time for convention.
+44.13
+Certificates in matter of
+vacancies.
+44.14
+Filing of certificates.
+44.15
+Presumption of validity.
+44.16
+Return of papers — additions not
+allowed.
+44.17
+Nominations by petition.
+44.18
+Affiliation on voter registration
+form.
+44.1 Nonparty political organizations.
+1.
+Any convention or caucus of eligible electors representing a political organization
+which is not a political party as defined by law, may, for the state, or for any division or
+municipality thereof, or for any county, or for any subdivision thereof, for which such
+convention or caucus is held, make one nomination of a candidate for each office to be filled
+therein at the general election. However, in order to qualify for any nomination made for
+a statewide elective office by such a political organization there shall be in attendance at
+the convention or caucus where the nomination is made a minimum of five hundred eligible
+electors including at least one eligible elector from each of twenty-five counties. In order
+to qualify for any nomination to the office of United States representative there shall be in
+attendance at the convention or caucus where the nomination is made a minimum of two
+hundred eligible electors who are residents of the congressional district including at least
+one eligible elector from each of at least one-half of the counties of the congressional district.
+In order to qualify for any nomination to an office to be filled by the voters of a county or of a
+city there shall be in attendance at the convention or caucus where the nomination is made a
+minimum of twenty eligible electors who are residents of the county or city, as the case may
+be, including at least one eligible elector from at least one-half of the voting precincts in that
+county or city. In order to qualify for any nomination made for the general assembly there
+shall be in attendance at the convention or caucus where the nomination is made a minimum
+of twenty-five eligible electors who are residents of the representative district or fifty eligible
+electors who are residents of the senatorial district, as the case may be, with at least one
+eligible elector from one-half of the voting precincts in the district in each case. The names
+of all delegates in attendance at such convention or caucus and such fact shall be certified to
+the state commissioner together with the other certification requirements of this chapter.
+2.
+A candidate who has been nominated under a political party under chapter 43 shall not
+be eligible for nomination under this chapter for the same office in the same election year.
+[C97, §1098; C24, §649; C27, 31, 35, §655-a1; C39, §655.01; C46, 50, 54, 58, 62, 66, 71, 73,
+75, 77, 79, 81, §44.1]
+2021 Acts, ch 12, §15, 73, 74
+Referred to in §44.2
+Political party defined, §43.2
+44.2 Nominations certified.
+Nominations made under section 44.1 shall be certified by the chairperson and secretary of
+the convention or caucus, who shall enter their place of residence opposite their signatures,
+and attach to said certificate their affidavit to the effect that the certificate is true.
+[C97, §1099; C24, §650; C27, 31, 35, §655-a2; C39, §655.02; C46, 50, 54, 58, 62, 66, 71, 73,
+75, 77, 79, 81, §44.2]
+Referred to in §44.3
+44.3 Certificate.
+1.
+The certificate required by section 44.2 shall state the following information:
+a.
+The name of each candidate nominated.
+b.
+The office to which each candidate is nominated.
+c.
+The name of the political organization making such nomination, expressed in not more
+than five words.
+d.
+The place of residence of each nominee, with the street or number thereof, if any.
+e.
+In case of presidential candidates, the names and addresses of presidential electors
+shall be stated, and the names of the candidates for president and vice president shall be
+added to the name of the organization.
+f.
+The name and address of each member of the organization’s executive or central
+committee.
+g.
+The provisions, if any, made for filling vacancies in nominations.
+h.
+The name and address of each delegate or voter in attendance at a convention or caucus
+where a nomination is made.
+2.
+Each candidate nominated by the convention or caucus shall complete and file a signed,
+notarized affidavit of candidacy. The affidavit shall be in the form prescribed by the secretary
+of state. The affidavit shall include the following information:
+a.
+The candidate’s name in the form the candidate wants it to appear on the ballot.
+b.
+The candidate’s home address.
+c.
+The name of the county in which the candidate resides.
+d.
+The name of the political organization by which the candidate was nominated.
+e.
+The office sought by the candidate, and the district the candidate seeks to represent, if
+any.
+f.
+A declaration that if the candidate is elected the candidate will qualify by taking the oath
+of office.
+g.
+A statement that the candidate is aware that the candidate is required to organize a
+candidate’s committee which shall file an organization statement and disclosure reports
+if the committee or the candidate receives contributions, makes expenditures, or incurs
+indebtedness in excess of the reporting threshold in section 68A.102, subsection 5.
+This
+subsection shall not apply to candidates for federal office.
+h.
+A statement that the candidate is aware of the prohibition in section 49.41 against
+being a candidate for more than one office to be filled at the same election, except county
+agricultural extension council and soil and water conservation district commission.
+i.
+A statement that the candidate is aware that the candidate is disqualified from
+holding office if the candidate has been convicted of a felony or other infamous crime and
+the candidate’s rights have not been restored by the governor or by the president of the
+United States. This paragraph does not apply to candidates for federal office. The state
+commissioner shall prescribe a separate affidavit of candidacy for candidates for federal
+office.
+j.
+A statement that the candidate is aware that by filing this affidavit, the candidate is
+ineligible to appear on the same ballot for the same office other than as a candidate for the
+nonparty political organization indicated on the affidavit.
+[C97, §1099; C24, §650; C27, 31, 35, §655-a3; C39, §655.03; C46, 50, 54, 58, 62, 66, 71, 73,
+§44.3; C75, §44.3, 56.5(4); C77, 79, 81, §44.3; 81 Acts, ch 34, §5, ch 35, §17]
+90 Acts, ch 1238, §7; 91 Acts, ch 129, §7; 94 Acts, ch 1023, §78; 94 Acts, ch 1180, §9; 98 Acts,
+ch 1052, §3; 2001 Acts, ch 158, §8; 2025 Acts, ch 123, §5, 37
+Referred to in §44.6, 44.7, 44.8
+Certificates in matter of vacancies, see §44.13
+Subsection 2, paragraph i amended
+Subsection 2, NEW paragraph j
+44.4 Nominations and objections — time and place of filing.
+1.
+Nominations made pursuant to this chapter and chapter 45 which are required to
+be filed in the office of the state commissioner shall be filed in that office not more than
+ninety-nine days nor later than 5:00 p.m. on the first Tuesday after the first Monday in June
+in each even-numbered year. Nominations made for a special election called pursuant to
+section 69.14 shall be filed by 5:00 p.m. not less than twenty-five days before the date of
+an election called upon at least forty days’ notice and not less than fourteen days before
+the date of an election called upon at least eighteen days’ notice. Nominations made for a
+special election called pursuant to section 69.14A shall be filed by 5:00 p.m. not less than
+twenty-five days before the date of the election. Nominations made pursuant to this chapter
+and chapter 45 which are required to be filed in the office of the commissioner shall be filed
+in that office not more than ninety-two days nor later than 5:00 p.m. on the first Tuesday
+after the first Monday in June in each even-numbered year. Nominations made pursuant
+to this chapter or chapter 45 for city office shall be filed not more than seventy-two days
+nor later than 5:00 p.m. on the forty-seventh day before the city election with the county
+commissioner of elections responsible under section 47.2 for conducting elections held for
+the city, who shall process them as provided by law.
+2. a.
+Objections to the legal sufficiency of a certificate of nomination or nomination
+petition or to the eligibility of a candidate may be filed by any person who would have the
+right to vote for a candidate for the office in question. The objections must be filed with the
+officer with whom the certificate or petition is filed and within the following time:
+(1)
+Those filed with the state commissioner, not later than seven days after the first
+Tuesday after the first Monday in June in each even-numbered year.
+(2)
+Those filed with the commissioner, not later than seven days after the first Tuesday
+after the first Monday in June in each even-numbered year, except as provided in
+subparagraph (3).
+(3)
+Those filed with the commissioner for an elective city office, at least forty-two days
+before the regularly scheduled or special city election. However, for those cities that may be
+required to hold a primary election, at least sixty-three days before the regularly scheduled
+or special city election.
+(4)
+In the case of nominations to fill vacancies occurring after the time when an original
+nomination for an office is required to be filed, objections shall be filed within three days after
+the filing of the certificate.
+b.
+Objections shall be filed no later than 5:00 p.m. on the final date for filing.
+[C97, §1103; C24, §654; C27, 31, 35, §655-a4; C39, §655.04; C46, 50, 54, 58, 62, 66, 71, 73,
+75, 77, 79, 81, §44.4]
+87 Acts, ch 221, §3; 88 Acts, ch 1119, §8; 88 Acts, ch 1246, §1; 89 Acts, ch 136, §24; 90 Acts,
+ch 1238, §8; 95 Acts, ch 189, §5; 97 Acts, ch 170, §7; 98 Acts, ch 1123, §2; 2002 Acts, ch 1134,
+§13, 115; 2008 Acts, ch 1032, §201; 2014 Acts, ch 1101, §1, 2; 2017 Acts, ch 110, §71; 2018
+Acts, ch 1149, §3, 12; 2019 Acts, ch 148, §37; 2021 Acts, ch 147, §14, 54; 2025 Acts, ch 123,
+§31, 32
+Referred to in §43.17, 331.237, 331.323, 376.4
+Subsection 1 amended
+Subsection 2, paragraph a, subparagraphs (1) and (2) amended
+44.5 Notice of objections.
+When objections are filed, notice shall immediately be given to the affected candidate. The
+notice shall be addressed to the candidate’s place of residence as given in the certificate of
+nomination, stating that objections have been made to the certificate. The notice shall include
+the time and place of the hearing at which the objections will be considered. The hearing shall
+be held not later than one week after the objection is filed.
+[C97, §1103; C24, §654; C27, 31, 35, §655-a5; C39, §655.05; C46, 50, 54, 58, 62, 66, 71, 73,
+75, 77, 79, 81, §44.5]
+2009 Acts, ch 57, §9
+Referred to in §376.4
+44.6 Hearing before state commissioner.
+Objections filed with the state commissioner shall be considered by the secretary of state
+and auditor of state and attorney general, and a majority decision shall be final. However, if
+the objection is to the certificate of nomination of one or more of the above named officers,
+the officer or officers objected to shall not pass upon the objection, but their places shall be
+filled, respectively, by the treasurer of state, the governor, and the secretary of agriculture.
+Objections relating to incorrect or incomplete information for information that is required
+under section 44.3 shall be sustained.
+[C97, §1103; C24, §654; C27, 31, 35, §655-a6; C39, §655.06; C46, 50, 54, 58, 62, 66, 71, 73,
+75, 77, 79, 81, §44.6]
+2021 Acts, ch 147, §15, 54; 2022 Acts, ch 1021, §21
+44.7 Hearing before commissioner.
+Except as otherwise provided in section 44.8, objections filed with the commissioner shall
+be considered by the county auditor, county treasurer, and county attorney, and a majority
+decision shall be final. However, if the objection is to the certificate of nomination of one
+or more of the above named county officers, the officer or officers objected to shall not pass
+upon the objection, but their places shall be filled, respectively, by the chairperson of the
+board of supervisors, the sheriff, and the county recorder. Objections relating to incorrect or
+incomplete information for information that is required under section 44.3 shall be sustained.
+[C97, §1103; C24, §654; C27, 31, 35, §655-a7; C39, §655.07; C46, 50, 54, 58, 62, 66, 71, 73,
+75, 77, 79, 81, §44.7]
+83 Acts, ch 186, §10016, 10201; 2014 Acts, ch 1101, §3; 2021 Acts, ch 147, §16, 54
+Referred to in §331.306, 331.505, 331.552, 331.602, 331.756(13)
+44.8 Hearing before mayor.
+1.
+Objections filed with the city clerk pursuant to section 362.4 or with the commissioner
+for an elective city office shall be considered by the mayor and clerk and one member of the
+council chosen by the council by ballot, and a majority decision shall be final. However, if the
+objection is to the certificate of nomination of either of those city officials, that official shall
+not pass upon the objection, but the official’s place shall be filled by a member of the council
+against whom no such objection exists, chosen as above provided.
+2.
+The hearing shall be held within twenty-four hours of the receipt of the objection if
+a primary election must be held for the office sought by the candidate against whom the
+objection has been filed.
+3.
+Objections relating to incorrect or incomplete information for information that is
+required under section 44.3 shall be sustained.
+[C97, §1103; C24, §654; C27, 31, 35, §655-a8; C39, §655.08; C46, 50, 54, 58, 62, 66, 71, 73,
+75, 77, 79, 81, §44.8]
+88 Acts, ch 1119, §9; 2014 Acts, ch 1101, §4; 2021 Acts, ch 147, §17, 54
+Referred to in §44.7, 362.4, 376.4
+44.9 Withdrawals.
+Any candidate named under this chapter may withdraw the candidate’s nomination by a
+written request filed as follows:
+1.
+In the office of the state commissioner, at least eighty-one days before the date of the
+election.
+2.
+In the office of the appropriate commissioner, at least seventy-four days before the date
+of the election, except as otherwise provided in subsection 6.
+3.
+In the office of the appropriate school board secretary, at least forty-two days before
+the day of a regularly scheduled school election.
+4.
+In the office of the state commissioner, in case of a special election to fill vacancies in
+Congress or the general assembly, not more than:
+a.
+Twenty days after the date on which the governor issues the call for a special election
+to be held on at least forty days’ notice.
+b.
+Five days after the date on which the governor issues the call for a special election to
+be held on at least ten but less than forty days’ notice.
+5.
+In the office of the appropriate commissioner or school board secretary in case of a
+special election to fill vacancies, at least twenty-five days before the day of election.
+6.
+In the office of the appropriate commissioner, at least forty-two days before the
+regularly scheduled or special city election. However, for those cities that may be required
+to hold a primary election, at least sixty-three days before a regularly scheduled or special
+city election.
+[C97, §1101; SS15, §1101; C24, §652; C27, 31, 35, §655-a9; C39, §655.09; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §44.9]
+87 Acts, ch 221, §4, 5; 89 Acts, ch 136, §25; 91 Acts, ch 129, §8; 98 Acts, ch 1123, §3; 2014
+Acts, ch 1101, §5; 2017 Acts, ch 110, §72; 2018 Acts, ch 1026, §22; 2019 Acts, ch 59, §21; 2019
+Acts, ch 148, §50; 2021 Acts, ch 147, §18, 54; 2025 Acts, ch 123, §33
+Referred to in §44.10, 44.11, 277.4, 376.4
+Applicability to candidates nominated by petition, see §45.4
+Subsection 1 amended
+44.10 Effect of withdrawal.
+The name of a candidate who has withdrawn the candidate’s nomination as provided in
+section 44.9 shall not be printed on the official ballot under that nomination.
+[C97, §1101; SS15, §1101; C24, §652; C27, 31, 35, §655-a10; C39, §655.10; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §44.10]
+2021 Acts, ch 80, §24
+44.11 Vacancies filled.
+If a candidate named under this chapter withdraws or dies before the deadline established
+in section 44.9, declines a nomination, or if a certificate of nomination is held insufficient or
+inoperative by the officer with whom it is required to be filed, or in case any objection made
+to a certificate of nomination, or to the eligibility of any candidate named in the certificate, is
+sustained by the board appointed to determine such questions, the vacancy or vacancies may
+be filled by the convention, or caucus, or in such manner as such convention or caucus has
+previously provided. The vacancy or vacancies shall be filled not less than seventy-six days
+before the election in the case of nominations required to be filed with the state commissioner,
+not less than sixty-nine days before the election in the case of nominations required to be
+filed with the commissioner, not less than forty-two days before the election in the case of
+nominations required to be filed in the office of the school board secretary, and not less than
+forty-two days before the election in the case of nominations required to be filed with the
+commissioner for city elections.
+[C97, §1102; C24, §653; C27, 31, 35, §655-a11; C39, §655.11; C46, 50, 54, 58, 62, 66, 71, 73,
+75, 77, 79, 81, §44.11]
+89 Acts, ch 136, §26; 97 Acts, ch 170, §8; 2014 Acts, ch 1101, §6; 2017 Acts, ch 110, §73;
+2017 Acts, ch 155, §14, 44; 2021 Acts, ch 147, §19, 54; 2025 Acts, ch 123, §34
+Referred to in §44.14, 44.17
+Section amended
+44.12 Insufficient time for convention.
+If the time is insufficient for again holding such convention or caucus, or in case no such
+previous provisions have been made, such vacancy shall be filled by the regularly elected or
+appointed executive or central committee of the particular division or district representing
+the political organization holding such convention, or caucus.
+[C97, §1102; C24, §653; C27, 31, 35, §655-a12; C39, §655.12; C46, 50, 54, 58, 62, 66, 71, 73,
+75, 77, 79, 81, §44.12]
+44.13 Certificates in matter of vacancies.
+The certificates of nominations made to fill such vacancies shall state, in addition to
+the facts and candidate’s affidavit required in an original certificate, the name of the
+original nominee, the date of death or declination of nomination, or the fact that the former
+nomination has been held insufficient or inoperative, and the measures taken in accordance
+with the above requirements for filling a vacancy, and shall be signed and sworn to by the
+presiding officer and secretary of the convention, or caucus, or by the chairperson and
+secretary of the committee, as the case may be.
+[C97, §1102; C24, §653; C27, 31, 35, §655-a13; C39, §655.13; C46, 50, 54, 58, 62, 66, 71, 73,
+75, 77, 79, 81, §44.13; 81 Acts, ch 34, §6]
+2020 Acts, ch 1063, §26
+Referred to in §44.14
+Original certificates, §44.3
+44.14 Filing of certificates.
+Certificates of nominations made to fill vacancies, as required by section 44.13, shall be
+filed with the officer designated and at the time required by section 44.11.
+[C97, §1104; SS15, §1104; C24, §655; C27, 31, 35, §655-a14; C39, §655.14; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §44.14]
+44.15 Presumption of validity.
+Certificates thus filed, and being apparently in conformity with law, shall be regarded as
+valid, unless objection in writing thereto shall be made, and, under proper regulations, shall
+be open to public inspection, and preserved by the receiving officer for not less than six
+months after the election is held.
+[C97, §1104; SS15, §1104; C24, §655; C27, 31, 35, §655-a15; C39, §655.15; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §44.15]
+Applicability to candidates nominated by petition, see §45.4
+44.16 Return of papers — additions not allowed.
+After a nomination petition or certificate has been filed, it shall not be returned to the
+candidate or person who has filed the document, and no signature or other information shall
+be added to the nomination petition or certificate.
+[C97, §1104; SS15, §1104; C24, §655; C27, 31, 35, §655-a16; C39, §655.16; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §44.16]
+93 Acts, ch 143, §7
+44.17 Nominations by petition.
+1.
+In lieu of holding a caucus or convention, a nonparty political organization may
+nominate by petition pursuant to chapter 45 not more than one candidate for any partisan
+office to be filled at the general election.
+2.
+The nonparty political organization may also file with the appropriate commissioner a
+list of the names and addresses of the organization’s central committee members, and the
+chairperson and secretary of the organization. The organization may also place on file a
+description of the method that the organization will follow to fill any vacancies resulting from
+the death, withdrawal, or disqualification of any of its candidates that were nominated by
+petition. If this information is filed before the close of the filing period for the general election,
+substitutions may be made pursuant to section 44.11.
+97 Acts, ch 170, §9; 2019 Acts, ch 24, §104
+Referred to in §54.5
+44.18 Affiliation on voter registration form.
+1.
+A nonparty political organization that nominated a candidate whose name appeared
+on the general election ballot for a federal office, for governor, or for any other statewide
+elective office in any of the preceding ten years may request registration of voters showing
+their affiliation with the nonparty political organization pursuant to this section.
+2.
+The organization shall file the following documents with the state registrar of voters on
+or before December 1 of an even-numbered year:
+a.
+A petition in the form prescribed by the registrar and signed by no fewer than eight
+hundred fifty eligible electors residing in at least five counties in the state. The petition shall
+include the official name of the organization; the organization’s name as the organization
+requests it to appear on the voter registration form if different from the organization’s
+official name; and the name, address, and telephone number of the contact person for
+the organization. Each person who signs the petition shall include the person’s signature,
+printed name, residence address with house number, street name, city, and county, and the
+date the person signed the petition.
+b.
+A copy of the nonparty political organization’s articles of incorporation, bylaws,
+constitution, or other document relating to establishment of the organization. Such copy
+shall be certified as a true copy of the original by the custodian of the original document.
+c.
+An application form prescribed by the state registrar of voters. The form shall include
+all of the following:
+(1)
+The official name of the nonparty political organization.
+(2)
+The name, address, and telephone number of the contact person for the organization
+who is responsible for the application.
+(3)
+The signature of the chief executive officer of the organization approving the
+application.
+(4)
+The organization’s name as the organization requests it to appear on the voter
+registration form if different from the organization’s official name.
+3.
+The nonparty political organization’s name and its name as listed on the voter
+registration form shall conform to the requirements of section 43.121. The registrar shall
+not invalidate the application solely because the registrar finds the official name of the
+organization or the name to be included on the voter registration form to be unacceptable. If
+the registrar finds the name to be unacceptable, the registrar shall contact the organization
+and provide assistance in identifying an appropriate official name for the organization and
+for identifying the organization on the voter registration form.
+A determination by the
+registrar that the official name or voter registration form name requested is acceptable for
+use within the voter registration system is final.
+4.
+The registrar and the voter registration commission may require biennial filings to
+update contact information.
+5.
+Beginning in January 2011, and each odd-numbered year thereafter, the registrar and
+the voter registration commission may review the number of voters registered as affiliated
+with a nonparty political organization. If the number of registrants, including both active and
+inactive voters, is fewer than one hundred fifty, the commission shall declare the organization
+to be dormant for purposes of voter registration and may revise the voter registration form
+and instructions and electronic voter registration system to remove the organization from the
+list of nonparty political organizations with which a voter may register as affiliated. However,
+a change shall not be made to the record of political affiliation of individual registrants unless
+the registrant requests the change.
+6.
+If a political party, as defined in section 43.2, fails to receive a sufficient number of
+votes in a general election to retain status as a political party and the former political party
+organizes as a nonparty political organization, the organization may request registration of
+voters showing their affiliation with the organization. A change shall not be made to the
+record of political party affiliation of individual registrants unless the registrant requests the
+change.
+2008 Acts, ch 1115, §72; 2022 Acts, ch 1032, §14
+Referred to in §48A.11
