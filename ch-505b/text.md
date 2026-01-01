@@ -1,0 +1,323 @@
+CHAPTER 505B
+INSURANCE NOTICES AND DOCUMENTS — ELECTRONIC DELIVERY AND POSTING
+Referred to in §87.4, 296.7, 331.301, 364.4, 505.28, 505.29, 669.14, 670.7
+505B.1
+Notices and documents delivered
+by electronic means.
+505B.2
+Posting of documents on insurer’s
+internet site.
+505B.3
+Applicability.
+505B.1 Notices and documents delivered by electronic means.
+1.
+As used in this chapter, unless the context otherwise requires:
+a.
+“Delivered by electronic means”, “deliver by electronic means”, or “delivery by electronic
+means” means any of the following:
+(1)
+Delivery to an electronic mail address at which a party has consented to receive notices
+or documents.
+(2)
+Posting on an electronic network or site accessible via the internet, a mobile
+application, computer, mobile device, tablet, or any other electronic device, together with
+separate notice of the posting which shall be provided by electronic mail to the address at
+which the party has consented to receive notice or by any other delivery method that has
+been consented to by the party.
+b.
+“Party” means a recipient of a notice or document required as part of an insurance
+transaction, including but not limited to an applicant, an insured, a policyholder, or an annuity
+contract holder.
+2. a.
+Subject to the requirements of this section, except for a notice of cancellation,
+nonrenewal, or termination, any notice to a party or any other document required under
+applicable law in an insurance transaction or that is to serve as evidence of insurance
+coverage may be delivered, stored, or presented by electronic means so long as the notice or
+document meets the requirements of chapter 554D.
+b.
+A notice of cancellation, nonrenewal, or termination shall be delivered by mail as
+provided by law and shall not be delivered by electronic means unless the notice is sent
+and received as required pursuant to section 554D.117 in a manner that is verifiable and
+is approved by the commissioner by rules adopted pursuant to chapter 17A.
+Delivery of
+a notice or document by electronic means in a manner that meets the requirements of
+chapter 554D and this chapter, and in a manner that is verifiable and is approved by the
+commissioner by rule, may be used in lieu of delivery by mail.
+Nothing in this section
+shall prohibit the delivery of a courtesy copy of a notice of cancellation, nonrenewal, or
+termination by electronic means even if the manner of electronic delivery has not been
+approved by the commissioner by rule if both of the following requirements are met:
+(1)
+The notice of cancellation, nonrenewal, or termination is properly delivered by mail
+as provided by law.
+(2)
+The requirements of subsection 4 are satisfied.
+3.
+Delivery of a notice or document in accordance with this section shall be considered
+equivalent to any delivery method required under applicable law, including delivery by first
+class mail; first class mail, postage prepaid; certified mail; certificate of mail; or certificate of
+mailing.
+4.
+A notice or document may be delivered by electronic means by an insurer to a party
+under this section if all of the following occur:
+a.
+The party has affirmatively consented to such method of delivery and has not
+withdrawn the consent.
+b.
+The party, before giving consent, is provided with a clear and conspicuous statement
+informing the party of the following:
+(1)
+The right of the party to have the notice or document provided or made available in
+paper form.
+(2)
+The right of the party to withdraw consent to have a notice or document delivered
+by electronic means and any conditions or consequences imposed in the event consent is
+withdrawn.
+(3)
+Whether the party’s consent applies as follows:
+(a)
+Only to the particular transaction as to which the notice or document must be provided.
+(b)
+To notices of cancellation, nonrenewal, or termination.
+(c)
+To other identified categories of notices or documents that may be delivered by
+electronic means during the course of the parties’ relationship.
+(4)
+The means, after consent is given, by which a party may obtain a paper copy of a notice
+or document delivered by electronic means.
+(5)
+The procedure a party must follow to withdraw consent to have a notice or document
+delivered by electronic means and to update information needed to contact the party
+electronically.
+c.
+Both of the following occur:
+(1)
+Before giving consent, the party is provided with a statement of the hardware and
+software requirements for access to and retention of a notice or document delivered by
+electronic means.
+(2)
+The party consents electronically, or confirms consent electronically, in a manner that
+reasonably demonstrates that the party can access information in the electronic form that
+will be used for notices or documents delivered by electronic means as to which the party has
+given consent.
+d.
+After consent of the party is given, the insurer, in the event a change in the hardware or
+software requirements needed to access or retain a notice or document delivered by electronic
+means creates a material risk that the party will not be able to access or retain a subsequent
+notice or document to which the consent applies, does the following:
+(1)
+Provides the party with a statement of the following:
+(a)
+The revised hardware and software requirements for access to and retention of a
+notice or document delivered by electronic means.
+(b)
+The right of the party to withdraw consent without the imposition of any condition or
+consequence that was not disclosed under paragraph “b”, subparagraph (2).
+(2)
+Complies with paragraph “b”.
+5. a.
+For purposes of this subsection, “consumer” and “portable electronics insurance”
+mean the same as defined in section 522E.1.
+b.
+Notwithstanding subsection 4, affirmative consent from a party to have notices and
+documents delivered by electronic means for portable electronics insurance sold pursuant to
+chapter 522E is obtained if a consumer provides an electronic mail address and the consumer
+is provided at the point of sale, or prior to the point of sale, a conspicuously located disclosure
+advising the consumer that the consumer is giving affirmative consent. The disclosure must
+also advise the consumer of the consumer’s right to receive a paper copy of notices and
+documents and of the process by which the consumer can opt out of delivery by electronic
+means.
+6.
+This section does not affect requirements related to content or timing of any notice or
+document required under applicable law.
+7.
+If a provision of this title or applicable law requiring a notice or document to be
+provided to a party expressly requires verification or acknowledgment of receipt of the
+notice or document, the notice or document may be delivered by electronic means only if
+the method used provides for verification or acknowledgment of receipt.
+8.
+The legal effectiveness, validity, or enforceability of any contract or policy of insurance
+executed by a party shall not be denied solely because of the failure to obtain electronic
+consent or confirmation of consent of the party in accordance with subsection 4, paragraph
+“c”, subparagraph (2).
+9. a.
+A withdrawal of consent by a party does not affect the legal effectiveness, validity,
+or enforceability of a notice or document delivered by electronic means to the party before
+the withdrawal of consent is effective.
+b.
+A withdrawal of consent by a party is effective within a reasonable period of time after
+receipt of the withdrawal by the insurer.
+c.
+Failure by an insurer to comply with subsection 4, paragraph “d”, may be treated, at the
+election of the party, as a withdrawal of consent for purposes of this section.
+10.
+This section does not apply to a notice or document delivered by an insurer in an
+electronic form before July 1, 2014, to a party who, before that date, has consented to receive
+a notice or document in an electronic form otherwise allowed by law.
+11.
+If the consent of a party to receive certain notices or documents in an electronic form
+is on file with an insurer before July 1, 2014, and pursuant to this section an insurer intends
+to deliver additional notices or documents to such party in an electronic form, then prior to
+delivering such additional notices or documents electronically, the insurer shall do all of the
+following:
+a.
+Provide the party with a statement that describes all of the following:
+(1)
+The notices or documents that will be delivered by electronic means under this section
+that were not previously delivered electronically.
+(2)
+The party’s right to withdraw consent to have notices or documents delivered by
+electronic means without the imposition of any condition or consequence that was not
+disclosed at the time of initial consent.
+b.
+Comply with all of the requirements of subsection 4, paragraph “b”.
+12. a.
+For purposes of this subsection:
+(1)
+“Covered employee” or “employee” means an individual participating in a group health
+plan who is entitled to notices and documents and who is an employee of the sponsor or
+policyholder of the group health plan.
+(2)
+“Covered person” or “person” means an individual participating in a group health plan
+who is entitled to notices and documents.
+(3)
+“Smart device” means an electronic device that combines a cell phone with a hand-held
+computer and that offers internet access, and text or electronic mail capabilities.
+b.
+Notwithstanding any provision of this section to the contrary, a sponsor or policyholder
+of a group health plan may consent to notices and documents delivered by electronic means,
+unless there is a federal requirement for a specific mode of delivery, on behalf of the sponsor
+or policyholder’s covered employees and covered persons. For such consent to be effective,
+the sponsor or policyholder shall do all of the following:
+(1) (a)
+Assign each covered employee for whom consent is being given an electronic
+mail address for employment-related purposes at which the employee may receive or
+access notifications regarding posted notices and documents delivered by electronic means,
+or require each employee for whom consent is being given to provide the sponsor or
+policyholder with an electronic mail address or a smart device number at which the employee
+may receive or access notifications regarding posted notices and documents delivered by
+electronic means.
+(b)
+Require each covered person, or a covered employee on behalf of a covered person, to
+provide the sponsor or policyholder with an electronic mail address or a smart device number
+at which the person may receive or access notifications regarding notices and documents
+delivered by electronic means.
+(2)
+Prior to delivery by electronic means of notices and documents to covered employees
+and covered persons, the sponsor or policyholder shall provide a notification in paper form to
+each employee and each person for whom consent is being given that does all of the following:
+(a)
+Notifies the employee or person that notices and documents for the group health plan
+will be posted to an internet site to which the employee or person will have reasonable access.
+(b)
+Confirms the electronic mail address or smart device number to which notifications
+regarding notices and documents will be delivered by electronic means to the employee or
+person.
+(c)
+Provides instructions for accessing notices or documents on the internet site described
+in subparagraph (2), subparagraph division (a).
+(d)
+Provides the time period during which a specific type of notice or document delivered
+by electronic means will remain accessible.
+(e)
+Advises the employee or person that a paper form of a notice or document may be
+requested and will be provided free of charge, and the process to request a paper form.
+(f)
+Advises the employee or person of the right to opt out of delivery by electronic means
+and the process to exercise that right.
+(3)
+Provides notice to each impacted covered employee and each impacted covered person
+each time a notice or document is posted on the internet site described in subparagraph (2),
+subparagraph division (a). The notice may be delivered by electronic means to the covered
+employee’s or covered person’s electronic mail address or smart device number and shall
+include all of the following:
+(a)
+A prominent statement that important information regarding the group health plan
+has been posted on the internet site.
+(b)
+The name of, or a description of, the notice or document.
+(c)
+The internet site address or the hyperlink at which the notice or document may be
+accessed.
+(d)
+A statement of the recipient’s right to request the notice or document in paper form,
+free of charge, and the process to exercise that right.
+(e)
+A statement of the recipient’s right to opt out of delivery by electronic means and to
+receive documents in paper form free of charge.
+(f)
+The time period during which the notice or document will remain accessible on the
+internet site.
+(g)
+A telephone number for the insurer or the group health plan administrator.
+13.
+An insurer shall deliver a notice or document by any other delivery method permitted
+by law other than electronic means if either of the following occurs:
+a.
+The insurer attempts to deliver the notice or document by electronic means and has a
+reasonable basis for believing that the notice or document has not been received by the party.
+b.
+The insurer becomes aware that the electronic mail address provided by the party is no
+longer valid.
+14.
+It shall be the exclusive responsibility of an insurer to satisfy the requirements of this
+section and to deliver any notice or document sent to a party pursuant to this section.
+15.
+This section shall not be construed to modify, limit, or supersede the provisions of the
+federal Electronic Signatures in Global and National Commerce Act, Pub. L. No. 106-229, 114
+Stat. 464 (2000), codified at 15 U.S.C. §7001 et seq., as amended.
+2014 Acts, ch 1007, §5; 2015 Acts, ch 108, §1 – 6; 2019 Acts, ch 16, §1, 2; 2020 Acts, ch 1063,
+§269; 2022 Acts, ch 1053, §1
+Referred to in §522E.1, 522E.9, 522E.13
+505B.2 Posting of documents on insurer’s internet site.
+1.
+Notwithstanding any contrary provision of chapter 554D, an insurer may mail, deliver,
+or post on the insurer’s internet site insurance documents, including policies, riders,
+endorsements, and annuity contracts that do not contain personally identifiable information.
+If the insurer elects to post an insurance policy or endorsement on the insurer’s internet site
+in lieu of mailing or delivering the policy or endorsement to the insured, the insurer must
+comply with all of the following conditions:
+a.
+The policy or endorsement must be accessible and remain accessible to the insured and
+to the licensed insurance producer of record for as long as the policy or endorsement is in
+force.
+b.
+After the expiration of the policy or endorsement, the insurer must archive the expired
+policy or endorsement for a period of five years or other period required by law, and make
+the policy or endorsement available upon request.
+c.
+The policy or endorsement must be posted in a manner that enables the insured and
+the licensed insurance producer of record to print and save the policy or endorsement using
+programs and applications that are widely available on the internet and free to use.
+d.
+The insurer must provide the following information in, or simultaneously with, each
+declarations page provided at the time of issuance of the initial policy and any renewal of
+that policy:
+(1)
+A description of the exact policy or endorsement purchased by the insured.
+(2)
+A description of the insured’s right to receive, upon request and without charge, a
+paper copy of the insured’s policy or endorsement by mail.
+(3)
+An internet address where the insured’s policy or endorsement is posted.
+e.
+The insurer, upon request and without charge, must deliver a paper copy of the policy
+or endorsements to the insured by mail.
+f.
+The insurer must provide notice, in the format preferred by the insured, of any changes
+to the policy or endorsement, the insured’s right to obtain, upon request and without charge,
+a paper copy of such policy or endorsement, and the internet address where such policy or
+endorsement is posted.
+2.
+Nothing in this section shall be construed to affect the timing or content of any notice
+or document required to be provided or made available to any insured under applicable law.
+2014 Acts, ch 1007, §6; 2015 Acts, ch 108, §7
+505B.3 Applicability.
+The provisions of this chapter shall apply to the insurance products and documents,
+including insurance policies,
+insurance riders,
+insurance endorsements,
+and annuity
+contracts filed with and regulated by the commissioner of insurance under the authority
+provided to the commissioner by Title XIII, subtitle 1.
+2014 Acts, ch 1007, §7
