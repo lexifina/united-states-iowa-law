@@ -1,0 +1,317 @@
+CHAPTER 298A
+SCHOOL DISTRICT FUND STRUCTURE
+Referred to in §256C.4, 274.3
+298A.1
+Effective date.
+298A.2
+General fund — flexibility
+account.
+298A.3
+District management levy fund.
+298A.4
+Physical plant and equipment
+levy fund.
+298A.5
+Schoolhouse tax levy fund.
+Repealed by 2013 Acts, ch 88,
+§37.
+298A.6
+Public education and recreation
+levy fund.
+298A.7
+Library levy fund.
+298A.8
+Student activity fund.
+298A.9
+Capital project funds.
+298A.10
+Debt service fund.
+298A.11
+School nutrition fund.
+298A.12
+Child care fund.
+298A.13
+Trust, permanent, or custodial
+funds.
+298A.14
+Other funds.
+298A.15
+Entrepreneurial education funds.
+298A.1 Effective date.
+This chapter establishes the fund structure which shall be used by school districts
+commencing with the school budget year which begins on July 1, 1995.
+94 Acts, ch 1029, §1
+298A.2 General fund — flexibility account.
+1.
+All moneys received by a school corporation from taxes and other sources must be
+accounted for in the general fund, except moneys required by law to be accounted for in
+another fund.
+2. a.
+A flexibility account shall be established in the general fund of each school
+corporation if the school corporation has authorized the transfer of all or a portion of
+the unexpended and unobligated funds from any of the following sources following a
+determination that the statutory requirements for such funds are met:
+(1)
+An approved local program under the statewide preschool program for four-year-old
+children under chapter 256C.
+(2)
+Professional development funds received under section 257.10, subsection 10.
+(3)
+The home school assistance program under section 299A.12.
+(4)
+Teacher leadership supplement funds received under section 257.10, subsection 12.
+b.
+In addition to the transfers to the flexibility account authorized by law, a school district
+may transfer to the flexibility account all or a portion of any unexpended and unobligated
+moneys in any other school district fund or school district general fund account if the
+program, purpose, or requirements for the expenditure of such moneys have been repealed
+or are no longer in effect.
+c.
+Moneys deposited in the flexibility account may be used by the school district during a
+budget year beginning in or after the calendar year in which the moneys were transferred to
+the flexibility account for any of the following:
+(1)
+Start-up costs for an approved local program under the statewide preschool program
+for four-year-old children under chapter 256C.
+(2)
+Professional development requirements under chapter 284.
+(3)
+The home school assistance program under section 299A.12.
+(4)
+At-risk pupils programs, alternative programs and alternative school programs, and
+returning dropout and dropout prevention programs under section 257.40.
+(5)
+Gifted and talented children programs under section 257.46.
+(6)
+For deposit in the unpaid student meals account to be used for purposes of paying
+student meal debt accrued by individual students in accordance with section 283A.11,
+subsection 6.
+(7)
+Any school district general fund purpose.
+(8)
+An approved flexible student and school support program under section 256.11,
+subsection 8.
+d.
+Expenditures from the flexibility account shall be approved by resolution of the
+board of directors of the school corporation and shall be included in the budget certified
+in accordance with chapter 24.
+Before the board of directors may adopt the resolution
+approving expenditures from the flexibility account, the board shall hold a public hearing on
+the proposed resolution. The proposed resolution must state the original source and purpose
+of the funds, the proposed use of such funds, the amount of the proposed expenditure, and
+the fiscal year from which the transfer of such funds to the flexibility account occurred. The
+proposed resolution must also include a certification that the statutory requirements for each
+original source of the money proposed to be used have been met, have been repealed, or are
+no longer in effect. The board shall publish notice of the time and the place of the public
+hearing in the same manner as required in section 24.9. The department of education shall
+prescribe the form for public hearing notices. A copy of the resolution shall be provided by
+the board to the department of education and shall be made available by the board for any
+audit performed under chapter 11.
+e. (1)
+When exercising authority to carry out an agency action, as defined in section
+17A.2, or to perform an activity or make a decision specified in section 17A.2, subsection
+11, paragraphs “a” through “l”, if applicable, related to the provisions of this subsection, the
+department of education, the director of the department of education, and the state board
+of education shall carry out, perform, or make such agency action, activity, or decision in a
+manner that gives deference to decisions of school districts’ boards of directors, promotes
+flexibility for school districts, and minimizes intrusions into school district operations and
+decision making by boards of directors.
+(2) (a)
+In addition to subparagraph (1), the department of education, the director of the
+department of education, and the state board of education shall not issue guidance related
+to the provisions of this subsection, that is inconsistent with any statute, rule, or other legal
+authority or that imposes any legally binding obligations or duties upon any person unless
+such legally binding obligations or duties are required or reasonably implied by any statute,
+rule, or other legal authority. Guidance issued in violation of this subparagraph (2) shall not
+be deemed to be legally binding.
+(b)
+For the purposes of this subparagraph (2), “guidance” means a document or statement
+issued by the department of education, the director of the department of education, or the
+state board of education that purports to interpret a law, a rule, or other legal authority and
+is designed to provide advice or direction to a person regarding the implementation of or
+compliance with the law, the rule, or the other legal authority being interpreted. “Guidance”
+does not include any action, activity, or decision governed by subparagraph (1), a document
+or statement required by federal law or a court, or a document or statement issued in the
+course of a contested case proceeding, an administrative proceeding, or a judicial proceeding
+to which the department, the state board, or the director is a party.
+94 Acts, ch 1029, §2; 2017 Acts, ch 154, §6; 2018 Acts, ch 1127, §3; 2021 Acts, ch 139, §4, 5
+Referred to in §256.11, 256C.4, 257.10, 257.41, 257.46, 283A.11, 284.6, 299A.12
+298A.3 District management levy fund.
+The district management levy fund is a special revenue fund. A district management levy
+fund must be established in any school corporation which levies the tax authorized under
+section 298.4.
+94 Acts, ch 1029, §3
+298A.4 Physical plant and equipment levy fund.
+The physical plant and equipment levy fund is a capital project fund. A physical plant
+and equipment levy fund must be established in any school corporation which levies the tax
+authorized, whether regular or voter-approved, under section 298.2.
+94 Acts, ch 1029, §4; 2013 Acts, ch 88, §30
+298A.5 Schoolhouse tax levy fund.
+Repealed by 2013 Acts, ch 88, §37.
+298A.6 Public education and recreation levy fund.
+The public education and recreation levy fund is a special revenue fund. A public education
+and recreation levy fund must be established in any school corporation which levies the tax
+authorized under section 300.2 or which receives revenue from a chapter 28E agreement
+authorized under section 300.1.
+94 Acts, ch 1029, §6
+298A.7 Library levy fund.
+The library levy fund is a special revenue fund. A library levy fund must be established in
+any school corporation which levies the tax authorized under section 298.7.
+94 Acts, ch 1029, §7
+298A.8 Student activity fund.
+1.
+The student activity fund is a special revenue fund. A student activity fund must be
+established in any school corporation receiving money from student-related activities such as
+admissions, activity fees, student dues, student fundraising events, or other student-related
+cocurricular or extracurricular activities. Moneys in this fund shall be used to support only the
+cocurricular or extracurricular program defined in department of education administrative
+rules.
+2.
+For school budget years beginning on or after July 1, 2016, the board of directors
+of a school corporation may, by board resolution, transfer from the school corporation’s
+general fund to the student activity fund an amount necessary to purchase or recondition
+protective and safety equipment required for any extracurricular interscholastic athletic
+contest or competition that is sponsored or administered by an organization as defined in
+section 280.13.
+94 Acts, ch 1029, §8; 2017 Acts, ch 153, §16 – 18; 2018 Acts, ch 1112, §13, 16, 17; 2021 Acts,
+ch 96, §1 – 3; 2023 Acts, ch 64, §46
+Referred to in §298A.15
+298A.9 Capital project funds.
+A capital project fund must be established in any school corporation which issues bonds or
+other authorized indebtedness for capital projects or which initiates a capital project, or which
+receives grants or other funds for capital projects. Boards are authorized to establish more
+than one capital project fund as necessary. Any balance remaining in a capital project fund
+after the capital project is completed may be retained for future capital projects in accordance
+with the original purpose of the bond issue or voter-approved levy; or may be transferred, by
+board resolution, to the debt service fund, to the physical plant and equipment levy fund or
+another capital project fund, or to the fund from which the surplus originated; or transferred
+to the general fund in accordance with section 278.1, subsection 1, paragraph “e”.
+94 Acts, ch 1029, §9; 2013 Acts, ch 88, §31
+298A.10 Debt service fund.
+A debt service fund must be established in any school corporation which issues bonds
+or other authorized indebtedness. The debt service fund shall be used to pay interest as it
+becomes due and the amount necessary to pay the principal when due on bonds or other
+authorized indebtedness issued by the district, and to make payments required under a
+loan, lease-purchase agreement, or other evidence of indebtedness authorized by this Code.
+Moneys available to service this debt and received from other sources shall be transferred
+to the debt service fund and the payment of the debt shall be made from this fund. Funds
+remaining in the debt service fund after payment of all outstanding debt in accordance
+with the original purpose of the indebtedness may be transferred by board resolution to the
+physical plant and equipment levy fund or transferred to the general fund in accordance
+with section 278.1, subsection 1, paragraph “e”.
+94 Acts, ch 1029, §10
+298A.11 School nutrition fund.
+A school nutrition fund is an enterprise fund. A school nutrition fund must be established
+in any school corporation receiving moneys from the school meal program authorized under
+chapter 283A.
+94 Acts, ch 1029, §11; 95 Acts, ch 67, §24
+Referred to in §283A.11
+298A.12 Child care fund.
+1.
+A child care fund is an enterprise fund. A child care fund must be established in any
+school corporation receiving moneys from the child care program authorized under section
+279.49.
+2.
+If the sum of the fees collected under section 279.49 for participation in a before and
+after school program and other moneys deposited in the fund as the result of the before and
+after school program exceeds the amount necessary to operate the before and after school
+program, the excess amount may, following a public hearing, be transferred by resolution of
+the board of directors of the school corporation for deposit in the general fund of the school
+corporation to be used for school district general fund purposes. The board shall publish
+notice of the time and the place of the public hearing in the same manner as required in
+section 24.9. The resolution transferring the excess amount shall state the original source and
+purpose of the funds, the method used to establish fee amounts for the before and after school
+program under section 279.49, subsection 4, the proposed use of such funds, and the amount
+of the transfer.
+The department of education shall prescribe the form for public hearing
+notices. The board shall provide a copy of the resolution to the department of education
+and shall make the resolution available for any audit performed under chapter 11. A transfer
+under this subsection does not increase a school district’s authorized expenditures as defined
+in section 257.7.
+94 Acts, ch 1029, §12; 99 Acts, ch 192, §33; 2018 Acts, ch 1112, §14, 16, 17
+298A.13 Trust, permanent, or custodial funds.
+Trust, permanent, or custodial funds shall be established by any school corporation to
+account for gifts it receives to be used for a particular purpose or to account for money and
+property received and administered by the district as trustee or custodian or in the capacity
+of an agent. Boards may establish trust, permanent, or custodial funds as necessary.
+94 Acts, ch 1029, §13; 2013 Acts, ch 88, §32; 2020 Acts, ch 1022, §6
+298A.14 Other funds.
+A school corporation may establish other funds in accordance with generally accepted
+accounting principles and may certify other taxes to be levied for the funds as provided by
+state law. The status of each fund must be included in the annual report. The treasurer shall
+keep a separate account for each fund, and shall not pay an order that fails to state the fund
+upon which it is drawn and the specific use to which it is to be applied.
+94 Acts, ch 1029, §14
+298A.15 Entrepreneurial education funds.
+1.
+Funds established — purposes.
+For the purposes of enhancing student learning by
+encouraging students to develop and practice entrepreneurial skills at an early age and of
+fostering a business-ready workforce in this state, a school corporation may establish an
+entrepreneurial education fund at the request of a student organization or club and upon
+approval by the school board. An entrepreneurial education fund is a special revenue fund
+and shall consist only of moneys earned through entrepreneurial activities or returns on
+investments made for entrepreneurial purposes by the student organization or club, private
+donations and private contributions, and any interest earned on such moneys, that are
+deposited in the fund.
+Moneys in the fund shall be used only for investments made, or
+activities undertaken, for entrepreneurial purposes in accordance with this section.
+The
+student organization or club may designate an entrepreneurial purpose for the use of moneys
+in the fund in accordance with this section.
+A school corporation may expend moneys
+in the fund for use by the student organization or club in accordance with this section
+upon approval of the designated entrepreneurial purpose by the school board.
+A school
+organization or club shall deposit any return on an investment made with moneys from the
+fund in the school corporation’s entrepreneurial education fund.
+The school corporation
+shall not transfer or contribute to the fund any other moneys that are not moneys earned
+through entrepreneurial activities or returns on investments made for entrepreneurial
+purposes by the student organization or club.
+2.
+Funds transferred.
+At the request of a student organization or club and upon approval
+by the school board, a school corporation shall transfer moneys in a student activity fund
+established under section 298A.8, for deposit by the student organization or club in an
+entrepreneurial education fund.
+However, a school corporation shall not transfer such
+moneys unless the moneys are attributable through appropriate documentation to the
+specific student organization or club and unless the student organization or club shows
+through appropriate documentation that the student organization or club earned the moneys
+through entrepreneurial activities as defined in subsection 5, paragraph “a”.
+3.
+Conflicts of interest prohibited.
+A student organization or club shall not invest moneys
+from an entrepreneurial education fund for an entrepreneurial purpose in which a member of
+the student organization or club, an advisor or supervisor of the student organization or club,
+or an immediate family member of such persons, has a financial interest. Sections 279.7A
+and 301.28 apply to this section.
+4.
+Fund closure. A school corporation shall close an entrepreneurial education fund at
+the request of the student organization or club for which the school corporation established
+the fund. All moneys in the fund on the date of closure and any subsequent return on an
+investment made with moneys from the fund shall be deposited in the school corporation’s
+student activity fund established under section 298A.8.
+5.
+Definitions.
+For purposes of this section:
+a.
+“Entrepreneurial activities” means starting, maintaining, or expanding a business
+venture, including a seasonal business venture, or rendering other labor or services in return
+for compensation. “Entrepreneurial activities” does not include charitable contributions or
+other donations or gifts received by the student organization or club for which no labor or
+services are rendered.
+b.
+“Entrepreneurial purpose” means establishing or investing in a start-up company,
+early-stage company, or existing company developing a new product or new technology if
+the investment is in keeping with the education program of the school corporation; if the
+student organization or club or its members will, as a stated condition of the investment,
+take an active role in the company which active role directly relates to and furthers the
+educational purposes for which the student organization or club is established; and if a
+reasonable return upon the investment is expected.
+c.
+“Immediate family member” means a spouse; natural or adoptive parent, child, or
+sibling; or stepparent, stepchild, or stepsibling.
+2013 Acts, ch 71, §3 – 5
+Referred to in §11.6, 12B.10
