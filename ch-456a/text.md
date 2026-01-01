@@ -1,0 +1,1164 @@
+CHAPTER 456A
+REGULATION AND FUNDING — NATURAL RESOURCES DEPARTMENT
+Referred to in §455A.4, 455A.5, 481A.1
+This chapter not enacted as a part of this title; transferred from chapter 107 in Code 1993
+456A.1
+Definitions.
+456A.2
+through 456A.5
+Reserved.
+456A.6
+Expenses generally.
+456A.7
+through 456A.11
+Reserved.
+456A.12
+Lighting by law enforcement
+vehicles of conservation
+officer.
+456A.13
+Officers and employees — peace
+officer status.
+456A.13A
+Full-time officers — health
+insurance.
+456A.13B
+Occupancy of state housing in
+state parks.
+Repealed by its
+own terms; 2022 Acts, ch 1147,
+§34
+456A.14
+Temporary appointments —
+peace officer status.
+456A.15
+Removal.
+456A.16
+Income tax refund checkoff for
+fish and game protection fund.
+456A.17
+Funds — restrictions.
+456A.18
+Report of funds.
+456A.19
+Expenditures.
+456A.20
+Limitation on nursery stock —
+exception.
+456A.21
+Forestry management and
+enhancement fund.
+456A.22
+Political activity.
+Repealed by 96
+Acts, ch 1022, §1.
+456A.23
+General duties.
+456A.24
+Specific powers.
+456A.25
+Orders.
+456A.26
+Interpretation and limitations.
+456A.27
+Federal wildlife Act — assent.
+456A.28
+Fish restoration projects.
+456A.29
+Outdoor recreational and
+watershed projects.
+456A.30
+Federal assistance for outdoor
+recreation.
+456A.31
+Comprehensive plan.
+456A.32
+Application for aid.
+456A.33
+Watershed projects.
+456A.33A
+Watershed priority.
+456A.33B
+Lake restoration plan and report.
+456A.33C
+On-stream impoundment
+restoration fund.
+456A.34
+Limit on state’s commitment.
+456A.35
+Applications not limited.
+456A.36
+Timber buyers.
+456A.37
+Aquatic invasive species —
+prevention and control.
+456A.38
+Lease to beginning farmers
+program.
+456A.1 Definitions.
+As used in this chapter unless the context otherwise requires:
+1.
+“Commission” means the natural resource commission.
+2.
+“Department” means the department of natural resources created under section 455A.2.
+3.
+“Director” means the director of the department.
+[S13, §1400-p; C24, 27, §1795, 2604; C31, §1703-d2, -d3, 1795, 2604; C35, §1703-g1; C39,
+§1703.28; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §107.1; 82 Acts, ch 1199, §92, 96]
+86 Acts, ch 1245, §1827
+C93, §456A.1
+456A.2 through 456A.5
+Reserved.
+456A.6 Expenses generally.
+The members and employees of the commission, the director and officers shall be
+reimbursed for all actual and necessary expenses incurred by them in the discharge of
+their official duties when absent from their usual place of abode, unless said appointees or
+employees are serving under a contract which requires them to defray their own expenses.
+[C31, §1703-d6; C35, §1703-g6; C39, §1703.33; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§107.6]
+C93, §456A.6
+456A.7 through 456A.11
+Reserved.
+456A.12 Lighting by law enforcement vehicles of conservation officer.
+The required usage of lighting devices set out in sections 321.384 through 321.409 and
+section 321.415 does not apply to official law enforcement vehicles operated by conservation
+officers appointed under section 456A.13, while these vehicles are being used in criminal
+investigations or while attempting to apprehend suspected criminals.
+88 Acts, ch 1216, §43
+C89, §107.12
+C93, §456A.12
+456A.13 Officers and employees — peace officer status.
+The director shall employ the number of assistants, including a professionally trained state
+forester, that are necessary to carry out the duties imposed on the commission; and, under the
+same conditions, the director shall appoint the number of full-time officers and supervisory
+personnel that are necessary to enforce all laws of the state and rules and regulations of the
+commission. The full-time officers and supervisory personnel have the same powers that
+are conferred by law on peace officers in the enforcement of all laws of the state of Iowa
+and the apprehension of violators. A person appointed as a full-time officer shall be at least
+twenty-one years of age on the date of appointment and shall not be employed as a full-time
+officer after attaining the age of sixty-five. “Full-time officer” means any person appointed by
+the director to enforce the laws of this state.
+[C73, §4052; C97, §2540; SS15, §2539, 2540; C24, 27, §1715; C31, §1703-d20, -d22, 1715;
+C35, §1703-g13, -g15; C39, §1703.40, 1703.42; C46, 50, 54, 58, 62, 66, 71, §107.13, 107.15;
+C73, 75, 77, 79, 81, §107.13]
+86 Acts, ch 1245, §1828, 1854
+C93, §456A.13
+98 Acts, ch 1183, §114
+Referred to in §20.3, 97B.49B, 97B.49G, 161A.42, 456A.12, 456A.13A, 456A.15, 481A.68, 801.4
+456A.13A Full-time officers — health insurance.
+1. a.
+Notwithstanding any provision to the contrary, full-time officers as defined in
+section 456A.13 that are not covered under a collective bargaining agreement who were at
+any time eligible to be enrolled in the group health insurance plan that is negotiated under
+chapter 20 between the state and the state police officers council labor union and who elect
+to participate in a group health insurance plan provided by the state, shall only be permitted
+to participate in the group health insurance plan that is negotiated under chapter 20 between
+the state and the state police officers council labor union for full-time officers subject to the
+requirements of this subsection. In addition, a full-time officer who was covered under a
+collective bargaining agreement and who becomes a manager or supervisor and is no longer
+covered by the agreement shall not lose group health insurance benefits as provided by the
+agreement.
+b.
+Notwithstanding any provision to the contrary, a full-time officer participating in the
+group health insurance plan pursuant to paragraph “a” shall have the option, upon retirement,
+to continue participation in the group health insurance plan pursuant to section 509A.13
+subject to the requirements of this section. However, a full-time officer who was not covered
+under a collective bargaining agreement and not participating in the group health insurance
+plan as provided by this section at the time of retirement shall not be allowed to participate in
+the group health insurance plan negotiated under chapter 20 between the state and the state
+police officers council upon retirement.
+2.
+The department shall calculate the savings to the department for full-time officers
+employed in the law enforcement bureau of the department who are participating in the
+group health insurance plan pursuant to subsection 1. The department shall transfer to the
+state fish and game protection fund created in section 456A.17 from moneys appropriated to
+the department an amount equal to the savings calculated by the department. In addition, the
+department shall be authorized to retain any savings to the department for full-time officers
+who are not employed in the law enforcement bureau of the department participating in
+the group health insurance plan pursuant to subsection 1 from moneys appropriated to the
+department.
+2021 Acts, ch 183, §23, 25
+456A.13B Occupancy of state housing in state parks.
+Repealed by its own terms; 2022
+Acts, ch 1147, §34
+456A.14 Temporary appointments — peace officer status.
+The director may appoint temporary officers for a period not to exceed six months and may
+adopt minimum physical, educational, mental, and moral requirements for the temporary
+officers. Chapter 80B does not apply to the temporary officers. Temporary officers have all
+the powers of peace officers in the enforcement of this chapter and chapters 321G, 321I, 456B,
+461A, 461B, 462A, 462B, 465C, 481A, 481B, 482, 483A, 484A, and 484B, sections 455A.14A*
+and 455A.14B,** and the trespass laws.
+[C35, §1703-g14; C39, §1703.41; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §107.14]
+86 Acts, ch 1245, §1829; 92 Acts, ch 1160, §15
+C93, §456A.14
+2004 Acts, ch 1132, §91; 2021 Acts, ch 48, §1; 2022 Acts, ch 1101, §5 – 7
+Referred to in §456A.15, 481A.68
+*Section 455A.14A repealed by its own terms effective December 31, 2025; corrective legislation is pending
+**Section 455A.14B repealed by its own terms effective December 31, 2025; corrective legislation is pending
+456A.15 Removal.
+The persons appointed or employed as provided under sections 456A.13 and 456A.14 may
+be removed by the director at any time subject to the approval of the commission.
+[C31, §1703-d20; C35, §1703-g16; C39, §1703.43; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79,
+81, §107.16]
+C83, §107.15
+C93, §456A.15
+2016 Acts, ch 1073, §125
+456A.16 Income tax refund checkoff for fish and game protection fund.
+1.
+A person who files an individual or a joint income tax return with the department of
+revenue under section 422.13 may designate any amount to be paid to the state fish and game
+protection fund. If the refund due on the return or the payment remitted with the return is
+insufficient to pay the additional amount designated by the taxpayer to the state fish and
+game protection fund, the amount designated shall be reduced to the remaining amount of
+refund or the remaining amount remitted with the return.
+2.
+The revenues received shall be used within the state of Iowa for habitat development
+and shall be deposited in the state fish and game protection fund. The revenue may be used
+for the matching of federal funds. The revenues and matched federal funds may be used for
+acquisition of land, leasing of land, or obtaining of easements from willing sellers for use
+of land as wildlife habitats for game and nongame species. Not less than fifty percent of
+the funds derived from the checkoff shall be used for the purposes of preserving, protecting,
+perpetuating, and enhancing nongame wildlife in this state. Nongame wildlife includes those
+animal species which are endangered, threatened, or not commonly pursued or killed either
+for sport or profit. Notwithstanding the exemption in section 427.1, the land acquired with
+the revenues and matched federal funds is subject to the full consolidated levy of property
+taxes which shall be paid from those revenues. In addition, the revenues may be used for
+the development and enhancement of wildlife lands and habitat areas and for research and
+management necessary to qualify for federal funds.
+3.
+The director of revenue shall draft the income tax form to allow the designation of
+contributions to the state fish and game protection fund on the tax return.
+4.
+The department of revenue on or before January 31 of the year following the preceding
+calendar year shall certify the total amount designated on the tax return forms due in the
+preceding calendar year and shall report the amount to the state treasurer. The state treasurer
+shall credit the amount to the state fish and game protection fund.
+5.
+The general assembly shall appropriate annually from the state fish and game
+protection fund the amount credited to the fund from the checkoff to the department for the
+purposes specified in this section.
+6.
+The action taken by a person for the checkoff is irrevocable.
+7.
+The department shall adopt rules pursuant to chapter 17A to implement this section.
+However, before a checkoff pursuant to this section shall be permitted, all liabilities on the
+books of the department of revenue and accounts identified as owing under section 421.65
+shall be satisfied.
+[82 Acts, ch 1015, §1, 2, ch 1196, §1]
+C83, §107.16
+84 Acts, ch 1263, §2; 85 Acts, ch 230, §2; 86 Acts, ch 1244, §22
+C93, §456A.16
+2002 Acts, ch 1162, §63; 2003 Acts, ch 145, §286; 2004 Acts, ch 1101, §66; 2015 Acts, ch 30,
+§138; 2017 Acts, ch 144, §9, 14; 2020 Acts, ch 1064, §22, 28; 2020 Acts, ch 1118, §73, 74
+Referred to in §422.12H
+Limitation on number of income tax return checkoffs; automatic repeal of certain checkoffs; see §422.12E
+456A.17 Funds — restrictions.
+1.
+The following four funds are created in the state treasury:
+a.
+A state fish and game protection fund.
+b.
+A state conservation fund.
+c.
+An administration fund.
+d.
+A county conservation board fund.
+2.
+The state fish and game protection fund, except as otherwise provided, consists of all
+moneys accruing from license fees and all other sources of revenue arising under the fish
+and wildlife programs. Notwithstanding section 12C.7, subsection 2, interest or earnings on
+investments or time deposits of the moneys in the state fish and game protection fund shall
+be credited to that fund.
+3.
+The county conservation board fund consists of all moneys credited to it by law or
+appropriated to it by the general assembly.
+4.
+The state conservation fund, except as otherwise provided, consists of all other funds
+accruing to the department for the purposes embraced by this chapter.
+5.
+The administration fund shall consist of an equitable portion of the gross amount of the
+state fish and game protection fund and the state conservation fund, to be determined by the
+commission, sufficient to pay the expense of administration entailed by this chapter.
+6.
+All receipts and refunds and reimbursements related to activities funded by the
+administration fund are appropriated to the administration fund.
+All refunds and
+reimbursements relating to activities of the state fish and game protection fund shall be
+credited to the state fish and game protection fund.
+7.
+Notwithstanding section 8.33, revenues deposited in the state conservation fund, and
+remaining in the state conservation fund on June 30 of any fiscal year shall not revert to the
+general fund of the state but shall remain available for expenditure for one year after the close
+of the fiscal year during which such revenues were deposited. Any such revenues remaining
+unexpended at the end of the one-year period during which the revenues are available for
+expenditure shall revert to the general fund of the state.
+8.
+The department may apply for a loan for the construction of facilities for the collection
+and treatment of waste water and for the supply, treatment, and distribution of drinking water
+under the state water pollution control works and drinking water facilities financing program
+as established in sections 455B.291 through 455B.299. In order to provide for the repayment
+of a loan granted under the financing program, the commission may impose a lien on not more
+than ten percent of the annual revenues from user fees and related revenue derived from park
+and recreation areas under chapter 461A which are deposited in the state conservation fund.
+If a lien is established as provided in this paragraph, repayment of the loan is the first priority
+on the revenues received and dedicated for the loan repayment each year.
+[C31, §1703-d23, 1820; C35, §1703-g17; C39, §1703.44; C46, 50, 54, 58, 62, 66, 71, 73, 75,
+77, 79, 81, §107.17; 82 Acts, ch 1084, §1]
+84 Acts, ch 1262, §3; 86 Acts, ch 1244, §23; 86 Acts, ch 1245, §1830, 1831
+C93, §456A.17
+94 Acts, ch 1107, §72; 95 Acts, ch 98, §2; 2002 Acts, ch 1162, §64; 2002 Acts, 2nd Ex, ch
+1003, §242, 262; 2003 Acts, ch 17, §1, 2; 2010 Acts, ch 1034, §3, 4; 2011 Acts, ch 25, §55
+Referred to in §455A.19, 456A.13A, 456A.18, 456A.27, 456A.28, 461A.32, 483A.3B, 484A.4
+456A.18 Report of funds.
+The director shall, at least monthly, make return and pay to the treasurer of state all moneys
+then in the director’s hands belonging to the funds created in section 456A.17.
+[C31, §1703-d23, 1820; C35, §1703-g18; C39, §1703.45; C46, 50, 54, 58, 62, 66, 71, 73, 75,
+77, 79, 81, §107.18]
+86 Acts, ch 1245, §1832
+C93, §456A.18
+2005 Acts, ch 3, §75
+456A.19 Expenditures.
+1.
+All funds accruing to the fish and game protection fund, except an equitable portion of
+the administration fund, shall be expended solely in carrying on fish and wildlife activities.
+Expenditures incurred by the department in carrying on the activities shall be only on
+authorization by the general assembly.
+a.
+The department shall by October 1 of each year submit to the department of
+management for transmission to the general assembly a detailed estimate of the amount
+required by the department during the succeeding year for carrying on fish and wildlife
+activities. The estimate shall be in the same general form and detail as required by law in
+estimates submitted by other state departments.
+b.
+Any unexpended balance at the end of the biennium shall revert to the fish and game
+protection fund.
+c.
+All administrative expense shall be paid from the administration fund.
+d.
+All other expenditures shall be paid from the state conservation fund.
+2.
+All expenditures under this chapter are subject to approval by the director of the
+department of management and the director of the department of administrative services.
+3.
+All moneys credited to the county conservation board fund shall be used to provide
+grants to county conservation boards to provide funding for the purposes of chapter 350.
+These grants are in addition to moneys appropriated to the conservation boards from the
+county boards of supervisors. The grants shall be made to the conservation boards based
+upon the needs of the boards. Applications shall be made by the boards to the commission.
+[C35, §1703-g19; C39, §1703.46; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §107.19]
+84 Acts, ch 1262, §4; 86 Acts, ch 1245, §1833, 1834; 88 Acts, ch 1134, §25; 88 Acts, ch 1158,
+§18
+C93, §456A.19
+94 Acts, ch 1107, §73; 95 Acts, ch 214, §22; 2002 Acts, ch 1162, §65; 2003 Acts, ch 108, §79;
+2003 Acts, ch 145, §286; 2011 Acts, ch 25, §56; 2013 Acts, ch 30, §103; 2015 Acts, ch 29, §114
+Referred to in §456A.24, 456A.27, 456A.28
+456A.20 Limitation on nursery stock — exception.
+1.
+Moneys appropriated to the department which are used in growing or handling nursery
+stock shall be used for growing or handling of the nursery stock for distribution only on
+state-owned lands. However, the department may do any of the following:
+a.
+Produce and sell game cover packets and trees for erosion control at private sale.
+b.
+Produce trees for a demonstration windbreak in each township in the state.
+c.
+Dispose of growing trees under a departmental plan of distribution.
+2.
+The department shall deposit a portion of the moneys that it receives from selling trees
+and shrubs as provided in this section to the forestry management and enhancement fund as
+created in section 456A.21. The amount deposited in the fund shall equal five cents for each
+coniferous tree and ten cents for each hardwood tree and shrub sold.
+[C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §107.20]
+86 Acts, ch 1245, §1835, 1845
+C93, §456A.20
+99 Acts, ch 206, §25; 2000 Acts, ch 1154, §32
+Referred to in §456A.21
+456A.21 Forestry management and enhancement fund.
+1.
+A forestry management and enhancement fund is created in the state treasury under
+the department’s control. The fund is composed of moneys deposited into the fund pursuant
+to section 456A.20, moneys appropriated by the general assembly, and moneys available to
+and obtained or accepted by the department from the United States or private sources for
+placement in the fund.
+2.
+Moneys in the fund are subject to an annual audit by the auditor of state. The fund
+is subject to warrants written by the director of the department of administrative services,
+drawn upon the written requisition of the department.
+3.
+The fund shall be used exclusively to support the management and enhancement of
+forests, including woodlands or timber stands in this state, on private lands in cooperation
+with the owners of those lands. The department shall use moneys in the fund to support the
+following full-time equivalent positions in addition to those supported from the general fund
+of the state:
+a.
+Four forestry technicians who shall serve regions of the state as designated by the
+department.
+b.
+One professional forester who shall serve the southwest region of the state.
+4.
+The commission may adopt rules pursuant to chapter 17A to administer this section.
+5.
+Section 8.33 shall not apply to moneys in the fund. Notwithstanding section 12C.7,
+moneys earned as income, including as interest, from the fund shall remain in the fund until
+expended as provided in this section.
+99 Acts, ch 206, §26; 2000 Acts, ch 1160, §2; 2002 Acts, ch 1162, §66; 2003 Acts, ch 108, §80,
+81; 2003 Acts, ch 145, §286
+Referred to in §456A.20
+456A.22 Political activity.
+Repealed by 96 Acts, ch 1022, §1.
+456A.23 General duties.
+The department shall protect, propagate, increase, and preserve the wild mammals, fish,
+birds, reptiles, and amphibians of the state and enforce by proper actions and proceedings
+the laws, rules, and regulations relating to them. The department shall collect, classify, and
+preserve all statistics, data, and information as in its opinion tend to promote the objects
+of this chapter, conduct research in improved conservation methods, and disseminate
+information to residents and nonresidents of Iowa in conservation matters.
+[C31, 35, §1703-d11; C39, §1703.49; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §107.23]
+83 Acts, ch 168, §1; 91 Acts, ch 268, §224
+C93, §456A.23
+Referred to in §456A.26
+456A.24 Specific powers.
+The department is hereby authorized and empowered to:
+1.
+Expend, as authorized by the general assembly under section 456A.19, any and all
+moneys accruing to the fish and game protection fund from any and all sources in carrying
+out the purposes of this chapter; any Act, or Acts, not consistent with this provision are hereby
+repealed so far as they may apply to the fish and game protection fund.
+2.
+Acquire by purchase, condemnation, lease, agreement, gift, and devise lands or waters
+suitable for the purposes enumerated in this subsection, and rights-of-way to those lands and
+waters, and to maintain the lands and waters for the following purposes:
+a.
+Public hunting, fishing, and trapping grounds and waters to provide areas in which any
+person may hunt, fish, or trap in accordance with the law and the rules of the department.
+b.
+Fish hatcheries, fish nurseries, game farms, and wild mammal, fish, bird, reptile, and
+amphibian refuges.
+3.
+Extend and consolidate lands or waters suitable for the purposes enumerated in
+subsection 2 by exchange for other lands or waters and to purchase, erect, and maintain
+buildings necessary to the work of the department.
+4.
+Capture, propagate, buy, sell, or exchange any species of wild mammal, fish, bird,
+reptile, and amphibian needed for stocking the lands or waters of the state, and to feed,
+provide for, and care for them.
+5.
+The department is hereby authorized to adopt and enforce such departmental rules
+governing procedure as may be necessary to carry out the provisions of this chapter; also to
+carry out any other laws the enforcement of which is vested in the department.
+6.
+The department is hereby further authorized to adopt, publish, and enforce such
+administrative orders as are authorized in section 481A.38.
+7.
+Pay the salaries, wages, compensation, traveling, and other necessary expenses of the
+commissioners, director, officers, and other employees of the department; expend money for
+necessary supplies and equipment; and make such other expenditures as may be necessary
+for the carrying into effect the purposes of this chapter.
+8.
+Control by shooting or trapping any wild mammal, fish, bird, reptile, and amphibian for
+the purpose of preventing the destruction of or damage to private or public property, but shall
+not go upon private property for that purpose without the consent of the owner or occupant.
+9.
+Provide for the protection against fire and other destructive agencies on state and
+privately owned forests, parks, wildlife areas, and other property under its jurisdiction, and
+cooperate with federal and other state agencies in protection programs approved by the
+department, and with the consent of the owner, on privately owned areas.
+10.
+Provide conservation employees, when on duty, suitable uniforms, equipment, arms,
+and supplies.
+11.
+Establish a program governing the harvesting and sale of American ginseng subject
+to the convention on international trade in endangered species of wild fauna and flora and
+adopt rules providing for the time and conditions for harvesting the ginseng, the registration
+of dealers and exporters, the records kept by dealers and exporters, and the certification of
+legal taking. The time for harvesting of wild ginseng shall not begin before September 1
+or extend beyond November 1. A person violating this subsection or rules adopted by the
+department pursuant to this subsection is subject to a scheduled fine pursuant to section
+805.8B, subsection 4.
+12.
+Adopt rules authorizing officers and employees of the department who are peace
+officers to issue warning citations for violations of this chapter and chapters 321G, 321I,
+350, 456B, 457A, 461A, 461B, 461C, 462A, 462B, 464A, 465A, 465B, 465C, 481A, 481B, 482,
+483A, 484A, and 484B.
+13.
+Apply to any appropriate agency or officer of the United States government to
+participate in or receive aid from any federal program relating to forests or forestry
+management.
+The department may enter into contracts and agreements with the United
+States government or an appropriate agency of the United States government as necessary
+to secure funding for the acquisition, development, improvement, and management of
+forests and forestry resources and to provide funds or assistance to local governments or
+private citizens involved in forestry management. In connection with obtaining the benefits
+of a forestry program, the director shall coordinate the department’s activities with and
+represent the interests of all state agencies and the political subdivisions of the state having
+interests in forests or forestry management.
+14.
+Enter into an interstate wildlife violators compact with one or more states to enforce
+state laws and rules relating to the protection and conservation of wildlife subject to the
+requirements of section 28E.9.
+The commission may adopt rules as necessary for the
+implementation of the compact.
+[C31, 35, §1703-d12; C39, §1703.50; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §107.24]
+83 Acts, ch 33, §1; 83 Acts, ch 168, §2 – 4; 86 Acts, ch 1245, §1836, 1837, 1845; 91 Acts, ch
+78, §1; 92 Acts, ch 1160, §16
+C93, §456A.24
+93 Acts, ch 13, §1; 93 Acts, ch 38, §1; 2001 Acts, ch 14, §1; 2001 Acts, ch 137, §5; 2004 Acts,
+ch 1132, §92; 2021 Acts, ch 48, §2; 2021 Acts, ch 80, §288, 289; 2022 Acts, ch 1032, §69
+Referred to in §456A.26, 481A.48, 481A.67, 481A.130, 483A.28, 805.8B(4)
+456A.25 Orders.
+Administrative orders shall be made only after an investigation of the matter concerned.
+[C31, §1703-d13; C35, §1703-e12; C39, §1703.51; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79,
+81, §107.25]
+C93, §456A.25
+Referred to in §456A.26
+456A.26 Interpretation and limitations.
+Sections 456A.23 through 456A.25 shall not be construed as authorizing the commission
+to change any penalty for violating any game law or regulation, or change the amount of any
+license established by the legislature, or to promulgate any open season on any fish, animal,
+or bird contrary to the laws of the state of Iowa, or to extend except as provided in this chapter
+any open season or bag limit on any kind of fish, game, fur-bearing animals, or of any birds
+prescribed by the laws of the state of Iowa or by federal laws or regulations, or to contract
+any indebtedness or obligation beyond the funds to which they are lawfully entitled.
+[C31, 35, §1703-d15; C39, §1703.52; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §107.26]
+C93, §456A.26
+2009 Acts, ch 133, §156
+456A.27 Federal wildlife Act — assent.
+The state of Iowa assents to the provisions of the Act of Congress entitled “An Act To
+Provide That The United States Shall Aid The States In Wildlife Restoration Projects, And
+For Other Purposes”, approved September 2, 1937, 50 Stat. 917, codified at 16 U.S.C. §669 –
+669k, and the department may perform acts as necessary to the conduct and establishment
+of cooperative wildlife restoration projects, as defined in the Act of Congress, in compliance
+with the Act and with regulations promulgated by the secretary of agriculture under the Act.
+No funds accruing to the state of Iowa from license fees paid by hunters shall be diverted for
+any other purpose than as set out in sections 456A.17 and 456A.19.
+[C39, §1703.53; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §107.27]
+86 Acts, ch 1245, §1838, 1845
+C93, §456A.27
+2006 Acts, ch 1010, §119; 2015 Acts, ch 30, §139
+456A.28 Fish restoration projects.
+The state of Iowa assents to the provisions of the Act of Congress entitled “An Act To Provide
+That The United States Shall Aid The States In Fish Restoration Projects, And For Other
+Purposes”, approved August 9, 1950, Chapter 658, 64 Stat. 430, codified at 16 U.S.C. §777 –
+777n, and the department may perform acts as necessary to the conduct and establishment
+of cooperative fish restoration projects, as defined in the Act of Congress, in compliance with
+the Act and with regulations promulgated by the secretary of the interior under the Act. No
+funds accruing to the state of Iowa from fishing license fees shall be diverted for any other
+purposes than as set out in sections 456A.17 and 456A.19.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §107.28]
+86 Acts, ch 1245, §1839, 1845
+C93, §456A.28
+2015 Acts, ch 30, §140; 2020 Acts, ch 1062, §53
+456A.29 Outdoor recreational and watershed projects.
+The department may perform acts as necessary to the conduct and establishment of
+cooperative outdoor recreational and watershed projects as defined by the Congress of the
+United States and by regulations of the appropriate federal agency and may accept federal
+funds and assistance for the purpose of planning, acquisition, and development of outdoor
+recreational and watershed projects.
+[C66, 71, 73, 75, 77, 79, 81, §107.29]
+86 Acts, ch 1245, §1840, 1845
+C93, §456A.29
+2012 Acts, ch 1023, §157
+456A.30 Federal assistance for outdoor recreation.
+The legislature finds that the state of Iowa and its subdivisions should enjoy the benefits
+of federal assistance programs for the planning and development of the outdoor recreation
+resources of the state, including the acquisition of lands and waters and interests therein. It
+is the purpose of this section and sections 456A.31 through 456A.34 to provide authority to
+enable the state of Iowa and its subdivisions to participate in the benefits of such programs.
+[C66, 71, 73, 75, 77, 79, 81, §107.30]
+C93, §456A.30
+Referred to in §456A.34
+456A.31 Comprehensive plan.
+The department may prepare, maintain, and keep up-to-date a comprehensive plan for the
+development of the outdoor recreation resources of the state, and acquire lands, waters, and
+interests in lands and waters for such areas and facilities.
+[C66, 71, 73, 75, 77, 79, 81, §107.31]
+86 Acts, ch 1245, §1841, 1845
+C93, §456A.31
+Referred to in §456A.30, 456A.34, 461.32
+456A.32 Application for aid.
+The department may apply to any appropriate agency or officer of the United States for
+participation in or the receipt of aid from any federal program respecting outdoor recreation.
+The department may enter into contracts and agreements with the United States or any
+appropriate agency of the United States and, for purposes of preparation, maintenance, and
+updating of the comprehensive plan, may from time to time engage and contract for the
+services and advice of a professional planner of outdoor recreation plans and facilities and
+hire employees for such purposes as deemed necessary. In connection with obtaining the
+benefits of any such program, the department shall coordinate the department’s activities
+with and represent the interests of all agencies and subdivisions of the state having interests
+in the planning, development, and maintenance of outdoor recreation resources and
+facilities.
+[C66, 71, 73, 75, 77, 79, 81, §107.32]
+86 Acts, ch 1245, §1842, 1845
+C93, §456A.32
+Referred to in §456A.30, 456A.34
+456A.33 Watershed projects.
+The department may perform acts as necessary to conduct an establishment of cooperative
+outdoor recreational and watershed projects as defined by the Congress of the United States
+and by regulations of the appropriate federal agency and may accept federal funds and
+assistance for the purpose of planning, acquisition, and development of outdoor recreational
+and watershed projects.
+[C66, 71, 73, 75, 77, 79, 81, §107.33]
+86 Acts, ch 1245, §1843, 1845
+C93, §456A.33
+Referred to in §456A.30, 456A.34
+456A.33A Watershed priority.
+The commission shall each year establish a priority list of watersheds which are of highest
+importance based on soil loss to be used for the allocation of moneys set aside in annual
+appropriations from the general fund to the department of agriculture and land stewardship
+for permanent soil conservation practices under chapter 161A on watersheds above publicly
+owned lakes. Chapter 17A does not apply to this section.
+91 Acts, ch 268, §225
+CS91, §107.33A
+C93, §456A.33A
+Referred to in §161A.73, 456A.30, 461.34
+456A.33B Lake restoration plan and report.
+1.
+For purposes of this section, unless the context otherwise requires:
+a.
+“Lake” includes a significant public lake and a public shallow lake or wetland.
+b.
+“Public shallow lake or wetland” means a water body that meets the following criteria:
+(1)
+Is owned by the federal government, the state of Iowa, a county, or a municipal
+government, and is maintained principally for public use.
+(2)
+Is a multi-use system capable of supporting diverse wildlife, fish, or recreational
+opportunities.
+(3)
+Has a surface water area of at least ten acres.
+(4)
+Does not have a watershed-to-lake surface area ratio of greater than two hundred to
+one.
+(5)
+Is an open freshwater system where maximum depth is typically less than six to eight
+feet at its deepest spot and is under four and one-half feet mean depth.
+(6)
+Is typically fringed by a border of emergent vegetation in water depth less than six
+feet and when clear is dominated by both emergent and submergent vegetation and provides
+important wildlife and fish habitat.
+c.
+“Significant public lake” means a lake that meets all of the following criteria:
+(1)
+Is owned by the federal government, the state of Iowa, a county, or a municipal
+government, and is maintained principally for public use.
+(2)
+Is a multi-use system capable of supporting diverse wildlife, fish, or recreational
+opportunities.
+(3)
+Has a surface water area of at least ten acres.
+(4)
+Does not have a watershed-to-lake surface area ratio of greater than two hundred to
+one.
+(5)
+Is not an on-stream impoundment that emulates riverine habitat rather than a lake
+environment.
+(6)
+Is not used solely as a water supply reservoir.
+2. a.
+It is the intent of the general assembly that the department of natural resources
+shall develop annually a lake restoration plan and report that shall be submitted to the
+joint appropriations subcommittee on transportation, infrastructure, and capitals and the
+legislative services agency by no later than January 1 of each year. The plan and report shall
+include the department’s plans and recommendations for lake restoration projects to receive
+funding consistent with the process and criteria provided in this section, and shall include
+the department’s assessment of the progress and results of projects funded with moneys
+appropriated under this section.
+b.
+The department shall recommend funding for lake restoration projects that are
+designed to achieve the following goals:
+(1)
+Ensure a cost-effective, positive return on investment for the citizens of Iowa.
+(2)
+Ensure local community commitment to lake and watershed protection.
+(3)
+Ensure significant improvement in water clarity, safety, and quality of Iowa lakes.
+(4)
+Provide for a sustainable, healthy, functioning lake system.
+(5)
+Result in the removal of the lake from the impaired waters list.
+(6)
+When restored, will contribute to the department’s fish and wildlife conservation
+plans.
+3.
+The process and criteria the department shall utilize to recommend funding for lake
+restoration projects shall be as follows:
+a.
+The department, with input from stakeholders, shall maintain an annual list of not
+more than thirty-five significant public lakes and not more than five public shallow lakes or
+wetlands to be considered for funding based on the feasibility of restoring each lake and the
+use or potential use of the lake, if restored. The list shall include lake projects under active
+development that the department shall recommend be given priority for funding so long as
+progress toward completion of the projects remains consistent with the goals of this section.
+b.
+The department shall meet with stakeholders and representatives of communities
+where lakes on the annual list are located to provide an annual lake restoration assessment
+and to explain the process and criteria for receiving lake restoration funding. Communities
+with lakes not included on the annual list may petition the director of the department for a
+preliminary lake restoration assessment and explanation of the funding process and criteria.
+The department shall work with stakeholders and representatives of each community to
+develop a joint lake restoration action plan.
+At a minimum, each joint action plan shall
+document the causes, sources, and magnitude of lake impairment, evaluate the feasibility of
+the lake and watershed restoration options, establish water quality and fishery and wildlife
+goals and a schedule for attainment, describe long-term management actions, assess the
+economic benefits of the project, identify the sources and amounts of any leveraged funds,
+and describe the community’s commitment to the project, including local funding.
+The
+stakeholders’ and community’s commitment to the project may include moneys to fund a
+lake diagnostic study and watershed assessment, including development of a TMDL (total
+maximum daily load).
+c.
+Each joint lake restoration action plan shall comply with the following guidelines:
+(1)
+Biologic controls will be utilized to the maximum extent, wherever possible.
+(2)
+If proposed, dredging of the lake will be conducted to a mean depth of at least eight
+feet to gain water quality benefits unless a combination of biologic and structural controls is
+sufficient to assure water quality targets will be achieved at a shallower average water depth.
+(3)
+The costs of lake restoration will include the maintenance costs of improvements to
+the lake.
+(4)
+Delivery of phosphorus and sediment from the watershed will be controlled and in
+place before lake restoration begins. Loads of phosphorus and sediment, in conjunction with
+in-lake management, will meet or exceed the following water quality targets:
+(a)
+Clarity.
+A four-and-one-half-foot Secchi depth will be achieved fifty percent of the
+time from April 1 through September 30.
+(b)
+Safety.
+Beaches will meet water quality standards for recreational use.
+(c)
+Biota.
+A diverse, balanced, and sustainable aquatic community will be maintained.
+(d)
+Sustainability.
+The water quality benefits from the restoration efforts will be
+sustained for at least fifty years.
+d.
+The department shall evaluate the joint action plans and prioritize the plans based on
+the criteria required in this section. The department’s annual lake restoration plan and report
+shall include the prioritized list and the amounts of state and other funding the department
+recommends for each lake restoration project. The department shall seek public comment
+on its recommendations prior to submitting the plan and report to the general assembly.
+2006 Acts, ch 1179, §26; 2007 Acts, ch 22, §81, 82; 2011 Acts, ch 25, §143; 2012 Acts, ch
+1023, §63; 2016 Acts, ch 1133, §15 – 19; 2017 Acts, ch 29, §128
+Referred to in §456A.30, 461.38
+456A.33C On-stream impoundment restoration fund.
+1.
+For purposes of this section, unless the context otherwise requires, “eligible water body”
+means a body of water that meets all of the following criteria:
+a.
+Is owned by the state of Iowa, a county, a municipal government, or a public entity
+organized under chapter 357E.
+b.
+Is a multi-use system capable of supporting diverse wildlife, fish, and recreational
+opportunities.
+c.
+Has a surface water area of at least ten acres.
+d.
+Has a watershed-to-body of water ratio of not less than two hundred to one and not
+more than one thousand to one.
+e.
+Is a public body of water with public access.
+f.
+Has diverse water depths and is capable of supporting aquatic vegetation.
+g.
+Is not used solely as a water supply reservoir.
+2.
+The department shall establish an on-stream impoundment restoration program for
+purposes of funding projects for the maintenance, restoration, and sustainability of eligible
+water bodies and their related watersheds from moneys appropriated to the department for
+this purpose.
+3. a.
+The department shall fund projects for eligible water bodies that are designed to
+achieve the following goals:
+(1)
+Ensure a cost-effective, positive return on investment for the citizens of Iowa.
+(2)
+Ensure local community commitment to watershed protection.
+(3)
+Ensure significant improvement in water clarity, safety, and quality.
+(4)
+Provide for sustainable, healthy, and functioning bodies of water.
+(5)
+Contribute to the department’s fish and wildlife conservation plans.
+b.
+The process and criteria the department shall utilize to fund projects under this section
+shall favor proposals which include nonstate matching funds of at least one dollar for every
+dollar of state funding, and funding for watershed improvement practices and participation
+of corresponding watershed management authority.
+2019 Acts, ch 89, §15; 2019 Acts, ch 137, §18; 2023 Acts, ch 118, §11
+Referred to in §456A.30
+456A.34 Limit on state’s commitment.
+The department shall not make a commitment or enter into an agreement pursuant to
+an exercise of authority under sections 456A.30 through 456A.33 until the department has
+determined that sufficient funds are available to the department for meeting the state’s share,
+if any, of project costs. It is the legislative intent that, to the extent necessary to assure the
+proper operation and maintenance of areas and facilities acquired or developed pursuant to
+any program participated in by this state under authority of these sections, the areas and
+facilities shall be publicly maintained for outdoor recreation purposes. The department may
+enter into and administer agreements with the United States or any appropriate agency of
+the United States for planning, acquisition, and development projects involving participating
+federal aid funds on behalf of any subdivision of this state, if the subdivision gives necessary
+assurances to the department that it has available sufficient funds to meet its shares, if any,
+of the cost of the project and that the acquired or developed areas will be operated and
+maintained at the expense of the subdivision for public outdoor recreation use.
+[C66, 71, 73, 75, 77, 79, 81, §107.34]
+86 Acts, ch 1245, §1844, 1845
+C93, §456A.34
+Referred to in §456A.30
+456A.35 Applications not limited.
+The commission shall not limit the number of applications submitted for consideration or
+the number of projects under construction with respect to United States heritage conservation
+and recreation service projects.
+[C79, 81, §107.35]
+C93, §456A.35
+456A.36 Timber buyers.
+1.
+As used in this section, unless the context otherwise requires:
+a.
+“Employee” means a person in service or under contract for hire, expressed or implied,
+oral or written, who is engaged in any phase of the enterprise or business.
+b.
+“Timber” means trees, standing or felled, and logs which can be used for sawing or
+processing into lumber for building or structural purposes or for the manufacture of an article.
+However,“timber” does not include firewood, Christmas trees, or fruit or ornamental trees.
+c.
+“Timber buyer” means a person engaged in the business of buying timber for sawing
+into lumber, for processing, or for resale, but does not include a person who occasionally
+purchases timber for sawing or processing for the person’s own use and not for resale.“Timber
+buyer” includes a person who contracts with a timber grower on a shared-profit basis to
+harvest timber from the timber grower’s land.
+d.
+“Timber grower” means the owner, tenant, or operator of land in this state who has an
+interest in, or is entitled to receive a part of the proceeds from, the sale of timber grown in
+this state and includes a person exercising authority to sell timber.
+2. a. (1)
+A timber buyer shall file with the commission a surety bond signed by the person
+as principal and a corporate surety authorized to engage in the business of executing surety
+bonds within the state. In lieu of a corporate surety a timber buyer may, with the approval of
+the commission, file a bond signed by the timber buyer as principal and accompanied by a
+bank certificate of deposit in a form approved by the commission showing to the satisfaction
+of the commission that funds equal to the amount of the required bond are on deposit in a
+bank to be held by the bank for the period covered by the certificate. The funds shall be
+made payable upon demand to the director, subject to the provisions of this section, for the
+use and benefit of the people of the state and for the use and benefit of a timber grower from
+whom the timber buyer purchased and who is not paid by the timber buyer or for the use
+and benefit of a timber grower whose timber has been cut by the timber buyer or the timber
+buyer’s agents, and who has not been paid.
+(2)
+The principal amount of the bond shall be ten percent of the total amount paid to
+timber growers during the preceding year, plus ten percent of the total amount due or
+delinquent and unpaid to timber growers at the end of the preceding year, and ten percent of
+the market value of growers’ shares of timber harvested during the previous year. However,
+the total amount of the bond shall be not less than twenty-five thousand dollars and not
+more than fifty thousand dollars.
+(3)
+The bond or surety shall not be canceled or altered except upon at least sixty days’
+notice in writing to the commission.
+(4)
+Bonds shall be in the form approved by the director, be conditioned to secure an honest
+cutting and accounting for timber purchased by the timber buyer, secure payment to the
+timber growers, and insure the timber growers against all fraudulent acts of the timber buyer
+in the purchase and cutting of the timber of this state.
+b.
+If a timber buyer fails to pay when due an amount due a timber grower for timber
+purchased, or fails to pay legally determined damages for timber wrongfully cut by a timber
+buyer or the buyer’s agent, or commits a violation of this section, an action on the bond for
+forfeiture may be commenced. The action is not exclusive and is in addition to other legal
+remedies available.
+c.
+The timber grower, the owner of timber cut, or the director may bring action on the
+bond for payment of the amount due from proceeds of the bond in the district court of the
+county in which the place of business of the timber buyer is situated or in any other lawful
+venue.
+d.
+The attorney general, upon request of the commission, shall institute proceedings to
+have the bond of the timber buyer forfeited for violation of any of the provisions of this section
+or for noncompliance with a commission rule. A timber buyer whose bond has been forfeited
+shall not engage in the business of buying timber for one year after the forfeiture.
+e.
+If the commission realizes more than the amount of liability from the security, after
+deducting expenses incurred in converting the security into money, the commission shall pay
+the excess to the timber buyer who furnished the security.
+3.
+The following are violations of this section:
+a.
+For a person to fail to pay, as agreed, for timber purchased.
+b.
+For a person to cut or cause to be cut or appropriate timber not purchased.
+c.
+For a person to willfully make a false statement in connection with the bond or other
+information required to be given to the commission or a timber grower.
+d.
+For a person to fail to honestly account to the timber grower or the commission for
+timber purchased or cut if the person is under a duty to do so.
+e.
+For a person to commit a fraudulent act in connection with the purchase or cutting of
+timber.
+f.
+For a person engaged in the business of transporting timber to transport timber without
+a completed timber transport certificate. The timber transport certificate shall be on a form
+approved by the department. A person shall not be convicted of a violation of this paragraph
+if the person produces before or at the person’s trial a copy of the timber transport certificate,
+written proof of the vendor’s ownership of the timber, or written consent of the owner of the
+timber.
+g.
+For a person to purchase timber without obtaining, prior to taking possession of the
+timber, a copy of the timber transport certificate, written proof of the vendor’s ownership of
+the timber, or the written consent of the owner of the timber. The purchaser shall keep the
+copy of the timber transport certificate or written proof of ownership or consent on file for at
+least one year from the date the timber was released to the purchaser’s possession.
+4. a.
+With the written consent of the timber buyer, the commission, its agents and other
+employees may inspect the premises and records of the timber buyer.
+b.
+If the timber buyer refuses admittance, or if prior to such refusal the director
+demonstrates the necessity for a warrant, the director may make application under oath to
+the district court of the county in which the premises or records are located for the issuance
+of a search warrant.
+c.
+In the application the director shall state that an inspection of the premises or record
+designated in the application may result in evidence tending to reveal the existence of
+violations of the provisions of this section or rule issued by the commission pursuant to
+this section. The application shall describe the premises or records to be inspected, give
+the date of the last inspection if known, give the date and time of the proposed inspection,
+declare the need for such inspection, recite that notice of desire to make an inspection has
+been given to affected persons and that admission was refused if that be the fact, and state
+that the inspection has no purpose other than to carry out the purpose of the statute or rule
+pursuant to which inspection is to be made.
+d.
+The court may issue a search warrant, after examination of the applicant and any
+witnesses, if the court is satisfied that there is probable cause to believe the existence of the
+allegations contained in the application.
+e.
+In making investigations, examinations, or surveys pursuant to the authority of this
+subsection, the director must execute the warrant in a reasonable manner within ten days
+after its date of issuance.
+5. a.
+A person who engages in business as a timber buyer without filing a bond or surety
+with the commission is guilty of a serious misdemeanor.
+b.
+A person who engages in business as a timber buyer who refuses to permit inspection
+of premises, books, accounts, or records as provided in this section is guilty of a serious
+misdemeanor.
+c.
+A person who violates any of the provisions of this section for which no other
+punishment is provided is guilty of a serious misdemeanor.
+6.
+The commission may promulgate rules as necessary to carry out the provisions of this
+section.
+7.
+The commission may, by application to a district court, obtain an injunction restraining
+a person who engages in the business of timber buying in this state from engaging in the
+business until that person complies with this section. Upon refusal or neglect to obey the
+order of the court, the court may compel obedience by proceedings for contempt.
+[C81, §107.36]
+C93, §456A.36
+96 Acts, ch 1073, §1, 2; 2011 Acts, ch 25, §115; 2020 Acts, ch 1015, §1 – 4
+456A.37 Aquatic invasive species — prevention and control.
+1.
+Definitions.
+As used in this section:
+a.
+“Aquatic invasive species” means a nonnative wildlife or plant species that has been
+determined by the department to pose a significant threat to the aquatic resources or water
+infrastructure of the state.
+b.
+“Aquatic plant” means a submergent, emergent, floating, or floating-leaved plant,
+including algae, and includes any part of such a plant.
+c.
+“Bait” means the same as defined in section 481A.1.
+d.
+“Water-related equipment” means a motor vehicle, boat, watercraft, dock, boat lift,
+raft, vessel, trailer, tool, implement, device, or any other associated equipment or container,
+including but not limited to portable bait containers, live wells, ballast tanks, bilge areas,
+and water-hauling equipment that is capable of containing or transporting aquatic invasive
+species, aquatic plants, or water.
+2.
+Rulemaking.
+The commission shall adopt rules pursuant to chapter 17A for the
+implementation and administration of this section. The rules shall do all of the following:
+a.
+Restrict the introduction, propagation, use, possession, and spread of aquatic invasive
+species.
+b.
+Identify waters of the state with infestations of aquatic invasive species.
+The
+commission shall require that such waters be posted as infested.
+c.
+If the commission determines that an additional species should be defined as an
+“aquatic invasive species”, the species shall be defined by the commission by rule as an
+“aquatic invasive species”.
+3.
+Prohibitions.
+a.
+A person shall not transport on a public road, or place or attempt to place into waters of
+the state, any water-related equipment that has an aquatic invasive species or aquatic plant
+attached to or within the water-related equipment except as follows:
+(1)
+When authorized by a written permit issued by the director upon a finding that
+the person is unable to comply with the requirements of this lettered paragraph “a”, is
+substantially impacted by the prohibitions of this lettered paragraph “a”, and is affording
+adequate protection of the aquatic resources or water infrastructure of the state by an
+alternative means.
+(2)
+When the department, or other governmental entity approved by the director,
+is undertaking management activities that would constitute prohibited activities under
+this lettered paragraph “a” but are necessary to manage the aquatic resources or water
+infrastructure of the state, including but not limited to aquatic invasive species control, and
+sufficient mitigation efforts are undertaken to avoid or minimize, to the greatest extent
+possible, exposure of the waters of the state to an aquatic invasive species.
+(3)
+When disposing of or engaging in a control activity of an aquatic invasive species and
+exposure to other waters of the state is minimized.
+(4)
+When transporting commercial or municipal aquatic plant harvesting equipment to a
+suitable location away from any waters of the state, for purposes of cleaning the equipment
+of any remaining aquatic plants or wildlife.
+(5)
+When water-related equipment is legally purchased or traded by or from a commercial
+source.
+(6)
+For purposes of constructing or transporting a shooting or observation blind, provided
+that there are no aquatic invasive species present on or in the blind, and the aquatic plants
+used on or in the blind are emergent, cut above the waterline, and contain no propagules such
+as seed heads, roots, or rhizomes.
+(7)
+For purposes of submitting a sample to the department or to another entity as directed
+by the department, provided that the sample is in a sealed container. Any test results of such
+samples shall be reported to the department.
+(8)
+When engaged in emergency response activities, provided that the person engaged
+in such activities is affiliated with a law enforcement agency or an agency with emergency
+response authority.
+(9)
+When otherwise permitted under a disaster declaration issued consistent with chapter
+29C.
+b.
+A person shall drain all water from water-related equipment when leaving the waters
+of the state and before transporting the water-related equipment off a water access area or
+riparian property. Drain plugs, bailers, valves, or other devices used to control the drainage of
+water from ballast tanks, bilges, and live wells shall be removed or opened while transporting
+water-related equipment except as follows:
+(1)
+When authorized by a written permit issued by the director upon a finding that
+the person is unable to comply with the requirements of this lettered paragraph “b”, is
+substantially impacted by the prohibitions of this lettered paragraph “b”, and is affording
+adequate protection of the aquatic resources or water infrastructure of the state by an
+alternative means.
+(2)
+When the department, or other governmental entity approved by the director,
+is undertaking management activities that would constitute prohibited activities under
+this lettered paragraph “b” but are necessary to manage the aquatic resources or water
+infrastructure of the state, including but not limited to aquatic invasive species control, and
+sufficient mitigation efforts are undertaken to avoid or minimize, to the greatest extent
+possible, exposure of the waters of the state to an aquatic invasive species.
+(3)
+When water-related equipment constitutes a marine sanitary system, a closed engine
+cooling system, or is a tank or container of potable drinking water or other beverage intended
+for human consumption.
+(4)
+When engaged in emergency response activities, provided that the person engaged
+in such activities is affiliated with a law enforcement agency or an agency with emergency
+response authority.
+(5)
+When otherwise permitted under a disaster declaration issued consistent with chapter
+29C.
+c.
+A person who violates this subsection is subject to a scheduled fine pursuant to section
+805.8B, subsection 5.
+4.
+Inspections.
+Persons operating and transporting water-related equipment shall
+inspect the equipment for aquatic invasive species when the equipment is removed from, or
+before entering, waters of the state. If an aquatic invasive species is present on or within
+the water-related equipment, the aquatic invasive species shall be removed immediately.
+Any water-related equipment is subject to inspection by a representative of the department.
+A representative of the department may prohibit a person from placing or operating
+water-related equipment in waters of the state if the person refuses to allow an inspection of
+the water-related equipment or refuses to remove and dispose of aquatic invasive species,
+aquatic plants, or water on or within the water-related equipment.
+96 Acts, ch 1042, §1; 2001 Acts, ch 137, §5; 2004 Acts, ch 1137, §1; 2005 Acts, ch 137, §2, 3;
+2005 Acts, ch 179, §70, 71; 2013 Acts, ch 67, §1; 2014 Acts, ch 1026, §104
+Referred to in §805.8B(5), 805.8B(5)(a), 805.8B(5)(b), 805.8B(5)(c)
+456A.38 Lease to beginning farmers program.
+1.
+As used in this section, unless the context otherwise requires:
+a.
+“Agricultural land”, “beginning farmer”, and “farming” mean the same as defined in
+section 16.58.
+b.
+“Authority” means the same as defined in section 16.1.
+c.
+“Program” means the lease to beginning farmers program as provided in this section.
+2.
+The department of natural resources shall establish and administer a lease to beginning
+farmers program.
+The department shall annually lease agricultural land that it holds or
+manages as wildlife habitat in each county to beginning farmers seeking to participate in the
+program. The department shall advertise the program in a manner that encourages wide
+participation by beginning farmers to lease the agricultural land.
+3.
+The department shall establish annual lease payments for available agricultural land
+under the program by using the following criteria:
+a.
+Market factors.
+b.
+Prior leases for the same or comparable agricultural land.
+c.
+The cost of establishment or maintenance of soil conservation practices, if applicable.
+d.
+Other criteria established by the department.
+4.
+The department shall execute a lease with a beginning farmer selected to participate in
+the program after such person has been certified by the authority as a beginning farmer who
+meets the requirements of the authority, which shall be based on section 16.75, subsection 3,
+paragraphs “a”, “c”, “f”, and “g”.
+5. a.
+If two or more beginning farmers seek to execute a lease under the program for the
+same agricultural land, the department shall select the beginning farmer to participate in the
+program by drawing lots.
+b.
+If no beginning farmer seeks to participate in the program, or no beginning farmer
+is found qualified to participate in the program, the department shall lease the agricultural
+land under another lease program that it administers pursuant to chapter 461A, including as
+provided in 571 IAC ch. 21.
+6.
+The department shall establish terms and conditions in the lease for beginning farmers
+participating in the program. The lease executed by the department under the program shall
+at least include all of the following:
+a.
+The number of acres leased. The department shall not lease more than two hundred
+forty acres of agricultural land to a beginning farmer for the production of crops. However,
+this restriction does not apply to agricultural land leased for grazing livestock.
+b.
+The term of the lease. The term may be based on the use of the agricultural land.
+A lease shall not be for more than seven years. A beginning farmer shall not sublease the
+agricultural land.
+c.
+The required and permitted uses of the agricultural land during the lease term. The
+department may require the establishment of a conservation system, crop rotation, or cover
+crop, if appropriate. The department may require that a beginning farmer adopt generally
+accepted farming practices or soil conservation practices, so long as such practices are
+compatible with the department’s policies related to resource management and outdoor
+recreation.
+7.
+At the end of a lease term, a beginning farmer who leased agricultural land under
+the program is eligible to be selected again to lease the same agricultural land. However,
+the department shall provide a preference to an available beginning farmer who has not
+previously participated in the program.
+8.
+The department is not required to lease agricultural land under the program that
+it would not otherwise lease for farming.
+The department may lease agricultural land
+for farming under another lease program administered by the department pursuant to its
+authority under chapter 461A, including as provided in 571 IAC ch. 21, only after it has
+made agricultural land available for lease to all beginning farmers seeking to participate in
+the program.
+9.
+The department shall adopt rules necessary to administer this section.
+2013 Acts, ch 64, §1; 2014 Acts, ch 1080, §91, 92, 98; 2014 Acts, ch 1092, §154, 197, 200;
+2016 Acts, ch 1073, §126, 127
