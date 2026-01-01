@@ -1,0 +1,609 @@
+CHAPTER 432
+INSURANCE COMPANIES TAX
+Referred to in §15.293A, 15.355, 15E.27, 15E.28, 15E.52, 15E.62, 15E.305, 15E.364, 237A.31, 404A.2, 441.47, 476B.2, 476B.6, 476B.7,
+476C.4, 476C.6, 508C.19, 514E.1, 514E.2
+432.1
+Tax on gross premiums —
+exclusions.
+432.1A
+Tax on premiums — captive
+companies.
+432.1B
+Health maintenance organization
+— medical assistance program
+— premium tax.
+432.2
+Mutual service corporations.
+432.3
+Receipts — certificate of
+authority.
+432.4
+Deduction for debts.
+432.5
+Risk retention groups.
+432.6
+Personal and real property.
+432.7
+Assessment.
+432.8
+Reserved.
+432.9
+Debts deductible.
+432.10
+Sufficiency of remitted tax —
+notice.
+432.11
+Premium tax exemption for basic
+benefit health plans. Repealed
+by 2002 Acts, ch 1119, §111.
+432.12
+Premium tax credit for employer
+sponsored health plan
+premium credit.
+Repealed by
+2001 Acts, ch 69, §38, 39.
+432.12A
+Historic preservation tax credit.
+432.12B
+Venture capital fund investment
+tax credit.
+Repealed by 2010
+Acts, ch 1138, §25, 26.
+432.12C
+Investment tax credits.
+432.12D
+Endow Iowa tax credit.
+432.12E
+Tax credits for wind energy
+production and renewable
+energy.
+432.12F
+Economic development region
+revolving fund contribution
+tax credits.
+Repealed by 2010
+Acts, ch 1138, §15, 16.
+432.12G
+Workforce housing investment
+tax credit.
+432.12H
+Tax credit for certain sales taxes
+paid by third-party developers.
+Repealed by 2025 Acts, ch 136,
+§57, 59.
+432.12I
+Iowa fund of funds tax credit.
+432.12J
+Film qualified expenditure tax
+credit. Repealed by 2012 Acts,
+ch 1136, §38 – 41.
+432.12K
+Film investment tax credit.
+Repealed by 2012 Acts, ch
+1136, §38 – 41.
+432.12L
+Redevelopment tax credit.
+432.12M
+Innovation fund investment tax
+credit.
+432.12N
+Hoover presidential library tax
+credit.
+432.12O
+Employer child care tax credit.
+432.13
+Premium tax exemption — Hawki
+program — state employee
+benefits.
+432.14
+Statute of limitations.
+432.1 Tax on gross premiums — exclusions.
+Every insurance company or association of whatever kind or character, not including
+fraternal beneficiary associations, and nonprofit hospital and medical service corporations,
+shall, as required by law, pay to the director of the department of revenue, or to a depository
+designated by the director, as taxes, an amount equal to the following, except that the
+premium tax applicable to county mutual insurance associations shall be governed by
+section 518.18:
+1. a.
+The applicable percent, as provided in subsection 2, of the gross amount of
+premiums received during the preceding calendar year by every life insurance company
+or association, not including fraternal beneficiary associations, or the gross payments or
+deposits collected from holders of fraternal beneficiary association certificates, on contracts
+of insurance covering risks resident in this state during the preceding year, including
+contracts for group insurance and annuities and without including or deducting any amounts
+received or paid for reinsurance.
+b.
+In determining the gross amount of premiums to be taxed hereunder, there shall
+be excluded all premiums received from policies or contracts issued in connection with a
+pension, annuity, profit-sharing plan or individual retirement annuity qualified or exempt
+under sections 401, 403, 404, 408 or 501(a) of the federal Internal Revenue Code as now or
+hereafter amended and all premiums returned to policyholders or annuitants during the
+preceding calendar year, except cash surrender values, all dividends that, during said year,
+have been paid in cash or applied in reduction of premiums or left to accumulate to the
+credit of policyholders or annuitants.
+c.
+In determining the gross amount of premiums to be taxed, there shall be excluded all
+consideration received in connection with an annuity contract, whether or not such contract
+is qualified or exempt under the federal Internal Revenue Code as now or hereafter amended,
+and all premiums returned to policyholders or annuitants during the preceding calendar year,
+except cash surrender values, and all dividends that, during said year, have been paid in cash
+or applied in reduction of premiums or left to accumulate to the credit of policyholders or
+annuitants.
+2.
+The “applicable percent” for purposes of subsection 1 of this section, section 432.1B,
+and section 432.2 is the following:
+a.
+For calendar years beginning before the 2003 calendar year, two percent.
+b.
+For the 2003 calendar year, one and three-fourths percent.
+c.
+For the 2004 calendar year, one and one-half percent.
+d.
+For the 2005 calendar year, one and one-fourth percent.
+e.
+For the 2006 calendar year through the 2023 calendar year, one percent.
+f.
+For the 2024 calendar year, nine hundred seventy-five thousandths of one percent.
+g.
+For the 2025 calendar year, ninety-five hundredths of one percent.
+h.
+For the 2026 calendar year, nine hundred twenty-five thousandths of one percent.
+i.
+For the 2027 and subsequent calendar years, nine-tenths of one percent.
+3.
+The applicable percent, as provided in subsection 4, of the gross amount of premiums
+written, and assessments and fees received during the preceding calendar year by every
+company or association other than life on contracts of insurance other than life for business
+done in this state, including all insurance upon property situated in this state except surplus
+lines insurance, after deducting the amounts returned upon canceled policies, certificates,
+and rejected applications but not including the gross premiums written, and assessments
+and fees received in connection with ocean marine insurance authorized in section 515.48.
+For surplus lines insurance, the applicable percent, as provided in subsection 4, shall be
+calculated on the amount of premiums written on surplus lines insurance policies where the
+home state of the insured, as defined in chapter 515I, is Iowa.
+4.
+The “applicable percent” for purposes of subsection 3 is the following:
+a.
+For calendar years beginning before the 2004 calendar year, two percent.
+b.
+For the 2004 calendar year, one and three-fourths percent.
+c.
+For the 2005 calendar year, one and one-half percent.
+d.
+For the 2006 calendar year, one and one-fourth percent.
+e.
+For the 2007 calendar year through the 2023 calendar year, one percent.
+f.
+For the 2024 calendar year, nine hundred seventy-five thousandths of one percent.
+g.
+For the 2025 calendar year, ninety-five hundredths of one percent.
+h.
+For the 2026 calendar year, nine hundred twenty-five thousandths of one percent.
+i.
+For the 2027 and subsequent calendar years, nine-tenths of one percent.
+5.
+Except as provided in subsection 6, the premium tax shall be paid on or before March
+1 of the year following the calendar year for which the tax is due. The commissioner may
+suspend or revoke the license of a company or association that fails to pay its premium tax
+on or before the due date.
+6. a.
+Each insurance company and association transacting business in this state whose
+Iowa premium tax liability for the preceding calendar year was one thousand dollars or more
+shall remit on or before June 1, on a prepayment basis, an amount equal to one-half of the
+premium tax liability for the preceding calendar year.
+b.
+In addition to the prepayment amount in paragraph “a”, each life insurance company
+or association which is subject to tax under subsection 1 of this section and each mutual
+health service corporation which is subject to tax under section 432.2 shall remit on or before
+August 15, on a prepayment basis, an additional amount equal to the following percent of the
+premium tax liability for the preceding calendar year as follows:
+(1)
+For prepayment in the 2003 calendar year, four percent.
+(2)
+For prepayment in the 2004 calendar year, twenty-one percent.
+(3)
+For prepayment in the 2005 and subsequent calendar years, fifty percent.
+c.
+In addition to the prepayment amount in paragraph “a”, each insurance company or
+association, other than a life insurance company or association, which is subject to tax under
+subsection 3 shall remit on or before August 15, on a prepayment basis, an additional amount
+equal to the following percent of the premium tax liability for the preceding calendar year as
+follows:
+(1)
+For prepayment in the 2003 and 2004 calendar years, eleven percent.
+(2)
+For prepayment in the 2005 calendar year, twenty-six percent.
+(3)
+For prepayment in the 2006 and subsequent calendar years, fifty percent.
+d.
+The sums prepaid by a company or association under this subsection shall be allowed
+as credits against its premium tax liability for the calendar year during which the payments
+are made. If a prepayment made under this subsection exceeds the annual premium tax
+liability, the excess shall be allowed as a credit against subsequent prepayment or tax
+liabilities.
+The commissioner of insurance shall authorize the department of revenue to
+make a cash refund to an insurer, in lieu of a credit against subsequent prepayment or tax
+liabilities, if the insurer demonstrates the inability to recoup the funds paid via a credit. The
+commissioner shall adopt rules establishing eligibility criteria for such a refund and a refund
+process. The commissioner may suspend or revoke the license of a company or association
+that fails to make a prepayment on or before the due date.
+[C51, §464; R60, §718; C73, §807; C97, §1333; S13, §1333, 1333-d; C24, 27, 31, 35, 39, §7021,
+7022, 7025; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §432.1; 81 Acts, ch 142, §1; 82 Acts,
+ch 1231, §1]
+88 Acts, ch 1159, §1; 2002 Acts, ch 1119, §169; 2002 Acts, ch 1158, §2 – 6; 2003 Acts, ch 108,
+§73; 2003 Acts, ch 145, §286; 2004 Acts, ch 1175, §337, 338, 348; 2005 Acts, ch 70, §2; 2006
+Acts, ch 1117, §3; 2007 Acts, ch 137, §2; 2012 Acts, ch 1025, §17, 22; 2023 Acts, ch 107, §1;
+2025 Acts, ch 135, §50, 52, 53
+Referred to in §87.4, 432.1B, 432.2, 432.5, 432A.9, 507A.4, 507A.9, 511.40, 513D.1, 514B.31, 515.24, 515I.2, 515I.3, 515I.10, 515K.8,
+518.18, 518A.35, 520.19
+2025 amendment to subsection 2, unnumbered paragraph 1 applies retroactively to January 1, 2024; 2025 Acts, ch 135, §53
+Subsection 2, unnumbered paragraph 1 amended
+432.1A Tax on premiums — captive companies.
+1. a.
+Each captive company under chapter 521J shall pay on or before March 1 of each
+year a tax on the direct premiums collected or contracted for on policies or contracts of
+insurance written by the captive company during the immediately preceding calendar year,
+after deducting from the direct premiums the amounts paid to policyholders as return
+premiums, including dividends on unabsorbed premiums or premium deposits returned or
+credited to policyholders.
+b.
+The tax due under paragraph “a” on direct premiums collected or contracted for by a
+captive company shall be calculated as follows:
+(1)
+Seven-twentieths of one percent on the first twenty million dollars of direct premiums.
+(2)
+One-quarter of one percent on each dollar of direct premiums after the first twenty
+million dollars collected under subparagraph (1).
+2. a.
+Each captive company under chapter 521J shall pay on or before March 1 of
+each year a tax on assumed reinsurance premiums. A reinsurance tax shall not apply to
+premiums for risks or portions of risks that are subject to taxation on a direct basis pursuant
+to subsection 1.
+b.
+A reinsurance premium tax shall not be payable by a captive company in connection
+with the receipt by the captive company of assets in exchange for the assumption of loss
+reserves and other liabilities of another insurer under common ownership and control if the
+transaction is part of a plan to discontinue the operations of the other insurer, and if the intent
+of the parties to the transaction is to renew or maintain the other insurer’s business with the
+captive company.
+c.
+The amount of reinsurance tax due from a captive company under paragraph “a” shall
+be calculated as follows:
+(1)
+Two hundred thousandths of one percent on the first twenty million dollars of assumed
+reinsurance premiums written.
+(2)
+One hundred twenty-five thousandths of one percent on the twenty million dollars
+of assumed reinsurance premiums written after the first twenty million dollars of assumed
+reinsurance premiums written under subparagraph (1).
+(3)
+Forty-five thousandths of one percent on the twenty million dollars of assumed
+reinsurance premiums written after the twenty million dollars written under subparagraph
+(1) and the twenty million dollars written under subparagraph (2).
+(4)
+Twenty thousandths of one percent of each dollar of assumed reinsurance premiums
+written after the twenty million dollars written under subparagraph (1), the twenty million
+dollars written under subparagraph (2), and the twenty million dollars written under
+subparagraph (3).
+3. a. (1)
+Except as provided in subparagraphs (2) and (3), if the aggregate taxes as
+calculated under subsections 1 and 2 that are payable by a captive company are less than
+five thousand dollars for any one tax year, the captive company shall pay five thousand
+dollars in tax for that tax year.
+(2)
+If a captive company is subject to the minimum tax under subparagraph (1) in the
+calendar year in which the company is first granted a certificate of authority under section
+521J.2, the tax shall be prorated as follows:
+(a)
+If a certificate of authority is first granted in the first quarter of the calendar year, the
+tax shall be five thousand dollars.
+(b)
+If a certificate of authority is first granted in the second quarter of the calendar year,
+the tax shall be three thousand seven hundred fifty dollars.
+(c)
+If a certificate of authority is first granted in the third quarter of the calendar year, the
+tax shall be two thousand five hundred dollars.
+(d)
+If a certificate of authority is first granted in the fourth quarter of the calendar year,
+the tax shall be one thousand five hundred dollars.
+(3)
+If a captive company that is subject to the minimum tax under subparagraph (1)
+surrenders the company’s certificate of authority in the year that the captive company is
+subject to the minimum tax, the tax shall be prorated on a quarterly basis as follows:
+(a)
+If the certificate of authority is surrendered in the first quarter of the calendar year,
+the tax shall be one thousand dollars.
+(b)
+If the certificate of authority is surrendered in the second quarter of the calendar year,
+the tax shall be two thousand five hundred dollars.
+(c)
+If the certificate of authority is surrendered in the third quarter of the calendar year,
+the tax shall be three thousand seven hundred fifty dollars.
+(d)
+If the certificate of authority is surrendered in the fourth quarter of the calendar year,
+the tax shall be five thousand dollars.
+b.
+Each protected cell in a protected cell captive company shall be considered separately
+in determining the aggregate tax to be paid by the protected cell captive company. If the
+protected cell captive company insures any risks in addition to the protected cells, the
+determination of the aggregate tax shall, in addition to the protected cells, also include the
+premium on all insured risks.
+c.
+Each series of members of a limited liability company formed as a special purpose
+captive company shall be considered separately under this section, except that the minimum
+tax as described in paragraph “a” shall be considered in the aggregate.
+4.
+A captive company, other than a protected cell captive company, shall not be required
+to pay aggregate taxes under this section that exceed one hundred thousand dollars in any
+one tax year.
+5.
+Two or more captive companies under common ownership and control shall be taxed
+as a single captive company. For the purposes of this subsection, “common ownership and
+control” means either of the following:
+a.
+In the case of a stock corporation, the direct or indirect ownership of eighty percent or
+more of the outstanding voting stock of two or more corporations by the same shareholder
+or shareholders.
+b.
+In the case of a mutual insurer, the direct or indirect ownership of eighty percent or
+more of the surplus, and the voting power of two or more insurers, by the same member or
+members.
+6.
+Only the branch business of a branch captive company shall be subject to taxation
+under this section.
+7.
+The tax provided for in this section shall be calculated on an annual basis
+notwithstanding a policy or a contract of insurance, or a contract of reinsurance, that is
+issued on a multiyear basis. In the case of a multiyear policy or a multiyear contract, the
+premium shall be prorated for the purpose of calculating the appropriate tax.
+8.
+The tax receipts collected pursuant to this section shall be deposited in the captive
+insurance regulatory and supervision fund created in section 521J.12.
+2023 Acts, ch 107, §2; 2024 Acts, ch 1086, §1, 2; 2025 Acts, ch 168, §30
+Referred to in §521J.7, 521J.9, 521J.12, 521J.17, 521J.22
+NEW subsection 8
+432.1B Health maintenance organization — medical assistance program — premium tax.
+1.
+Pursuant to section 514B.31,
+subsection 3,
+a health maintenance organization
+contracting with the department of health and human services to administer the medical
+assistance program under chapter 249A, shall pay as taxes to the director of the department
+of revenue for deposit in the Medicaid managed care organization premiums fund created
+in section 249A.13, an amount equal to the applicable percent, as provided in section 432.1,
+subsection 2, of the premiums received and taxable under section 514B.31, subsection 3.
+2.
+Except as provided in subsection 3, the premium tax shall be paid on or before March
+1 of the year following the calendar year for which the tax is due. The commissioner of
+insurance may suspend or revoke the license of a health maintenance organization subject to
+the premium tax in subsection 1 that fails to pay the premium tax on or before the due date.
+3. a.
+Each health maintenance organization transacting business in this state that is
+subject to the tax in subsection 1 shall remit on or before June 1, on a prepayment basis, an
+amount equal to one-half of the health maintenance organization’s premium tax liability for
+the preceding calendar year.
+b.
+In addition to the prepayment amount in paragraph “a”, each health maintenance
+organization subject to the tax in subsection 1 shall remit on or before August 15, on a
+prepayment basis, an additional one-half of the health maintenance organization’s premium
+tax liability for the preceding calendar year.
+c.
+The sums prepaid by a health maintenance organization under paragraphs “a” and
+“b” shall be allowed as credits against the health maintenance organization’s premium tax
+liability for the calendar year during which the payments are made. If a prepayment made
+under this subsection exceeds the health maintenance organization’s annual premium tax
+liability, the excess shall be allowed as a credit against the health maintenance organization’s
+subsequent prepayment or tax liabilities under this section. The commissioner of insurance
+shall authorize the department of revenue to make a cash refund to a health maintenance
+organization, in lieu of a credit against subsequent prepayment or tax liabilities under
+this section, if the health maintenance organization demonstrates the inability to recoup
+the funds paid via a credit. The commissioner of insurance shall adopt rules establishing
+a health maintenance organization’s eligibility for a cash refund, and the process for the
+department of revenue to make a cash refund to an eligible health maintenance organization
+from the Medicaid managed care organization premiums fund created in section 249A.13.
+The commissioner of insurance may suspend or revoke the license of a health maintenance
+organization that fails to make a prepayment on or before the due date under this subsection.
+d.
+Sections 432.10 and 432.14 are applicable to premium taxes due under this section.
+2023 Acts, ch 158, §4; 2025 Acts, ch 135, §51 – 53
+Referred to in §249A.13, 432.1, 514B.31
+2025 amendment to subsection 1 applies retroactively to January 1, 2024; 2025 Acts, ch 135, §53
+Subsection 1 amended
+432.2 Mutual service corporations.
+Notwithstanding section 432.1, a hospital service corporation, medical service corporation,
+pharmaceutical service corporation, optometric service corporation, and any other service
+corporation operating under chapter 514 shall pay as taxes to the director of revenue an
+amount equal to the applicable percent, as provided in section 432.1, subsection 2, of the gross
+amount of payments received during the preceding calendar year for subscriber contracts
+covering residents in this state after deducting the amounts returned to subscribers upon
+canceled subscriber contracts and rejected applications. Section 432.1, subsections 5 and 6,
+apply to the tax imposed by this section.
+85 Acts, ch 239, §1; 2002 Acts, ch 1158, §7; 2003 Acts, ch 145, §286
+Referred to in §432.1
+432.3 Receipts — certificate of authority.
+At the time of filing the annual tax return and the final payment of said taxes, said
+companies and associations shall take duplicate receipts therefor, one of which shall be filed
+with the commissioner of insurance, and upon filing of said receipt, and not until then, the
+commissioner of insurance shall issue the annual certificate as provided by law.
+[C73, §807; C97, §1333; S13, §1333; C24, 27, 31, 35, 39, §7023; C46, 50, 54, 58, 62, 66, 71,
+73, 75, 77, 79, 81, §432.3; 81 Acts, ch 142, §2]
+432.4 Deduction for debts.
+No deduction or exemption from the taxes herein provided shall be allowed for or on
+account of any indebtedness owing by any such insurance company or association; provided,
+however, that companies doing a fire insurance business may deduct from the gross amount
+of premiums received, the amount of premiums returned upon canceled policies issued upon
+property situated in this state.
+[C97, §1333; S13, §1333; C24, 27, 31, 35, 39, §7024; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77,
+79, 81, §432.4]
+432.5 Risk retention groups.
+A risk retention group organized and operating pursuant to Pub. L. No. 99-563, also known
+as the Risk Retention Amendments of 1986, shall pay as taxes to the director of revenue an
+amount equal to the applicable percent, as provided in section 432.1, subsection 4, of the
+gross amount of the premiums written during the previous calendar year for risks placed in
+this state. A resident or nonresident producer shall report and pay the taxes on the premiums
+for risks that the producer has placed in this state with or on behalf of a risk retention group.
+The failure of a risk retention group to pay the tax imposed in this section shall result in the
+risk retention group being considered an unauthorized insurer under chapter 507A.
+87 Acts, ch 138, §1; 2003 Acts, ch 145, §286; 2004 Acts, ch 1110, §4; 2006 Acts, ch 1117, §4
+Referred to in §515E.4
+432.6 Personal and real property.
+Every insurance corporation or association organized under the laws of this state,
+not including corporations with capital stock, county mutuals, and fraternal beneficiary
+associations, which county mutuals and fraternal beneficiary associations are not organized
+for pecuniary profit, shall, on or before the twenty-sixth day of January in each year, for the
+purpose of assessment of its property, furnish to the assessor of the assessment district in
+which its principal place of business is located, a statement verified by its president, showing
+specifically with reference to the year next preceding the first day of January then last past:
+1.
+A duplicate of the statement required by law to be made to the commissioner of
+insurance for the said year last past.
+2.
+A detailed statement of all its property and assets of every kind and nature whatsoever,
+and the value of each item thereof, including surplus, guaranty, and reserve fund, and the
+amount of each.
+[S13, §1333-b; C24, 27, 31, 35, 39, §7027; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§432.6]
+Referred to in §432.7
+432.7 Assessment.
+The assessor shall, upon the receipt of the statements, and from other information acquired
+by the assessor, assess against every corporation or association referred to in section 432.6,
+the actual value of each parcel of real estate situated in the assessment district of the assessor,
+and all the property shall be assessed at the same rate, and for the same purposes as the
+property of private individuals, as provided in section 441.21.
+[S13, §1333-b; C24, 27, 31, 35, 39, §7028; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§432.7]
+89 Acts, ch 296, §58
+432.8
+Reserved.
+432.9 Debts deductible.
+In ascertaining the indebtedness or liability of such corporation, company, or association,
+a debt shall be deemed to exist on account of its liability on the policies, certificates or
+other contracts of insurance issued by it equal to the amount of the surplus or other funds
+accumulated by any such corporation or association for the purpose of fulfilling its policies,
+certificates, or other contracts of insurance, and which can be used for no other purpose.
+[S13, §1333-c; C24, 27, 31, 35, 39, §7030; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§432.9]
+432.10 Sufficiency of remitted tax — notice.
+The commissioner of insurance shall determine whether or not the tax remitted is correct.
+If the tax remitted is not sufficient, the commissioner shall notify the delinquent company of
+the amount of such delinquency and certify the amount thereof to the department of revenue
+which shall proceed to collect such delinquency.
+[C71, 73, 75, 77, 79, 81, §432.10]
+2003 Acts, ch 145, §286
+Referred to in §432.1B
+432.11 Premium tax exemption for basic benefit health plans.
+Repealed by 2002 Acts,
+ch 1119, §111.
+432.12 Premium
+tax
+credit
+for
+employer
+sponsored
+health
+plan
+premium
+credit.
+Repealed by 2001 Acts, ch 69, §38, 39.
+432.12A Historic preservation tax credit.
+The taxes imposed under this chapter shall be reduced by a historic preservation tax credit
+allowed under chapter 404A.
+2002 Acts, ch 1003, §4, 5; 2007 Acts, ch 165, §7, 9; 2014 Acts, ch 1118, §11, 12; 2015 Acts,
+ch 30, §122; 2017 Acts, ch 29, §124
+432.12B Venture capital fund investment tax credit.
+Repealed by 2010 Acts, ch 1138,
+§25, 26.
+432.12C Investment tax credits.
+1.
+The tax imposed under this chapter shall be reduced by an investment tax credit
+authorized pursuant to section 15E.27 for an investment in a qualifying business.
+2.
+The taxes imposed under this chapter shall be reduced by investment tax credits
+authorized pursuant to sections 15.508 and 15.496.
+2002 Acts, ch 1006, §10, 13; 2006 Acts, ch 1158, §60; 2013 Acts, ch 70, §21; 2013 Acts, ch
+90, §106; 2014 Acts, ch 1130, §40; 2015 Acts, ch 138, §123, 126, 127; 2025 Acts, ch 136, §53,
+59, 75
+For preservation of existing rights relating to tax incentives issued, awarded, or allowed before December 31, 2025, see 2025 Acts, ch
+136, §58
+2025 amendment to subsection 2 effective December 31, 2025; 2025 Acts, ch 136, §59
+Section amended
+432.12D Endow Iowa tax credit.
+The tax imposed under this chapter shall be reduced by an endow Iowa tax credit
+authorized pursuant to section 15E.305.
+2003 Acts, 1st Ex, ch 2, §87, 89
+432.12E Tax credits for wind energy production and renewable energy.
+The taxes imposed under this chapter shall be reduced by tax credits for wind energy
+production allowed under chapter 476B and for renewable energy allowed under chapter
+476C.
+2004 Acts, ch 1175, §407, 418; 2005 Acts, ch 160, §5, 14
+432.12F Economic
+development
+region
+revolving
+fund
+contribution
+tax
+credits.
+Repealed by 2010 Acts, ch 1138, §15, 16.
+432.12G Workforce housing investment tax credit.
+The taxes imposed under this chapter shall be reduced by a workforce housing investment
+tax credit allowed under section 15.355, subsection 3.
+2014 Acts, ch 1130, §22, 24 – 26
+432.12H Tax credit for certain sales taxes paid by third-party developers.
+Repealed by
+2025 Acts, ch 136, §57, 59.
+For preservation of existing rights relating to tax incentives issued, awarded, or allowed before December 31, 2025, see 2025 Acts, ch
+136, §58
+2025 repeal effective December 31, 2025; 2025 Acts, ch 136, §59
+432.12I Iowa fund of funds tax credit.
+The taxes imposed under this chapter shall be reduced by a tax credit authorized pursuant
+to section 15E.66, if redeemed, for investments in the Iowa fund of funds.
+2006 Acts, ch 1158, §62
+432.12J Film qualified expenditure tax credit.
+Repealed by 2012 Acts, ch 1136, §38 – 41.
+432.12K Film investment tax credit.
+Repealed by 2012 Acts, ch 1136, §38 – 41.
+432.12L Redevelopment tax credit.
+The taxes imposed under this chapter shall be reduced by a redevelopment tax credit
+allowed under chapter 15, subchapter II, part 9.
+2008 Acts, ch 1173, §11; 2009 Acts, ch 41, §129
+432.12M Innovation fund investment tax credit.
+The taxes imposed under this chapter shall be reduced by an innovation fund investment
+tax credit allowed under section 15E.52.
+2011 Acts, ch 130, §44, 47, 71
+432.12N Hoover presidential library tax credit.
+The taxes imposed under this chapter shall be reduced by a Hoover presidential library tax
+credit allowed under section 15E.364.
+2021 Acts, ch 176, §5
+432.12O Employer child care tax credit.
+1.
+The taxes imposed under this chapter shall be reduced by an employer child care tax
+credit allowed pursuant to section 237A.31.
+2.
+This section is repealed January 1, 2031.
+2022 Acts, ch 1148, §26, 28; 2025 Acts, ch 136, §85
+Section applies to tax years beginning on or after January 1, 2023; 2022 Acts, ch 1148, §28
+Section amended
+432.13 Premium tax exemption — Hawki program — state employee benefits.
+1.
+Premiums collected by participating insurers under chapter 514I are exempt from
+premium tax.
+2.
+Premiums received for benefits acquired on behalf of state employees by the
+department of administrative services pursuant to section 8A.402, subsection 1, and by the
+state board of regents pursuant to chapter 262, are exempt from premium tax.
+98 Acts, ch 1196, §1, 16; 99 Acts, ch 200, §19, 23; 2003 Acts, ch 145, §259; 2012 Acts, ch
+1138, §120; 2023 Acts, ch 19, §1153
+432.14 Statute of limitations.
+Within five years after the tax return is filed or within five years after the tax return
+became due, whichever is later, the commissioner of insurance shall examine the return
+and determine the tax.
+An assessment or a claim for credit must be made within five
+calendar years after the annual tax filing is made.
+For a five-year period preceding the
+current calendar year, a company may apply for a credit, or the commissioner may make
+an assessment, as appropriate. The period of examination and determination of the correct
+amount of tax is unlimited in the case of a false or fraudulent return made with the intent to
+evade tax or in the case of a failure to file a return.
+98 Acts, ch 1057, §1
+Referred to in §432.1B
