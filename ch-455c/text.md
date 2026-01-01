@@ -1,0 +1,458 @@
+CHAPTER 455C
+BEVERAGE CONTAINERS CONTROL
+Referred to in §123.187, 423.6, 455A.4, 455A.6
+Attorney general report to legislative fiscal committee required; legislative fiscal
+committee meeting and report to general assembly required by January 31, 2026; 2022
+Acts, ch 1139, §18
+455C.1
+Definitions.
+455C.2
+Refund values.
+455C.3
+Payment of refund value.
+455C.4
+Refusal to accept containers.
+455C.5
+Refund value stated on container
+— exceptions.
+455C.6
+Redemption centers.
+455C.7
+Unapproved redemption centers.
+455C.8
+Snap-top cans prohibited.
+Repealed by 2013 Acts, ch 12,
+§26.
+455C.9
+Rules adopted.
+455C.10
+Appeal.
+455C.11
+Reserved.
+455C.12
+Penalties.
+455C.12A
+Administrative enforcement —
+compliance orders.
+455C.12B
+Judicial review.
+455C.12C
+Civil actions for compliance —
+penalties.
+455C.12D
+Bottle bill fund.
+455C.13
+Collection and disposal
+agreements authorized.
+455C.14
+Redemption of refused
+nonrefillable metal beverage
+containers.
+455C.15
+Plastic cans prohibited. Repealed
+by 2013 Acts, ch 12, §26.
+455C.16
+Beverage containers — disposal
+at sanitary landfill prohibited.
+455C.17
+Grants for independent
+redemption centers. Repealed
+by 2018 Acts, ch 1023, §17.
+455C.18
+Unclaimed refund value and
+handling fees.
+455C.1 Definitions.
+As used in this chapter unless the context otherwise requires:
+1.
+“Beverage” means wine as defined in section 123.3, subsection 53, alcoholic liquor as
+defined in section 123.3, subsection 4, beer as defined in section 123.3, subsection 6, high
+alcoholic content beer as defined in section 123.3, subsection 22, canned cocktail as defined
+in section 123.3, subsection 10, mineral water, soda water, and similar carbonated soft drinks
+in liquid form and intended for human consumption.
+2.
+“Beverage container” means any sealed glass, plastic, or metal bottle, can, jar, or carton
+containing a beverage.
+3.
+“Commission” means the environmental protection commission of the department.
+4.
+“Consumer” means any person who purchases a beverage in a beverage container for
+use or consumption.
+5.
+“Dealer” means any person who engages in the sale of beverages in beverage containers
+to a consumer.
+6.
+“Dealer agent” means a person who solicits or picks up empty beverage containers for
+the purpose of returning the empty beverage containers to a distributor or manufacturer.
+7.
+“Department” means the department of natural resources created under section 455A.2.
+8.
+“Director” means the director of the department.
+9.
+“Distributor” means any person who engages in the sale of beverages in beverage
+containers to a dealer in this state, including any manufacturer who engages in such sales.
+10.
+“Geographic territory” means the geographical area within a perimeter formed by the
+outermost boundaries served by a distributor.
+11.
+“Manufacturer” means any person who bottles, cans, or otherwise fills beverage
+containers for sale to distributors or dealers.
+12.
+“Mobile redemption system” means a redemption center location at which a consumer
+may return empty beverage containers on which a refund value has been paid that uses
+innovative technology to process empty beverage containers and return the amount of the
+refund value to consumers.
+13.
+“Nonrefillable beverage container” means a beverage container not intended to be
+refilled for sale by a manufacturer.
+14.
+“Participating dealer” means a dealer who accepts the return of empty beverage
+containers from a consumer.
+15.
+“Redemption center” means a facility at which consumers may return empty beverage
+containers and receive payment for the refund value of the empty beverage containers.
+[C79, 81, §455C.1; 82 Acts, ch 1199, §71, 96]
+85 Acts, ch 32, §111; 86 Acts, ch 1245, §1899C, 1899D; 87 Acts, ch 22, §12; 88 Acts, ch 1200,
+§1; 89 Acts, ch 272, §34, 42; 90 Acts, ch 1261, §43, 44; 91 Acts, ch 268, §433, 442, 443; 92 Acts,
+ch 1242, §40, 47; 2022 Acts, ch 1139, §2, 3, 20
+Referred to in §455B.313
+455C.2 Refund values.
+1.
+A refund value of five cents shall be paid by the consumer on each beverage container
+sold in this state by a dealer for consumption off the premises. Upon return of the empty
+beverage container upon which a refund value has been paid to a participating dealer or
+redemption center and acceptance of the empty beverage container by the participating
+dealer or redemption center, the participating dealer or redemption center shall return the
+amount of the refund value to the consumer within a reasonable time not to exceed ten days.
+2. a.
+In addition to the refund value provided in subsection 1, the distributor required to
+accept the empty beverage containers under section 455C.3 shall provide reimbursement in
+an amount that is one cent per container for containers accepted from a dealer agent and
+three cents per container for containers accepted from a participating dealer or redemption
+center. A dealer, dealer agent, or redemption center may compact empty metal beverage
+containers with the approval of the distributor required to accept the containers.
+b.
+A distributor who pays a handling fee for a beverage container that was sold for
+consumption off the premises and that used to contain beer, including high-alcoholic
+content beer, may claim a refund of the barrel tax established in section 123.136 paid by
+the distributor in the amount of one cent for each such beverage container accepted by
+the distributor. The department of revenue shall prescribe forms for a distributor to use to
+claim a refund under this paragraph. Identifying information collected by the department of
+revenue pursuant to this paragraph that can be used to identify a specific distributor shall be
+considered confidential information pursuant to section 22.7, subsection 75.
+[C79, 81, §455C.2]
+87 Acts, ch 22, §13; 88 Acts, ch 1200, §2; 89 Acts, ch 272, §35, 42; 90 Acts, ch 1261, §43, 44;
+91 Acts, ch 268, §434, 442, 443; 92 Acts, ch 1242, §34, 38, 39, 40, 47; 2022 Acts, ch 1139, §4,
+20; 2022 Acts, ch 1153, §51, 52
+Referred to in §22.7(75), 123.24, 455C.3, 455C.4, 455C.12, 455C.13
+455C.3 Payment of refund value.
+Except as provided in section 455C.4:
+1.
+A participating dealer shall not refuse to accept from a consumer any empty beverage
+container of the kind, size, and brand sold by the participating dealer, or refuse to pay to the
+consumer the refund value of a beverage container as provided under section 455C.2.
+2.
+A distributor shall accept and pick up from a participating dealer served by the
+distributor or a redemption center for a dealer served by the distributor at least weekly, or
+when the distributor delivers the beverage product if deliveries are less frequent than weekly,
+any empty beverage container of the kind, size, and brand sold by the distributor, and shall
+pay to the participating dealer or redemption center the refund value of a beverage container
+and the reimbursement as provided under section 455C.2 within one week following pickup
+of the containers or when the participating dealer normally pays the distributor for the
+deposit on beverage products purchased from the distributor if less frequent than weekly.
+A distributor or employee or agent of a distributor is not in violation of this subsection if
+a redemption center is closed when the distributor attempts to make a regular pickup of
+empty beverage containers. This subsection does not apply to a distributor selling alcoholic
+liquor to the department of revenue.
+3.
+A distributor shall not be required to pay to a manufacturer a deposit or refund value
+on a nonrefillable beverage container.
+4.
+A distributor shall accept from a dealer agent any empty beverage container of the kind,
+size, and brand sold by the distributor and that was picked up by the dealer agent within the
+geographic territory served by the distributor and the distributor shall pay the dealer agent the
+refund value of the empty beverage container and the reimbursement as provided in section
+455C.2.
+5.
+The department of revenue shall provide for the disposal of empty beverage containers
+as required under subsection 2. The department of revenue shall give priority consideration
+to the recycling of the empty beverage containers to the extent possible, before any other
+appropriate disposal method is considered or implemented.
+[C79, 81, §455C.3]
+83 Acts, ch 84, §1; 88 Acts, ch 1200, §3; 89 Acts, ch 272, §36, 42; 90 Acts, ch 1261, §43, 44;
+91 Acts, ch 268, §442, 443; 92 Acts, ch 1242, §35, 38, 39, 40, 47; 2022 Acts, ch 1139, §5, 20;
+2023 Acts, ch 19, §2467
+Referred to in §455C.2, 455C.12
+455C.4 Refusal to accept containers.
+1.
+Except as provided in section 455C.5, subsection 3, a dealer, a redemption center, a
+distributor, or a manufacturer may refuse to accept any empty beverage container that does
+not have stated on it a refund value as provided under section 455C.2.
+2. a.
+A dealer may refuse to accept and to pay the refund value of any empty beverage
+container if any of the following apply:
+(1)
+The dealer holds a food establishment license under chapter 137F to prepare or serve
+food, has a certified food protection manager as required by the 2017 United States food and
+drug administration food code and supplement, and sells time/temperature control for safety
+food as defined in section 137F.2.
+(2)
+The dealer has entered an agreement with an approved redemption center for the
+operation of a mobile redemption system and all of the following apply:
+(a)
+The dealer provides adequate space, utilities, and internet connection to operate the
+mobile redemption system.
+(b)
+The agreement does not require additional payment to the dealer or the mobile
+redemption system.
+(3)
+The dealer’s place of business is in a county with a population of more than thirty
+thousand and within ten miles of an approved redemption center or if the dealer’s place of
+business is in a county with a population of thirty thousand or fewer and within fifteen miles
+of an approved redemption center.
+b.
+A dealer who refuses to accept and to pay the refund value on any empty beverage
+container pursuant to this subsection shall conspicuously display on the front door of the
+dealer’s place of business a notice that the dealer does not accept empty beverage containers.
+The notice shall also provide the location of the nearest approved redemption center to
+the dealer’s place of business.
+After the department has made available an electronic
+method for locating approved redemption centers pursuant to paragraph “c”, a dealer may
+direct consumers to such electronic method instead of providing the location of the nearest
+approved redemption center on the notice.
+c.
+The department shall make available to the public an electronic method of locating
+approved redemption centers.
+d.
+A dealer who provides space for a mobile redemption system pursuant to paragraph “a”,
+subparagraph (2), shall not be considered to be in violation of any county or city ordinance
+that would otherwise limit the ability of the dealer to provide such space as long as the mobile
+redemption system operates in a location that is not zoned primarily for residential purposes.
+3.
+A class “E” retail alcohol licensee may refuse to accept and to pay the refund value
+on an empty alcoholic liquor container from a participating dealer or a redemption center or
+from a person acting on behalf of or who has received empty alcoholic liquor containers from
+a participating dealer or a redemption center.
+4.
+A manufacturer or distributor may refuse to accept and to pay the refund value and
+reimbursement as provided in section 455C.2 on any empty beverage container that was
+picked up by a dealer agent outside the geographic territory served by the manufacturer or
+distributor.
+[C79, 81, §455C.4]
+85 Acts, ch 32, §112; 87 Acts, ch 22, §14, 15; 88 Acts, ch 1200, §4; 89 Acts, ch 161, §9; 2022
+Acts, ch 1099, §101, 102; 2022 Acts, ch 1139, §6, 20
+Referred to in §455C.3
+455C.5 Refund value stated on container — exceptions.
+1. a.
+Each beverage container sold or offered for sale in this state by a dealer shall clearly
+indicate the refund value of the container by embossing or by a stamp, label, or other method
+securely affixed to the container. The department shall specify, by rule, the minimum size of
+the refund value indication on the beverage containers.
+b.
+The department of revenue shall require the registration of the universal product code
+for each beverage container using a method of registration determined by the department of
+revenue.
+2.
+A person, except a distributor, shall not import into this state after July 1, 1979 a
+beverage container which does not have securely affixed to the container the refund value
+indication. The provisions of this subsection do not apply if:
+a.
+For beverage containers containing alcoholic liquor as defined in section 123.3,
+subsection 4, the total capacity of the containers is not more than one quart or, in the case of
+alcoholic liquor personally obtained outside the United States, one gallon.
+b.
+For beverage containers containing beer as defined in section 123.3, subsection 6, the
+total capacity of the containers is not more than two hundred eighty-eight fluid ounces.
+c.
+For all other beverage containers, the total capacity of the containers is not more than
+five hundred seventy-six fluid ounces.
+3.
+The provisions of subsections 1 and 2 of this section do not apply to a refillable glass
+beverage container which has a brand name permanently marked on it and which has a
+refund value of not less than five cents, to any other refillable beverage container which has
+a refund value of not less than five cents and which is exempted by the director under rules
+adopted by the commission, or to a beverage container sold aboard a commercial airliner or
+passenger train for consumption on the premises.
+[C79, 81, §455C.5]
+85 Acts, ch 32, §113; 87 Acts, ch 22, §16; 2022 Acts, ch 1139, §7, 20
+Referred to in §123.26, 455C.4, 455C.12, 455C.14
+455C.6 Redemption centers.
+1.
+To facilitate the return of empty beverage containers and to serve dealers of beverages,
+any person may establish a redemption center, subject to the approval of the department, at
+which consumers may return empty beverage containers and receive payment of the refund
+value of such beverage containers. A participating dealer may act as a redemption center for
+purposes of this chapter.
+2.
+An application for approval of a redemption center shall be filed with the department.
+The application shall state the name and address of the person responsible for the
+establishment and operation of the redemption center, the kind and brand names of the
+beverage containers which will be accepted at the redemption center, and the names and
+addresses of the dealers to be served by the redemption center. The application shall contain
+such other information as the director may reasonably require.
+3.
+The department shall approve a redemption center if it finds that the redemption center
+will provide a convenient service to consumers for the return of empty beverage containers.
+The order of the department approving a redemption center shall state the dealers to be served
+by the redemption center and the kind and brand names of empty beverage containers which
+the redemption center must accept. The order may contain such other provisions to ensure
+that the redemption center will provide a convenient service to the public as the director may
+determine.
+4.
+The department may review the approval of any redemption center at any time.
+After written notice to the person responsible for the establishment and operation of the
+redemption center, and to the dealers served by the redemption center, the commission may,
+after hearing, withdraw approval of a redemption center if the commission finds there has
+not been compliance with the department’s order approving the redemption center, or if the
+redemption center no longer provides a convenient service to the public.
+5.
+All approved redemption centers shall meet applicable health standards.
+[C79, 81, §455C.6]
+2019 Acts, ch 59, §138; 2022 Acts, ch 1139, §8, 20
+455C.7 Unapproved redemption centers.
+Any person may establish a redemption center which has not been approved by the
+department, at which a consumer may return empty beverage containers and receive
+payment of the refund value of the beverage containers. The establishment of an unapproved
+redemption center shall not relieve any dealer from the responsibility of redeeming any
+empty beverage containers of the kind and brand sold by the dealer.
+[C79, 81, §455C.7]
+455C.8 Snap-top cans prohibited.
+Repealed by 2013 Acts, ch 12, §26.
+455C.9 Rules adopted.
+The commission shall adopt, upon recommendation of the director, the rules necessary to
+carry out the provisions of this chapter, subject to the provisions of chapter 17A.
+[C79, 81, §455C.9]
+455C.10 Appeal.
+Any person aggrieved by an order of the department relating to the approval or withdrawal
+of approval for a redemption center may seek judicial review of such order as provided in
+chapter 17A.
+[C79, 81, §455C.10]
+455C.11
+Reserved.
+455C.12 Penalties.
+1.
+Any person violating the provisions of section 455C.2, 455C.3, or 455C.5, or a rule
+adopted under this chapter, shall be guilty of a simple misdemeanor.
+2.
+A distributor who collects or attempts to collect a refund value on an empty beverage
+container when the distributor has paid the refund value on the container to a participating
+dealer, redemption center, or consumer is guilty of a fraudulent practice.
+3.
+Any person who does any of the following acts is guilty of a fraudulent practice:
+a.
+Collects or attempts to collect the refund value on the container a second time, with
+the knowledge that the refund value has once been paid by the distributor to a participating
+dealer, redemption center, or consumer.
+b.
+Manufactures, sells, possesses, or applies a false or counterfeit label or indication that
+shows or purports to show a refund value for a beverage container, with intent to use the false
+or counterfeit label or indication.
+c.
+Collects or attempts to collect a refund value on a container with the use of a false or
+counterfeit label or indication showing a refund value, knowing the label or indication to be
+false or counterfeit.
+4.
+As used in this section, a false or counterfeit label or indication means a label or
+indication purporting to show a valid refund value which has not been initially applied as
+authorized by a distributor.
+5.
+Subsection 2 and subsection 3, paragraph “a”, of this section have no application
+to empty beverage containers which are intended to be refillable and are in a standard of
+condition except for sanitization to be refillable by the manufacturer.
+6.
+A person who knowingly attempts to redeem a beverage container that is not properly
+marked as required by section 455C.5, subsection 1, shall be subject to a civil penalty not to
+exceed ten dollars per improperly marked beverage container, but not to exceed five thousand
+dollars total per attempted transaction.
+7.
+Except as provided in subsection 6, a person who violates any provision of this chapter
+shall be subject to a civil penalty of two thousand dollars per violation, which shall be assessed
+and collected in the same manner as provided in section 455B.109. Any civil penalty collected
+under this chapter shall be deposited in the bottle bill fund established in section 455C.12D.
+[C79, 81, §455C.12]
+2013 Acts, ch 12, §11; 2022 Acts, ch 1139, §9, 10, 20
+Referred to in §455C.12D
+Fraudulent practices, see §714.8 – 714.14
+455C.12A Administrative enforcement — compliance orders.
+The director may issue any order necessary to secure compliance with or prevent a violation
+of the provisions of this chapter or any rule adopted or permit or order issued pursuant to this
+chapter. The person to whom such compliance order is issued may cause to be commenced
+a contested case within the meaning of chapter 17A by filing within thirty days a notice of
+appeal to the commission. On appeal, the commission may affirm, modify, or vacate the order
+of the director.
+2022 Acts, ch 1139, §11, 20
+Referred to in §455C.12C
+455C.12B Judicial review.
+Judicial review of any order or other action of the commission or director may be sought
+in accordance with the terms of chapter 17A. Notwithstanding the terms of chapter 17A,
+petitions for judicial review may be filed in the district court of the county in which the alleged
+offense was committed.
+2022 Acts, ch 1139, §12, 20
+455C.12C Civil actions for compliance — penalties.
+1.
+The attorney general, on request of the department, shall institute any legal proceedings
+necessary to obtain compliance with an order of the commission or the director, including
+proceedings for a temporary injunction, or prosecuting any person for a violation of an order
+of the commission or the director, the provisions of this chapter, or any rules adopted or
+permit or order issued pursuant to this chapter.
+2.
+Any person who violates any order issued pursuant to section 455C.12A shall be subject
+to a civil penalty not to exceed two thousand dollars for each day of such violation.
+2022 Acts, ch 1139, §13, 20
+455C.12D Bottle bill fund.
+A bottle bill fund is established in the state treasury under the control of the department.
+The fund shall consist of moneys deposited in the fund pursuant to section 455C.12,
+subsection 7, and any other moneys appropriated to or deposited in the fund. Moneys in
+the fund are appropriated to the department for purposes of administering and enforcing
+this chapter, including reimbursing the attorney general for costs incurred by the attorney
+general in enforcing this chapter. Notwithstanding section 8.33, moneys in the fund that
+remain unencumbered or unobligated at the close of a fiscal year shall not revert but shall
+remain available for expenditure for the purposes designated.
+Notwithstanding section
+12C.7, subsection 2, interest or earnings on moneys in the fund shall be credited to the fund.
+2022 Acts, ch 1139, §14, 20
+Referred to in §455C.12
+455C.13 Collection and disposal agreements authorized.
+1.
+A distributor, dealer, or redemption center may enter into a contract or agreement with
+any other distributor, manufacturer, or person for the purpose of collecting or disposing of
+beverage containers as provided in this chapter.
+2.
+For purposes of this chapter, any contracts entered into pursuant to this section for the
+collection or disposal of empty beverage containers shall not be deemed to interfere with the
+refund value pursuant to section 455C.2.
+[C81, §455C.13]
+2022 Acts, ch 1139, §15, 20
+455C.14 Redemption of refused nonrefillable metal beverage containers.
+1.
+If the refund value indication required under section 455C.5 on an empty nonrefillable
+metal beverage container is readable but the redemption of the container is lawfully refused
+by a dealer or person operating a redemption center under other sections of this chapter or
+rules adopted pursuant to these sections, the container shall be accepted and the refund value
+paid to a consumer as provided in this section. Each beer distributor selling nonrefillable
+metal beverage containers in this state shall provide individually or collectively by contract or
+agreement with a dealer, person operating a redemption center, or another person, at least one
+facility in the county seat of each county where refused empty nonrefillable metal beverage
+containers having a readable refund value indication as required by this chapter are accepted
+and redeemed. In cities having a population of twenty-five thousand or more, the number of
+the facilities provided shall be one for each twenty-five thousand population or a fractional
+part of that population.
+2.
+A beer distributor violating this section is guilty of a simple misdemeanor.
+[C81, §455C.14]
+455C.15 Plastic cans prohibited.
+Repealed by 2013 Acts, ch 12, §26.
+455C.16 Beverage containers — disposal at sanitary landfill prohibited.
+The final disposal of beverage containers, including the final disposal of beverage
+containers that used to contain alcoholic liquor as defined in section 123.3, subsection 4, by
+a participating dealer, distributor, manufacturer, or redemption center in a sanitary landfill
+is prohibited.
+89 Acts, ch 272, §37; 91 Acts, ch 268, §435; 92 Acts, ch 1215, §14; 2022 Acts, ch 1139, §16,
+20
+455C.17 Grants for independent redemption centers.
+Repealed by 2018 Acts, ch 1023,
+§17.
+455C.18 Unclaimed refund value and handling fees.
+Any amount of refund value or handling fees possessed by a distributor after the distributor
+has made payments required pursuant to this chapter shall be considered the property of the
+distributor.
+2022 Acts, ch 1139, §17, 20
