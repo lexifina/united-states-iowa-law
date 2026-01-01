@@ -1,0 +1,1294 @@
+CHAPTER 455D
+WASTE VOLUME REDUCTION AND RECYCLING
+Referred to in §364.22, 455H.303
+455D.1
+Definitions.
+455D.2
+Findings.
+455D.3
+Goals for waste stream reduction
+— procedures — reductions
+and increases in fees.
+455D.4
+Waste volume reduction policies.
+455D.4A
+Recycling.
+455D.5
+Statewide waste reduction
+and recycling network —
+established.
+455D.6
+Duties of the director.
+455D.7
+Duties of the commission.
+455D.8
+Deposits, rebates, and waste
+abatement fees.
+Repealed by
+2011 Acts, ch 9, §11.
+455D.9
+Land disposal of yard waste —
+prohibited.
+455D.9A
+Disposal of baled solid waste at a
+sanitary landfill — prohibited.
+455D.10
+Land disposal of lead acid
+batteries — prohibited —
+collection for recycling.
+455D.10A
+Household batteries — heavy
+metal content and recycling
+requirements.
+455D.10B
+Batteries used in rechargeable
+consumer products.
+455D.11
+Waste tires — land disposal
+prohibited.
+455D.11A
+Financial assurance — waste tire
+collection or processing sites.
+455D.11B
+Permitting of waste tire collection
+or processing sites — fees.
+455D.11C
+Waste tire management fund.
+455D.11D
+through 455D.11F
+Repealed by
+2004 Acts, ch 1173, §2.
+455D.11G
+Waste tire disposal fees and
+abatement costs.
+455D.11H
+Future repeal.
+Repealed by 2004
+Acts, ch 1173, §2.
+455D.11I
+Registration of waste tire haulers
+— bond.
+455D.12
+Plastic container labeling.
+455D.13
+Land disposal of used oil and
+used oil filters prohibited —
+collection and recycling.
+455D.14
+Products manufactured
+with chlorofluorocarbons
+prohibited.
+455D.15
+Waste volume reduction and
+recycling fund.
+455D.15A
+Permitting of waste conversion
+technologies operations —
+fees.
+Repealed by 2019 Acts,
+ch 14, §4.
+455D.16
+Mercury — thermostats.
+455D.17
+and 455D.18
+Reserved.
+455D.19
+Packaging — heavy metal
+content.
+455D.20
+Refuse-derived fuel — calculation
+as portion of waste reduction
+goal.
+Repealed by 2004 Acts,
+ch 1078, §3.
+455D.21
+Local ordinance — curbside
+collection.
+455D.22
+Civil penalty.
+455D.23
+Administrative enforcement —
+compliance orders.
+455D.24
+Judicial review.
+455D.25
+Civil actions for compliance —
+penalties.
+455D.26
+Green advisory committee.
+Repealed by its own terms;
+2010 Acts, ch 1166, §2.
+455D.1 Definitions.
+As used in this chapter unless the context otherwise requires:
+1.
+“Commission” means the environmental protection commission.
+2.
+“Department” means the department of natural resources created pursuant to section
+455A.2.
+3.
+“Director” means the director of the department.
+4.
+“Pollution prevention techniques” means any of the following practices employed by
+the user of a toxic substance:
+a.
+Input substitution, which is the replacement of a toxic substance or raw material used
+in a production process with a nontoxic or less toxic substance.
+b.
+Product reformulation, which is the substitution of an end product which is nontoxic
+or less toxic upon use or release for an existing end product.
+c.
+Production process redesign or modification, which is the development and use of
+production processes of a different design other than those currently in use.
+d.
+Production process modernization, which is the upgrading or replacing of existing
+production process equipment or methods with other equipment or methods based on the
+same production process.
+e.
+Improved operation and maintenance of existing production process equipment and
+methods, which is the modification or addition to existing equipment or methods, including
+but not limited to such techniques as improved housekeeping practices, system adjustments,
+product and process inspections, and production process control equipment or methods.
+f.
+Recycling, reuse, or extended use of toxic substances by using equipment or methods
+that become an integral part of the production process.
+5.
+“Recycling” means any process by which waste, or materials that would otherwise
+become waste, are collected, separated, or processed and revised or returned to use in the
+form of raw materials or products pursuant to section 455D.4A. “Recycling” includes but is
+not limited to the composting of yard waste which has been previously separated from other
+waste, but does not include any form of energy recovery.
+6.
+“Scrap metal” means any ferrous or nonferrous metal suitable for reprocessing into a
+viable market commodity grade specification.
+7.
+“Waste reduction” means practices which reduce, avoid, or eliminate both the
+generation of solid waste and the use of toxic materials so as to reduce risks to health and the
+environment and to avoid, reduce, or eliminate the generation of wastes or environmental
+pollution at the source and not merely achieved by shifting a waste output or waste stream
+from one environmental medium to another environmental medium.
+89 Acts, ch 272, §1; 2013 Acts, ch 12, §12, 13; 2018 Acts, ch 1023, §5, 6
+Referred to in §455D.3
+455D.2 Findings.
+The general assembly finds that:
+1.
+Iowa’s environment is precious and no person has the right to pollute Iowa’s air, water,
+or soil. The environment is vulnerable and irreplaceable, and all Iowans have an ongoing
+responsibility to conserve, preserve, and enhance the state’s natural resources to guarantee
+their continued existence and use by the present and future generations.
+2.
+The land itself is the source of Iowa’s livelihood not only for the purposes of an
+agricultural economy, but for the establishment of manufacturing plants, business offices,
+and residences. While zoning establishes restrictions on the use of land for social order, a
+similar system has not been established to maintain environmental order below the ground.
+Protection of the environment includes not only visible but invisible threats as well.
+3.
+The rapidly rising volume of waste deposited by society threatens the capacity of
+existing and future landfills.
+The nature of waste disposal today means that unknown
+quantities of potentially toxic and hazardous materials are being buried and pose a constant
+threat to the groundwater supply. In addition, the nature of the waste and disposal methods
+utilized allow the waste to remain basically inert for decades, if not centuries, without
+decomposition.
+4.
+Wastes filling Iowa’s landfills may, at best, represent a potential resource. However,
+without proper management, wastes are hazards to the environment and life itself.
+5.
+The reduction of solid waste at the source and the recycling of reusable waste materials
+will reduce the flow of waste to sanitary landfills and increase the supply of reusable materials
+for the use of the public.
+89 Acts, ch 272, §2
+455D.3 Goals for waste stream reduction — procedures — reductions and increases in
+fees.
+1.
+Waste reduction goals.
+a.
+The goal of the state is to reduce the amount of materials in the waste stream, existing
+as of July 1, 1988, by an intermediate goal of twenty-five percent, and by a final goal of at
+least fifty percent, through the practice of waste volume reduction at the source and through
+recycling. For the purposes of this section, “waste stream” means the disposal of solid waste
+as “solid waste” is defined in section 455B.301.
+b.
+Notwithstanding section 455D.1, subsection 5, facilities which employ combustion of
+solid waste with energy recovery and refuse-derived fuel, which are included in an approved
+comprehensive plan, may include these processes in the definition of recycling for the
+purpose of meeting the state goal if at least thirty-five percent of the fifty percent waste
+reduction goal is met through volume reduction at the source and recycling and reuse, as
+established pursuant to section 455B.301A, subsection 1, paragraphs “a” and “b”.
+2.
+Departmental monitoring.
+a.
+If at any time the department determines that a planning area has met or exceeded
+the twenty-five percent goal, but has not met or exceeded the fifty percent goal, a planning
+area shall subtract sixty cents from the total amount of the tonnage fee imposed pursuant
+to section 455B.310. If at any time the department determines that a planning area has met
+or exceeded the fifty percent goal, a planning area shall subtract fifty cents from the total
+amount of the tonnage fee imposed pursuant to section 455B.310. The reduction in tonnage
+fees pursuant to this paragraph shall be taken from that portion of the tonnage fees which
+would have been allocated for funding alternatives to landfills pursuant to section 455E.11,
+subsection 2, paragraph “a”, subparagraph (1).
+b.
+If the department determines that a planning area has failed to meet the twenty-five
+percent goal, the planning area shall remit fifty cents per ton to the department.
+The
+moneys shall be deposited in the groundwater protection fund created in section 455E.11,
+subsection 2, paragraph “a”, and credited to the solid waste account of the fund to be used
+for funding alternatives to landfills pursuant to section 455E.11, subsection 2, paragraph
+“a”, subparagraph (1).
+Moneys shall continue to be remitted pursuant to this paragraph
+until such time as evidence of attainment of the twenty-five percent goal is documented in
+subsequent plans submitted to the department.
+c.
+If at any time the department determines that a planning area has met or exceeded
+the fifty percent goal, the planning area shall subtract fifty cents from the total amount of
+the tonnage fee imposed pursuant to section 455B.310. This amount shall be in addition to
+any amount subtracted pursuant to paragraph “a”. The reduction in tonnage fees pursuant
+to this paragraph shall be taken from that portion of the tonnage fees which would have
+been allocated to funding alternatives to landfills pursuant to section 455E.11, subsection 2,
+paragraph “a”, subparagraph (1). A planning area failing to meet the fifty percent goal is not
+required to remit any additional tonnage fees to the department.
+3.
+Environmental
+management
+systems.
+A
+planning
+area
+designated
+as
+an
+environmental management system pursuant to section 455J.7 is exempt from the waste
+stream reduction goals of this section.
+89 Acts, ch 272, §3; 92 Acts, ch 1213, §2; 94 Acts, ch 1177, §4; 95 Acts, ch 80, §2; 95 Acts,
+ch 209, §25; 98 Acts, ch 1193, §3; 2001 Acts, ch 124, §2, 6; 2006 Acts, ch 1063, §2; 2008 Acts,
+ch 1109, §2; 2011 Acts, ch 25, §108; 2013 Acts, ch 12, §14, 15
+Referred to in §455B.306, 455B.310, 455J.5
+455D.4 Waste volume reduction policies.
+1.
+It is the policy of this state to encourage the development of waste volume reduction
+programs and education at the local government level through incentives, technical
+assistance, grants, and other practical measures.
+2.
+It is the policy of this state to support and encourage the development of new uses and
+markets for recycled goods, placing emphasis on the development, in Iowa, of businesses
+relating to waste reduction and recycling.
+3.
+The provision of education concerning waste volume reduction at the elementary
+through high school levels and through community organizations will enhance the success
+of local programs requiring public involvement.
+4.
+This state supports and encourages manufacturing methods which are environmentally
+sustainable, technologically safe, and ecologically sound.
+The state shall encourage
+manufacturing methods which enhance waste reduction by creating products with longer
+usage life, and by creating products which are adaptable to secondary uses, require less
+input material, and decrease resource consumption.
+5.
+The people of this state recognize that a variety of benefits result from a comprehensive
+waste reduction policy including the following environmental, economic, governmental, and
+public benefits:
+a.
+Not producing waste in the first instance is the most certain means for avoiding the
+widely recognized health and environmental damage associated with waste. Although waste
+reduction will never eliminate all wastes, to the extent that waste reduction is achieved it
+results in the most certain form of direct risk reduction.
+b.
+Waste reduction may result in reduced pollution control costs for industry by
+stimulating and promoting beneficial technological and management reorganization within
+industry in place of pollution control strategies which channel capital into nonproductive
+pollution control expenditures.
+c.
+The government is better able to administer programs which offer a variety of benefits
+to industry and which reduce the overall cost of government involvement than it is to
+administer programs which offer few benefits to industry and require increasingly extensive,
+complex, and costly governmental actions.
+d.
+Public confidence in environmental policies of the government is important for the
+effectiveness of these policies. Waste reduction poses no adverse environmental and public
+health effects and does not, therefore, lead to increased public concern. Waste reduction also
+increases the public confidence that the government and industry are doing all that is possible
+to protect human health and the environment.
+89 Acts, ch 272, §4
+455D.4A Recycling.
+1.
+For the purpose of this section, “recycling facility” means any facility, business, or
+operation that has the stated primary purpose of facilitating the recycling of materials that
+would otherwise be solid waste.
+2.
+Recycling of materials for the purpose of being excluded from the solid waste provisions
+of chapter 455B, subchapter IV, part 1, must be legitimate. A material that is not legitimately
+recycled is discarded material and is a solid waste. In determining if recycling is legitimate,
+a recycling facility must establish all of the following:
+a.
+The material is potentially recyclable and has a feasible means of being recycled into
+a valuable product.
+b.
+The material is being managed as a valuable commodity while under the facility’s
+control.
+c.
+The material is not being accumulated speculatively pursuant to subsection 7.
+3.
+If the department determines that a facility is not legitimately recycling material, the
+department may allow the facility owner or operator an opportunity to comply with the
+criteria in subsection 2, or may immediately deem the facility subject to the solid waste
+provisions of chapter 455B, subchapter IV, part 1.
+4.
+The criteria in subsection 2 are intended to mitigate the risk posed by facilities that
+accumulate materials speculatively prior to recycling by preventing materials that are not
+otherwise regulated under chapter 455B, subchapter IV, part 1, from being stored indefinitely
+and potentially causing a public health nuisance or adverse environmental impact.
+In
+response to enforcement initiated by the department for alleged violations of this section, the
+burden of proof falls on the recycling facility owner or operator to establish that materials
+are being legitimately recycled.
+5.
+To establish that a material is potentially recyclable and has a feasible means of
+being recycled into a valuable product, a recycling facility owner or operator shall maintain
+with an end user at least one purchase contract, a letter of understanding, or other formal
+agreement.
+Such documentation must be provided to the department upon request.
+In
+addition, if the material is going to be recycled in an unusual manner, the owner or operator
+may use technical specifications from the end user or other documentation to prove recycling
+the material in such manner will result in a valuable product.
+6.
+To establish that a material is being managed as a valuable commodity while under the
+facility’s control, a recycling facility owner or operator shall ensure that stockpiled material is
+not speculatively accumulated by maintaining current inventory records and is managed in a
+manner consistent with comparable recyclable materials or products in an equally protective
+manner.
+7.
+To establish that a material is not being accumulated speculatively, the recycling facility
+owner or operator must document that, during a given calendar year, the amount of material
+that is recycled, or transferred to a different site for recycling, equals at least seventy-five
+percent by weight or volume of the amount of material accumulated at the beginning of the
+period. Materials must be placed in a storage unit with a label indicating the first date that
+the material began to be accumulated. If placing a label on the storage unit is not practicable,
+the accumulation period must be documented through an inventory log or other appropriate
+method.
+8.
+Failure to provide documentation upon request to the department relative to the
+requirements of this section is grounds for the department to immediately deem the facility
+not in compliance with this section.
+9.
+Scrap metal is not subject to the provisions of this section.
+2018 Acts, ch 1023, §7; 2019 Acts, ch 59, §139 – 141; 2021 Acts, ch 76, §150
+Referred to in §455B.301, 455D.1, 455D.22, 455D.23, 455D.25
+455D.5 Statewide waste reduction and recycling network — established.
+1.
+The department shall establish a statewide waste reduction and recycling network
+to promote the waste management policy contained in section 455B.481 and the waste
+management hierarchy contained in section 455B.301A. Programs established shall
+encourage waste generators to reduce the volume of waste generated and to recycle
+or properly dispose of the waste that is generated.
+The network shall utilize existing
+recycling companies when possible. The programs may utilize financial and legal incentives,
+education, technical assistance, regulation, and other methods as appropriate to implement
+the programs.
+The programs may involve the development of public and private sector
+initiatives, the development of markets and other opportunities for waste reduction and
+recycling, and other related efforts.
+2.
+The elements of the network shall include but are not limited to all of the following:
+a.
+Promotion of efforts to increase the amount of recyclable materials used by the public.
+b.
+Promotion of efforts to recover recyclable materials from the waste stream.
+c.
+Promotion of local efforts to implement recycling collection centers located at disposal
+sites or other convenient local sites.
+d.
+Promotion of local efforts of curbside collection of separated recyclable waste
+materials.
+e.
+Provision of public education programs which promote public awareness of waste
+volume reduction and the use of recyclable materials.
+f.
+Promotion of the creation of markets for recyclable materials.
+g.
+Promotion of research, manufacturing processes, and product development, which
+provide for waste reduction through decreased material input, and resource consumption.
+h.
+Promotion of the concentration of the efforts of the business and industry resource
+search service by the small business assistance center for the safe and economic management
+of solid waste and hazardous substances at the university of northern Iowa, to locate existing
+waste streams and materials from businesses and industries which generate small amounts
+of waste and to catalyze the reuse of these materials in the production of goods and services.
+89 Acts, ch 272, §5; 95 Acts, ch 44, §4
+455D.6 Duties of the director.
+The director shall:
+1.
+Unless otherwise specified in this chapter, recommend rules to the commission which
+are necessary to implement this chapter.
+2.
+Administer and coordinate the waste volume reduction and recycling fund created
+under section 455D.15.
+3.
+Enter into contracts and agreements, with the approval of the commission, for contracts
+in excess of twenty-five thousand dollars, with local units of government, other state agencies,
+governments of other states, governmental agencies of the United States, other public and
+private contractors, and other persons as may be necessary or beneficial in carrying out the
+department’s duties under this chapter.
+4.
+Develop a strategy and recommend to the commission the adoption of rules necessary
+to implement a strategy for white goods and waste oil.
+5.
+Develop a strategy and recommend to the commission the adoption of rules necessary
+to implement a strategy for the recycling of electronic goods and the disassembling and
+removing of toxic parts from electronic goods.
+89 Acts, ch 272, §6; 2002 Acts, ch 1162, §59; 2003 Acts, ch 145, §286; 2013 Acts, ch 12, §16,
+17
+Referred to in §455D.22, 455D.25
+455D.7 Duties of the commission.
+The commission shall:
+1.
+Unless otherwise specified in this chapter, adopt rules necessary to implement this
+chapter pursuant to chapter 17A.
+2.
+Prohibit land disposal of specific components of the waste stream for which the
+department has developed and implemented a strategy for alternative disposal according
+to the waste management hierarchy.
+3.
+Establish by rule standards for the acceptance of recyclable or rebatable products at
+redemption centers. The standards may address matters of public health and handling by
+the redemption center.
+89 Acts, ch 272, §7; 2013 Acts, ch 12, §18, 19
+455D.8 Deposits, rebates, and waste abatement fees.
+Repealed by 2011 Acts, ch 9, §11.
+455D.9 Land disposal of yard waste — prohibited.
+1.
+Land disposal of yard waste as defined by the department is prohibited. A sanitary
+landfill may accept yard waste under any of the following circumstances:
+a.
+When the yard waste is separated at its source from other solid waste and is accepted
+by the sanitary landfill for the purposes of soil conditioning and composting.
+b.
+When the yard waste is collected for disposal as a result of a severe storm and the
+yard waste originates in an area declared to be a disaster area in a declaration issued by the
+president of the United States or the governor.
+c.
+When the yard waste is collected for disposal to control, eradicate, or prevent the spread
+of insect pests, tree and plant diseases, or invasive plant species problems.
+d.
+When the yard waste is collected for disposal by a sanitary landfill that operates a
+methane collection system that produces energy.
+2.
+The department shall assist local communities in the development of collection
+systems for yard waste generated from residences and shall assist in the establishment of
+local composting facilities. Each city and county shall, by ordinance, require persons within
+the city or county to separate yard waste from other solid waste generated.
+3.
+The department shall adopt rules which define yard waste and provide for the safe and
+proper method of composting yard waste and other organic materials.
+4.
+State and local agencies responsible for the maintenance of public lands in the state
+shall give preference to the use of composted materials in all land maintenance activities.
+5.
+This section does not prohibit the use of yard waste as land cover or as soil conditioning
+material.
+6.
+This section prohibits the open burning of yard waste within the permitted boundary
+at a sanitary disposal project.
+89 Acts, ch 272, §9; 90 Acts, ch 1191, §4; 92 Acts, ch 1182, §5; 2013 Acts, ch 12, §20; 2014
+Acts, ch 1060, §1, 2; 2015 Acts, ch 19, §1
+455D.9A Disposal of baled solid waste at a sanitary landfill — prohibited.
+Beginning January 1, 1992, a person shall not dispose of baled solid waste at a sanitary
+landfill and a sanitary landfill shall not accept baled solid waste for final disposal. Solid waste
+which is baled on-site may be disposed of at the sanitary landfill.
+91 Acts, ch 113, §1; 99 Acts, ch 14, §1
+455D.10 Land disposal of lead acid batteries — prohibited — collection for recycling.
+1.
+Beginning July 1, 1990, land disposal of lead acid batteries is prohibited.
+2.
+A person offering for sale or selling lead acid batteries at retail in the state shall do all
+of the following:
+a.
+Accept used lead acid batteries from customers who purchase new lead acid batteries,
+at the point of sale.
+b.
+Post written notice that land disposal of lead acid batteries is prohibited and that
+state law requires the retailer to accept lead acid batteries for recycling when new lead acid
+batteries are purchased.
+3.
+A person offering for sale or selling lead acid batteries at wholesale shall accept
+used lead acid batteries from retailers who purchase new lead acid batteries for resale to
+consumers, or from wholesale customers.
+89 Acts, ch 272, §10
+455D.10A Household batteries — heavy metal content and recycling requirements.
+1.
+Definitions.
+As used in this section and in section 455D.10B unless the context
+otherwise requires:
+a.
+“Button cell battery” means a household battery which resembles a button or coin in
+size and shape.
+b.
+“Consumer” means a person who purchases household batteries for personal or
+business use.
+c.
+“Easily removed” means a battery or battery pack which can be removed from a
+battery-powered product by the consumer, using common household tools.
+d.
+“Household battery” means any type of dry cell battery used by consumers, including
+but not limited to mercuric oxide, carbon-zinc, zinc air, silver oxide, nickel-cadmium,
+nickel-hydride, alkaline, lithium, or sealed lead acid batteries.
+e.
+“Institutional
+generator”
+means
+a
+governmental,
+commercial,
+industrial,
+communications, or medical facility which generates waste mercuric oxide, nickel-cadmium,
+or sealed lead acid rechargeable batteries.
+f.
+“Rechargeable consumer product” means a product that is primarily powered by a
+rechargeable battery and is primarily used or purchased to be used for household purposes.
+g.
+“Rechargeable household battery” means a small sealed nickel-cadmium or sealed
+lead acid battery used for nonvehicular purposes and weighing less than twenty-five pounds,
+which can be recharged by the consumer and reused.
+2.
+Mercury content limited.
+a.
+A person shall not sell, distribute, or offer for retail sale in this state an alkaline
+manganese battery that contains more than twenty-five one-thousandths of a percent
+mercury by weight. A person shall not sell, distribute, or offer for sale at retail in this state an
+alkaline manganese household battery manufactured on or after January 1, 1996, to which
+mercury has been added. This paragraph does not apply to alkaline manganese button cell
+batteries.
+b.
+A person shall not sell, distribute, or offer for retail sale in this state an alkaline
+manganese button cell battery which contains more than twenty-five milligrams of mercury.
+3.
+Recycling/disposal requirements for household batteries.
+a.
+Beginning July 1, 1996, a system or systems shall be in place to protect the health and
+safety of Iowans, and the state’s environment, from the toxic components of used household
+batteries. The system or systems shall include at least one of the following elements:
+(1)
+Elimination or reduction to the extent established by rule of the department, of heavy
+metals and other toxic components in nickel-cadmium, mercuric oxide, or sealed lead acid
+household batteries, to ensure protection of public health, safety, and the environment when
+placed in or disposed of as part of mixed municipal solid waste.
+(2)
+Establishment of a comprehensive recycling program for each type of battery listed
+in subparagraph (1) that is sold, distributed, or offered for sale in this state. An institutional
+generator shall provide for the on-site source separation and collection of used mercuric
+oxide batteries, nickel-cadmium rechargeable batteries, and sealed lead acid rechargeable
+batteries. All participants in the stream of commerce relating to the batteries, which are listed
+in subparagraph (1) and which are not designated as exempt pursuant to section 455D.10B,
+subsection 2, paragraph “a”, subparagraph (3) or (4), shall, individually or collectively, be
+responsible for developing and operating a system for collecting and transporting used
+batteries to the appropriate dry cell battery manufacturer or to a site or facility designated
+by a manufacturer. Additionally, dry cell battery manufacturers shall be responsible for the
+recycling of used batteries in an environmentally sound manner.
+(3)
+Provision for collection, transporting, and proper disposal of used household batteries
+of the types listed in subparagraph (1) which are distributed, sold, or offered for retail sale
+in the state. For the purposes of this paragraph, “proper disposal” means disposal which
+complies with all applicable state and federal laws. All participants in the stream of commerce
+relating to the batteries, which are listed in subparagraph (1) and which are not designated as
+exempt pursuant to section 455D.10B, subsection 2, paragraph “a”, subparagraph (3) or (4),
+shall, individually or collectively, be responsible for developing and operating a system for
+collecting and transporting used batteries to the appropriate dry cell battery manufacturer or
+to a site or facility designated by a manufacturer. Additionally, dry cell battery manufacturers
+shall be responsible for proper disposal of the used batteries.
+b.
+To meet the recycling and disposal requirements of this subsection, participants in the
+systems established under this subsection, either individually or collectively, shall do all of
+the following:
+(1)
+Identify a collection entity, other than a local government collection system, unless the
+local government agrees otherwise, through which the discarded batteries listed in paragraph
+“a”, subparagraph (1) shall be returned for collection and recycling or disposal.
+(2)
+Inform each customer of the prohibition of disposal of batteries listed in paragraph
+“a”, subparagraph (1), and a safe and convenient return process available to the customer for
+recycling or proper disposal.
+c.
+After July 1, 1996, nickel-cadmium, sealed lead acid, or mercuric oxide household
+batteries shall not be sold, distributed, or offered for sale in the state, unless a system
+required by this section is in operation.
+d.
+The department may make recommendations to the commission to include other types
+of household or rechargeable batteries, not enumerated in paragraph “a”, subparagraph (1),
+in the requirements of this subsection.
+e.
+This subsection does not apply to batteries subject to regulation under the federal
+Resource Conservation and Recovery Act, 42 U.S.C. §6901 et seq.
+4.
+Rules adopted.
+The commission shall adopt, upon recommendation of the director,
+the rules necessary to carry out the provisions of this section pursuant to chapter 17A.
+92 Acts, ch 1215, §15; 95 Acts, ch 99, §1; 2007 Acts, ch 151, §1; 2011 Acts, ch 25, §140
+Referred to in §455D.10B, 455D.25
+455D.10B Batteries used in rechargeable consumer products.
+1.
+A person shall not distribute, sell, or offer for retail sale in the state a rechargeable
+consumer product manufactured on or after January 1, 1994, unless all of the following
+conditions are met:
+a.
+The battery can be easily removed by the consumer, or is contained in a battery pack
+that is separate from the product and can be easily removed.
+b.
+The battery, the instruction manual, and the product package are clearly labeled to
+indicate that the battery must be recycled or disposed of properly and includes the designation
+“Cd” or “Ni-Cd” for nickel-cadmium batteries and “Pb” or “Lead” for small lead batteries.
+2. a.
+A rechargeable consumer product manufacturer may apply to the department for
+exemption from the requirements of subsection 1 if any of the following apply:
+(1)
+The product cannot be redesigned or manufactured to comply with the requirements
+prior to January 1, 1994.
+(2)
+The redesign of the product to comply with the requirements would result in
+significant danger to public health and safety.
+(3)
+The battery poses no unreasonable hazard to public health, safety, or the environment
+when placed in and processed or disposed of as part of mixed municipal solid waste, pursuant
+to section 455D.10A.
+(4)
+The consumer product manufacturer has in operation a program to recycle used
+batteries in an environmentally sound manner.
+b.
+A manufacturer of a product that is powered by a battery that cannot be easily removed
+who has been granted an exemption under this subsection shall label the product as required
+in subsection 1, paragraph “b”.
+3.
+An exemption granted by the department under subsection 2,
+paragraph “a”,
+subparagraph (1), is limited to a maximum of two years, but may be renewed.
+92 Acts, ch 1215, §16; 94 Acts, ch 1037, §1, 2; 2011 Acts, ch 25, §109
+Referred to in §455D.10A
+455D.11 Waste tires — land disposal prohibited.
+1.
+As used in this section, unless the context otherwise requires:
+a.
+“Permit” means a permit issued by the department to establish, construct, modify, own,
+or operate a tire stockpiling facility.
+b.
+“Processing” means producing or manufacturing usable materials from waste tires.
+c.
+“Processing site” means a site which is used for the processing of waste tires and which
+is owned or operated by a tire processor who has a permit for the site.
+d.
+“Tire collector” means either a person who owns or operates a site used for the storage,
+collection, or deposit of more than five hundred waste tires or an authorized vehicle recycler
+who is licensed by the state department of transportation pursuant to section 321H.4 and
+who owns or operates a site used for the storage, collection, or deposit of more than three
+thousand five hundred waste tires.
+e.
+“Tire processor” means a person engaged in the processing of waste tires.
+f.
+“Waste tire” means a tire that is no longer suitable for its originally intended purpose
+due to wear, damage, or defect. “Waste tire” does not include a nonpneumatic tire.
+g.
+“Waste tire collection site” means a site which is used for the storage, collection, or
+deposit of waste tires.
+2.
+Land disposal of waste tires is prohibited beginning July 1, 1991, unless the tire has
+been processed in a manner established by the department. A sanitary landfill shall not refuse
+to accept a waste tire which has been properly processed.
+3.
+The department shall conduct a study and make recommendations to the general
+assembly by January 1, 1991, concerning a waste tire abatement program which includes
+but is not limited to the following:
+a.
+The number and geographic distribution of waste tires generated and existing in the
+state.
+b.
+The development of markets for the recycling and processing of waste tires, in the
+midwestern states.
+c.
+The methods to establish reliable sources of waste tires for users of waste tires.
+d.
+The permitting of waste tire collection sites, waste tire processing facilities, and waste
+tire haulers.
+e.
+The methods for the cleanup of existing stockpiles of waste tires.
+4.
+Upon completion of the study pursuant to subsection 3, the department shall determine
+the number of stockpiling facilities which are necessary and shall develop rules for stockpiling
+facilities which include but are not limited to the following:
+a.
+The prohibition of burning within one hundred yards of a tire stockpile.
+b.
+The maximum height, width, and length of a tire stockpile.
+c.
+Plans to control mosquitoes and rodents.
+d.
+A facility closure plan.
+e.
+Specifications for fire lanes between stockpiles.
+f.
+Limitations of the total number of tires allowed at a single stockpile site.
+5.
+The department shall develop criteria for the issuance of permits and shall issue permits
+to qualified stockpiling facilities.
+6.
+The department shall provide financial assistance to persons who establish recycling
+and processing sites for waste tires, subject to the rules established by the department for the
+establishment of such sites and subject to the conditions prescribed by the department for
+application for and awarding of such financial assistance.
+7.
+The commission shall adopt rules which provide the following:
+a.
+That a person who contracts with another person to transport more than forty waste
+tires is required to contract only with a person registered as a waste tire hauler pursuant to
+section 455D.11I.
+b.
+That a person who transports waste tires for final disposal is required to only dispose
+of the tires at a permitted sanitary disposal facility.
+8.
+The department shall adopt rules relating to the storage and disposal of nonpneumatic
+tires and processed tires.
+89 Acts, ch 272, §11; 91 Acts, ch 257, §7; 92 Acts, ch 1218, §3; 96 Acts, ch 1117, §2; 97 Acts,
+ch 24, §1; 2002 Acts, ch 1121, §2; 2004 Acts, ch 1030, §1; 2007 Acts, ch 151, §2; 2013 Acts, ch
+90, §110
+Referred to in §455D.22, 455D.25
+455D.11A Financial assurance — waste tire collection or processing sites.
+1.
+A person owning or operating a waste tire collection or processing site shall provide a
+financial assurance instrument to the department prior to the initial approval of a permit or
+prior to the renewal of a permit for an existing or expanding facility. The financial assurance
+instrument shall be used to provide for closure of the waste tire collection or processing
+facility.
+2.
+The financial assurance instrument shall meet all requirements adopted by rule by the
+commission, and shall not be canceled, revoked, disbursed, released, or allowed to terminate
+without the approval of the department.
+3.
+Financial assurance instruments may include instruments such as cash or surety bond,
+a letter of credit in a form prescribed by the department, a secured trust fund, a corporate
+guarantee, or a combination of such instruments and guarantees sufficient to satisfy the
+requirements of subsection 5. The department may request an annual audit, which shall
+remain confidential, to be performed by a third party.
+4.
+If the owner or operator of a waste tire collection or processing site chooses to provide
+financial assurance in the form of a surety bond, the bond shall be executed by a surety
+company authorized to do business in this state. The bond shall be continuous in nature
+until canceled by the surety. A surety shall provide at least ninety days’ notice in writing
+to the owner or operator and to the department indicating the surety’s intent to cancel the
+bond and the effective date of the cancellation. The surety bond shall be for the benefit of
+the citizens of this state and shall be conditioned upon compliance with this section. The
+surety’s liability under this subsection is limited to the amount of the bond or the amount of
+the damages or moneys due, whichever is less. However, this subsection does not limit the
+amount of damages recoverable from an owner or operator to the amount of the surety bond.
+The bond shall be made in a form prescribed by the commissioner of insurance and written
+by a company authorized by the commissioner of insurance to do business in this state. If a
+surety bond that has been provided as financial assurance under this subsection is canceled,
+the owner or operator of the waste tire collection or processing site shall demonstrate a means
+of continued compliance with the financial assurance requirements of this section to the
+department within thirty days of the cancellation. If a means of continued compliance is not
+demonstrated within the thirty-day period, the department shall suspend the permit for the
+site, and the owner or operator shall perform proper closure of the site within thirty days of
+the suspension. If the owner or operator does not properly close the site within the time period
+allowed, the department shall file a claim with the surety company, prior to the effective date
+of cancellation of the bond, to collect the amount of the bond for use in performing proper
+closure. A person who fails to provide for proper closure, notwithstanding collection by the
+department of the amount of the bond, is guilty of a serious misdemeanor.
+5.
+The financial assurance instrument for a waste tire collection site shall provide coverage
+in an amount that is equivalent to two dollars and fifty cents per passenger tire equivalent
+collected by the site. The financial assurance instrument for a waste tire processing site shall
+provide coverage in an amount that is equivalent to two dollars and fifty cents per passenger
+tire equivalent collected for processing by the site that is above the three-day processing
+supply of tires for the site as determined by the department.
+6.
+The financial assurance instrument shall not be assigned for the benefit of creditors
+with the exception of the state, and shall not be used to pay any final judgment against a
+permit holder arising out of the ownership or operation of the site. The commission shall
+adopt rules to establish conditions under which the department may gain access to the
+financial assurance instrument.
+7.
+The requirement for financial assurance shall not apply to waste tire collection or
+processing sites operated by a city or county, or operated in conjunction with a sanitary
+landfill.
+92 Acts, ch 1218, §4; 94 Acts, ch 1023, §56; 97 Acts, ch 53, §1, 2; 98 Acts, ch 1180, §1, 2;
+2015 Acts, ch 30, §134, 135; 2021 Acts, ch 29, §1; 2022 Acts, ch 1021, §108
+Referred to in §455D.11C, 455D.22, 455D.25
+455D.11B Permitting of waste tire collection or processing sites — fees.
+An owner or operator of a waste tire collection or processing site, including an enclosed
+site, shall obtain a permit from the department prior to operation of the site. The owner or
+operator shall pay an annual fee of eight hundred fifty dollars to the department. The moneys
+collected by the department shall be deposited in the hazardous substance remedial fund
+established pursuant to section 455B.423 and shall be used for the purposes of administering
+the waste tire collection or processing site permit program.
+92 Acts, ch 1218, §5
+Referred to in §455D.22, 455D.25
+455D.11C Waste tire management fund.
+1.
+A waste tire management fund is created within the state treasury. Notwithstanding
+section 8.33, any unexpended balance in the fund at the end of each fiscal year shall be
+retained in the fund. Notwithstanding section 12C.7, any interest or earnings on investments
+from moneys in the fund shall be credited to the fund.
+Moneys from the fund that are
+expended by the department in closing or bringing into compliance a waste tire collection
+site pursuant to section 455D.11A and later recouped by the department shall be credited
+to the fund.
+2.
+Moneys in the waste tire management fund are appropriated and shall be used for the
+following purposes:
+a.
+Thirty percent of the moneys shall be used for all of the following positions:
+(1)
+One full-time equivalent position for the administration of permits and registrations
+for tire processing, storage, and hauling activities, and tire program initiatives.
+(2)
+One and one-half full-time equivalent positions for waste tire-related compliance
+checks and inspections. The full-time equivalent positions shall be divided equally between
+the field offices in the state.
+b.
+Ten percent of the moneys shall be used for a public education and awareness initiative
+related to the proper tire disposal options and environmental and health hazards posed by
+improper tire storage.
+c.
+Thirty percent of the moneys shall be used for market development initiatives for waste
+tires.
+d.
+Thirty percent of the moneys shall be used for waste tire stockpile abatement initiatives
+which would require a cost-share agreement with the landowner.
+96 Acts, ch 1117, §3; 2004 Acts, ch 1173, §1; 2008 Acts, ch 1113, §116; 2011 Acts, ch 34,
+§103
+455D.11D through 455D.11F
+Repealed by 2004 Acts, ch 1173, §2.
+455D.11G Waste tire disposal fees and abatement costs.
+1.
+A retail tire dealer who currently charges a fee relating to disposal of used tires is
+encouraged to include the fee within the sales price of new tires. The practice by retail tire
+dealers of adding the fee as a separate charge on sales invoices is discouraged.
+2.
+Notwithstanding any provision in this chapter, any generator of waste tires who is
+identified as being a contributor to the materials which are the object of an abatement and who
+can document full compliance with this chapter and administrative rules adopted pursuant to
+this chapter in disposing of such waste tires shall not be liable for any of the cost of recovery
+actions of the abatement.
+96 Acts, ch 1117, §7; 98 Acts, ch 1180, §5
+455D.11H Future repeal.
+Repealed by 2004 Acts, ch 1173, §2.
+455D.11I Registration of waste tire haulers — bond.
+1.
+For the purposes of this section, “waste tire hauler” means a person who transports for
+hire more than forty waste tires in a single load for commercial purposes.
+2.
+A waste tire hauler shall register with, and obtain a certificate of registration from, the
+department before hauling waste tires in this state. Requirements for registration of a waste
+tire hauler shall include a provision that waste tire haulers shall pay all amounts due to any
+individual or group of individuals when due for damages caused by improper disposal of
+waste tires by the waste tire hauler or the waste tire hauler’s employee while acting within
+the scope of employment. The waste tire hauler may apply for a certificate of registration by
+submitting the forms provided for that purpose and shall provide the name of the applicant
+and the address of the applicant’s principal place of business and any additional information
+as deemed appropriate by the department.
+3.
+A certificate of registration issued under this section is valid for one year from the date
+of issuance.
+A registered waste tire hauler may renew the certificate by filing a renewal
+application in the form prescribed by the department, accompanied by any applicable renewal
+fee.
+4.
+A certificate of registration shall at all times be carried and displayed in the vehicle
+used for transportation of waste tires and shall be shown to a representative of the
+department of natural resources or the state department of transportation, upon request.
+The state department of transportation may inspect vehicles used for the transportation of
+waste tires and request that the certificate of registration of the waste tire hauler be shown.
+5.
+The department shall establish a reasonable registration fee sufficient to offset
+expenses incurred in the administration of this section.
+6.
+The department shall require that a waste tire hauler have on file with the department,
+before the issuance or renewal of a registration certificate, a surety bond executed by a surety
+company authorized to do business in this state in the sum of a minimum of one hundred fifty
+thousand dollars, which bond shall be continuous in nature until canceled by the surety. A
+surety shall provide at least thirty days’ notice in writing to the waste tire hauler and to the
+department indicating the surety’s intent to cancel the bond and the effective date of the
+cancellation. The surety bond shall be for the benefit of the citizens of this state and shall
+be conditioned upon the waste tire hauler’s willingness to comply with this section. The
+surety’s liability under this subsection is limited to the amount of the bond or the amount of
+the damages or moneys due, whichever is less. However, this subsection does not limit the
+amount of damages recoverable from a waste tire hauler to the amount of the surety bond.
+The bond shall be made in a form prescribed by the commissioner of insurance and written
+by a company authorized by the commissioner of insurance to do business in this state.
+7.
+The department shall adopt rules necessary for the implementation and administration
+of this section.
+2002 Acts, ch 1121, §4; 2003 Acts, ch 44, §69; 2007 Acts, ch 151, §3, 4; 2021 Acts, ch 29, §2
+Referred to in §455D.11, 455D.22, 455D.25
+455D.12 Plastic container labeling.
+1.
+In this section unless the context otherwise requires:
+a.
+“Label” means a molded imprint or raised symbol on or near the bottom of a plastic
+product.
+b.
+“Plastic” means any material made of polymeric organic compounds and additives that
+can be shaped by flow.
+c.
+“Plastic bottle” means a plastic container that has a neck that is smaller than the body of
+the container, accepts a screw-type, snap cap, or other closure, and has a capacity of sixteen
+fluid ounces or more, but less than five gallons.
+d.
+“Rigid plastic container” means any formed or molded container, other than a bottle,
+intended for single use, composed predominantly of plastic resin, and having a relatively
+inflexible infinite shape or form with a capacity of eight ounces or more, but less than five
+gallons.
+2.
+A person shall not distribute, sell, or offer for sale in this state a plastic bottle or rigid
+plastic container unless the product is labeled with a code indicating the plastic resin used
+to produce the bottle or container. Rigid plastic bottles or rigid plastic containers with labels
+and basecups of a different material shall be coded by their basic material. The code shall
+consist of a number placed within a triangle of arrows and letters placed below the triangle of
+arrows. The triangle shall be equilateral, formed by three arrows with the apex of each point
+of the triangle at the midpoint of each arrow, rounded with a short radius. The arrowhead of
+each arrow shall be at the midpoint of each side of the triangle with a short gap separating the
+pointer from the base of the adjacent arrow. The triangle, formed by the three arrows curved
+at their midpoints, shall depict a clockwise path around the code number. The numbers and
+letters used shall be as follows:
+a.
+1 and PETE (polyethylene terephthalate)
+b.
+2 and HDPE (high density polyethylene)
+c.
+3 and V (vinyl)
+d.
+4 and LDPE (low density polyethylene)
+e.
+5 and PP (polypropylene)
+f.
+6 and PS (polystyrene)
+g.
+7 and OTHER (includes multilayer)
+3.
+A container manufacturer or distributor who violates this section is subject to a civil
+penalty of not more than five hundred dollars for each violation.
+89 Acts, ch 272, §12; 2013 Acts, ch 12, §21, 22
+455D.13 Land disposal of used oil and used oil filters prohibited — collection and
+recycling.
+1.
+A sanitary landfill shall not accept used oil for final disposal.
+2.
+A person offering for sale or selling oil or oil filters at retail in the state shall do the
+following:
+a.
+Accept at the point of sale, used oil and used oil filters from customers, or post notice
+of locations where a customer may dispose of used oil and used oil filters.
+b.
+Post written notice that it is unlawful to dispose of used oil in a sanitary landfill.
+3.
+A business that generates used oil filters or collects used oil filters from a person shall
+not dispose of the oil filters in a sanitary landfill and shall source-separate and recycle the oil
+filters.
+89 Acts, ch 272, §13; 2008 Acts, ch 1167, §1, 2
+455D.14 Products manufactured with chlorofluorocarbons prohibited.
+Beginning January 1, 1990, a person shall not sell, offer for sale, purchase, or use plastic
+foam packaging products or food service items manufactured with chlorofluorocarbons.
+Beginning January 1, 1998, a person shall not sell, offer for sale, purchase, or use plastic
+foam products, not previously prohibited, which are manufactured with fully halogenated
+chlorofluorocarbons. A person violating this section is guilty of a serious misdemeanor.
+89 Acts, ch 272, §14
+455D.15 Waste volume reduction and recycling fund.
+1.
+A waste volume reduction and recycling fund is created within the state treasury.
+Moneys received by the department from fees, including general revenue, federal funds,
+awards, wills, bequests, gifts, or other moneys designated shall be deposited in the state
+treasury to the credit of the fund. Notwithstanding section 8.33, any unexpended balance
+in the fund at the end of each fiscal year shall be retained in the fund. Any interest and
+earnings on investments from money in the fund shall be credited to the fund, section 12C.7
+notwithstanding.
+2.
+The fund shall be utilized by the department for providing technical assistance to Iowa
+businesses in developing and implementing pollution prevention techniques.
+89 Acts, ch 272, §15; 2011 Acts, ch 9, §6; 2013 Acts, ch 12, §23, 24
+Referred to in §29C.8A, 455D.6
+455D.15A Permitting of waste conversion technologies operations — fees.
+Repealed by
+2019 Acts, ch 14, §4.
+455D.16 Mercury — thermostats.
+1.
+As used in this section, unless the context otherwise requires, “mercury-added
+thermostat” means a product or device that uses a mercury switch to sense and control
+room temperature through communication with heating, ventilating, or air-conditioning
+equipment.
+“Mercury-added thermostat” includes thermostats used to sense and control
+room temperature in residential, commercial, industrial, and other buildings but does not
+include thermostats used to sense and control temperature as part of a manufacturing
+process.
+2.
+A person shall not sell, offer for sale, or install a mercury-added thermostat in this state.
+3.
+Except as otherwise provided, a person who generates a discarded mercury-added
+thermostat shall manage the mercury-added thermostat as a hazardous waste or universal
+hazardous waste, according to all applicable state and federal regulations.
+A contractor
+who replaces or removes mercury-added thermostats shall assure that any discarded
+mercury-added thermostat is subject to proper separation and management as hazardous
+waste or universal hazardous waste. A contractor who replaces a mercury-added thermostat
+in a residence shall deliver the mercury-added thermostat to an appropriate collection
+location for recycling.
+2008 Acts, ch 1168, §1; 2015 Acts, ch 29, §60; 2018 Acts, ch 1023, §8; 2019 Acts, ch 59, §142;
+2019 Acts, ch 131, §37
+455D.17 and 455D.18
+Reserved.
+455D.19 Packaging — heavy metal content.
+1.
+The general assembly finds and declares all of the following:
+a.
+The management of solid waste can pose a wide range of hazards to public health and
+safety and to the environment.
+b.
+Packaging comprises a significant percentage of the overall solid waste stream.
+c.
+The presence of heavy metals in packaging is a concern in light of the likely presence
+of heavy metals in emissions or ash when packaging is incinerated or in leachate when
+packaging is landfilled.
+d.
+Lead, mercury, cadmium, and hexavalent chromium, on the basis of available scientific
+and medical evidence, are of particular concern.
+e.
+It is desirable as a first step in reducing the toxicity of packaging waste to eliminate the
+addition of heavy metals to packaging.
+f.
+The intent of the general assembly is to achieve reduction in toxicity without impeding
+or discouraging the expanded use of postconsumer materials in the production of packaging
+and its components.
+2.
+As used in this section unless the context otherwise requires:
+a.
+“Distributor” means a person who takes title to one or more packages or packaging
+components purchased for promotional purposes or resale.
+A person involved solely in
+delivering or storing packages or packaging components on behalf of third parties is not a
+distributor.
+b.
+“Incidental presence” means the presence of a regulated metal as an unintended or
+undesired ingredient of a package or packaging component.
+c.
+“Intentional introduction” means an act of deliberately utilizing a regulated metal
+in the formulation of a package or packaging component where its continued presence is
+desired in the final package or packaging component to provide a specific characteristic,
+appearance, or quality.
+Intentional introduction does not include the use of a regulated
+metal as a processing agent or intermediate to impart certain chemical or physical changes
+during manufacturing, if the incidental presence of a residue of the metal in the final
+package or packaging component is neither desired nor deliberate, and if the final package
+or packaging component is in compliance with subsection 4, paragraph “a”, subparagraph
+(3). Intentional introduction also does not include the use of recycled materials as feedstock
+for the manufacture of new packaging materials, if the recycled materials contain amounts
+of a regulated metal and if the new package or packaging component is in compliance with
+subsection 4, paragraph “a”, subparagraph (3).
+d.
+“Manufacturer” means a person who produces one or more packages or packaging
+components.
+e.
+“Manufacturing” means physical or chemical modification of one or more materials to
+produce packaging or packaging components.
+f.
+“Package” means a container which provides a means of marketing, protecting, or
+handling a product including a unit package, intermediate package, or a shipping container.
+“Package” also includes but is not limited to unsealed receptacles such as carrying cases,
+crates, cups, pails, rigid foil and other trays, wrappers and wrapping films, bags, and tubs.
+g.
+“Packaging
+component”
+means
+any
+individual
+assembled
+part
+of
+a
+package
+including
+but
+not
+limited
+to
+interior
+and
+exterior
+blocking,
+bracing,
+cushioning,
+weatherproofing, exterior strapping, coatings, closures, inks, labels, tin-plated steel that
+meets ASTM (American society for testing and materials) international specification A-623,
+electro-galvanized coated steel, or hot-dipped-coated galvanized steel that meets ASTM
+(American society for testing and materials) international specification A-525 or A-879.
+h.
+“Regulated metal” means any metal regulated under this section.
+i.
+“Reusable entities” means packaging or packaging components having a controlled
+distribution and reuse subject to the exemption provided in subsection 5, paragraph “e”.
+3.
+A manufacturer or distributor shall not offer for sale or sell or offer for promotional
+purposes a package or packaging component, in this state, which includes, in the package
+itself or in any packaging component, inks, dyes, pigments, adhesives, stabilizers, or any
+other additives, any lead, cadmium, mercury, or hexavalent chromium which has been
+intentionally introduced as an element during manufacturing or distribution as opposed to
+the incidental presence of any of these elements and which exceed the concentration level
+established by the department. A distributor shall only be subject to the assessment of a civil
+penalty pursuant to section 455D.25, subsection 2, for the knowing violation of this section.
+Knowledge by the distributor of the violation shall be presumed beginning sixty days from
+the receipt of notification from the department by certified mail.
+4. a.
+The concentration levels of lead, cadmium, mercury, and hexavalent chromium
+present in a package or packaging component shall not exceed the following:
+(1)
+Six hundred parts per million by weight by July 1, 1992.
+(2)
+Two hundred fifty parts per million by weight by July 1, 1993.
+(3)
+One hundred parts per million by weight by July 1, 1994.
+b.
+Concentration levels of lead, cadmium, mercury, and hexavalent chromium shall be
+determined using ASTM (American society for testing and materials) international test
+methods, as revised, or United States environmental protection agency test methods for
+evaluating solid waste, S-W 846, as revised.
+5.
+The following packaging and packaging components are exempt from the requirements
+of this section:
+a.
+Packaging or packaging components with a code indicating a date of manufacture prior
+to July 1, 1990, and packaging or packaging components used by the alcoholic beverage
+industry or the wine industry prior to July 1, 1992.
+b.
+Packages or packaging components to which lead, cadmium, mercury, or hexavalent
+chromium have been added in the manufacturing, forming, printing, or distribution process
+in order to comply with health or safety requirements of federal law or for which there is no
+feasible alternative if the manufacturer of a package or packaging component petitions the
+department for an exemption from the provisions of this paragraph for a particular package
+or packaging component. The department may grant a two-year exemption, if warranted by
+the circumstances, and an exemption may, upon meeting either criterion of this paragraph,
+be renewed for two years.
+For purposes of this paragraph, a use for which there is no
+feasible alternative is one in which the regulated substance is essential to the protection,
+safe handling, or function of the package’s contents.
+c.
+Packages and packaging components that would not exceed the maximum contaminant
+levels established but for the addition of recycled materials.
+d. (1)
+Packages or packaging components that are reused, but exceed contaminant levels
+set forth in subsection 4, paragraph “a”, subparagraph (3), if all of the following criteria are
+met:
+(a)
+The product being conveyed by the package, including any packaging component, is
+regulated under federal or state health or safety requirements.
+(b)
+Transportation of the packaged product is regulated under federal or state
+transportation requirements.
+(c)
+The disposal of the packages or packaging components is performed according to
+federal or state radioactive or hazardous waste disposal requirements.
+(2)
+The department may grant a two-year exemption if warranted by the circumstances
+and an exemption may, upon meeting the criteria of this paragraph, be renewed for additional
+two-year periods.
+e. (1)
+Packages or packaging components which qualify as reusable entities that exceed
+the contaminant levels set forth in subsection 4, paragraph “a”, subparagraph (3), if the
+manufacturers or distributors of such packages or packaging components petition the
+department for an exemption and receive approval from the department according to the
+following standards based upon a satisfactory demonstration that the environmental benefit
+of the controlled distribution and reuse is significantly greater than if the same package is
+manufactured in compliance with the contaminant levels set forth in subsection 4, paragraph
+“a”, subparagraph (3). The department may grant a two-year exemption, if warranted by the
+circumstances, and an exemption may, upon meeting the four criteria listed in subparagraph
+(2), subparagraph divisions (a) through (d), be renewed for additional two-year periods.
+(2)
+In order to receive an exemption, the application must ensure that reusable entities
+are used, transported, and disposed of in a manner consistent with the following criteria:
+(a)
+A means of identifying in a permanent and visible manner those reusable entities
+containing regulated metals for which an exemption is sought.
+(b)
+A method of regulatory and financial accountability so that a specified percentage of
+the reusable entities manufactured and distributed to another person are not discarded by
+that person after use, but are returned to the manufacturer or the manufacturer’s designee.
+(c)
+A system of inventory and record maintenance to account for the reusable entities
+placed in, and removed from, service.
+(d)
+A means of transforming returned entities, that are no longer reusable, into recycled
+materials for manufacturing or into manufacturing wastes which are subject to existing
+federal or state laws or regulations governing manufacturing wastes to ensure that these
+wastes do not enter the commercial or municipal waste stream.
+(3)
+The application for an exemption must document the measures to be taken by the
+applicant as set out in subparagraph (2), subparagraph divisions (a) through (d).
+6. a.
+A manufacturer or distributor of packaging or packaging components shall make
+available to purchasers, to the department, and to the general public upon request, certificates
+of compliance which state that the manufacturer’s or distributor’s packaging or packaging
+components comply with, or are exempt from, the requirements of this section.
+b.
+If the manufacturer or distributor of the package or packaging component reformulates
+or creates a new package or packaging component, the manufacturer or distributor shall
+provide an amended or new certificate of compliance for the reformulated or new package
+or packaging component.
+7.
+The commission shall adopt rules to administer this section and recommend any other
+toxic substances contained in packaging to be added to the list in order to further reduce the
+toxicity of packaging waste.
+90 Acts, ch 1255, §29; 91 Acts, ch 203, §5; 91 Acts, ch 255, §15; 94 Acts, ch 1085, §1; 96 Acts,
+ch 1095, §1; 2004 Acts, ch 1086, §75, 106; 2007 Acts, ch 151, §5 – 7; 2009 Acts, ch 41, §134,
+135; 2015 Acts, ch 30, §136
+Referred to in §455D.22, 455D.25
+455D.20 Refuse-derived
+fuel
+—
+calculation
+as
+portion
+of
+waste
+reduction
+goal.
+Repealed by 2004 Acts, ch 1078, §3.
+455D.21 Local ordinance — curbside collection.
+A city council or county board of supervisors which provides for the collection of solid waste
+by its residents shall consider as a proposed ordinance, the mandatory curbside collection
+of recyclable materials which have been separated from other solid waste. The proposed
+ordinance shall be considered in accordance with chapter 331 or 380.
+92 Acts, ch 1215, §17
+455D.22 Civil penalty.
+A person who violates section 455D.4A, 455D.6, subsection 4, section 455D.11, 455D.11A,
+455D.11B, 455D.11I, or 455D.19, or any rule, permit, or order issued pursuant thereto shall
+be subject to a civil penalty which shall be established, assessed, and collected in the same
+manner as provided in section 455B.109. Any civil penalty collected shall be deposited in the
+general fund of the state.
+2007 Acts, ch 151, §8; 2018 Acts, ch 1023, §9
+455D.23 Administrative enforcement — compliance orders.
+The director may issue any order necessary to secure compliance with or prevent a violation
+of the provisions of this chapter or any rule adopted or permit or order issued pursuant to
+this chapter. Any order issued to enforce section 455D.4A may include a requirement to
+remove and properly dispose of materials being accumulated speculatively from a property
+and impose costs and penalties as determined by the department by rule. The person to whom
+a compliance order is issued under this section may cause to be commenced a contested case
+within the meaning of chapter 17A by filing a notice of appeal to the commission. On appeal,
+the commission may affirm, modify, or vacate the order of the director. The applicable time
+frames for the issuance and appeal of the order are defined in section 455B.110.
+2007 Acts, ch 151, §9; 2018 Acts, ch 1023, §10; 2019 Acts, ch 97, §8; 2020 Acts, ch 1063,
+§243
+455D.24 Judicial review.
+Judicial review of any order or other action of the commission or director may be sought
+in accordance with the terms of chapter 17A. Notwithstanding the terms of chapter 17A,
+petitions for judicial review may be filed in the district court of the county in which the alleged
+offense was committed.
+2007 Acts, ch 151, §10
+455D.25 Civil actions for compliance — penalties.
+1.
+The attorney general, on request of the department, shall institute any legal proceedings
+necessary to obtain compliance with an order of the commission or the director, including
+proceedings for a temporary injunction, or prosecuting any person for a violation of an order
+of the commission or the director or the provisions of this chapter or any rules adopted or
+permit or order issued pursuant to this chapter.
+2.
+Any person who violates section 455D.4A, 455D.10A, 455D.11, 455D.11A, 455D.11B,
+455D.11I, or 455D.19, or any order or permit issued or rule adopted pursuant to section
+455D.6, subsection 4, section 455D.10A, 455D.11, 455D.11A, 455D.11B, 455D.11I, or 455D.19,
+shall be subject to a civil penalty, not to exceed ten thousand dollars for each day of such
+violation.
+2007 Acts, ch 151, §11; 2018 Acts, ch 1023, §11
+Referred to in §455D.19
+455D.26 Green advisory committee.
+Repealed by its own terms; 2010 Acts, ch 1166, §2.
