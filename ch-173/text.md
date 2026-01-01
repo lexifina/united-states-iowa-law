@@ -1,0 +1,612 @@
+CHAPTER 173
+STATE FAIR
+Referred to in §8.32, 8A.502, 163.32, 165B.5, 174.2, 307.24, 322.5, 421.17, 423.3, 717E.1, 717F.7
+173.1
+State fair authority.
+173.1A
+Definitions.
+173.2
+Convention.
+173.3
+Certification of state aid
+associations.
+173.4
+Voting power — election of
+district directors.
+173.4A
+State fair board districts.
+173.5
+Duties of the convention.
+173.6
+Terms of office.
+173.7
+Vacancies.
+173.8
+Compensation and expenses.
+173.9
+Secretary.
+173.10
+Salary of secretary.
+173.11
+Treasurer.
+173.12
+Salary of treasurer.
+Repealed by
+2011 Acts, ch 131, §131, 158.
+173.13
+Executive committee — meetings.
+173.14
+Functions of the board.
+173.14A
+General corporate powers of the
+authority.
+173.14B
+Bonds and notes.
+173.15
+Management of state fair.
+173.16
+Maintenance of state fair.
+173.17
+Claims.
+173.18
+Warrants.
+173.19
+Examination of financial affairs.
+173.20
+Report.
+173.21
+Annual report to governor.
+173.22
+Iowa state fair foundation —
+foundation fund.
+173.22A
+Iowa state fairgrounds trust fund.
+173.23
+Lien on property.
+173.24
+Exemption of state fair by the
+state’s purchasing procedures.
+173.1 State fair authority.
+The Iowa state fair authority is established as a public instrumentality of the state. The
+authority is not an agency of state government. However, the authority is considered a state
+agency and its employees state employees for the purposes of chapters 17A, 20, 91B, 97B,
+509A, and 669. The authority is established to conduct an annual state fair and exposition
+on the Iowa state fairgrounds and to conduct other interim events consistent with its rules.
+The powers of the authority are vested in the Iowa state fair board. The Iowa state fair board
+consists of the following:
+1.
+The governor of the state, the secretary of agriculture, and the president of the Iowa
+state university of science and technology or their qualified representatives.
+2.
+Two district directors from each state fair board district to be elected at a convention
+as provided in section 173.4.
+3.
+A president and vice president to be elected by the state fair board from the elected
+directors.
+4.
+A treasurer to be elected by the board from the elected directors.
+5.
+A secretary to be appointed by the board who shall serve as a nonvoting member.
+[S13, §1657-c; C24, 27, 31, 35, 39, §2873; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§173.1; 81 Acts, ch 67, §1]
+86 Acts, ch 1245, §625, 626; 87 Acts, ch 233, §225; 91 Acts, ch 248, §1, 2; 95 Acts, ch 13, §2;
+98 Acts, ch 1114, §1; 2001 Acts, ch 29, §1; 2010 Acts, ch 1069, §22; 2011 Acts, ch 131, §130,
+158
+Referred to in §99D.13, 173.1A, 673.1
+173.1A Definitions.
+As used in this chapter, unless the context otherwise requires:
+1.
+“Board” means the Iowa state fair board as provided in section 173.1.
+2.
+“Convention” means the convention held each year, to elect members of the state fair
+board and conduct other business of the board, as provided in section 173.2.
+3.
+“District director” means a director of the Iowa state fair board who represents a state
+fair board district.
+4.
+“State fair board district” or “district” means any of the six geographic regions
+established in section 173.4A.
+2001 Acts, ch 29, §2; 2002 Acts, ch 1119, §25
+173.2 Convention.
+A convention shall be held at a time and place in Iowa to be designated by the Iowa state
+fair board each year, to elect members of the state fair board and conduct other business
+of the board. The board shall give sixty days’ notice of the location of the convention to all
+agricultural associations and persons eligible to attend. The convention shall be composed
+of:
+1.
+The members of the state fair board as then organized.
+2.
+The president or secretary of each county or district agricultural society entitled to
+receive aid from the state, or a regularly elected delegate therefrom accredited in writing,
+who shall be a resident of the county.
+3.
+One delegate, a resident of the county, to be appointed by the board of supervisors
+in each county where there is no such society, or when such society fails to report to
+the association of Iowa fairs in the manner provided by law as a basis for state aid. The
+association shall promptly report such failure to the county auditor.
+[R60, §1701, 1704; C73, §1103, 1112; C97, §1653, 1661; S13, §1657-d; SS15, §1661-a; C24,
+27, 31, 35, 39, §2874; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §173.2; 81 Acts, ch 67, §2
+– 4]
+87 Acts, ch 115, §29; 96 Acts, ch 1028, §1; 98 Acts, ch 1114, §2; 99 Acts, ch 204, §28
+Referred to in §173.1A, 173.3, 174.2, 174.12, 331.321
+173.3 Certification of state aid associations.
+On or before November 15 of each year, the secretary of agriculture shall certify to the
+secretary of the state fair board the names of the various associations, fairs, and societies
+which have qualified for state aid under the provisions of chapters 176A through 178, 181,
+182, 186, and 352, and which are entitled to representation in the convention as provided in
+section 173.2.
+[C24, 27, 31, 35, 39, §2875; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §173.3]
+90 Acts, ch 1009, §2; 98 Acts, ch 1032, §5; 2002 Acts, ch 1017, §3, 8; 2003 Acts, ch 44, §43,
+116; 2004 Acts, ch 1019, §5
+173.4 Voting power — election of district directors.
+1.
+Except as provided in this subsection, each member present at the convention shall be
+entitled to not more than one vote. A member shall not vote by proxy.
+2.
+A successor to a district director shall be elected by a majority of convention members
+from the same state fair board district as the district director, according to rules adopted by
+the convention. A member who is also a district director shall not be entitled to vote for a
+successor to a district director.
+[S13, §1657-d; C24, 27, 31, 35, 39, §2876; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§173.4]
+91 Acts, ch 248, §3; 98 Acts, ch 1114, §3; 2001 Acts, ch 29, §3
+Referred to in §173.1, 173.5
+173.4A State fair board districts.
+The state shall be divided into six geographic regions known as state fair board districts.
+The regions shall include all of the following:
+1.
+The northwest state fair board district which shall contain all of the following
+counties:
+Buena Vista, Calhoun, Cherokee, Clay, Dickinson, Emmet, Ida, Lyon, O’Brien,
+Osceola, Palo Alto, Plymouth, Pocahontas, Sac, Sioux, and Woodbury.
+2.
+The north central state fair board district which shall contain all of the following
+counties:
+Boone, Butler, Cerro Gordo, Floyd, Franklin, Grundy, Hamilton, Hancock,
+Hardin, Humboldt, Kossuth, Marshall, Mitchell, Story, Tama, Webster, Winnebago, Worth,
+and Wright.
+3.
+The northeast state fair board district which shall contain all of the following
+counties:
+Allamakee, Benton, Black Hawk, Bremer, Buchanan, Chickasaw, Clayton,
+Delaware, Dubuque, Fayette, Howard, Jackson, Jones, Linn, and Winneshiek.
+4.
+The
+southwest
+state
+fair
+board
+district
+which
+shall
+contain
+the
+following
+counties:
+Adair, Adams, Audubon, Carroll, Cass, Crawford, Fremont, Greene, Guthrie,
+Harrison, Mills, Monona, Montgomery, Page, Pottawattamie, Shelby, and Taylor.
+5.
+The south central state fair board district which shall contain the following
+counties:
+Appanoose, Clarke, Dallas, Decatur, Jasper, Lucas, Madison, Mahaska, Marion,
+Monroe, Polk, Poweshiek, Ringgold, Union, Warren, and Wayne.
+6.
+The
+southeast
+state
+fair
+board
+district
+which
+shall
+contain
+the
+following
+counties:
+Cedar, Clinton, Davis, Des Moines, Henry, Iowa, Jefferson, Johnson, Keokuk,
+Lee, Louisa, Muscatine, Scott, Van Buren, Wapello, and Washington.
+2001 Acts, ch 29, §4
+Referred to in §173.1A
+173.5 Duties of the convention.
+1.
+The convention shall establish staggered terms of office for the elected directors.
+Notwithstanding section 173.6, the convention may establish terms of office for initial
+elected directors for more or less than two years.
+2.
+Each year, the convention shall elect a successor to one of the two district directors
+whose term expires following the adjournment of the convention, as provided in section 173.4.
+3.
+The Iowa state fair board shall present a financial report to the convention. The report
+is not required to include an audit, but shall provide an estimate of the accounts under the
+authority of the board.
+[R60, §1700; C73, §1104; C97, §1654; S13, §1657-e; C24, 27, 31, 35, 39, §2877; C46, 50, 54,
+58, 62, 66, 71, 73, 75, 77, 79, 81, §173.5]
+91 Acts, ch 248, §4; 96 Acts, ch 1028, §2; 98 Acts, ch 1114, §4; 2001 Acts, ch 29, §5
+173.6 Terms of office.
+1.
+The term of the president and vice president of the board shall be one year. A person
+shall not hold the office of president for more than three consecutive years, plus any portion
+of a year in which the person was first elected by the board to fill a vacancy.
+2.
+A member of the board who is a district director shall serve a term of two years. The
+term of a district director shall begin following the adjournment of the convention at which
+the district director was elected and shall continue until a successor is elected and qualified
+as provided in this chapter.
+[R60, §1700; C73, §1104; C97, §1654; S13, §1657-e; C24, 27, 31, 35, 39, §2878; C46, 50, 54,
+58, 62, 66, 71, 73, 75, 77, 79, 81, §173.6]
+91 Acts, ch 248, §5; 98 Acts, ch 1114, §5; 99 Acts, ch 96, §18; 2001 Acts, ch 29, §6; 2020 Acts,
+ch 1062, §94
+Referred to in §173.5
+173.7 Vacancies.
+If, after the adjournment of the convention, a vacancy occurs in the office of any member of
+the board elected by the convention the board shall fill the vacancy by election. The elected
+member shall qualify at once and serve until noon of the day following the adjournment of the
+next convention. If, by that time, the member elected by the board will not have completed
+the full term for which the member’s predecessor was elected, the convention shall elect a
+member to serve for the unexpired portion of the term. The member elected by the convention
+shall qualify at the same time as other members elected by the convention.
+[S13, §1657-e; C24, 27, 31, 35, 39, §2879; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§173.7]
+91 Acts, ch 248, §6
+173.8 Compensation and expenses.
+A member of the board elected at the annual convention shall be paid a per diem as specified
+in section 7E.6 and shall be reimbursed for actual and necessary expenses incurred while
+engaged in official duties. All per diem and expense moneys paid to a member shall be paid
+from funds of the state fair board.
+[S13, §1657-p; C24, 27, 31, 35, 39, §2880; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§173.8]
+90 Acts, ch 1256, §32
+173.9 Secretary.
+The board shall appoint a secretary who shall serve at the pleasure of the board.
+The
+secretary shall do all of the following:
+1.
+Administer the policies set by the board.
+2.
+Employ other employees and agents as the secretary deems necessary for carrying out
+the policies of the board and to conduct the affairs of the state fair. The secretary may fix the
+duties and compensation of any employees or agents with the approval of the board.
+3.
+Keep a complete record of the annual convention and of all meetings of the board.
+4.
+Draw all warrants on the treasurer of the board and keep a correct account of them.
+5.
+Perform other duties as the board directs.
+[R60, §1700, 1703; C73, §1104, 1107; C97, §1654, 1656; S13, §1657-k; C24, 27, 31, 35, 39,
+§2881; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §173.9]
+86 Acts, ch 1245, §627; 87 Acts, ch 233, §226; 93 Acts, ch 176, §34
+173.10 Salary of secretary.
+The compensation and employment terms of the secretary shall be set by the Iowa state
+fair board with the approval of the governor, taking into consideration the level of knowledge
+and experience of the secretary.
+[S13, §1657-n; C24, 27, 31, 35, 39, §2882; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§173.10]
+87 Acts, ch 233, §227; 2008 Acts, ch 1191, §24
+173.11 Treasurer.
+The board shall elect a treasurer who shall hold office for one year, and the treasurer shall:
+1.
+Keep a correct account of the receipts and disbursements of all moneys belonging to
+the board.
+2.
+Make payments on all warrants signed by the president and secretary from any funds
+available for such purpose.
+3.
+Administer the foundation fund under the control of the Iowa state fair foundation,
+as directed by the board in its capacity as the board of the Iowa state fair foundation. The
+treasurer shall administer the fund in accordance with procedures of the treasurer of state,
+and maintain a correct account of receipts and disbursements of assets of the foundation
+fund.
+[R60, §1700; C73, §1104; C97, §1654; S13, §1657-o; C24, 27, 31, 35, 39, §2883; C46, 50, 54,
+58, 62, 66, 71, 73, 75, 77, 79, 81, §173.11]
+91 Acts, ch 132, §1; 91 Acts, ch 248, §7; 2011 Acts, ch 79, §3; 2012 Acts, ch 1021, §48
+173.12 Salary of treasurer.
+Repealed by 2011 Acts, ch 131, §131, 158.
+173.13 Executive committee — meetings.
+The president, vice president, and secretary shall constitute an executive committee, which
+shall transact such business as may be delegated to it by the board. The president may call
+meetings of the board or executive committee when the interests of the work require it.
+[R60, §1104; C73, §1700; C97, §1654; S13, §1657-h; C24, 27, 31, 35, 39, §2885; C46, 50, 54,
+58, 62, 66, 71, 73, 75, 77, 79, 81, §173.13]
+173.14 Functions of the board.
+The state fair board has the custody and control of the state fairgrounds, including the
+buildings and equipment on it belonging to the state, and may:
+1.
+Hold an annual fair and exposition on those grounds. All revenue generated by the fair
+and any interim uses shall be retained solely by the board.
+2.
+Prepare premium lists and establish rules of exhibitors for the fair which shall be
+published by the board not later than sixty days prior to the opening of the fair.
+3.
+Grant a written permit to persons as it deems proper to sell fruit, provisions, and other
+lawful articles under rules the board prescribes.
+4.
+Appoint, as the president deems necessary, security personnel and peace officers
+qualified according to standards adopted by the board.
+5.
+Take and hold property by gift, devise, or bequest for fair purposes. The president,
+secretary, and treasurer of the board shall have custody and control of the property, subject
+to the action of the board. Those officers shall give bonds as required in the case of executors,
+to be approved by the board and filed with the secretary of state.
+6.
+Erect and repair buildings on the grounds and make other necessary improvements.
+7.
+Grant written permission to persons to use the fairgrounds when the fair is not in
+progress.
+8.
+Take, acquire, hold, and dispose of property by deed, gift, devise, bequest, lease, or
+eminent domain. The title to real estate acquired under this subsection and improvements
+erected on the real estate shall be taken and held in the name of the state of Iowa and shall be
+under the custody and control of the board. In the exercise of the power of eminent domain
+the board shall proceed in the manner provided in chapters 6A and 6B.
+9.
+Solicit and accept contributions from private sources for the purpose of financing and
+supporting the fair.
+10.
+Make an agreement with the department of public safety to provide for security during
+the annual fair and exposition and interim events.
+11.
+Administer the Iowa state fair foundation created in section 173.22 in its capacity as
+the board of the Iowa state fair foundation.
+a.
+The board shall administer the foundation fund by authorizing all payments from the
+foundation fund. The board on behalf of the foundation fund may contract, sue and be sued,
+and adopt rules necessary to carry out the provisions of this subsection, but the board in
+administering the foundation fund shall not in any manner, directly or indirectly, pledge the
+credit of the state.
+b.
+The board shall administer the Iowa state fairgrounds trust fund as trustees of an
+institutional endowment fund as provided in section 173.22A.
+[R60, §1702; C73, §1106; C97, §1655; S13, §1657-i, -j, -r; C24, 27, 31, 35, 39, §2886; C46, 50,
+54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §173.14]
+83 Acts, ch 195, §23; 86 Acts, ch 1244, §28; 87 Acts, ch 233, §228; 88 Acts, ch 1055, §1; 91
+Acts, ch 132, §2; 91 Acts, ch 248, §8; 2011 Acts, ch 79, §4
+173.14A General corporate powers of the authority.
+The authority has all of the general corporate powers needed to carry out its purposes and
+duties, and to exercise its specific powers including, but not limited to, the power to:
+1.
+Issue its negotiable bonds and notes as provided in this chapter.
+2.
+Sue and be sued in its own name.
+3.
+Have and alter a corporate seal.
+4.
+Make and alter bylaws for its management consistent with this chapter.
+5.
+Make and execute agreements, contracts, and other instruments, with any public or
+private entity.
+6.
+Accept appropriations, gifts, grants, loans, or other aid from public or private entities.
+7.
+Make, alter, and repeal rules consistent with this chapter, subject to chapter 17A.
+87 Acts, ch 233, §229
+173.14B Bonds and notes.
+1.
+The board may issue and sell negotiable revenue bonds of the authority in
+denominations and amounts as the board deems for the best interests of the fair. However,
+the board must first submit a list of the purposes ranked by priority and a purpose must be
+authorized by a constitutional majority of each house of the general assembly and approved
+by the governor. A purpose must be one of the following:
+a.
+To acquire real estate to be devoted to uses for the fair.
+b.
+To pay any expenses or costs incidental to a building or repair project.
+c.
+To provide sufficient funds for the advancement of any of its corporate purposes.
+2.
+The board may issue negotiable bonds and notes of the authority in principal amounts
+which are necessary to provide sufficient funds for achievement of its corporate purposes, the
+payment of interest on its bonds and notes, the establishment of reserves to secure its bonds
+and notes, and all other expenditures of the board incident to and necessary or convenient
+to carry out its purposes and powers, subject to authorization and approval required under
+subsection 1. However, the total principal amount of bonds and notes outstanding at any
+time under subsection 1 and this subsection shall not exceed twenty-five million dollars. The
+bonds and notes are deemed to be investment securities and negotiable instruments within
+the meaning of and for all purposes of the uniform commercial code, chapter 554.
+3.
+Bonds and notes are payable solely out of the moneys, assets, or revenues of the
+authority and as provided in the agreement with bondholders or noteholders pledging any
+particular moneys, assets, or revenues. Bonds or notes are not an obligation of this state or
+its political subdivisions other than the authority within the meaning of any constitutional or
+statutory debt limitations, but are special obligations of the authority payable solely from
+sources provided in this chapter, and the authority shall not pledge the credit or taxing
+power of this state or its political subdivisions other than the authority or make its debts
+payable out of any moneys except those of the authority.
+4.
+Bonds shall:
+a.
+State the date and series of the issue, be consecutively numbered, and state on their
+face that they are payable both as to principal and interest solely out of the assets of the
+authority and do not constitute an indebtedness of this state or its political subdivisions other
+than the authority within the meaning of any constitutional or statutory debt limit.
+b.
+Be either registered, registered as to principal only, or in coupon form, issued in
+denominations as the board prescribes, fully negotiable instruments under the laws of
+this state, signed on behalf of the authority with the manual or facsimile signature of the
+president or vice president, attested by the manual or facsimile signature of the secretary,
+have impressed or imprinted on it the seal of the authority or facsimile of it, and coupons
+attached shall be signed with the facsimile signature of the president or vice president, be
+payable as to interest at rates and at times as the authority determines, be payable as to
+principal at times over a period not to exceed fifty years from the date of issuance, at places
+and with reserved rights of prior redemption, as the board prescribes, be sold at prices, at
+public or private sale, and in a manner as the board prescribes, and the board may pay
+all expenses, premiums, and commissions which it deems necessary or advantageous in
+connection with the issuance and sale; and be issued subject to the terms, conditions, and
+covenant providing for the payment of the principal, redemption premiums, if any, interest,
+and other terms, conditions, covenants, and protective provisions safeguarding payment,
+not inconsistent with this chapter, as are found to be necessary by the board for the most
+advantageous sale, which may include, but are not limited to, covenants with the holders of
+the bonds as to those matters set forth in section 16.26, subsection 4, paragraph “b”.
+5.
+The board may issue bonds of the authority for the purpose of refunding any bonds or
+notes of the authority then outstanding, including the payment of any redemption premiums
+and any interest accrued or to accrue to the date of redemption of the outstanding bonds
+or notes. Until the proceeds of the bonds issued for the purpose of refunding outstanding
+bonds or notes are applied to the purchase or retirement of outstanding bonds or notes or
+the redemption of outstanding bonds or notes, the proceeds may be placed in escrow and be
+invested and reinvested in accordance with this chapter. The interest, income, and profits
+earned or realized on an investment may also be applied to the payment of the outstanding
+bonds or notes to be refunded by purchase, retirement, or redemption. After the terms of the
+escrow have been fully satisfied and carried out, any balance of proceeds and interest earned
+or realized on the investments may be returned to the authority for use by it in any lawful
+manner. All refunding bonds shall be issued and secured and subject to this chapter in the
+same manner and to the same extent as other bonds.
+6.
+The board may issue negotiable bond anticipation notes of the authority and may renew
+them from time to time but the maximum maturity of the notes, including renewals, shall
+not exceed ten years from the date of issue of the original notes. Notes are payable from
+any available moneys of the authority not otherwise pledged or from the proceeds of the
+sale of bonds in anticipation of which the notes were issued. Notes may be issued for any
+corporate purpose of the authority. Notes shall be issued in the same manner as bonds and
+notes and the resolution of the board may contain any provisions, conditions, or limitations,
+not inconsistent with this subsection, which the bonds or a bond resolution of the board may
+contain. Notes may be sold at public or private sale. In case of default on its notes or violation
+of any obligations of the authority to the noteholders, the noteholders have all the remedies
+provided in this chapter for bondholders. Notes shall be as fully negotiable as bonds of the
+authority.
+7.
+A copy of each pledge agreement by or to the authority, including without limitation
+each bond resolution, indenture of trust, or similar agreement, or any revisions or
+supplements to it shall be filed with the secretary of state and no further filing or other action
+under article 9 of the uniform commercial code as provided in chapter 554, or any other law
+of the state is required to perfect the security interest in the collateral or any additions to it
+or substitutions for it, and the lien and trust so created is binding from and after the time it
+is made against all parties having claims of any kind in tort, contract, or otherwise against
+the pledgor.
+8.
+Members of the board and any person executing the authority’s bonds, notes, or other
+obligations are not liable personally on the bonds, notes, or other obligations or subject to
+personal liability or accountability by reason of the issuance of the authority’s bonds or notes.
+9.
+The board shall publish a notice of intention to issue bonds or notes in a newspaper
+published and of general circulation in the state. The notice shall include a statement of the
+maximum amount of bonds or notes proposed to be issued, and in general, what net revenues
+will be pledged to pay the bonds or notes and interest on them. An action shall not be brought
+questioning the legality of the bonds or notes, the power of the board to issue the bonds or
+notes, or the legality of any proceedings in connection with the authorization or issuance of
+the bonds or notes after sixty days from the date of publication of the notice.
+87 Acts, ch 233, §230; 91 Acts, ch 268, §228, 229; 94 Acts, ch 1198, §36; 2005 Acts, ch 3, §44
+173.15 Management of state fair.
+The board may delegate the management of the state fair to the executive committee and
+two or more additional members of the board; and in carrying on such fair it may employ
+such assistance as may be deemed necessary.
+[S13, §1657-i; C24, 27, 31, 35, 39, §2887; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§173.15]
+173.16 Maintenance of state fair.
+1.
+All expenses incurred in maintaining the state fairgrounds and in conducting the
+annual fair on the state fairgrounds, including the compensation and expenses of the
+officers, members, and employees of the board, shall be recorded by the secretary and
+paid from the state fair receipts, unless a specific appropriation has been provided for that
+purpose. The board may request special capital improvement appropriations from the state
+and may request emergency funding from the executive council for natural disasters. The
+board may request that the department of transportation provide maintenance in accordance
+with section 307.24, subsection 5.
+2.
+In order to efficiently administer facilities and events on the state fairgrounds, and to
+promote Iowa’s conservation ethic, the Iowa state fair board shall handle or dispose of waste
+generated on the state fairgrounds under supervision of the department of natural resources.
+[S13, §1657-i, -t; C24, 27, 31, 35, 39, §2888; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§173.16]
+87 Acts, ch 233, §231; 89 Acts, ch 311, §25; 92 Acts, ch 1239, §21; 2001 Acts, ch 7, §2; 2002
+Acts, ch 1162, §36; 2015 Acts, ch 123, §27; 2020 Acts, ch 1062, §94
+173.17 Claims.
+The board shall prescribe rules for the presentation and payment of claims out of the state
+fair receipts and other funds of the board and no claim shall be allowed which does not comply
+therewith.
+[C24, 27, 31, 35, 39, §2889; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §173.17]
+173.18 Warrants.
+No claim shall be paid by the treasurer except upon a warrant signed by the president and
+secretary of the board, but this section shall not apply to the payment of state fair premiums.
+[S13, §1657-o; C24, 27, 31, 35, 39, §2890; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§173.18]
+173.19 Examination of financial affairs.
+The auditor of state shall annually examine and report to the executive council all financial
+affairs of the board.
+[S13, §1657-q; C24, 27, 31, 35, 39, §2891; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§173.19]
+96 Acts, ch 1028, §3
+173.20 Report.
+The board shall file each year with the department, at such time as the department may
+specify, a report containing such information relative to the state fair and exposition and the
+district and county fairs as the department may require.
+[C24, 27, 31, 35, 39, §2892; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §173.20]
+173.21 Annual report to governor.
+The board shall file with the governor each year by February 15 a report containing the
+following information relative to the state fair and exposition and the district and county fairs:
+1.
+A complete account of the annual state fair and exposition.
+2.
+The proceedings of the annual state agricultural convention.
+3.
+The proceedings of the annual county and district fair managers convention.
+[R60, §1703; C73, §1107; C97, §1656; S13, §1657-k; C24, 27, 31, 35, 39, §2893; C46, 50, 54,
+58, 62, 66, 71, 73, 75, 77, 79, 81, §173.21]
+87 Acts, ch 233, §232
+173.22 Iowa state fair foundation — foundation fund.
+1.
+An Iowa state fair foundation is established under the authority of the Iowa state fair
+board.
+2.
+A foundation fund is created within the state treasury composed of moneys
+appropriated or available to and obtained or accepted by the foundation. The foundation
+fund shall also include moneys transferred to the fund.
+3.
+The foundation may solicit or accept gifts, including donations and bequests. A gift, to
+the greatest extent possible, shall be used according to the expressed desires of the person
+providing the gift.
+4.
+Moneys in the foundation fund shall be used to support foundation activities, including
+foundation administration, or capital projects or major maintenance improvements at the
+Iowa state fairgrounds or to property under the control of the board.
+5. a.
+Foundation moneys credited to the foundation fund may be expended on a matching
+basis with public moneys or Iowa state fair authority receipts. All interest earned on moneys
+in the foundation fund shall be credited to and remain in the fund. Section 8.33 does not
+apply to moneys in the fund.
+b.
+The auditor of state shall conduct regular audits of the foundation fund and shall make
+a certified report relating to the condition of the foundation fund to the treasurer of the state,
+and to the treasurer and secretary of the state fair board.
+91 Acts, ch 132, §3; 93 Acts, ch 144, §1, 6; 94 Acts, ch 1199, §3 – 6; 2011 Acts, ch 79, §5;
+2019 Acts, ch 152, §48; 2021 Acts, ch 177, §76
+Referred to in §173.14, 173.22A
+173.22A Iowa state fairgrounds trust fund.
+1.
+An Iowa state fairgrounds trust fund is created as an endowment fund under the
+authority and in the custody of the Iowa state fair board in its capacity as the board of the
+Iowa state fair foundation. The Iowa state fairgrounds trust fund is not part of the state
+treasury.
+The fund shall be composed exclusively of gifts accepted by the board in trust
+from private donors or testators. The board may accept these gifts in trust and shall fulfill
+its duties as trustee of gifts accepted notwithstanding section 633.63. The trust beneficiaries
+shall include all future attendees of events held on the Iowa state fairgrounds. The fund
+shall be an endowment fund to be used exclusively for the maintenance and improvement
+of the Iowa state fairgrounds and for no other purpose. The board shall decline any gifts not
+consistent with these purposes.
+2.
+Moneys in the Iowa state fairgrounds trust fund shall not be deposited in the state
+treasury, but shall be held separate and apart from both the state fair’s operating moneys
+and the state fair foundation fund established in section 173.22. The board as trustee shall
+hold only legal title to these moneys, which shall not form any part of the general fund of the
+state. The moneys shall not be subject to appropriation by the general assembly or subject to
+transfer pursuant to chapter 8. The moneys are not and shall not be deemed public funds for
+any purpose. The fund shall be an institutional endowment fund within the meaning of and
+subject to chapter 540A. The fund shall not be subject to audit by the auditor of state, but
+shall be audited annually by a certified public accountant. The annual audit shall be delivered
+to the auditor of state, who may include it in any further report that the auditor of state deems
+appropriate. However, an annual audit shall be a confidential record to the extent required in
+section 22.7, subsection 52. The moneys may be held in perpetuity, subject to the provisions
+for release or modification of restrictions on the moneys as provided in chapter 540A.
+2011 Acts, ch 79, §6
+Referred to in §22.7(52)(a), 173.14
+173.23 Lien on property.
+The board has a prior lien upon the property of any concessionaire, exhibitor, or person,
+immediately upon the property being brought onto the grounds, to secure existing or future
+indebtedness.
+87 Acts, ch 233, §233
+173.24 Exemption of state fair by the state’s purchasing procedures.
+The state fair is exempt from the state system of uniform purchasing procedures. However,
+the board may contract with the department of administrative services to purchase any items
+through the state system. The board shall adopt its own system of uniform standards and
+specifications for purchasing.
+87 Acts, ch 233, §234; 2003 Acts, ch 145, §286
