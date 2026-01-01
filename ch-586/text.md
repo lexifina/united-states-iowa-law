@@ -1,0 +1,67 @@
+CHAPTER 586
+ACKNOWLEDGMENTS, OTHER ACTS, AND INSTRUMENTS
+586.1
+Specific defects legalized.
+586.1 Specific defects legalized.
+The following acts and instruments are hereby legalized and declared to be as valid as
+though all defects and irregularities therein as set forth below had never existed; nothing in
+this section, however, shall affect pending litigation:
+1.
+Official acts performed more than ten years earlier by notaries public during the time
+that they held over in office without qualifying after the expiration of the preceding term, if
+such notaries public subsequently qualified.
+2.
+Acknowledgments taken more than ten years earlier by notaries public outside their
+jurisdiction.
+3.
+Acknowledgments taken and oaths administered by mayors under section 691, Code
+1897, or section 1216 of subsequent Codes to and including Code 1939 and section 78.2, Code
+1966 and earlier editions, in proceedings not connected with their offices.
+4.
+Acknowledgments of deeds, mortgages, permanent school fund mortgages and
+contracts taken and certified before 1970 by any county auditor, deputy county auditor,
+or deputy clerk of the district court although such officer was not authorized to take the
+acknowledgments at the time they were taken.
+5.
+Acknowledgments taken and certified as provided by the Code of 1873, which were
+taken and certified after September 29, 1897, and prior to April 14, 1898, by officers having
+authority under the Code of 1873 to take and certify acknowledgments, as though such
+acknowledgments were taken and certified according to the provisions of the Code of 1897,
+and as though the officers were authorized to take and certify acknowledgments.
+6.
+Acknowledgments
+taken,
+certified,
+and
+recorded
+before
+1970
+in
+the
+proper
+counties, and which are defective only in the form of the certificate of the officer taking
+the acknowledgment or because made before an official not qualified to take such
+acknowledgment but who was qualified to take acknowledgments generally.
+7.
+Acknowledgments taken outside the United States before 1970 by officers authorized
+by section 10092, Codes 1924 to 1939 and section 558.28, Code 1946 to and including the
+Code of 1966, to take such acknowledgments, whether or not a certificate of authenticity
+as provided by section 10093, Codes of 1924 to 1939 and section 558.29, Code 1946 to
+and including the Code of 1966, is attached to such instrument; and the certificate of
+acknowledgment of such officer is hereby made conclusive evidence that such officer was
+duly qualified to make such certificate of acknowledgment.
+8.
+Any instrument affecting real estate executed before 1970 by an attorney in fact for
+the grantor where a duly executed and sufficient power of attorney was on file in the county
+where the land was situated, although the instrument was executed and acknowledged in the
+form of “A, attorney in fact for B”, instead of “B, by A, the attorney in fact for B”; or if such
+instrument is duly recorded and there is no record in the county where the land is situated of
+a power of attorney authorizing the attorney in fact to so act.
+9.
+Any written instrument and the recording thereof, recorded prior to 1970 in the office
+of the recorder of the proper county, although there is attached to the instrument a defective
+certificate of acknowledgment.
+[S13, §2942-c, -e, -k, -l; SS15, §2963-v, -x; C24, 27, §10363 – 10374; C31, 35, §10363 –
+10374-b1; C39, §10363 – 10374.1; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §586.1; 82
+Acts, ch 1020, §1]
+83 Acts, ch 185, §53, 62; 96 Acts, ch 1060, §2; 2005 Acts, ch 3, §98
