@@ -1,0 +1,1227 @@
+CHAPTER 491
+CORPORATIONS FOR PECUNIARY PROFIT
+Referred to in §9.11, 28E.29, 261B.3A, 468.327, 468.506, 490.1801, 499.5, 499.43B, 504.1108, 508B.2, 514.23, 515.1, 515.11A, 515G.2,
+515G.3, 518.1, 518A.1, 519.2, 521.2, 521.17, 521A.14, 524.2001, 552A.2, 669.14
+Applicable to domestic corporations incorporated prior to July 1, 1971; §491.1
+Organization option for cooperative associations, §499.43B
+SUBCHAPTER I
+GENERAL PROVISIONS
+491.1
+Who may incorporate.
+491.2
+Single person.
+491.3
+Powers.
+491.4
+Index book.
+Repealed by 94
+Acts, ch 1055, §16.
+491.5
+Articles adopted and filed —
+recording.
+491.5A
+Secretary of state — extra
+services — surcharge.
+491.6
+Filing or refusal to file.
+491.7
+Question of legality submitted.
+491.8
+Action on opinion.
+491.9
+Submission to executive council.
+491.10
+Interpretative clause.
+491.11
+Incorporation fee.
+491.12
+Exemption from fee.
+Repealed
+by 93 Acts, ch 126, §35.
+491.13
+Place of business.
+491.14
+Custody of office — business
+maintained.
+491.15
+Service of original notice —
+secretary of state.
+491.16
+Indemnification of officers,
+directors, employees, and
+agents — insurance.
+491.16A
+Directors and officers — duties
+and liabilities.
+491.17
+Remote participation in meetings
+of shareholders.
+491.18
+Proof of publication — filing.
+Repealed by 2014 Acts, ch
+1074, §4.
+491.19
+Commencement of business.
+491.20
+Amendments — fees.
+491.21
+Signing and acknowledging of
+amendments.
+491.22
+Individual property liable.
+491.23
+Dissolution — filing a statement
+with secretary of state.
+491.24
+Duration.
+491.25
+Renewal — conditions.
+491.26
+Stock of dissenting holders.
+491.27
+Execution of renewal — record
+required.
+491.28
+Filing with secretary of state —
+fees — certificate of renewal.
+491.29
+Erroneous certificate —
+correction.
+491.30
+and 491.31
+Repealed by 93 Acts,
+ch 126, §35.
+491.32
+Notice of renewal — publication.
+Repealed by 2014 Acts, ch
+1074, §4.
+491.33
+Foreign insurance companies
+becoming domestic.
+491.34
+and 491.35
+Reserved.
+491.36
+Foreign-trade zone corporation.
+491.37
+Reserved.
+491.38
+Consolidation of interstate bridge
+companies.
+491.39
+Legislative control.
+491.40
+Fraud — penalty for.
+491.41
+Diversion of funds — unlawful
+dividends.
+491.42
+Forfeiture.
+491.43
+Keeping false accounts.
+491.44
+and 491.45
+Reserved.
+491.46
+Books to show names of
+stockholders.
+491.47
+Names exhibited at meetings.
+491.48
+Stock certificates — signing.
+491.49
+Reserved.
+491.50
+Examination by stockholder.
+491.51
+through 491.53
+Reserved.
+491.54
+Liability of collateral holder.
+491.55
+Right to vote stock — attachment.
+491.56
+Expiration and closing of
+business.
+491.57
+Sinking fund and loaning thereof.
+491.58
+Liability of stockholders.
+491.59
+Levy on private property.
+491.60
+Suit by creditor — measure of
+recovery.
+491.61
+Corporate property exhausted.
+491.62
+Indemnity — contribution.
+491.63
+Franchise sold on execution.
+491.64
+Production of books.
+491.65
+Estoppel.
+491.66
+Dissolution — receivership.
+491.67
+Reserved.
+491.68
+False statements or pretenses.
+491.69
+through 491.100
+Reserved.
+SUBCHAPTER II
+CORPORATION MERGER OR CONSOLIDATION
+491.101
+Definitions.
+491.101A
+Poison pill defense authorized.
+491.101B
+Consideration of community
+interests in consideration of
+acquisition proposals.
+491.102
+Procedure for merger.
+491.103
+Procedure for consolidation.
+491.104
+Meetings of shareholders.
+491.105
+Approval by shareholders.
+491.106
+Articles of merger or
+consolidation.
+491.107
+Filing articles of merger or
+consolidation.
+491.108
+Effective date of merger or
+consolidation.
+491.109
+Notice.
+Repealed by 2014 Acts,
+ch 1074, §4.
+491.110
+Effect of merger or consolidation.
+491.111
+Merger or consolidation
+of domestic and foreign
+corporations.
+491.112
+Rights of dissenting shareholders.
+491.113
+Issuance of stock.
+491.114
+Amana stock.
+SUBCHAPTER I
+GENERAL PROVISIONS
+491.1 Who may incorporate.
+Any number of persons may become incorporated under this chapter prior to July 1,
+1971, for the transaction of any lawful business, but the incorporation confers no power or
+privilege not possessed by natural persons, except as provided in this chapter. All domestic
+corporations shall be organized under chapter 490, except as expressly provided otherwise
+in chapter 490.
+[C51, §673; R60, §1150; C73, §1058; C97, §1607; C24, 27, 31, 35, 39, §8339; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §491.1]
+83 Acts, ch 101, §106; 89 Acts, ch 83, §65; 89 Acts, ch 288, §186
+Referred to in §521A.14
+Consolidation or merger involving domestic mutual insurance companies, merger involving foreign or domestic stock insurance
+companies, and merger involving domestic health maintenance organizations or limited service organizations, see §521.2
+491.2 Single person.
+Except as otherwise provided by law, a single person may incorporate under the provisions
+of this chapter, thereby entitling that person to all the privileges and immunities provided
+herein, but if the person adopts the name of an individual or individuals as that of the
+corporation, the person must add thereto the word “incorporated”.
+[C51, §702; R60, §1179; C73, §1088; C97, §1608; C24, 27, 31, 35, 39, §8340; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §491.2]
+491.3 Powers.
+Among the powers of such corporations are the following:
+1.
+To have perpetual succession.
+2.
+To sue and be sued by its corporate name.
+3.
+To have a common seal, which it may alter at pleasure.
+4.
+To render the interests of the stockholders transferable.
+5.
+To exempt the private property of its members from liability for corporate debts, except
+as otherwise declared.
+6.
+To make contracts and acquire and transfer property, possessing the same powers in
+such respects as natural persons.
+7.
+To establish bylaws, and make all rules and regulations necessary for the management
+of its affairs.
+8.
+A corporation organized under or subject to this chapter may make indemnification as
+provided in sections 490.850 through 490.859.
+[C51, §674; R60, §1151; C73, §1059; C97, §1609; C24, 27, 31, 35, 39, §8341; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §491.3]
+83 Acts, ch 71, §2; 90 Acts, ch 1205, §29; 2002 Acts, ch 1154, §102, 125; 2015 Acts, ch 29,
+§63; 2015 Acts, ch 30, §160
+491.4 Index book.
+Repealed by 94 Acts, ch 1055, §16.
+491.5 Articles adopted and filed — recording.
+1.
+Before commencing any business except their own organization, they must adopt
+articles of incorporation, which must be signed and acknowledged by the incorporators.
+Said articles shall then be forwarded to the secretary of state. Upon the filing of such articles,
+the secretary of state shall issue a certificate of incorporation and record said articles in a
+book kept for that purpose.
+2.
+Such articles shall contain:
+a.
+Name of corporation and its principal place of business.
+b.
+The objects for which it is formed.
+c.
+The amount of authorized capital stock, the classes of stock and number of shares
+authorized, with the par value and conditions of each class of such shares, and the time when
+and conditions under which it is to be paid in.
+d.
+The time of commencement and existence of the corporation.
+e.
+The names and addresses of the incorporators and the officers or persons its affairs are
+to be conducted by, and the times when and manner in which such officers will be elected.
+f.
+Whether private property is to be exempt from corporate debts.
+g.
+The manner in which the articles may be amended.
+h.
+Any provision eliminating or limiting the personal liability of a director to the
+corporation or its shareholders or members for money damages as provided in section
+490.202, subsection 2, paragraph “d”, except that section 490.202, subsection 2, paragraph
+“d”, subparagraph (1), subparagraph division (c), shall have no application.
+i.
+Any provision permitting or making obligatory indemnification of a director as provided
+in section 490.202, subsection 2, paragraph “e”, except that section 490.202, subsection 2,
+paragraph “e”, subparagraph (3), shall have no application.
+[C51, §675; R60, §1152; C73, §1060; C97, §1610; S13, §1610; C24, 27, 31, 35, 39, §8343; C46,
+50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.5]
+87 Acts, ch 212, §2; 88 Acts, ch 1170, §3; 94 Acts, ch 1055, §4; 2003 Acts, ch 66, §5, 6; 2012
+Acts, ch 1023, §151, 157
+Referred to in §9.11, 491.10, 491.107
+491.5A Secretary of state — extra services — surcharge.
+Upon the request of a filer of a document under this chapter, the secretary of state shall
+provide an extra filing service and assess a surcharge as provided in chapter 9, subchapter II.
+2021 Acts, ch 165, §258
+Referred to in §491.10
+491.6 Filing or refusal to file.
+When articles of incorporation are presented to the secretary of state for the purpose of
+being filed, if the secretary is satisfied that they are in proper form to meet the requirements
+of law, that their object is a lawful one and not against public policy, that their plan for doing
+business, if any be provided for, is honest and lawful, the secretary shall file them; but if the
+secretary is of the opinion that they are not in proper form to meet the requirements of the
+law, or that their object is an unlawful one, or against public policy, or that their plan for doing
+business is dishonest or unlawful, the secretary shall refuse to file them.
+[S13, §1610; C24, 27, 31, 35, 39, §8344; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.6]
+Referred to in §491.10, 491.107
+491.7 Question of legality submitted.
+Should a question of doubt arise as to the legality of the articles, the secretary of state shall
+submit them to the attorney general whose duty it shall be to forthwith examine and return
+them with an opinion in writing touching the point or points concerning which inquiry has
+been made of the attorney general.
+[S13, §1610; C24, 27, 31, 35, 39, §8345; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.7]
+Referred to in §491.10, 491.107
+491.8 Action on opinion.
+If such opinion is in favor of the legality of the articles, and no other objections are apparent,
+they shall then, upon payment of the proper fee, be filed and otherwise dealt with as the law
+provides. If, however, such opinion be against their legality they shall not be filed.
+[S13, §1610; C24, 27, 31, 35, 39, §8346; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.8]
+Referred to in §491.10, 491.107
+491.9 Submission to executive council.
+Upon the rejection of any articles of incorporation by the secretary of state, except for the
+reason that they have been held by the attorney general to be illegal, they shall, if the person
+or persons presenting them so request, be submitted to the executive council, which shall, as
+soon as practicable, consider the said articles and if the council determines that the articles
+are in proper form, of honest purpose, not against public policy, nor otherwise objectionable,
+it shall so advise the secretary of state in writing, whereupon the secretary shall, upon the
+payment of the proper fees, file the same and proceed otherwise as the law directs; but if the
+council sustains the previous action of the secretary of state in rejecting said articles, such
+decision by the council shall be reported to the secretary of state in writing, and the secretary
+shall then return said articles to the person or persons presenting them with such explanation
+as shall be proper in the case.
+[C13, §1610; C24, 27, 31, 35, 39, §8347; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.9]
+Referred to in §491.10, 491.107
+491.10 Interpretative clause.
+Nothing in sections 491.5 through 491.9 shall be construed as repealing or modifying any
+statute now in force in respect to the approval of articles of incorporation relating to insurance
+companies or investment companies.
+[S13, §1610; C24, 27, 31, 35, 39, §8348; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.10]
+2012 Acts, ch 1017, §90; 2021 Acts, ch 80, §313
+491.11 Incorporation fee.
+Corporations organized for a period of years shall pay the secretary of state, before a
+certificate of incorporation is issued, a fee of fifty dollars.
+[C97, §1610; S13, §1610; C24, 27, 31, 35, 39, §8349; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77,
+79, 81, §491.11]
+93 Acts, ch 126, §10
+Referred to in §491.28, 491.107
+491.12 Exemption from fee.
+Repealed by 93 Acts, ch 126, §35.
+491.13 Place of business.
+1.
+Any corporation organized under the laws of this state shall fix upon and designate in
+its articles of incorporation its principal place of business which must be in this state, and if
+outside the limits of a city then its post office address must be given. The place of business so
+designated shall not be changed except through an amendment to its articles of incorporation.
+2.
+When a corporation changes its principal place of business from one county to another,
+an amendment for this purpose shall be filed with the secretary of state, recorded in the
+office of the recorder of deeds of the county of the previous place of business, and then said
+amendment together with the articles of incorporation and all amendments thereto shall be
+filed with the recorder of deeds of the county to which said corporation’s principal place of
+business is changed.
+[C97, §1612; S13, §1612; C24, 27, 31, 35, 39, §8353; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77,
+79, 81, §491.13]
+2018 Acts, ch 1041, §127
+Referred to in §9.11
+491.14 Custody of office — business maintained.
+Its place of business shall be in charge of an agent of the corporation and shall be the
+place where it shall hold its stockholders’ meetings, keep a record of its proceedings and its
+stock and transfer books. The board of directors may designate by resolution some other
+place in the county where business of the corporation is transacted as the place for holding a
+stockholders’ meeting if notice is mailed to the stockholders at least twenty days prior to each
+meeting informing the stockholders of the place, date, and hour of the stockholders’ meeting.
+[C97, §1612; S13, §1612; C24, 27, 31, 35, 39, §8354; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77,
+79, 81, §491.14]
+491.15 Service of original notice — secretary of state.
+Any corporation organized under the laws of this state that does not maintain an office
+in the county of its organization may file with the secretary of state a certified copy of a
+resolution of the board of directors of said corporation giving name and address in Iowa
+of a resident agent on whom the service of original notice of civil suit in the courts of this
+state may be served, or file with the secretary of state a written instrument duly signed and
+acknowledged authorizing the secretary of state to acknowledge service of notice or process
+for and in behalf of such corporation in this state and consenting that service of notice or
+process may be made upon the secretary of state. Failing which, or in the event such agent
+may not be found within the state, service of such process may then be made upon said
+corporation through the secretary of state by sending the original and two copies thereof
+to the secretary, and the secretary shall immediately upon its receipt acknowledge service
+thereon in behalf of the defendant corporation by writing thereon, giving the date thereof,
+and shall immediately return such notice or process by certified mail to the clerk of the court
+in which the suit is pending, addressed by the clerk’s official title, and shall also forthwith
+mail a copy with a copy of the secretary’s acknowledgment of service written thereon, by
+certified mail addressed to the corporation at the address of its principal place of business as
+shown by the records in the secretary of state’s office, and shall retain the second copy for
+the secretary’s files.
+[C97, §1612; S13, §1612; C24, 27, 31, 35, 39, §8355, 8356; C46, 50, §491.15, 491.16; C54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §491.15]
+Referred to in §9.11
+491.16 Indemnification of officers, directors, employees, and agents — insurance.
+Sections 490.850 through 490.859 apply to corporations organized under or subject to this
+chapter.
+[C71, 73, 75, 77, 79, 81, §491.16]
+83 Acts, ch 71, §3; 90 Acts, ch 1205, §30; 2002 Acts, ch 1154, §103, 125
+491.16A Directors and officers — duties and liabilities.
+Sections 490.830, 490.831, and 490.832, sections 490.840 through 490.842, sections 490.860
+through 490.863, and section 490.870 apply to corporations organized under or subject to this
+chapter.
+2003 Acts, ch 66, §7; 2018 Acts, ch 1136, §5
+491.17 Remote participation in meetings of shareholders.
+1.
+Shareholders of any class may participate in any meeting of shareholders by means
+of remote communication to the extent the board of directors authorizes such participation
+for such class. Participation as a shareholder by means of remote communication shall be
+subject to such guidelines and procedures as the board of directors adopts, and shall be in
+conformity with subsection 2.
+2.
+Shareholders participating in a meeting of shareholders by means of remote
+communication shall be deemed present and may vote at such a meeting if the corporation
+has implemented reasonable measures to do all of the following:
+a.
+Verify that each person participating remotely as a shareholder is a shareholder.
+b.
+Provide such shareholders a reasonable opportunity to participate in the meeting and
+to vote on matters submitted to the shareholders, including an opportunity to communicate,
+and to read or hear the proceedings of the meeting, substantially concurrently with such
+proceedings.
+3.
+Unless the bylaws require the meeting of shareholders to be held at a place, the board of
+directors may determine that any meeting of shareholders shall not be held at any place and
+shall instead be held solely by means of remote communication, but only if the corporation
+implements the measures specified in subsection 2.
+2021 Acts, ch 165, §231, 248
+Referred to in §491.104
+491.18 Proof of publication — filing.
+Repealed by 2014 Acts, ch 1074, §4.
+491.19 Commencement of business.
+The corporation may commence business as soon as the articles of incorporation are filed
+with the secretary of state.
+[C51, §679; R60, §1156; C73, §1064; C97, §1614; C24, 27, 31, 35, 39, §8359; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §491.19]
+2014 Acts, ch 1074, §1
+491.20 Amendments — fees.
+1.
+Amendments to articles of incorporation making changes in any of the provisions
+of the articles may be made at any annual meeting of the stockholders or special meeting
+called for that purpose, and they shall be valid only when approved by the shareholders
+and filed with the secretary of state. If no increase is made in the amount of capital stock,
+a certificate fee of one dollar and a recording fee of fifty cents per page must be paid.
+Where capital stock is increased the certificate fee shall be omitted but there shall be paid a
+recording fee of fifty cents per page and in addition a filing fee which in case of corporations
+existing for a period of years shall be one dollar per thousand of such increase and in case of
+corporations empowered to exist perpetually shall be one dollar and ten cents per thousand
+of such increase.
+Corporations providing for perpetual existence by amendment to its
+articles shall, at the time of filing such amendment, pay to the secretary of state a fee of one
+hundred dollars together with a recording fee of fifty cents per page, and, for all authorized
+capital stock in excess of ten thousand dollars, an additional fee of one dollar ten cents per
+thousand.
+2. a.
+Its articles of incorporation to the contrary notwithstanding, if three-fourths of the
+voting stock of any corporation organized under the provisions of this chapter, with assets
+of the value of one million dollars or more, is owned by individuals owning not more than
+one share each of the voting stock thereof, said articles may be amended at any regular or
+special meeting of stockholders, when a notice in writing of the substance of the proposed
+amendment has been mailed by ordinary mail to each voting stockholder of such corporation
+not more than ninety nor less than sixty days prior to said meeting, by the affirmative vote of
+two-thirds of the voting stock represented at said meeting when said amendment is approved
+by the affirmative vote of two-thirds of the members of the board of directors at a meeting
+prior to the mailing of said notice.
+b.
+If such corporation is renewed under the provisions of section 491.25, the voting stock
+of dissenting stockholders or any portion thereof may be purchased by the corporation at its
+option as provided in section 491.25.
+[C51, §680; R60, §1157; C73, §1065; C97, §1615; S13, §1615; C24, 27, 31, 35, 39, §8360; C46,
+50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.20]
+2014 Acts, ch 1074, §2; 2015 Acts, ch 29, §64
+Referred to in §9.11, 491.24, 491.26, 491.107
+491.21 Signing and acknowledging of amendments.
+Such amendments need only be signed and acknowledged by such officers of the
+corporation as may be designated by the stockholders to perform such act.
+[C97, §1615; S13, §1615; C24, 27, 31, 35, 39, §8361; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77,
+79, 81, §491.21]
+491.22 Individual property liable.
+A failure to substantially comply with the foregoing requirements in relation to organization
+and publicity shall render the individual property of the stockholders liable for the corporate
+debts; but corporators and stockholders in railway and street railway companies shall be
+liable only for the amount of stock held by them therein.
+[C51, §689; R60, §1166, 1338; C73, §1068; C97, §1616; C24, 27, 31, 35, 39, §8362; C46, 50,
+54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.22]
+491.23 Dissolution — filing a statement with secretary of state.
+A corporation may be dissolved prior to the period fixed in the articles of incorporation,
+by unanimous consent, or in accordance with the provisions of its articles, if a statement
+swearing to the dissolution, signed by the officers of such corporation, is filed with the
+secretary of state. A fee of one dollar shall apply to the filing of the statement.
+[C51, §682, 683; R60, §1159, 1160; C73, §1066, 1067; C97, §1617; C24, 27, 31, 35, 39, §8363;
+C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.23]
+94 Acts, ch 1055, §5; 2014 Acts, ch 1074, §3; 2015 Acts, ch 30, §161
+Referred to in §9.11
+491.24 Duration.
+Corporations for the construction and operation, or the operation alone, of steam railways,
+interurban railways, and street railways, or for the transaction of the business of life
+insurance, may be formed to endure fifty years; those for other purposes, not to exceed
+twenty years; provided, however, that in addition to the power herein granted to incorporate
+for a period of years, corporations hereafter organized or now existing may have perpetual
+existence by so providing in the articles of incorporation or by amendment thereto pursuant
+to section 491.20.
+[C51, §681; R60, §1158; C73, §1069; C97, §1618; S13, §1618; C24, 27, 31, 35, 39, §8364; C46,
+50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.24]
+491.25 Renewal — conditions.
+1.
+Corporations existing for a period of years may be renewed from time to time for the
+same or shorter periods, or may be renewed to exist perpetually, upon compliance with the
+provisions of this section and other applicable statutes.
+2.
+The right of renewal is vested in the stockholders and shall be exercised by a resolution
+thereof adopted at any regular meeting or at any special meeting called for that purpose. Such
+resolution must be adopted by a majority of all the votes cast at such meeting, or by such other
+vote as is authorized or required in the company’s existing articles of incorporation.
+3.
+If the renewal instrument in proper form and the necessary fees are tendered to
+the secretary of state for filing three months or less either prior or subsequent to the
+corporation’s expiration date, the renewal shall take effect immediately upon the expiration
+of the corporation’s previous period of existence, and in such case, the corporate existence
+shall be considered as having been extended without interruption. If the renewal is filed
+more than three months before or after the expiration date, the renewal shall take effect
+upon the date such renewal with necessary fees is accepted and filed by the secretary of
+state; and in cases where filed more than three months after the expiration date, shall not be
+in legal effect a renewal unless the procedure provided for and the additional fees provided
+for in section 491.28 are fully complied with and paid.
+4.
+In all cases of renewal, those stockholders voting for such renewal must purchase at its
+real value the stock voted against the renewal, and shall have three years from the date such
+action for renewal was taken in which to purchase and pay for the stock voting against the
+renewal, which purchase price shall bear interest at the rate of five percent per annum from
+the date of the renewal action until paid.
+[C51, §681; R60, §1158; C73, §1069; C97, §1618; S13, §1618; C24, 27, 31, 35, 39, §8365,
+8366; C46, 50, §491.25, 491.26; C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.25]
+2015 Acts, ch 29, §65
+Referred to in §9.11, 491.20, 491.26
+491.26 Stock of dissenting holders.
+The provisions of section 491.25 shall not apply to any renewal voted before July 4, 1951,
+but all rights of any corporation described or referred to in the last two paragraphs of section
+491.20 to purchase stock of dissenting stockholders or any portion thereof are preserved to
+said corporation both before and after this section becomes operative.
+[S13, §1618; C24, 27, 31, 35, 39, §8366; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.26]
+491.27 Execution of renewal — record required.
+After the action of the stockholders for the renewal of any corporation, a certificate,
+showing the proceedings resulting in the renewal, sworn to by the president and secretary
+of the corporation, or by other officers as may be designated by the stockholders, together
+with the articles of incorporation, which may be the original articles of incorporation or
+amended and substituted articles, shall be filed with the secretary of state and be recorded
+by the secretary in a book kept for that purpose.
+[S13, §1618; C24, 27, 31, 35, 39, §8367; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.27]
+94 Acts, ch 1055, §6
+Referred to in §9.11
+491.28 Filing with secretary of state — fees — certificate of renewal.
+1.
+Upon filing with the secretary of state the said certificate and articles of incorporation,
+and upon the payment to the secretary of state of the fees prescribed by section 491.11 for
+newly organized corporations, the secretary of state shall issue a proper certificate for the
+renewal of the corporation.
+2.
+Whenever, after timely notice has been received that its articles of incorporation will
+expire and the corporate existence of any corporation has expired and not been renewed
+within the period prescribed by statute, said corporation thereafter files with the secretary
+of state amended and substituted articles of incorporation for the purpose of renewing and
+extending its corporate existence, the secretary of state shall cause said corporation to file
+satisfactory proof that no judgments against said corporation or the stockholders thereof
+are outstanding which may be liens against said corporation and that there is no pending
+litigation involving said corporation or the corporate existence of said corporation. Upon the
+filing of said proof the secretary of state may acknowledge and file for record the amended and
+substituted articles of said corporation and issue a certificate of renewal upon the payment
+of the renewal fees required by statute, however, the secretary of state shall charge and
+collect an additional ten percent of said renewal fees for each month or major fraction thereof
+said corporation was delinquent in renewal of its corporate existence as a penalty, but in no
+instance shall such additional delinquency fee be less than one hundred dollars and not more
+than one thousand dollars. Said certificate of renewal when issued shall have the same force
+and effect as though issued upon proper and timely application by said corporation and it
+shall date from the expiration of the corporate period which it succeeds.
+[S13, §1618; C24, 27, 31, 35, 39, §8368; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.28]
+2018 Acts, ch 1041, §127
+Referred to in §9.11, 491.25
+491.29 Erroneous certificate — correction.
+In all cases wherein the secretary of state has prior to April 10, 1931 issued to a corporation
+organized or purporting to have been organized under the laws of this state a certificate
+renewing and extending its corporate existence from an erroneous date or for a period of
+time in excess of that provided by law, the secretary of state shall, upon the surrender of such
+certificate, issue to such corporation a new certificate, extending and renewing the corporate
+existence thereof from the correct date or for the period of time provided by law.
+[C31, 35, §8368-d1; C39, §8368.1; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.29]
+Referred to in §9.14
+491.30 and 491.31
+Repealed by 93 Acts, ch 126, §35.
+491.32 Notice of renewal — publication.
+Repealed by 2014 Acts, ch 1074, §4.
+491.33 Foreign insurance companies becoming domestic.
+The secretary of state upon a corporation complying with the provisions of this section and
+upon the filing of articles of incorporation and upon receipt of the fees as provided in this
+chapter shall issue a certificate of incorporation as of the date of the corporation’s original
+incorporation in its state of original incorporation. The certificate of incorporation shall state
+on its face that it is issued in accordance with the provisions of this section. The secretary
+of state shall then notify the appropriate officer of the state or country of the corporation’s
+last domicile that the corporation is now a domestic corporation domiciled in this state. This
+section applies to life insurance companies, and to insurance companies doing business under
+chapter 515.
+[C75, 77, 79, 81, §491.33; 81 Acts, ch 161, §1]
+94 Acts, ch 1055, §7
+Referred to in §508.12, 515.78
+491.34 and 491.35
+Reserved.
+491.36 Foreign-trade zone corporation.
+A domestic corporation may be incorporated or organized under the laws of this state, and
+a foreign corporation may be authorized or registered to transact business in this state, for
+the purpose of establishing, operating, and maintaining a foreign-trade zone as defined in
+19 U.S.C. §81a. The domestic or foreign corporation must maintain its principal place of
+business in this state. The domestic or foreign corporation described in this section has all
+powers necessary or convenient for applying for a grant of authority to establish, operate,
+and maintain a foreign-trade zone under the provisions of 19 U.S.C. §81a, et seq., and rules
+promulgated under that law, and for establishing, operating, and maintaining a foreign-trade
+zone pursuant to that grant of authority.
+[C81, §491.36]
+2010 Acts, ch 1061, §66; 2021 Acts, ch 165, §264, 266
+491.37
+Reserved.
+491.38 Consolidation of interstate bridge companies.
+Any corporation heretofore or hereafter organized under the laws of this state for the
+purpose of constructing or operating, or constructing and operating, a bridge, one extremity
+of which shall rest in an adjacent state, may merge or consolidate the stock, property, rights,
+franchises, privileges, assets and liabilities of such corporation with the stock, property,
+rights, franchises, privileges, assets and liabilities of a corporation organized for a similar
+purpose under the laws of such adjacent state, upon such terms not in conflict with law as
+may be mutually agreed upon, and thereafter such merged or consolidated corporations
+shall be one corporation with such name as may be agreed upon, and shall have all of the
+property, rights, privileges, assets and franchises, and be subject to all of the liabilities, of
+the merging or consolidating corporations.
+[C31, 35, §8375-d1; C39, §8375.1; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.38]
+2013 Acts, ch 90, §147
+491.39 Legislative control.
+The articles of incorporation, bylaws, rules and regulations of corporations hereafter
+organized under the provisions of either Title XII, subtitles 2 through 5, or Title XIII, subtitle
+1 or 2, or whose organization may be adopted or amended thereunder, shall at all times
+be subject to legislative control, and may be at any time altered, abridged or set aside by
+law, and every franchise obtained, used, or enjoyed by such corporation may be regulated,
+withheld, or be subject to conditions imposed upon the enjoyment thereof, whenever the
+general assembly shall deem necessary for the public good.
+[C73, §1090; C97, §1619; C24, 27, 31, 35, 39, §8376; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77,
+79, 81, §491.39]
+Iowa Constitution, Art. I, §21; Art. VIII, §12
+United States Constitution, Article I, §10
+491.40 Fraud — penalty for.
+Intentional fraud in failing to comply substantially with the articles of incorporation, or in
+deceiving the public or individuals in relation to their means or their liabilities, shall be a
+fraudulent practice. Any person who has sustained injury from such fraud may also recover
+damages therefor against those guilty of participating in such fraud.
+[C51, §686; R60, §1163; C73, §1071; C97, §1620; C24, 27, 31, 35, 39, §8377; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §491.40]
+Referred to in §491.41, 491.42
+Fraudulent practices, see §714.8 – 714.14
+491.41 Diversion of funds — unlawful dividends.
+The diversion of the funds of the corporation to other objects than those mentioned in its
+articles and in the notice published, if any person be injured thereby, and the payment of
+dividends which leaves insufficient funds to meet the liabilities thereof, shall be such fraud
+as will subject those guilty thereof to the penalties of section 491.40; and such dividends,
+or their equivalent, in the hands of stockholders, shall be subject to such liabilities. If the
+directors or other officers or agents of any corporation shall declare and pay any dividend
+when such corporation is known by them to be insolvent, or any dividend the payment of
+which would render it insolvent, or which would diminish the amount of its capital stock, all
+directors, officers, or agents knowingly consenting thereto shall be jointly and severally liable
+for all the debts of such corporation then existing, but dividends made in good faith before
+knowledge of the occurring of losses shall not come within the provisions of this section.
+[C51, §687, 688; R60, §1164, 1165; C73, §1072, 1073; C97, §1621; C24, 27, 31, 35, 39, §8378;
+C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.41]
+Referred to in §491.42
+491.42 Forfeiture.
+Any intentional violation by the board of directors or the managing officers of the
+corporation of the provisions of sections 491.40 and 491.41 shall work a forfeiture of the
+corporate privileges, to be enforced as provided by law.
+[C51, §690; R60, §1167; C73, §1074; C97, §1622; C24, 27, 31, 35, 39, §8379; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §491.42]
+491.43 Keeping false accounts.
+The intentional keeping of false books or accounts shall be a fraudulent practice on the
+part of any officer, agent, or employee of the corporation guilty thereof, or of anyone whose
+duty it is to see that such books or accounts are correctly kept.
+[C51, §691; R60, §1168; C73, §1075; C97, §1623; C24, 27, 31, 35, 39, §8381; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §491.43]
+Fraudulent practices, see §714.8 – 714.14
+491.44 and 491.45
+Reserved.
+491.46 Books to show names of stockholders.
+The books of the corporation shall be kept to show the amount of capital stock actually
+paid in, the number of shares of stock issued, the original stockholders, and all transfers of
+shares of stock, and there shall be entered upon the books of the corporation the name of the
+person by and to whom stock is transferred, the numbers or other designations of the shares
+of stock and the date of transfer. This section does not create any rights or impose any duties
+inconsistent with the provisions of chapter 554.
+[C51, §692; R60, §1169; C73, §1078; C97, §1626; C24, 27, 31, 35, 39, §8385; C46, 50, §491.47;
+C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.46]
+Referred to in §491.50
+491.47 Names exhibited at meetings.
+It shall be the duty of the officer or agent of any corporation organized under the laws of
+the state of Iowa, or any foreign corporation qualified to do business in the state of Iowa
+and holding a meeting of its stockholders in the state of Iowa, who has charge of the stock
+records of such corporation to prepare and make, at least ten days before the holding of such
+meeting, a complete list of the stockholders entitled to vote thereat, arranged in alphabetical
+order. Such list shall be open and available at the place where said meeting is to be held for
+said ten days to the examination of any stockholder, and shall be kept at the time and place
+of meeting during the whole time thereof, and subject to the inspection of any stockholder
+who may be present at said meeting. The original or duplicate stock ledger of the corporation
+shall be the only evidence as to who are the stockholders entitled to examine such list or the
+books of the corporation or to vote in person or by proxy at such meeting. Failure to comply
+with the requirements of this section shall not affect the validity of any action taken at such
+meeting. An officer or agent having charge of the transfer books who shall fail to prepare the
+list of stockholders, or keep the same on file for a period of ten days, or produce and keep
+the same open for inspection at the meeting, as provided in this section, shall be liable to any
+stockholder suffering damage on account of such failure, to the extent of such damage.
+[C24, 27, 31, 35, 39, §8384; C46, 50, §491.46; C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.47]
+Referred to in §491.50
+491.48 Stock certificates — signing.
+A corporation organized and existing under the laws, either general or special, of this state,
+may designate in its articles or bylaws the officer or officers who shall be empowered to sign
+stock certificates issued by the corporation. If the articles or bylaws provide for the signature
+of a registrar or the signature or countersignature of a transfer agent on stock certificates
+issued by it, the corporation may likewise provide in the articles or bylaws that in lieu of the
+actual signature of the officer or officers authorized to sign stock certificates, the facsimile
+thereof may be either engraved or printed thereon.
+[C31, 35, §8385-d1; C39, §8385.1; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.48]
+491.49
+Reserved.
+491.50 Examination by stockholder.
+1.
+Any person who shall be a stockholder of record of any corporation organized under
+the laws of the state of Iowa or any foreign corporation authorized to transact business in
+the state of Iowa and maintaining its books and records in the state of Iowa shall have the
+right to examine in person or by duly authorized agent or attorney at any reasonable time
+or times and for any proper purpose the stock records, minutes and records of stockholders’
+meetings, and the books and records of account and to make extracts therefrom.
+2.
+The provisions of sections 491.46 and 491.47 and this section shall not apply to savings
+associations, deposit, loan, and investment records of banks, trust companies, or insurance
+companies organized under the laws of the state of Iowa, and to whom the provisions of this
+chapter would otherwise be applicable.
+[C51, §692; R60, §1169; C73, §1078; C97, §1626; C24, 27, 31, 35, 39, §8385, 8386; C46, 50,
+§491.47, 491.50; C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.50]
+2012 Acts, ch 1017, §91
+491.51 through 491.53
+Reserved.
+491.54 Liability of collateral holder.
+No holder of stock as collateral security shall be liable for assessments on the same.
+[C97, §1626; C24, 27, 31, 35, 39, §8390; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.54]
+491.55 Right to vote stock — attachment.
+1.
+Every executor, administrator, guardian, or trustee shall represent the stock in the
+person’s hands at all corporate meetings, and may vote the same as a stockholder.
+2.
+Every person who shall pledge the person’s stock, in the absence of a written agreement
+to the contrary, may represent the same at all such meetings and vote accordingly.
+3.
+The owner of corporate stock levied upon by attachment or other proceeding shall have
+the right to vote the same at all corporate meetings, until such time as the owner shall have
+been divested of title thereto by execution sale.
+4.
+Nothing contained in this section shall in any manner conflict with any provision in the
+articles of incorporation, or the bylaws of the corporation issuing the stock.
+[S13, §1641-a; C24, 27, 31, 35, 39, §8391; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§491.55]
+2018 Acts, ch 1041, §127
+491.56 Expiration and closing of business.
+Corporations whose charters expire by limitation or the voluntary act of the stockholders
+may nevertheless continue to act for the purpose of winding up their affairs.
+[C51, §694; R60, §1171; C73, §1080; C97, §1629; C24, 27, 31, 35, 39, §8392; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §491.56]
+491.57 Sinking fund and loaning thereof.
+For the purpose of repairs, rebuilding, enlarging, or to meet contingencies, or for the
+purpose of creating a sinking fund, the corporation may set apart a sum which it may loan,
+and take proper securities therefor.
+[C51, §699; R60, §1176; C73, §1081; C97, §1630; C24, 27, 31, 35, 39, §8393; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §491.57]
+491.58 Liability of stockholders.
+Neither anything in this chapter contained,
+nor any provisions in the articles of
+corporation, shall exempt the stockholders from individual liability to the amount of the
+unpaid installments on the stock owned by them, or transferred by them for the purpose of
+defrauding creditors; and execution against the company may, to that extent, be levied upon
+the private property of any such individual.
+[C51, §695; R60, §1172; C73, §1082; C97, §1631; C24, 27, 31, 35, 39, §8394; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §491.58]
+2012 Acts, ch 1017, §92
+491.59 Levy on private property.
+In none of the cases contemplated in this chapter can the private property of the
+stockholders be levied upon for the payment of corporate debts while corporate property can
+be found with which to satisfy the same; but it will be sufficient proof that no property can
+be found, if an execution has issued on a judgment against the corporation, and a demand
+has been thereon made of some one of the last acting officers of the body for property on
+which to levy, and the officer neglects to point out any such property.
+[C97, §1631; C24, 27, 31, 35, 39, §8395; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.59]
+Referred to in §491.61
+491.60 Suit by creditor — measure of recovery.
+In suits by creditors to recover unpaid installments upon shares of stock against any person
+who has in any manner obtained such stock of the corporation, the stockholder shall be liable
+for the difference between the amount paid by the stockholder to the corporation for said
+stock and the face value thereof.
+[C97, §1631; C24, 27, 31, 35, 39, §8396; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.60]
+491.61 Corporate property exhausted.
+Before any stockholder can be charged with the payment of a judgment rendered for a
+corporate debt, an action shall be brought against the stockholder, in any stage of which the
+stockholder may point out corporate property subject to levy; and, upon the stockholder’s
+satisfying the court of the existence of such property, by affidavit or otherwise, the cause may
+be continued, or execution against the stockholder stayed, until the property can be levied
+upon and sold, and the court may subsequently render judgment for any balance which there
+may be after disposing of the corporate property; but if a demand of property has been made
+as contemplated in section 491.59, the costs of said action shall, in any event, be paid by the
+company or the defendant therein, but the stockholder shall not be permitted to controvert
+the validity of the judgment rendered against the corporation, unless it was rendered through
+fraud and collusion.
+[C51, §696, 697; R60, §1173, 1174; C73, §1083, 1084; C97, §1632; C24, 27, 31, 35, 39, §8397;
+C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.61]
+491.62 Indemnity — contribution.
+When the property of a stockholder is taken for a corporate debt, the stockholder may
+maintain an action against the corporation for indemnity, and against any of the other
+stockholders for contribution.
+[C51, §698; R60, §1175; C73, §1085; C97, §1633; C24, 27, 31, 35, 39, §8398; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §491.62]
+491.63 Franchise sold on execution.
+The franchise of a corporation may be levied upon under execution and sold, but
+the corporation shall not become thereby dissolved, and no dissolution of the original
+corporation shall affect the franchise, and the purchaser becomes vested with all the powers
+of the corporation therefor. Such franchise shall be sold without appraisement.
+[C51, §700; R60, §1177; C73, §1086; C97, §1634; C24, 27, 31, 35, 39, §8399; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §491.63]
+491.64 Production of books.
+In proceedings by or against a corporation or a stockholder to charge the stockholder’s
+private property, or the dividends received by the stockholder, the court may, upon motion
+of either party, upon cause shown for that purpose, compel the officers or agents of the
+corporation to produce the books and records of the corporation.
+[C51, §701; R60, §1178; C73, §1087; C97, §1635; C24, 27, 31, 35, 39, §8400; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §491.64]
+491.65 Estoppel.
+No person or persons acting as a corporation shall be permitted to set up the want of a legal
+organization as a defense to an action against them as a corporation, nor shall any person
+sued on a contract made with such an acting corporation, or sued for an injury to its property,
+or a wrong done to its interests, be permitted to set up a want of such legal organization in
+the person’s defense.
+[C51, §704; R60, §1181; C73, §1089; C97, §1636; C24, 27, 31, 35, 39, §8401; C46, 50, 54, 58,
+62, 66, 71, 73, 75, 77, 79, 81, §491.65]
+491.66 Dissolution — receivership.
+Courts of equity shall have full power, on good cause shown, to dissolve or close up the
+business of any corporation, and to appoint a receiver therefor, who shall be a resident of the
+state of Iowa. An action therefor may be instituted by the attorney general in the name of the
+state, reserving, however, to the stockholders and creditors all rights now possessed by them.
+[C97, §1640; C24, 27, 31, 35, 39, §8402; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.66]
+491.67
+Reserved.
+491.68 False statements or pretenses.
+Every director, officer, or agent of any corporation or joint-stock association, who
+knowingly concurs in making, publishing, or posting, either generally or privately to the
+stockholders or other persons, any written report, exhibit, or statement of its affairs or
+pecuniary condition, or book or notice containing any material statement which is false, or
+any untrue or willfully or fraudulently exaggerated report, prospectus, account, statement
+of operations, values, business, profits, expenditures, or prospects, or any other paper or
+document intended to produce or give, or having a tendency to produce or give, the shares
+of stock in such corporation a greater value or a less apparent or market value than they
+really possess, is guilty of a fraudulent practice.
+[S13, §1641-g; C24, 27, 31, 35, 39, §8404; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§491.68]
+Fraudulent practices, see §714.8 – 714.14
+491.69 through 491.100
+Reserved.
+SUBCHAPTER II
+CORPORATION MERGER OR CONSOLIDATION
+491.101 Definitions.
+1.
+“Merger” means the uniting of two or more corporations into one corporation in such
+manner that the corporation resulting from the merger retains its corporate existence and
+absorbs the other constituent corporation or corporations which thereby lose their or its
+corporate existence.
+2.
+“Consolidation” means the uniting of two or more corporations into a single new
+corporation, all of the constituent corporations thereby ceasing to exist as separate entities.
+[C50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.101]
+491.101A Poison pill defense authorized.
+The terms and conditions of stock rights or options issued by the corporation may include,
+without limitation, restrictions or conditions that preclude or limit the exercise, transfer,
+or receipt of such rights or options by a person, or group of persons, owning or offering
+to acquire a specified number or percentage of the outstanding common shares or other
+securities of the corporation, or a transferee of the offeror, or that invalidate or void such
+stock rights or options held by an offeror or a transferee of the offeror.
+89 Acts, ch 288, §187
+491.101B Consideration
+of
+community
+interests
+in
+consideration
+of
+acquisition
+proposals.
+1.
+A director, in determining what is in the best interest of the corporation when
+considering a tender offer or proposal of acquisition, merger, consolidation, or similar
+proposal, may consider any or all of the following community interest factors, in addition to
+consideration of the effects of any action on shareholders:
+a.
+The effects of the action on the corporation’s employees, suppliers, creditors, and
+customers.
+b.
+The effects of the action on the communities in which the corporation operates.
+c.
+The long-term as well as short-term interests of the corporation and its shareholders,
+including the possibility that these interests may be best served by the continued
+independence of the corporation.
+2.
+If on the basis of the community interest factors described in subsection 1, the board
+of directors determines that a proposal or offer to acquire or merge the corporation is not
+in the best interests of the corporation, it may reject the proposal or offer.
+If the board
+of directors determines to reject any such proposal or offer, the board of directors has no
+obligation to facilitate, to remove any barriers to, or to refrain from impeding, the proposal
+or offer. Consideration of any or all of the community interest factors is not a violation of
+the business judgment rule or of any duty of the director to the shareholders, or a group of
+shareholders, even if the director reasonably determines that a community interest factor or
+factors outweigh the financial or other benefits to the corporation or a shareholder or group
+of shareholders.
+89 Acts, ch 288, §188
+491.102 Procedure for merger.
+1.
+Any two or more corporations whether heretofore or hereafter organized may merge
+into one of such corporations in the manner provided in this section.
+2.
+The board of directors of each corporation shall, by resolution adopted by a majority
+vote of the members of each such board, approve a plan of mergers setting forth:
+a.
+The names of the corporations proposing to merge, and the name of the corporation
+into which they propose to merge, which is hereinafter designated as the surviving
+corporation.
+b.
+The terms and conditions of the proposed merger.
+c.
+The manner and basis of converting the shares of each merging corporation into shares
+or other securities or obligations of the surviving corporation.
+d.
+A statement of any changes in the articles of incorporation of the surviving corporation
+to be effected by such merger.
+e.
+Such other provisions with respect to the proposed merger as are deemed necessary or
+desirable.
+[C50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.102]
+2012 Acts, ch 1023, §90
+Referred to in §508B.2, 515G.2, 521.2
+491.103 Procedure for consolidation.
+1.
+Any two or more corporations whether heretofore or hereafter organized may
+consolidate into a new corporation in the manner provided in this section.
+2.
+The board of directors of each corporation shall, by a resolution adopted by a majority
+vote of the members of each such board, approve a plan of consolidation setting forth:
+a.
+The names of the corporations proposing to consolidate, and the name of the new
+corporation into which they propose to consolidate, which is hereinafter designated as the
+new corporation.
+b.
+The terms and conditions of the proposed consolidation.
+c.
+The manner and basis of converting the shares of each corporation into shares, or other
+securities, or obligations of the new corporation.
+d.
+With respect to the new corporation, all of the statements required to be set forth in
+articles of incorporation for corporations organized under this chapter.
+e.
+Such other provisions with respect to the proposed consolidation as are deemed
+necessary or desirable.
+[C50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.103]
+2012 Acts, ch 1023, §91
+Referred to in §508B.2, 515G.2, 521.2
+491.104 Meetings of shareholders.
+1.
+The board of directors of each corporation, upon approving such plan of merger or plan
+of consolidation, shall, by resolution, direct that the plan be submitted to a vote at a meeting
+of shareholders, which may be either an annual or a special meeting. Written or printed
+notice shall be delivered not less than twenty days before such meeting, either personally or
+by mail, to each shareholder of record entitled to vote at such meeting. Such notice shall
+state the place, day, hour and purpose of the meeting, and a copy or a summary of the plan
+of merger or plan of consolidation, as the case may be, shall be included in or enclosed with
+such notice.
+2.
+The board of directors may hold the meeting solely by means of remote communication
+in accordance with section 491.17 and in that case the notice shall describe how shareholders
+may participate in the meeting.
+[C50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.104]
+2021 Acts, ch 165, §232, 248
+Referred to in §508B.2, 515G.2, 521.2
+491.105 Approval by shareholders.
+At each such meeting, a vote of the shareholders entitled to vote thereat shall be taken
+on the proposed plan of merger or consolidation. The plan of merger or consolidation shall
+be approved upon receiving the affirmative vote of the holders of at least two-thirds of the
+outstanding shares entitled to vote at such meeting, of each of such corporations, unless any
+class of shares of any such corporations is entitled to vote as a class in respect thereof in
+which event, as to such corporation, the plan of merger or consolidation shall be approved
+upon receiving the affirmative vote of the holders of at least a majority of the outstanding
+shares of each such class of shares entitled to vote as a class in respect thereof and two-thirds
+of the total outstanding shares entitled to vote at such meeting. Any class of shares of any
+such corporation shall be entitled to vote as a class if the plan of merger or consolidation,
+as the case may be, contains any provision which, if contained in a proposed amendment to
+articles of incorporation, would entitle such class of shares to vote as a class.
+[C50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.105]
+Referred to in §508B.2, 515G.2, 521.2
+491.106 Articles of merger or consolidation.
+Upon such approval, articles of merger or articles of consolidation shall be executed in
+duplicate by each corporation by its president or a vice president, and verified by that person,
+attested by its secretary or an assistant secretary, and shall be acknowledged and shall set
+forth:
+1.
+The plan of merger or the plan of consolidation.
+2.
+As to each corporation, the number of shares outstanding, and the number of shares
+entitled to vote, and, if the shares of any class are entitled to vote as a class, the designation
+of each such class and the number of outstanding shares thereof entitled to vote.
+3.
+As to each corporation, the number of shares voted for and against such plan
+respectively, and, if the shares of any class are entitled to vote as a class, the number of
+shares of each such class voted for and against such plan, respectively.
+[C50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.106]
+491.107 Filing articles of merger or consolidation.
+1.
+A duly executed and acknowledged copy of the articles of merger or consolidation shall
+be forwarded to the secretary of state for filing and recording as provided in section 491.5.
+2.
+The procedure set forth in sections 491.6 through 491.9 shall be applicable to the filing
+of articles of consolidation or merger.
+3.
+If as the result of a consolidation a new Iowa corporation is formed then the fees
+provided for in section 491.11 shall be applicable. If as the result of a merger an existing Iowa
+corporation becomes the survivor the articles of merger shall be deemed an amendment to
+its articles of incorporation and section 491.20 shall be applicable.
+[C50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.107]
+94 Acts, ch 1055, §8; 2018 Acts, ch 1041, §127; 2021 Acts, ch 80, §314
+Referred to in §9.11
+491.108 Effective date of merger or consolidation.
+Upon the payment of all fees and charges and upon the filing of the articles of consolidation
+or merger with the secretary of state the secretary of state shall issue to the corporation or its
+representative a certificate of consolidation or a certificate of merger and upon the issuance
+of said certificate the merger or consolidation shall be effected.
+[C50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.108]
+491.109 Notice.
+Repealed by 2014 Acts, ch 1074, §4.
+491.110 Effect of merger or consolidation.
+When such merger or consolidation has been effected:
+1.
+The several corporations parties to the plan of merger or consolidation shall be a single
+corporation, which, in the case of a merger, shall be that corporation designated in the plan
+of merger as the surviving corporation, and, in the case of a consolidation, shall be the new
+corporation provided for in the plan of consolidation.
+2.
+The separate existence of all corporations parties to the plan of merger or consolidation,
+except the surviving or new corporation, shall cease.
+3.
+Such surviving or new corporation shall have all the rights, privileges, immunities and
+powers and shall be subject to all the duties and liabilities of a corporation organized under
+this chapter.
+4.
+Such surviving or new corporation shall thereupon and thereafter possess all the rights,
+privileges, immunities and franchises, as well of a public as of a private nature, of each of the
+merging or consolidating corporations; and all property, real, personal and mixed, and all
+debts due on whatever account, including subscriptions to shares, and all other choses in
+action, and all and every other interest, of or belonging to or due to each of the corporations
+so merged or consolidated, shall be taken and deemed to be transferred to and vested in such
+single corporation without further act or deed; and the title to any real estate, or any interest
+therein, vested in any of such corporations shall not revert or be in any way impaired by
+reason of such merger or consolidation.
+5.
+Such surviving or new corporation shall thenceforth be responsible and liable for all
+the liabilities and obligations of each of the corporations so merged or consolidated; and any
+claim existing or action or proceeding pending by or against any of such corporations may
+be prosecuted to judgment as if such merger or consolidation had not taken place, or such
+surviving or new corporation may be substituted in its place. Neither the rights of creditors
+nor any liens upon the property of any such corporation shall be impaired by such merger or
+consolidation.
+6.
+In the case of a merger, the articles of incorporation of the surviving corporation shall
+be deemed to be amended to the extent, if any, that changes in its articles of incorporation
+are stated in the articles of merger; and, in the case of a consolidation, the statements set
+forth in the articles of consolidation and which are required or permitted to be set forth in
+the articles of incorporation of corporations organized under this chapter shall be deemed to
+be the articles of incorporation of the new corporation.
+7.
+The aggregate amount of the net assets of the merging or consolidating corporations
+which was available for the payment of dividends immediately prior to such merger or
+consolidation, to the extent that the amount thereof is not transferred to stated capital by the
+issuance of shares or otherwise, shall continue to be available for the payment of dividends
+by such surviving or new corporation.
+[C50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.110]
+491.111 Merger or consolidation of domestic and foreign corporations.
+1.
+One or more foreign corporations and one or more domestic corporations whether
+heretofore or hereafter organized may be merged or consolidated in the following manner,
+provided such merger or consolidation is permitted by the laws of the state under which each
+such foreign corporation is organized:
+a.
+Each domestic corporation shall comply with the provisions of this chapter with respect
+to the merger or consolidation, as the case may be, of domestic corporations and each foreign
+corporation shall comply with the applicable provisions of the laws of the state under which
+it is organized.
+b.
+If the surviving or new corporation, as the case may be, is to be governed by the laws of
+any state other than this state, it shall comply with the provisions of the statutes of the state
+of Iowa with respect to foreign corporations if it is to do business in this state, and in every
+case it shall file with the secretary of state of this state:
+(1)
+An agreement that it may be served with process in this state in any proceeding for the
+enforcement of any obligation of any domestic corporation which is a party to such merger
+or consolidation and in any proceeding for the enforcement of the rights of a dissenting
+shareholder of any such domestic corporation against the surviving or new corporation.
+(2)
+The appointment of a resident agent as provided for in section 490.501.
+(3)
+An agreement that it will promptly pay to the dissenting shareholders of any such
+domestic corporation the amount, if any, to which they shall be entitled under the provisions
+of this subchapter with respect to the rights of dissenting shareholders.
+2.
+Insofar as the state of Iowa is concerned, the effect of such merger or consolidation
+shall be the same as in the case of the merger or consolidation of domestic corporations, if
+the surviving or new corporation is to be governed by the laws of this state. If the surviving or
+new corporation is to be governed by the laws of any state other than this state, the effect of
+such merger or consolidation shall be the same as in the case of the merger or consolidation
+of domestic corporations except insofar as the laws of such other state provide otherwise.
+[C50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.111]
+93 Acts, ch 126, §11; 2012 Acts, ch 1023, §157; 2017 Acts, ch 54, §76
+Referred to in §9.11
+491.112 Rights of dissenting shareholders.
+1.
+If a shareholder of a corporation which is a party to a merger or consolidation shall
+file with such corporation, prior to or at the meeting of shareholders at which the plan of
+merger or consolidation is submitted to a vote, a written objection to such plan of merger or
+consolidation, and shall not vote in favor thereof, and such shareholder, within twenty days
+after the merger or consolidation is effected, shall make written demand on the surviving or
+new corporation for payment of the fair value of the shareholder’s shares as of the day prior to
+the date on which the vote was taken approving the merger or consolidation, the surviving or
+new corporation shall pay to such shareholder, upon surrender of the certificate or certificates
+representing said shares, such fair value thereof. Such demand shall state the number and
+class of the shares owned by such dissenting shareholder. Any shareholder failing to make
+demand within the twenty-day period shall be conclusively presumed to have consented to
+the merger or consolidation and shall be bound by the terms thereof.
+2.
+If within thirty days after the date on which such merger or consolidation was effected
+the value of such shares is agreed upon between the dissenting shareholder and the surviving
+or new corporation payment therefor shall be made within ninety days after the date on which
+such merger or consolidation was effected, upon the surrender of the certificate or certificates
+representing said shares. Upon payment of the agreed value the dissenting shareholder shall
+cease to have any interest in such shares or in the corporation.
+3.
+If within such period of thirty days the shareholder and the surviving or new
+corporation do not so agree, then the dissenting shareholder may, within sixty days after
+the expiration of the thirty-day period, file a petition in any court of competent jurisdiction
+within the state and judicial subdivision thereof in which the registered office or the principal
+place of business of the surviving or new corporation is situated, asking for a finding and
+determination of the fair value of such shares, and shall be entitled to judgment against
+the surviving or new corporation for the amount of such fair value as of the day prior to
+the date on which such vote was taken approving such merger or consolidation, together
+with interest thereon at the rate of five percent per annum to the date of such judgment.
+The action shall be prosecuted as an equitable action and the practice and procedure shall
+conform to the practice and procedure in equity cases.
+The judgment shall be payable
+only upon and simultaneously with the surrender to the surviving or new corporation of
+the certificate or certificates representing said shares. Upon payment of the judgment, the
+dissenting shareholder shall cease to have any interest in such shares, or in the surviving
+or new corporation.
+Such shares may be held and disposed of by the surviving or new
+corporation as it may see fit. Unless the dissenting shareholder shall file such petition within
+the time herein limited, such shareholder and all persons claiming under the shareholder
+shall be conclusively presumed to have approved and ratified the merger or consolidation
+and shall be bound by the terms thereof.
+4.
+The right of a dissenting shareholder to be paid the fair value of the shareholder’s
+shares as herein provided shall cease if and when the corporation shall abandon the merger
+or consolidation.
+5.
+Shares acquired by the corporation pursuant to the payment of the agreed value thereof
+or to the payment of judgment entered therefor as in this section provided may be held and
+disposed of by the corporation as it shall see fit.
+[C50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.112]
+2016 Acts, ch 1011, §121
+Referred to in §9.11
+491.113 Issuance of stock.
+All stock issued in connection with such merger or consolidation shall be issued pursuant to
+the provisions of chapter 492 and nothing in this amendment shall be construed as eliminating
+the requirements of said chapter.
+[C50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.113]
+491.114 Amana stock.
+Notwithstanding anything contained in this chapter and chapters 492 and 502,
+a
+corporation organized under the laws of the state of Iowa having assets of the value of
+one million dollars or more, the articles of which provide that an individual may not vote
+more than one share of the common voting shares of stock of the corporation, and which
+give to children of the owners of shares of the common voting stock the right to purchase
+one common voting share of stock in the corporation upon attaining majority or within a
+fixed period thereafter, and which authorize the issuance, sale and delivery of not to exceed
+one share of the common voting stock to any one individual, may issue, sell and deliver its
+shares of common voting stock, whether held by it as treasury stock or whether issued as an
+original issue, for the following considerations and upon the following terms and conditions,
+and with the following limitations:
+1.
+Such common voting stock may be issued, sold and delivered by the corporation either
+for cash or upon credit or time payments or installment payments or for a consideration
+evidenced in part or in whole by the written agreement of the purchaser thereof to pay for
+the same, payment of said purchase price to be secured by a lien on said stock.
+2.
+No such stock shall be issued, sold and delivered for a price less than the par value
+thereof at the time of such issuance, sale and delivery.
+3.
+Not more than one share of said stock shall be so issued, sold and delivered to any
+one individual, but when issued, sold and delivered, said stock may be voted by the owner
+thereof, if the articles of incorporation or bylaws of such corporation, whether now in effect
+or hereafter adopted or amended, so provide, although a part or all of the price to be paid
+therefor may be owing to the corporation under said written agreement of the purchaser to
+pay for the same.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §491.114]
