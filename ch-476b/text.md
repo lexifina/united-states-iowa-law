@@ -1,0 +1,351 @@
+CHAPTER 476B
+WIND ENERGY PRODUCTION TAX CREDIT
+Referred to in §422.11J, 422.33, 422.60, 423.4, 432.12E, 437A.6, 437A.17B, 476C.4, 524.802
+476B.1
+Definitions.
+476B.2
+General rule.
+476B.3
+Credit amount.
+476B.4
+Limitation.
+476B.5
+Determination of eligibility.
+476B.6
+Tax credit certificate procedure.
+476B.6A
+Alternative tax credit
+qualification — pilot project.
+476B.7
+Transfer of tax credit certificates.
+476B.8
+Use of tax credit certificates.
+476B.9
+Registration of tax credit
+certificates.
+476B.10
+Rules.
+476B.1 Definitions.
+For purposes of this chapter, unless the context otherwise requires:
+1.
+“Commission” means the utilities commission.
+2.
+“Department” means the department of revenue.
+3.
+“Qualified electricity” means electricity produced from wind at a qualified facility.
+4.
+“Qualified facility” means an electrical production facility that meets all of the following:
+a.
+Produces electricity from wind.
+b.
+Is located in Iowa.
+c.
+Was originally placed in service on or after July 1, 2005, but before July 1, 2012.
+d. (1)
+For applications filed on or after March 1, 2008, consists of one or more wind
+turbines connected to a common gathering line which have a combined nameplate capacity
+of no less than two megawatts and no more than thirty megawatts.
+(2)
+For applications filed on or after July 1, 2009, by a private college or university,
+community college, institution under the control of the state board of regents, public or
+accredited nonpublic elementary and secondary school, or public hospital, for the applicant’s
+own use of qualified electricity, consists of wind turbines with a combined nameplate
+capacity of three-fourths of a megawatt or greater. For the purposes of this subparagraph,
+“public hospital” means a hospital licensed pursuant to chapter 135B and governed pursuant
+to chapter 145A, 226, 347, 347A, or 392.
+2004 Acts, ch 1175, §409, 418; 2005 Acts, ch 179, §163; 2006 Acts, ch 1135, §1, 12; 2008
+Acts, ch 1128, §4, 5, 15; 2009 Acts, ch 80, §1, 9; 2013 Acts, ch 138, §126, 127; 2023 Acts, ch
+19, §2684; 2024 Acts, ch 1170, §369
+Referred to in §476B.6A
+476B.2 General rule.
+The owner of a qualified facility shall, for each kilowatt-hour of qualified electricity that the
+owner sells or uses for on-site consumption during the ten-year period beginning on the date
+the qualified facility was originally placed in service, be allowed a wind energy production
+tax credit to the extent provided in this chapter against the tax imposed in chapter 422,
+subchapters II, III, and V, and chapter 432, and may claim a refund of tax imposed by chapter
+423 or 437A for any tax year within the time period set forth in section 423.47 or 437A.14.
+2004 Acts, ch 1175, §410, 418; 2008 Acts, ch 1128, §6, 15; 2020 Acts, ch 1062, §94
+476B.3 Credit amount.
+The wind energy production tax credit allowed under this chapter equals the product of
+one cent multiplied by the number of kilowatt-hours of qualified electricity sold or used for
+on-site consumption by the owner during the taxable year.
+2004 Acts, ch 1175, §411, 418; 2005 Acts, ch 179, §164; 2008 Acts, ch 1128, §7, 15
+476B.4 Limitation.
+The wind energy production tax credit shall not be allowed for any kilowatt-hour of
+electricity that is sold to a related person. For purposes of this section, persons shall be
+treated as related to each other if such persons would be treated as a single employer under
+the regulations prescribed under section 52(b) of the Internal Revenue Code. In the case of
+a corporation that is a member of an affiliated group of corporations filing a consolidated
+return, such corporation shall be treated as selling electricity to an unrelated person if such
+electricity is sold to such a person by another member of such group.
+2004 Acts, ch 1175, §412, 418; 2005 Acts, ch 179, §165; 2009 Acts, ch 80, §2, 7, 9
+476B.5 Determination of eligibility.
+1.
+An owner may apply to the commission for a written determination regarding whether a
+facility is a qualified facility by submitting to the commission a written application containing
+all of the following:
+a.
+Information regarding the ownership of the facility including the percentage of equity
+interest held by each owner.
+b.
+The nameplate generating capacity of the facility.
+c.
+Information regarding the facility’s initial placement in service.
+d.
+Information regarding the type of facility.
+e.
+Except when electricity is used for on-site consumption, a copy of an executed power
+purchase agreement or other agreement to purchase electricity upon completion of the
+project. An executed interconnection agreement or transmission service agreement shall be
+accepted by the commission under this paragraph if the owner of the facility has agreed to
+sell electricity from the facility directly or indirectly to a wholesale power pool market.
+f.
+Any other information the commission may require.
+2.
+The commission shall review the application and supporting information and shall
+make a preliminary determination regarding whether the facility is a qualified facility. The
+commission shall notify the applicant of the approval or denial of the application within
+thirty days of receipt of the application and information required. If the commission fails
+to notify the applicant of the approval or denial within thirty days, the application shall be
+deemed denied. An applicant who receives a determination denying an application may file
+an appeal with the commission within thirty days from the date of the denial pursuant to the
+provisions of chapter 17A. In the absence of a timely appeal, the preliminary determination
+shall be final. If the application is incomplete, the commission may grant an extension of
+time for the provision of additional information.
+3.
+A facility that is not operational within eighteen months after issuance of an approval
+for the facility by the commission shall cease to be a qualified facility. However, a facility that
+is approved as qualified under this section but is not operational within eighteen months due
+to the unavailability of necessary equipment shall be granted an additional twelve months to
+become operational. A facility that is granted and thereafter loses approval may reapply to
+the commission for a new determination.
+4.
+The maximum amount of nameplate generating capacity of all qualified facilities
+the commission may find eligible under this chapter shall not exceed fifty megawatts of
+nameplate generating capacity.
+5.
+An owner shall not be an owner of more than two qualified facilities.
+2004 Acts, ch 1175, §413, 418; 2005 Acts, ch 179, §166; 2006 Acts, ch 1135, §2, 3, 12; 2008
+Acts, ch 1128, §8, 15; 2009 Acts, ch 80, §3; 2011 Acts, ch 115, §2, 13; 2024 Acts, ch 1170, §369
+476B.6 Tax credit certificate procedure.
+1. a.
+If a city or a county in which a qualified facility is located has enacted an ordinance
+under section 427B.26 and an owner has filed for and received special valuation pursuant to
+that ordinance, the owner is not required to obtain approval from the city council or county
+board of supervisors to apply for the wind energy production tax credit pursuant to subsection
+2.
+b. (1)
+If neither a city nor a county in which a qualified facility is located has enacted an
+ordinance under section 427B.26, or a qualified facility is not eligible for special valuation
+pursuant to an ordinance adopted by a city or a county under section 427B.26, the owner
+must receive approval of the applicable city council or county board of supervisors of the
+city or county in which the qualified facility is located in order to be eligible to receive the
+wind energy production tax credit. The application for approval may be submitted prior to
+commencement of the construction of the qualified facility but shall be submitted no later
+than the close of the owner’s first taxable year for which the credit is to be applied for. The
+application must contain the owner’s name and address, the address of the qualified facility,
+and the dates of the owner’s first and last taxable years for which the credit will be applied
+for. Within forty-five days of the receipt of the application for approval, the city council or
+county board of supervisors, as applicable, shall either approve or disapprove the application.
+After the forty-five-day time period has expired, the application is deemed to be approved.
+(2)
+Upon approval of an application submitted pursuant to subparagraph (1), the owner
+may apply for the tax credit as provided in subsection 2.
+In addition, approval of the
+application submitted pursuant to subparagraph (1) is acceptance by the applicant for the
+assessment of the qualified facility for property tax purposes for a period of twelve years
+and approval by the city council or county board of supervisors, as applicable, for the
+payment of the property taxes levied on the qualified property to the state. For purposes
+of property taxation, the qualified facility receiving approval of an application submitted
+pursuant to subparagraph (1) shall be centrally assessed and shall be exempt from any
+replacement tax under section 437A.6 for the period during which the facility is subject to
+property taxation. The property taxes to be paid to the state are those property taxes which
+make up the consolidated tax levied on the qualified facility and which are due and payable
+in the twelve-year period beginning with the first fiscal year beginning on or after the end
+of the owner’s first taxable year for which the credit is applied for. Upon approval of the
+application, the city council or county board of supervisors, as applicable, shall notify the
+county treasurer to designate on the tax statement which lists the taxes on the qualified
+facility the amount of the property taxes to be paid to the department.
+Payment of the
+designated property taxes to the department shall be in the same manner as required for
+the payment of regular property taxes and failure to pay designated property taxes to the
+department shall be treated the same as failure to pay property taxes to the county treasurer.
+c.
+Once the owner of the qualified facility receives approval under paragraph “b”,
+subsequent approval under paragraph “b” is not required for the same qualified facility for
+subsequent taxable years.
+2.
+An owner of a qualified facility may apply to the commission for the wind energy
+production tax credit by submitting to the commission all of the following:
+a.
+A completed application in a form prescribed by the commission.
+b.
+A copy of the determination granting approval of the facility as a qualified facility by
+the commission.
+c.
+A copy of a signed power purchase agreement or other agreement to purchase
+electricity.
+d.
+Sufficient documentation that the electricity has been generated by the qualified facility
+and sold to a purchaser.
+e.
+For a facility in which electricity is used for on-site consumption, the requirements of
+paragraphs “c” and “d” shall not be applicable. For such facilities, the owner must submit a
+certification under penalty of perjury that the claimed amount of electricity was generated by
+the qualified facility and consumed by the owner.
+f.
+Any other information the commission deems necessary.
+3.
+The commission shall notify the department of the amount of kilowatt-hours generated
+and purchased from a qualified facility or generated and used on-site by a qualified facility.
+The department shall calculate the amount of the tax credit for which the applicant is eligible
+and shall issue the tax credit certificate for that amount or notify the applicant in writing
+of its refusal to do so. An applicant whose application is denied may file an appeal with the
+department within sixty days from the date of the denial pursuant to the provisions of chapter
+17A.
+4.
+Each tax credit certificate shall contain the owner’s name,
+address,
+and tax
+identification number, the amount of tax credits, the first taxable year the certificate may be
+used, the type of tax to which the tax credits shall be applied, and any other information
+required by the department. The tax credit certificate shall only list one type of tax to which
+the amount of the tax credit may be applied. Once issued by the department, the tax credit
+certificate shall not be terminated or rescinded.
+5.
+A tax credit certificate may be filed pursuant to any of the following, to the extent
+applicable:
+a.
+If the tax credit application is filed by a partnership, limited liability company, S
+corporation, estate, trust, or other reporting entity all of the income of which is taxed directly
+to its equity holders or beneficiaries, for the taxes imposed under chapter 422, subchapter
+II or III, the tax credit certificate shall be issued directly to equity holders or beneficiaries
+of the applicant in proportion to their pro rata share of the income of such entity.
+The
+applicant shall, in the application made under this section, identify its equity holders or
+beneficiaries, and the percentage of such entity’s income that is allocable to each equity
+holder or beneficiary.
+b.
+If the tax credit applicant under this section is eligible to receive renewable electricity
+production credits authorized under section 45 of the Internal Revenue Code, as amended,
+and the tax credit applicant is a partnership, limited liability company, S corporation, estate,
+trust, or other reporting entity all of the income of which is taxed directly to its equity
+holders or beneficiaries, for the taxes imposed under chapter 422, subchapter II or III, the
+tax credit certificate may be issued to a partner if the business is a partnership, a shareholder
+if the business is an S corporation, or a member if the business is a limited liability company
+in the amounts designated by the eligible partnership, S corporation, or limited liability
+company. In absence of such designation, the credits under this section shall flow through
+to the partners, shareholders, or members in accordance with their pro rata share of the
+income of the entity. The applicant shall, in the application made under this section, identify
+the holders or beneficiaries that are to receive the tax credit certificates and the percentage
+of the tax credit that is allocable to each holder or beneficiary.
+c.
+If an applicant under this section is eligible to receive renewable electricity production
+credits authorized under section 45 of the Internal Revenue Code, as amended, and the tax
+credit applicant is a partnership, limited liability company, S corporation, estate, trust, or
+other reporting entity all of the income of which is taxed directly to its equity holders or
+beneficiaries, for the taxes imposed under chapter 422, subchapter II or III, the tax credit
+certificates and all future rights to the tax credit in this section may be distributed to an
+equity holder or beneficiary as a liquidating distribution or portion thereof, of a holder or
+beneficiary’s interest in the applicant entity. The applicant shall, in the application made
+under this section, designate the percentage of the tax credit allocable to the liquidating
+equity holder or beneficiary that is to receive the current and future tax credit certificates
+under this section.
+d.
+If the tax credit application is filed by a partnership, limited liability company, S
+corporation, estate, trust, or other reporting entity, all of the income of which is taxed directly
+to its equity holders or beneficiaries for the taxes imposed under chapter 422, subchapter V,
+or under chapter 423, 432, or 437A, the tax credit certificate shall be issued directly to the
+partnership, limited liability company, S corporation, estate, trust, or other reporting entity.
+6.
+The department shall not issue a tax credit certificate if the facility approved by the
+commission as a qualified facility is not operational within eighteen months after the approval
+is issued.
+7.
+Once a tax credit certificate is issued pursuant to this section, the tax credit may only
+be claimed against the type of tax reflected on the certificate.
+8.
+A tax credit certificate shall not be used or included with a return filed for a taxable
+year beginning prior to July 1, 2006.
+2004 Acts, ch 1175, §414, 418; 2005 Acts, ch 179, §167; 2006 Acts, ch 1135, §4, 12; 2008
+Acts, ch 1128, §9 – 11, 15; 2009 Acts, ch 80, §4, 9; 2014 Acts, ch 1093, §16; 2016 Acts, ch 1011,
+§85; 2020 Acts, ch 1062, §94; 2024 Acts, ch 1170, §369
+Referred to in §476B.7
+476B.6A Alternative tax credit qualification — pilot project.
+Notwithstanding any other provision of this chapter to the contrary, the commission shall
+establish a pilot project which will allow for a wind energy production tax credit of one
+and one-half cents multiplied by the number of kilowatt-hours of qualified electricity sold
+or used for on-site consumption by up to two qualified facilities selected for participation
+in the project.
+To be eligible for the project, a qualified facility shall meet all eligibility
+requirements otherwise applicable pursuant to this chapter, and in addition shall be located
+in a county in this state with a population of between forty-four thousand one hundred
+fifty and forty-four thousand five hundred based on the 2006 census, and with a combined
+nameplate generating capacity of at least one megawatt per applicant. For purposes of the
+pilot project, the two megawatt minimum requirement for qualification pursuant to section
+476B.1, subsection 4, paragraph “d”, shall not be applicable. The commission shall reduce
+the remaining credits available under this chapter by a dollar amount equal to the amount
+of credits awarded pursuant to the project.
+2009 Acts, ch 179, §143; 2024 Acts, ch 1170, §369
+476B.7 Transfer of tax credit certificates.
+1.
+Wind energy production tax credit certificates issued under this chapter may be
+transferred to any person or entity. Within thirty days of transfer, the transferee must submit
+the transferred tax credit certificate to the department along with a statement containing
+the transferee’s name, tax identification number, and address, and the denomination that
+each replacement tax credit certificate is to carry and any other information required by
+the department.
+Within thirty days of receiving the transferred tax credit certificate and
+the transferee’s statement, the department shall issue one or more replacement tax credit
+certificates to the transferee.
+Each replacement certificate must contain the information
+required under section 476B.6 and must have the same effective taxable year and the same
+expiration date that appeared in the transferred tax credit certificate. Tax credit certificate
+amounts of less than the minimum amount established by rule of the commission shall not
+be transferable. A tax credit shall not be claimed by a transferee under this chapter until a
+replacement tax credit certificate identifying the transferee as the proper holder has been
+issued. A replacement tax credit certificate may reflect a different type of tax than the type
+of tax noted on the original tax credit certificate.
+2.
+The tax credit shall be freely transferable. The transferee may use the amount of the
+tax credit transferred against the taxes imposed under chapter 422, subchapters II, III, and
+V, and chapter 432 for any tax year the original transferor could have claimed the tax credit.
+The transferee may claim a refund under chapter 423 or 437A for any tax year within the
+time period set forth in section 423.47 or 437A.14 for which the original transferor could
+have claimed a refund. Any consideration received for the transfer of the tax credit shall
+not be included as income under chapter 422, subchapters II, III, and V. Any consideration
+paid for the transfer of the tax credit shall not be deducted from income under chapter 422,
+subchapters II, III, and V.
+2004 Acts, ch 1175, §415, 418; 2005 Acts, ch 179, §168; 2008 Acts, ch 1128, §12, 15; 2020
+Acts, ch 1062, §94; 2024 Acts, ch 1170, §369
+476B.8 Use of tax credit certificates.
+To claim a wind energy production tax credit under this chapter, a taxpayer must include
+one or more tax credit certificates with the taxpayer’s tax return, or if used against taxes
+imposed under chapter 423, the taxpayer shall comply with section 423.4, subsection 4, or
+if used against taxes imposed under chapter 437A, the taxpayer shall comply with section
+437A.17B. A tax credit certificate shall not be used or included with a return filed for a taxable
+year beginning prior to July 1, 2006. The tax credit certificate or certificates included with the
+taxpayer’s tax return shall be issued in the taxpayer’s name, expire on or after the last day
+of the taxable year for which the taxpayer is claiming the tax credit, and show a tax credit
+amount equal to or greater than the tax credit claimed on the taxpayer’s tax return. Any
+tax credit in excess of the taxpayer’s tax liability for the taxable year may be credited to the
+taxpayer’s tax liability for the following seven taxable years or until depleted, whichever is the
+earlier. If the tax credit is applied against the taxes imposed under chapter 423 or 437A, any
+credit in excess of the taxpayer’s tax liability is carried over and can be filed with the refund
+claim for the following seven tax years or until depleted, whichever is earlier. However, the
+certificate shall not be used to reduce tax liability for a tax period ending after the expiration
+date of the certificate.
+2004 Acts, ch 1175, §416, 418; 2005 Acts, ch 179, §169; 2008 Acts, ch 1128, §13, 15; 2014
+Acts, ch 1093, §17
+476B.9 Registration of tax credit certificates.
+The department shall develop a system for the registration of the wind energy production
+tax credit certificates issued or transferred under this chapter and a system that permits
+verification that any tax credit claimed on a tax return is valid and that transfers of the tax
+credit certificates are made in accordance with the requirements of this chapter. The tax
+credit certificates issued under this chapter shall not be classified as a security pursuant to
+chapter 502.
+2004 Acts, ch 1175, §417, 418; 2005 Acts, ch 179, §170
+476B.10 Rules.
+The department and the commission may adopt rules pursuant to chapter 17A for the
+administration and enforcement of this chapter.
+2005 Acts, ch 179, §171; 2024 Acts, ch 1170, §369
