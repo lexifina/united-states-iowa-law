@@ -1,0 +1,236 @@
+CHAPTER 91C
+CONSTRUCTION CONTRACTORS
+Referred to in §10A.202, 10A.204, 10A.601, 96.11, 103.1, 103.9, 103A.20, 105.18, 522F.3, 572.34
+91C.1
+Definition — exemption —
+combined registration and
+licensing process for plumbers
+and mechanical professionals.
+91C.2
+Registration required —
+conditions.
+91C.3
+Application — information to be
+provided.
+91C.4
+Fees.
+91C.5
+Public registration number —
+records — revocation.
+91C.6
+Rules.
+91C.7
+Contracts — contractor’s bond.
+91C.8
+Investigations — enforcement —
+administrative penalties.
+91C.9
+Registration fund.
+Repealed by
+2024 Acts, ch 1182, §14.
+91C.1 Definition — exemption — combined registration and licensing process for
+plumbers and mechanical professionals.
+1.
+As used in this chapter, unless the context otherwise requires:
+a.
+“Contractor” means a person who engages in the business of construction, as the term
+“construction” is defined in the Iowa administrative code for purposes of chapter 96, the
+Iowa employment security law. However, a person who earns less than two thousand dollars
+annually or who performs work or has work performed on the person’s own property is not
+a contractor for purposes of this chapter.
+b.
+“Department” means the department of inspections, appeals, and licensing.
+c.
+“Director” means the director of the department of inspections, appeals, and licensing.
+2.
+The state, its boards, commissions, agencies, departments, and its political subdivisions
+including school districts and other special purpose districts, are not contractors for purposes
+of this chapter.
+3.
+If a contractor’s registration application shows that the contractor is self-employed,
+does not pay more than two thousand dollars annually to employ other persons in the
+business, and does not work with or for other contractors in the same phases of construction,
+the contractor is exempt from the fee requirements under this chapter.
+4.
+A contractor licensed under chapter 105 shall register as a contractor under this
+chapter in conjunction with the contractor licensing process established by the department.
+The department shall collect both the registration and licensing applications as part of one
+combined application.
+The director shall design the contractor registration application
+form to exclude from the department’s contractor registration application process those
+contractors who are also covered by chapter 103 or 105. The director is authorized to adopt
+rules as needed to accomplish a merger of the application systems including transitional
+registration periods and fees.
+88 Acts, ch 1162, §2; 91 Acts, ch 136, §4; 97 Acts, ch 26, §1; 2006 Acts, ch 1176, §21; 2013
+Acts, ch 77, §1, 36; 2017 Acts, ch 90, §1, 3; 2022 Acts, ch 1032, §22; 2023 Acts, ch 19, §1833
+91C.2 Registration required — conditions.
+A contractor doing business in this state shall register with the director and shall meet all
+of the following requirements as a condition of registration:
+1.
+The contractor shall be in compliance with the laws of this state relating to workers’
+compensation insurance and shall provide evidence of workers’ compensation insurance
+coverage annually, of relief from the insurance requirement pursuant to section 87.11, or
+a statement that the contractor is not required to carry workers’ compensation coverage.
+Notice of a policy’s cancellation shall be provided to the director by the insurance company.
+2.
+The contractor shall possess an employer account number or a special contractor
+number issued by the department of workforce development pursuant to chapter 96, the
+Iowa employment security law.
+3.
+An out-of-state contractor shall either file a surety bond, as provided in section
+91C.7, with the department in the amount of twenty-five thousand dollars or shall provide
+a statement to the department that the contractor is prequalified to bid on projects for the
+department of transportation pursuant to section 314.1.
+88 Acts, ch 1162, §3; 90 Acts, ch 1136, §10; 96 Acts, ch 1186, §23; 2010 Acts, ch 1188, §26,
+27; 2017 Acts, ch 90, §2, 3; 2023 Acts, ch 19, §1834
+Referred to in §91C.3, 91C.7
+91C.3 Application — information to be provided.
+1.
+The registration application shall be in the form prescribed by the director, shall be
+accompanied by the registration fee prescribed pursuant to section 91C.4, and shall contain
+information which is substantially complete and accurate. In addition to the information
+determined by the director to be necessary for purposes of section 91C.2, the application
+shall include information as to each of the following:
+a.
+The name, principal place of business, address, and telephone number of the contractor.
+b.
+The name, address, telephone number, and position of each officer of the contractor, if
+the contractor is a corporation, or each owner if the contractor is not a corporation.
+c.
+A description of the business, including the principal products and services provided.
+2.
+Any change in the information provided shall be reported promptly to the director.
+88 Acts, ch 1162, §4; 90 Acts, ch 1136, §11; 2008 Acts, ch 1032, §201; 2023 Acts, ch 19,
+§1835, 1836
+91C.4 Fees.
+The director shall prescribe the fee for registration, which fee shall not exceed fifty
+dollars per year. All fees collected under this chapter shall be deposited in the licensing and
+regulation fund created in section 10A.507.
+88 Acts, ch 1162, §5; 90 Acts, ch 1136, §12; 2009 Acts, ch 179, §203; 2023 Acts, ch 19, §1837;
+2024 Acts, ch 1182, §6
+Referred to in §91C.3
+91C.5 Public registration number — records — revocation.
+1.
+The director shall issue to each registered contractor an identifying public registration
+number and shall compile records showing the names and public registration numbers of all
+contractors registered in the state. These records and the complete registration information
+provided by each contractor are public records and the director shall take steps as necessary
+to facilitate access to the information by governmental agencies and the general public.
+2.
+The director shall revoke a registration number when the contractor fails to maintain
+compliance with the conditions necessary to obtain a registration. The director shall provide
+a fact-finding interview to assure that the contractor is not in compliance before revoking any
+registration. Hearings on revocation of registrations shall be held in accordance with section
+91C.8.
+88 Acts, ch 1162, §6; 90 Acts, ch 1136, §13; 2023 Acts, ch 19, §1838
+91C.6 Rules.
+The director shall adopt rules, pursuant to chapter 17A, determined to be reasonably
+necessary for phasing in, administering, and enforcing the system of contractor registration
+established by this chapter.
+88 Acts, ch 1162, §7; 90 Acts, ch 1136, §14; 2023 Acts, ch 19, §1839
+91C.7 Contracts — contractor’s bond.
+1.
+A contractor who is not registered with the director as required by this chapter shall
+not be awarded a contract to perform work for the state or an agency of the state.
+2.
+A surety bond filed pursuant to section 91C.2 shall be executed by a surety company
+authorized to do business in this state, and the bond shall be continuous in nature until
+canceled by the surety with not less than thirty days’ written notice to the contractor and
+to the department indicating the surety’s desire to cancel the bond. The surety company
+shall not be liable under the bond for any contract commenced after the cancellation of the
+bond. The department may increase the bond amount after a hearing.
+3.
+Release of the bond shall be conditioned upon the payment of all taxes, including
+contributions due under the unemployment compensation insurance system, penalties,
+interest, and related fees, which may accrue to the state of Iowa. If at any time during the
+term of the bond, the department of revenue or the department determines that the amount
+of the bond is not sufficient to cover the tax liabilities accruing to the state of Iowa, the
+director shall require the bond to be increased by an amount the director deems sufficient to
+cover the tax liabilities accrued and accruing.
+4.
+The department of revenue and the department shall adopt rules for the collection of
+the forfeiture. Notice shall be provided to the surety and to the contractor. Notice to the
+contractor shall be mailed to the contractor’s last known address and to the contractor’s
+registered agent for service of process, if any, within the state.
+The contractor or surety
+shall have the opportunity to apply to the director of revenue for a hearing within thirty
+days after the giving of such notice. Upon the failure to timely request a hearing, the bond
+shall be forfeited. If, after the hearing upon timely request, the department of revenue or
+the department finds that the contractor has failed to pay the total of all taxes payable, the
+department of revenue or the department shall order the bond forfeited. The amount of the
+forfeiture shall be the amount of taxes payable or the amount of the bond, whichever is less.
+For purposes of this section“taxes payable” means all tax, penalties, interest, and fees that
+the department of revenue has previously determined to be due to the state by assessment or
+in an appeal of an assessment, including contributions to the unemployment compensation
+insurance system.
+5.
+If it is determined that this section may cause denial of federal funds which would
+otherwise be available, or is otherwise inconsistent with requirements of federal law, this
+section shall be suspended, but only to the extent necessary to prevent denial of the funds or
+to eliminate the inconsistency with federal requirements.
+6.
+The bond required by this section may be attached by the director for collection of fees
+and penalties due to the department.
+88 Acts, ch 1162, §8; 89 Acts, ch 254, §1; 91 Acts, ch 136, §5; 96 Acts, ch 1186, §23; 97 Acts,
+ch 26, §2; 2003 Acts, ch 145, §286; 2008 Acts, ch 1032, §201; 2009 Acts, ch 179, §204; 2010
+Acts, ch 1188, §28; 2023 Acts, ch 19, §1840; 2024 Acts, ch 1043, §41
+Referred to in §91C.2
+91C.8 Investigations — enforcement — administrative penalties.
+1.
+The director and inspectors of the department have jurisdiction for investigation and
+enforcement in cases where contractors may be in violation of the requirements of this
+chapter or rules adopted pursuant to this chapter.
+2.
+If, upon investigation, the director or the director’s authorized representative believes
+that a contractor has violated any of the following, the director shall with reasonable
+promptness issue a citation to the contractor:
+a.
+The requirement that a contractor be registered.
+b.
+The requirement that the contractor’s registration information be substantially
+complete and accurate.
+c.
+The requirement that an out-of-state contractor file a bond with the department.
+3.
+Each citation shall be in writing and shall describe with particularity the nature of the
+violation, including a reference to the provision of the statute alleged to have been violated.
+4.
+If a citation is issued, the director shall, within seven days, notify the contractor by
+service in the same manner as an original notice or by certified mail of the administrative
+penalty, if any, proposed to be assessed and that the contractor has fifteen working days within
+which to notify the director that the contractor wishes to contest the citation or proposed
+assessment of penalty.
+5.
+The administrative penalties which may be imposed under this section shall be not
+more than five hundred dollars in the case of a first violation and not more than five thousand
+dollars for each violation in the case of a second or subsequent violation. All administrative
+penalties collected pursuant to this chapter shall be deposited in the general fund of the state.
+6.
+If, within fifteen working days from the receipt of the notice, the contractor fails to
+notify the director that the contractor intends to contest the citation or proposed assessment
+of penalty, the citation and the assessment, as proposed, shall be deemed a final order of the
+employment appeal board and not subject to review by any court or agency.
+7.
+If the contractor notifies the director that the contractor intends to contest the citation
+or proposed assessment of penalty, the director shall immediately advise the employment
+appeal board established by section 10A.601. The employment appeal board shall review
+the action of the director and shall thereafter issue an order, based on findings of fact,
+affirming, modifying, or vacating the director’s citation or proposed penalty or directing
+other appropriate relief, and the order shall become final sixty days after its issuance.
+8.
+The director shall notify the department of revenue upon final agency action regarding
+the citation and assessment of penalty against a registered contractor.
+9.
+Judicial review of any order of the employment appeal board issued pursuant to this
+section may be sought in accordance with the terms of chapter 17A. If no petition for judicial
+review is filed within sixty days after service of the order of the employment appeal board, the
+appeal board’s findings of fact and order shall be conclusive in connection with any petition
+for enforcement which is filed by the director after the expiration of the sixty-day period. In
+any such case, the clerk of court, unless otherwise ordered by the court, shall forthwith enter
+a decree enforcing the order and shall transmit a copy of the decree to the employment appeal
+board and the contractor named in the petition.
+88 Acts, ch 1162, §9; 89 Acts, ch 254, §2, 3; 96 Acts, ch 1186, §23; 99 Acts, ch 68, §19; 2000
+Acts, ch 1154, §11; 2003 Acts, ch 145, §286; 2023 Acts, ch 19, §1841
+Referred to in §91C.5
+91C.9 Registration fund.
+Repealed by 2024 Acts, ch 1182, §14.
