@@ -1,0 +1,1006 @@
+CHAPTER 229A
+COMMITMENT OF SEXUALLY VIOLENT PREDATORS
+Referred to in §13B.4, 81.2, 226.1, 232.55, 235A.15, 235A.18, 692A.114, 811.1, 815.9, 815.10, 815.11, 901A.2, 915.45
+Notice to victims of discharge of committed
+person, see §915.45
+229A.1
+Legislative findings.
+229A.2
+Definitions.
+229A.3
+Notice of discharge of
+sexually violent predator
+— immunity from liability
+— multidisciplinary team —
+prosecutor’s review committee
+— assessment of person.
+229A.4
+Petition — time — contents.
+229A.5
+Person taken into custody —
+determination of probable
+cause — hearing — evaluation.
+229A.5A
+Powers of investigative personnel
+before a petition is filed.
+229A.5B
+Escape from custody — penalty.
+229A.5C
+Criminal offenses committed
+while detained or subject to an
+order of commitment.
+229A.5D
+Medical treatment.
+229A.6
+Counsel and experts — indigent
+persons.
+229A.6A
+Transport orders.
+229A.7
+Trial — determination —
+commitment procedure —
+chapter 28E agreements —
+mistrials.
+229A.8
+Annual examinations and review
+— discharge or transitional
+release petitions by persons
+committed.
+229A.8A
+Transitional release.
+229A.8B
+Violations of transitional release.
+229A.9
+Detention and commitment to
+conform to constitutional
+requirements.
+229A.9A
+Release with supervision.
+229A.9B
+Violations of release with
+supervision.
+229A.10
+Petition for discharge —
+procedure.
+229A.11
+Subsequent discharge or
+transitional release petitions
+— limitations.
+229A.12
+Director — responsibility for
+costs — reimbursement.
+229A.12A
+Director of the department of
+corrections — responsibility
+for safekeeper.
+229A.13
+Severability.
+229A.14
+Release of confidential or
+privileged information and
+records.
+229A.15
+Court records — sealed and
+opened by court order.
+229A.15A
+Civil protective order.
+229A.15B
+Rulemaking authority.
+229A.16
+Short title.
+229A.1 Legislative findings.
+1.
+The general assembly finds that a small but extremely dangerous group of sexually
+violent predators exists which is made up of persons who do not have a mental disease or
+defect that renders them appropriate for involuntary treatment pursuant to the treatment
+provisions for mentally ill persons under chapter 229, since that chapter is intended to
+provide short-term treatment to persons with serious mental disorders and then return
+them to the community.
+In contrast to persons appropriate for civil commitment under
+chapter 229, sexually violent predators generally have antisocial personality features that
+are unamenable to existing mental illness treatment modalities and that render them likely
+to engage in sexually violent behavior.
+2.
+The general assembly finds that sexually violent predators’ likelihood of engaging in
+repeat acts of predatory sexual violence is high and that the existing involuntary commitment
+procedure under chapter 229 is inadequate to address the risk these sexually violent predators
+pose to society.
+3.
+The general assembly further finds that the prognosis for rehabilitating sexually
+violent predators in a prison setting is poor, because the treatment needs of this population
+are very long-term, and the treatment modalities for this population are very different from
+the traditional treatment modalities available in a prison setting or for persons appropriate
+for commitment under chapter 229.
+4.
+Therefore, the general assembly finds that a civil commitment procedure for the
+long-term care and treatment of the sexually violent predator is necessary. The procedures
+regarding sexually violent predators should reflect legitimate public safety concerns, while
+providing treatment services designed to benefit sexually violent predators who are civilly
+committed. The procedures should also reflect the need to protect the public, to respect
+the needs of the victims of sexually violent offenses, and to encourage full, meaningful
+participation of sexually violent predators in treatment programs.
+98 Acts, ch 1171, §1; 2002 Acts, ch 1139, §1, 27; 2019 Acts, ch 24, §19
+229A.2 Definitions.
+As used in this chapter:
+1.
+“Agency with jurisdiction” means an agency which has custody of or releases a person
+serving a sentence or term of confinement or is otherwise in confinement based upon a
+lawful order or authority, and includes but is not limited to the department of corrections,
+the department of health and human services, a judicial district department of correctional
+services, and the Iowa board of parole.
+2.
+“Appropriate secure facility” means a state facility that is designed to confine but not
+necessarily to treat a sexually violent predator.
+3.
+“Convicted” means found guilty of, pleads guilty to, or is sentenced or adjudicated
+delinquent for an act which is an indictable offense in this state or in another jurisdiction
+including in a federal, military, tribal, or foreign court, including but not limited to a juvenile
+who has been adjudicated delinquent, whether or not the juvenile court records have been
+sealed under section 232.150, and a person who has received a deferred sentence or a
+deferred judgment or has been acquitted by reason of insanity. “Convicted” includes the
+conviction of a juvenile prosecuted as an adult. “Convicted” also includes a conviction for an
+attempt or conspiracy to commit an offense. “Convicted” does not mean a plea, sentence,
+adjudication, deferred sentence, or deferred judgment which has been reversed or otherwise
+set aside.
+4.
+“Department” means the department of health and human services.
+5.
+“Director” means the director of health and human services.
+6.
+“Discharge” means an unconditional discharge from the sexually violent predator
+program. A person released from a secure facility into a transitional release program or
+released with supervision is not considered to be discharged.
+7.
+“Likely to engage in predatory acts of sexual violence” means that the person more
+likely than not will engage in acts of a sexually violent nature. If a person is not confined
+at the time that a petition is filed, a person is “likely to engage in predatory acts of sexual
+violence” only if the person commits a recent overt act.
+8.
+“Mental abnormality” means a congenital or acquired condition affecting the emotional
+or volitional capacity of a person and predisposing that person to commit sexually violent
+offenses to a degree which would constitute a menace to the health and safety of others.
+9.
+“Predatory” means acts directed toward a person with whom a relationship has been
+established or promoted for the primary purpose of victimization.
+10.
+“Presently confined” means incarceration or detention in a correctional facility,
+a rehabilitation camp, a residential facility, a county jail, a halfway house, or any other
+comparable facility, including but not limited to placement at such a facility as a condition of
+probation, parole, or special sentence following conviction for a sexually violent offense.
+11.
+“Recent overt act” means any act that has either caused harm of a sexually violent
+nature or creates a reasonable apprehension of such harm.
+12.
+“Safekeeper” means a person who is confined in an appropriate secure facility
+pursuant to this chapter but who is not subject to an order of commitment pursuant to this
+chapter.
+13.
+“Sexually motivated” means that one of the purposes for commission of a crime is the
+purpose of sexual gratification of the perpetrator of the crime.
+14.
+“Sexually violent offense” means:
+a.
+A violation of any provision of chapter 709.
+b.
+A violation of any of the following if the offense involves sexual abuse, attempted sexual
+abuse, or intent to commit sexual abuse:
+(1)
+Murder as defined in section 707.1.
+(2)
+Kidnapping as defined in section 710.1.
+(3)
+Burglary as defined in section 713.1.
+(4)
+Child endangerment under section 726.6, subsection 1, paragraph “e”.
+c.
+Sexual exploitation of a minor in violation of section 728.12.
+d.
+Pandering involving a minor in violation of section 725.3, subsection 2.
+e.
+An offense involving an attempt or conspiracy to commit any offense referred to in this
+subsection.
+f.
+An offense under prior law of this state or an offense committed in another jurisdiction
+which would constitute an equivalent offense under paragraphs “a” through “e”.
+g.
+Any act which, either at the time of sentencing for the offense or subsequently during
+civil commitment proceedings pursuant to this chapter, has been determined beyond a
+reasonable doubt to have been sexually motivated.
+15.
+“Sexually violent predator” means a person who has been convicted of or charged with
+a sexually violent offense and who suffers from a mental abnormality which makes the person
+likely to engage in predatory acts constituting sexually violent offenses, if not confined in a
+secure facility.
+16.
+“Transitional release” means a conditional release from a secure facility operated by
+the department with the conditions of such release set by the court or the department.
+98 Acts, ch 1171, §2; 99 Acts, ch 61, §1, 14; 2002 Acts, ch 1139, §2, 27; 2007 Acts, ch 91, §1;
+2010 Acts, ch 1074, §1; 2014 Acts, ch 1059, §1; 2018 Acts, ch 1165, §96; 2019 Acts, ch 17, §1,
+2; 2023 Acts, ch 19, §534
+Referred to in §272C.15, 671A.2, 692A.101, 901A.1
+229A.3 Notice of discharge of sexually violent predator — immunity from liability —
+multidisciplinary team — prosecutor’s review committee — assessment of person.
+1.
+When it appears that a person who is confined may meet the definition of a sexually
+violent predator, the agency with jurisdiction shall give written notice to the attorney general
+and the multidisciplinary team established in subsection 4, no later than ninety days prior to
+any of the following events:
+a.
+The anticipated discharge of a person who has been convicted of a sexually violent
+offense from total confinement, except that in the case of a person who is returned to prison
+for no more than ninety days as a result of revocation of parole, written notice shall be given
+as soon as practicable following the person’s readmission to prison.
+b.
+The discharge of a person who has been charged with a sexually violent offense and
+who has been determined to be incompetent to stand trial pursuant to chapter 812.
+c.
+The discharge of a person who has been found not guilty by reason of insanity of a
+sexually violent offense.
+2.
+If notice is given under subsection 1, the agency with jurisdiction shall inform the
+attorney general and the multidisciplinary team established in subsection 4, of both of the
+following:
+a.
+The person’s name, identifying factors, anticipated future residence, and offense
+history.
+b.
+Documentation of any institutional evaluation and any treatment received.
+3.
+The agency with jurisdiction, its employees, officials, members of the multidisciplinary
+team established in subsection 4, members of the prosecutor’s review committee appointed as
+provided in subsection 5, and individuals contracting, appointed, or volunteering to perform
+services under this section shall be immune from liability for any good-faith conduct under
+this section.
+4.
+The director of the department of corrections shall establish a multidisciplinary team
+which may include individuals from other state agencies to review available records of each
+person referred to such team pursuant to subsection 1.
+The team, within thirty days of
+receiving notice, shall assess whether or not the person meets the definition of a sexually
+violent predator. The team shall notify the attorney general of its assessment.
+5.
+The attorney general shall appoint a prosecutor’s review committee to review the
+records of each person referred to the attorney general pursuant to subsection 1.
+The
+prosecutor’s review committee shall assist the attorney general in the determination of
+whether or not the person meets the definition of a sexually violent predator. The assessment
+of the multidisciplinary team shall be made available to the attorney general and the
+prosecutor’s review committee.
+6.
+This section shall not be construed as a limit on persons subject to commitment under
+this chapter.
+98 Acts, ch 1171, §3; 2019 Acts, ch 17, §3
+Referred to in §229A.5A, 229A.14
+229A.4 Petition — time — contents.
+1.
+If it appears that a person presently confined may be a sexually violent predator and
+the prosecutor’s review committee has determined that the person meets the definition of a
+sexually violent predator, the attorney general may file a petition alleging that the person is
+a sexually violent predator and stating sufficient facts to support such an allegation.
+2.
+A prosecuting attorney of the county in which the person was convicted or charged,
+or the attorney general if requested by the prosecuting attorney, may file a petition alleging
+that a person is a sexually violent predator and stating sufficient facts to support such an
+allegation, if it appears that a person who has committed a recent overt act meets any of the
+following criteria:
+a.
+The person was convicted of a sexually violent offense and is no longer presently
+confined for that offense.
+b.
+The person was charged with, but was acquitted of, a sexually violent offense by reason
+of insanity and has been released from confinement or any supervision.
+c.
+The person was charged with, but was found to be incompetent to stand trial for, a
+sexually violent offense and has been released from confinement or any supervision.
+98 Acts, ch 1171, §4; 99 Acts, ch 61, §2, 14; 2019 Acts, ch 17, §4
+Referred to in §229A.5, 229A.6
+229A.5 Person taken into custody — determination of probable cause — hearing —
+evaluation.
+1.
+Upon filing of a petition under section 229A.4, the court shall make a preliminary
+determination as to whether probable cause exists to believe that the person named in the
+petition is a sexually violent predator. Upon a preliminary finding of probable cause, the
+court shall direct that the person named in the petition be taken into custody and that the
+person be served with a copy of the petition and any supporting documentation and notice
+of the procedures required by this chapter. If the person is in custody at the time of the filing
+of the petition, the court shall determine whether a transfer of the person to an appropriate
+secure facility is appropriate pending the outcome of the proceedings or whether the custody
+order should be delayed until the date of release of the person.
+2.
+Within seventy-two hours after being taken into custody or being transferred to an
+appropriate secure facility, a hearing shall be held to determine whether probable cause exists
+to believe the detained person is a sexually violent predator. The hearing may be waived by
+the respondent. The hearing may be continued upon the request of either party and a showing
+of good cause, or by the court on its own motion in the due administration of justice, and if
+the respondent is not substantially prejudiced. At the probable cause hearing, the detained
+person shall have the following rights:
+a.
+To be provided with prior notice of date, time, and location of the probable cause
+hearing.
+b.
+To respond to the preliminary finding of probable cause.
+c.
+To appear in person at the hearing.
+d.
+To be represented by counsel.
+e.
+To present evidence on the respondent’s own behalf.
+f.
+To cross-examine witnesses who testify against the respondent.
+g.
+To view and copy all petitions and reports in the possession of the court.
+3.
+At the hearing, the rules of evidence do not apply, and the state may rely solely upon
+the petition filed under subsection 1, but the state may also supplement the petition with
+additional documentary evidence or live testimony.
+4.
+At the conclusion of the hearing, the court shall enter an order which does both of the
+following:
+a.
+Verifies the respondent’s identity.
+b.
+Determines whether probable cause exists to believe that the respondent is a sexually
+violent predator.
+5.
+If the court determines that probable cause does exist, the court shall direct that the
+respondent be transferred to an appropriate secure facility for an evaluation as to whether
+the respondent is a sexually violent predator. The evaluation shall be conducted by a person
+deemed to be professionally qualified to conduct such an examination.
+98 Acts, ch 1171, §5; 99 Acts, ch 61, §3, 4, 14; 2002 Acts, ch 1139, §3, 27
+Referred to in §229A.5B, 229A.5C, 229A.6A, 229A.7, 229A.12A, 811.1
+229A.5A Powers of investigative personnel before a petition is filed.
+1.
+The prosecuting attorney or attorney general is authorized upon the occurrence of a
+recent overt act, or upon receiving written notice pursuant to section 229A.3, or before the
+filing of a petition under this chapter, to subpoena and compel the attendance of witnesses,
+examine the witnesses under oath, and require the production of documentary evidence
+for inspection, reproduction, or copying. Except as otherwise provided by this section, the
+prosecuting attorney or attorney general shall have the same powers and limitations, subject
+to judicial oversight and enforcement, as provided by this chapter and by the Iowa rules of
+civil procedure. Any person compelled to appear under a demand for oral testimony under
+this section may be accompanied, represented, and advised by counsel at the person’s own
+expense.
+2.
+The examination of all witnesses under this section shall be conducted by the
+prosecuting attorney or attorney general before an officer authorized to administer oaths
+under section 63A.1. The testimony shall be taken by a certified shorthand reporter or by a
+sound recording device and shall be transcribed or otherwise preserved in the same manner
+as provided for the preservation of depositions under the Iowa rules of civil procedure. The
+prosecuting attorney or attorney general may exclude from the examination all persons
+except the witness, witness’s counsel, the officer before whom the testimony is to be taken,
+law enforcement officials, and a certified shorthand reporter. Prior to oral examination, the
+person shall be advised by the prosecuting attorney or attorney general of the person’s right
+to refuse to answer any questions on the basis of the privilege against self-incrimination.
+The examination shall be conducted in a manner consistent with the rules dealing with the
+taking of depositions.
+99 Acts, ch 61, §5, 14; 2000 Acts, ch 1058, §23
+229A.5B Escape from custody — penalty.
+1.
+A person who is detained pursuant to section 229A.5 or is subject to an order of civil
+commitment under this chapter shall remain in custody unless released by court order or
+discharged under section 229A.8 or 229A.10. A person who has been placed in a transitional
+release program or who is under release with supervision is considered to be in custody. A
+person in custody under this chapter shall not do any of the following:
+a.
+Leave or attempt to leave a facility without the accompaniment of authorized personnel
+or leave or attempt to leave a facility without authorization.
+b.
+Knowingly and voluntarily be absent from a place where the person is required to be
+present.
+c.
+Leave or attempt to leave the custody of personnel transporting or guarding the person
+while the person is away from a facility.
+2.
+A person who violates subsection 1 commits a serious misdemeanor or may be subject
+to punishment for contempt.
+3.
+If a person commits a violation of subsection 1 and remains unconfined, the attorney
+general or the chief law enforcement officer of the political subdivision where the violation
+occurs may make a public announcement that the person is unconfined and may provide
+relevant information about the person to the community. The attorney general may also notify
+a victim or the family of a victim of the person that the person is unconfined.
+4.
+This section shall not be construed to prohibit the use of other lawful means for the
+return of the person.
+2001 Acts, ch 27, §1; 2002 Acts, ch 1139, §4, 27; 2015 Acts, ch 12, §1; 2018 Acts, ch 1165,
+§97
+Referred to in §229A.8A
+229A.5C Criminal offenses committed while detained or subject to an order of
+commitment.
+1.
+If a person who is detained pursuant to section 229A.5 or who is subject to an order
+of civil commitment under this chapter commits a public offense, the civil commitment
+proceedings or treatment process shall be suspended until the criminal proceedings,
+including any term of confinement, are completed. The person shall also not be eligible for
+bail pursuant to section 811.1.
+2. a.
+Upon the filing of a complaint, indictment, or information, the person shall be
+transferred to the county jail in the county where the public offense occurred until the
+criminal proceedings have been completed.
+b.
+If the person is sentenced to a term of confinement in a county jail, the person shall
+serve the sentence at the county jail. If the person is sentenced to the custody of the director of
+the department of corrections, the person shall serve the sentence at a correctional institution.
+c. (1)
+If a person who is subject to an order of civil commitment under this chapter is
+transferred to a county jail or sentenced to a term of confinement in a county jail pursuant to
+this subsection, the department shall reimburse the county at a rate of fifty dollars per day for
+the time period the person is temporarily held after transfer or is confined in the county jail.
+(2)
+The department shall use funds appropriated to the department for costs associated
+with the treatment and commitment of sexually violent predators in the unit located at the
+state mental health institute at Cherokee, or use funds transferred pursuant to section 218.6,
+for the payment of reimbursements pursuant to subparagraph (1).
+3.
+A person who is subject to an order of civil commitment under this chapter shall not be
+released from jail or paroled or released to a facility or program located outside the county
+jail or correctional institution other than to a secure facility operated by the department.
+4.
+A person who committed a public offense while in a transitional release program or
+on release with supervision may be returned to a secure facility operated by the department
+upon completion of any term of confinement that resulted from the commission of the public
+offense.
+5.
+If the civil commitment proceedings for a person are suspended due to the commission
+of a public offense by the person, the ninety-day trial demand lapses. Upon completion of
+any term of confinement that resulted from the commission of the public offense, a new
+ninety-day trial demand automatically begins.
+2002 Acts, ch 1139, §5, 27; 2018 Acts, ch 1165, §98; 2023 Acts, ch 19, §535; 2025 Acts, ch
+96, §1
+Subsection 2 amended
+229A.5D Medical treatment.
+A safekeeper is entitled to necessary medical treatment.
+2002 Acts, ch 1139, §6, 27
+229A.6 Counsel and experts — indigent persons.
+1.
+A respondent to a petition alleging the person to be a sexually violent predator shall be
+entitled to the assistance of counsel upon the filing of the petition under section 229A.4 and,
+if the respondent is indigent, the court shall appoint counsel to assist the respondent at state
+expense.
+2.
+If a respondent is subjected to an examination under this chapter, the respondent
+may retain experts or professional persons to perform an independent examination on
+the respondent’s behalf. If the respondent wishes to be examined by a qualified expert or
+professional person of the respondent’s own choice, the examiner of the respondent’s choice
+shall be given reasonable access to the respondent for the purpose of the examination,
+as well as access to all relevant medical and psychological records and reports.
+If the
+respondent is indigent, the court, upon the respondent’s request, shall determine whether
+the services are necessary and the reasonable compensation for the services. If the court
+determines that the services are necessary and the requested compensation for the services
+is reasonable, the court shall assist the respondent in obtaining an expert or professional
+person to perform an examination or participate in the trial on the respondent’s behalf.
+The court shall approve payment for such services upon the filing of a certified claim for
+compensation supported by a written statement specifying the time expended, services
+rendered, expenses incurred on behalf of the respondent, and compensation received in the
+same case or for the same services from any other source.
+98 Acts, ch 1171, §6
+229A.6A Transport orders.
+1.
+A person who has been detained prior to trial pursuant to section 229A.5 or who has
+been civilly committed may be transported for the following purposes:
+a.
+To trial and any other court proceedings if the court has authorized a transport order.
+A transport order may only be requested by the court, the person’s attorney, or the attorney
+general. Transportation shall be provided by the sheriff of the county in which the action
+has been brought, unless the court specifies otherwise or the parties agree to a different
+transportation arrangement. If a transport order is not authorized, the person may appear at
+any court proceedings other than trial by telephone or electronic means.
+b.
+To a medical facility for medical treatment, if necessary medical treatment is not
+available at the facility where the person is confined. A transport order is not required to
+transport the person for medical treatment. However, the person is not entitled to choose
+the medical facility where treatment is to be obtained or the medical personnel to provide
+the treatment. Transportation of a committed person shall be provided by the sheriff of the
+county in which the person is confined if requested by the department.
+c.
+To a medical, psychological, or psychiatric evaluation.
+A person shall not be
+transported to another facility for evaluation without a court order. When a transportation
+order is requested under this paragraph, notice must be provided to the opposing party, and
+the opposing party must be given a reasonable amount of time to object to the issuance of
+such an order. The cost of the transportation shall be paid by the party who requests the
+order.
+d.
+To a facility for placement or treatment in a transitional release program or for release
+with supervision. A transport order is not required under this paragraph.
+2.
+This section shall not be construed to grant a person the right to personally appear at
+all court proceedings under this chapter.
+2002 Acts, ch 1139, §7, 27; 2018 Acts, ch 1165, §99; 2023 Acts, ch 19, §536
+229A.7 Trial — determination — commitment procedure — chapter 28E agreements —
+mistrials.
+1.
+If the person charged with a sexually violent offense has been found incompetent to
+stand trial and the person is about to be released pursuant to chapter 812, or if a petition
+has been filed seeking the person’s commitment under this chapter, the court shall first
+hear evidence and determine whether the person did commit the act or acts charged. At the
+hearing on this issue, the rules of evidence applicable in criminal cases shall apply, and all
+constitutional rights available to defendants at criminal trials, other than the right not to be
+tried while incompetent, shall apply. After hearing evidence on this issue, the court shall
+make specific findings on whether the person did commit the act or acts charged, the extent
+to which the person’s incompetence affected the outcome of the hearing, including its effect
+on the person’s ability to consult with and assist counsel and to testify on the person’s own
+behalf, the extent to which the evidence could be reconstructed without the assistance of the
+person, and the strength of the prosecution’s case. If, after the conclusion of the hearing on
+this issue, the court finds, beyond a reasonable doubt, that the person did commit the act or
+acts charged, the court shall enter a final order, appealable by the person, on that issue, and
+may proceed to consider whether the person should be committed pursuant to this chapter.
+2.
+If a person has been found not guilty by reason of insanity, the court shall determine
+whether the acts charged were proven as a matter of law. If as a matter of law the finding of
+not guilty by reason of insanity requires a finding that the underlying elements of the charged
+offense were proven, then no further fact-finding is required. If as a matter of law the finding
+of not guilty by reason of insanity does not require a finding that the underlying elements of
+the charged offense be proven, the case shall proceed in the same manner as if the person
+were found to be incompetent to stand trial as provided in subsection 1.
+3.
+Within ninety days after either the entry of the order waiving the probable cause
+hearing or completion of the probable cause hearing held under section 229A.5, the court
+shall conduct a trial to determine whether the respondent is a sexually violent predator. The
+respondent or the attorney for the respondent may waive the ninety-day trial requirement
+as provided in this section; however, the respondent or the attorney for the respondent may
+reassert a demand and the trial shall be held within ninety days from the date of filing the
+demand with the clerk of court. The trial may be continued upon the request of either party
+and a showing of good cause, or by the court on its own motion in the due administration of
+justice, and when the respondent will not be substantially prejudiced. In determining what
+constitutes good cause, the court shall consider the length of the pretrial detention of the
+respondent.
+4.
+The respondent, the attorney general, or the judge shall have the right to demand that
+the trial be before a jury. Such demand for the trial to be before a jury shall be filed, in writing,
+at least ten days prior to trial. If no demand is made, the trial shall be before the court. Except
+as otherwise provided, the Iowa rules of evidence and the Iowa rules of civil procedure shall
+apply to all civil commitment proceedings initiated pursuant to this chapter.
+5. a.
+At trial, the court or jury shall determine whether, beyond a reasonable doubt, the
+respondent is a sexually violent predator. If the case is before a jury, the verdict shall be
+unanimous that the respondent is a sexually violent predator.
+b.
+If the court or jury determines that the respondent is a sexually violent predator, the
+respondent shall be committed to the custody of the director for control, care, and treatment
+until such time as the person’s mental abnormality has so changed that the person is safe to be
+placed in a transitional release program or discharged. The determination may be appealed.
+c.
+At trial, the court shall admit, and the fact finder may rely on, the findings of an
+administrative parole judge or other agency fact finder.
+6.
+If the court or jury determines that the respondent is a sexually violent predator, the
+court shall order the respondent to submit a DNA sample for DNA profiling pursuant to
+section 81.4.
+7.
+The control, care, and treatment of a person determined to be a sexually violent
+predator shall be provided at a facility operated by the department. At all times prior to
+placement in a transitional release program or release with supervision, persons committed
+for control, care, and treatment by the department pursuant to this chapter shall be kept in
+a secure facility and those patients shall be segregated at all times from any other patient
+under the supervision of the department.
+A person committed pursuant to this chapter
+to the custody of the department may be kept in a facility or building separate from any
+other patient under the supervision of the department. The department may enter into a
+chapter 28E agreement with the department of corrections or other appropriate agency in
+this state or another state for the confinement of patients who have been determined to be
+sexually violent predators. Patients who are in the custody of the director of the department
+of corrections pursuant to a chapter 28E agreement and who have not been placed in a
+transitional release program or released with supervision shall be housed and managed
+separately from criminal offenders in the custody of the director of the department of
+corrections, and except for occasional instances of supervised incidental contact, shall be
+segregated from those offenders.
+8.
+If the court makes the determination or the jury determines that the respondent is not
+a sexually violent predator, the court shall direct the respondent’s release. Upon release,
+the respondent shall comply with any requirements to register as a sex offender as provided
+in chapter 692A. Upon a mistrial, the court shall direct that the respondent be held at an
+appropriate secure facility until another trial is conducted. Any subsequent trial following a
+mistrial shall be held within ninety days of the previous trial, unless such subsequent trial is
+continued or the ninety days are waived as provided in subsection 3.
+98 Acts, ch 1171, §7; 99 Acts, ch 61, §6, 7, 14; 2000 Acts, ch 1058, §24; 2002 Acts, ch 1139,
+§8, 9, 27; 2004 Acts, ch 1060, §1, 2; 2004 Acts, ch 1084, §2; 2005 Acts, ch 158, §11, 19; 2009
+Acts, ch 41, §228; 2018 Acts, ch 1165, §100; 2019 Acts, ch 17, §5; 2023 Acts, ch 19, §537, 538
+Referred to in §9E.2, 81.1, 92.20
+229A.8 Annual examinations and review — discharge or transitional release petitions
+by persons committed.
+1.
+Upon civil commitment of a person pursuant to this chapter, a rebuttable presumption
+exists that the commitment should continue. The presumption may be rebutted when facts
+exist to warrant a hearing to determine whether a committed person no longer suffers from
+a mental abnormality which makes the person likely to engage in predatory acts constituting
+sexually violent offenses if discharged, or the committed person is suitable for placement in
+a transitional release program.
+2.
+A person committed under this chapter shall have a current examination of the person’s
+mental abnormality made once every year. The person may retain, or if the person is indigent
+and so requests, the court may appoint a qualified expert or professional person to examine
+such person, and such expert or professional person shall be given access to all records
+concerning the person.
+3.
+The annual report shall be provided to the court that committed the person under this
+chapter. The court shall conduct an annual review and, if warranted, set a final hearing on
+the status of the committed person. The annual review may be based only on written records.
+4.
+Nothing contained in this chapter shall prohibit the person from otherwise petitioning
+the court for discharge or placement in a transitional release program at the annual review.
+The department shall provide the committed person with an annual written notice of the
+person’s right to petition the court for discharge or placement in a transitional release
+program without authorization from the director. The notice shall contain a waiver of rights.
+The department shall forward the notice and waiver form to the court with the annual report.
+5.
+The following provisions apply to an annual review:
+a.
+The committed person shall have a right to have an attorney represent the person but
+the person is not entitled to be present at the hearing, if a hearing is held.
+b.
+The Iowa rules of evidence do not apply.
+c.
+The committed person may waive an annual review or may stipulate that the
+commitment should continue for another year.
+d.
+The court shall review the annual report of the state and the report of any qualified
+expert or professional person retained by or appointed for the committed person and may
+receive arguments from the attorney general and the attorney for the committed person if
+either requests a hearing. The request for a hearing must be in writing, within thirty days of
+the notice of annual review being provided to counsel for the committed person, or on motion
+by the court. Such a hearing may be conducted in writing without any attorneys present.
+e. (1)
+The court shall consider all evidence presented by both parties at the annual review.
+The burden is on the committed person to prove by a preponderance of the evidence that
+there is relevant and reliable evidence to rebut the presumption of continued commitment,
+which would lead a reasonable person to believe a final hearing should be held to determine
+either of the following:
+(a)
+The mental abnormality of the committed person has so changed that the person is
+not likely to engage in predatory acts constituting sexually violent offenses if discharged.
+(b)
+The committed person is suitable for placement in a transitional release program
+pursuant to section 229A.8A.
+(2) (a)
+If the committed person shows by a preponderance of the evidence that a final
+hearing should be held on either determination under subparagraph (1), subparagraph
+division (a) or (b), or both, the court shall set a final hearing within sixty days of the
+determination that a final hearing be held.
+(b)
+The committed person may waive the sixty-day final hearing requirement under
+subparagraph subdivision (a); however, the committed person or the attorney for the
+committed person may reassert the requirement by filing a demand that the final hearing be
+held within sixty days from the date of the filing of the demand with the clerk of court.
+(c)
+The final hearing may be continued upon request of either party and a showing of
+good cause, or by the court on its own motion in the due administration of justice, and if
+the committed person is not substantially prejudiced. In determining what constitutes good
+cause, the court shall consider the length of the pretrial detention of the committed person.
+f.
+If at the time for the annual review the committed person has filed a petition for
+discharge or placement in a transitional release program with authorization from the
+director, the court shall set a final hearing within ninety days of the authorization by the
+director, and no annual review shall be held.
+g.
+If the committed person has not filed a petition, or has filed a petition for discharge or
+for placement in a transitional release program without authorization from the director, the
+court shall first conduct the annual review as provided in this subsection.
+h.
+Any petition can summarily be dismissed by the court as provided in section 229A.11.
+i.
+If at the time of the annual review the committed person is in a secure facility and
+not in the transitional release program, the state shall have the right to demand that both
+determinations in paragraph “e”, subparagraph (1), be submitted to the court or jury.
+6.
+The following provisions shall apply to a final hearing:
+a.
+The committed person shall be entitled to an attorney and is entitled to the benefit
+of all constitutional protections that were afforded the person at the original commitment
+proceeding. The committed person shall be entitled to a jury trial, if such a demand is made
+in writing and filed with the clerk of court at least ten days prior to the final hearing.
+b.
+The committed person shall have the right to have experts evaluate the person on the
+person’s behalf. The court shall appoint an expert if the person is indigent and requests an
+appointment.
+c.
+The attorney general shall represent the state and shall have a right to demand a jury
+trial. The jury demand shall be filed, in writing, at least ten days prior to the final hearing.
+d.
+The burden of proof at the final hearing shall be upon the state to prove beyond a
+reasonable doubt either of the following:
+(1)
+The committed person’s mental abnormality remains such that the person is likely to
+engage in predatory acts that constitute sexually violent offenses if discharged.
+(2)
+The committed person is not suitable for placement in a transitional release program
+pursuant to section 229A.8A.
+e.
+If the director has authorized the committed person to petition for discharge or for
+placement in a transitional release program and the case is before a jury, testimony by a
+victim of a prior sexually violent offense committed by the person is not admissible. If the
+director has not authorized the petition or the case is before the court, testimony by a victim
+of a sexually violent offense committed by the person may be admitted.
+f.
+If a mistrial is declared, the confinement or placement status of the committed person
+shall not change. After a mistrial has been declared, a new trial must be held within ninety
+days of the mistrial.
+7.
+The state and the committed person may stipulate to a transfer to a transitional release
+program if the court approves the stipulation.
+98 Acts, ch 1171, §8; 2002 Acts, ch 1139, §10, 27; 2009 Acts, ch 41, §229; 2009 Acts, ch 116,
+§1; 2018 Acts, ch 1172, §62; 2019 Acts, ch 24, §20; 2019 Acts, ch 59, §66; 2023 Acts, ch 19,
+§539 – 541
+Referred to in §229A.5B, 229A.9A
+229A.8A Transitional release.
+1.
+The department may establish a transitional release program and provide control, care,
+and treatment, and supervision of committed persons placed in such a program.
+2.
+A committed person is suitable for placement in the transitional release program if the
+court finds that all of the following apply:
+a.
+The committed person’s mental abnormality is no longer such that the person is a high
+risk to reoffend.
+b.
+The committed person has achieved and demonstrated significant insights into the
+person’s sex offending cycle.
+c.
+The committed person has accepted responsibility for past behavior and understands
+the impact sexually violent crimes have upon a victim.
+d.
+A detailed relapse prevention plan has been developed and accepted by the treatment
+provider which is appropriate for the committed person’s mental abnormality and sex
+offending history.
+e.
+No major discipline reports have been issued for the committed person for a period of
+six months.
+f.
+The committed person is not likely to escape or attempt to escape custody pursuant to
+section 229A.5B.
+g.
+The committed person is not likely to engage in predatory acts constituting sexually
+violent offenses while in the program.
+h.
+The placement is in the best interest of the committed person.
+i.
+The committed person has demonstrated a willingness to agree to and abide by all rules
+of the program.
+3.
+If the committed person does not agree to the conditions of release, the person is not
+eligible for the transitional release program.
+4.
+A committed person who refuses to register as a sex offender is not eligible for
+placement in a transitional release program.
+5.
+Committed persons in the transitional release program are not necessarily required to
+be segregated from other persons.
+6.
+The department shall be responsible for establishing and implementing the rules
+and directives regarding the location of the transitional release program, staffing needs,
+restrictions on confinement and the movement of committed persons, and for assessing the
+progress of committed persons in the program. The court may also impose conditions on a
+committed person placed in the program.
+7.
+The department may contract with other government or private agencies, including the
+department of corrections, to implement and administer the transitional release program.
+2002 Acts, ch 1139, §11, 27; 2003 Acts, ch 44, §47; 2004 Acts, ch 1175, §463, 468; 2023 Acts,
+ch 19, §542
+Referred to in §229A.8
+229A.8B Violations of transitional release.
+1.
+The treatment staff in a transitional release program may remove the committed person
+from the program for a violation of any rule or directive, and return the person to a secure
+facility. The treatment staff may request the district court to issue an emergency ex parte
+order directing any law enforcement officer to take the committed person into custody so
+that the person can be returned to a secure facility. The request for an ex parte order may be
+made orally or by telephone, but the original written request or a facsimile copy of the original
+request shall be filed with the clerk of court no later than 4:30 p.m. on the next business day
+the office of the clerk of court is open.
+2.
+If a committed person absconds from a transitional release program in violation of
+the rules or directives, a presumption arises that the person poses a risk to public safety.
+The department, in cooperation with local law enforcement agencies, may make a public
+announcement about the absconder. The public announcement may include a description
+of the committed person, that the person is in transitional release from the sexually violent
+predator program, and any other information important to public safety.
+3.
+Upon the return of the committed person to a secure facility, the director or the
+director’s designee shall notify the court that issued the ex parte order that the absconder
+has been returned to a secure facility, and the court shall set a hearing to determine if a
+violation occurred. If a court order was not issued, the director or the director’s designee
+shall contact the nearest district court with jurisdiction to set a hearing to determine whether
+a violation of the rules or directives occurred.
+The court shall schedule a hearing after
+receiving notice that the committed person has been returned from the transitional release
+program to a secure facility.
+4.
+At the hearing, the burden shall be upon the attorney general to show by a
+preponderance of the evidence that a violation of the rules or directives occurred.
+The
+hearing shall be to the court.
+5.
+If the court determines a violation occurred, the court shall either order the committed
+person to be returned to the transitional release program or to be confined in a secure
+facility. The court may impose further conditions upon the committed person if returned
+to the transitional release program.
+If the court determines no violation occurred, the
+committed person shall be returned to the transitional release program.
+2002 Acts, ch 1139, §12, 27; 2018 Acts, ch 1165, §101; 2023 Acts, ch 19, §543
+229A.9 Detention and commitment to conform to constitutional requirements.
+The involuntary detention or commitment of persons under this chapter shall conform to
+constitutional requirements for care and treatment.
+98 Acts, ch 1171, §9
+229A.9A Release with supervision.
+1.
+In any proceeding under section 229A.8, the court may order the committed person
+released with supervision if any of the following apply:
+a.
+The attorney general stipulates to the release with supervision.
+b.
+The court or jury has determined that the person should be released from a secure
+facility or a transitional release program, but the court has determined the person suffers
+from a mental abnormality and it is in the best interest of the community to order release
+with supervision before the committed person is discharged.
+2.
+If release with supervision is ordered, the department shall prepare within sixty days of
+the order of the court a release plan addressing the person’s needs for counseling, medication,
+community support services, residential services, vocational services, substance use disorder
+treatment, sex offender treatment, or any other treatment or supervision necessary.
+3.
+The court shall set a hearing on the release plan prepared by the department before the
+committed person is released from a secure facility or a transitional release program.
+4.
+If the court orders release with supervision, the court shall order supervision by an
+agency with jurisdiction that is familiar with the placement of criminal offenders in the
+community. The agency with jurisdiction shall be responsible for initiating proceedings for
+violations of the release plan as provided in section 229A.9B.
+5.
+A committed person may not petition the court for release with supervision.
+6.
+A committed person released with supervision is not considered discharged from civil
+commitment under this chapter.
+7.
+After being released with supervision, the person may petition the court for discharge
+as provided in section 229A.8.
+8.
+The court shall retain jurisdiction over the committed person who has been released
+with supervision until the person is discharged from the program.
+The department or a
+judicial district department of correctional services shall not be held liable for any acts
+committed by a committed person who has been ordered released with supervision.
+2002 Acts, ch 1139, §13, 27; 2014 Acts, ch 1059, §2; 2018 Acts, ch 1165, §102; 2023 Acts, ch
+19, §544
+229A.9B Violations of release with supervision.
+1.
+If a committed person violates the release plan, the agency with jurisdiction over
+the person may request the court to issue an emergency ex parte order directing any law
+enforcement officer to take the person into custody so that the person can be returned to a
+secure facility. The request for an ex parte order may be made orally or by telephone, but
+the original written request or a facsimile copy of the request shall be filed with the clerk of
+court no later than 4:30 p.m. on the next business day the office of the clerk of court is open.
+2.
+If a committed person has absconded in violation of the conditions of the person’s
+release plan, a presumption arises that the person poses a risk to public safety.
+The
+department or contracting agency, in cooperation with local law enforcement agencies,
+may make a public announcement about the absconder.
+The public announcement may
+include a description of the committed person, that the committed person is on release with
+supervision from the sexually violent predator program, and any other information pertinent
+to public safety.
+3.
+Upon the return of the committed person to a secure facility, the director or the
+director’s designee shall notify the court that issued the ex parte order that the committed
+person has been returned to a secure facility, and the court shall set hearing to determine if
+a violation occurred. If a court order was not issued, the director or the director’s designee
+shall contact the nearest district court with jurisdiction to set a hearing to determine whether
+a violation of the conditions of the release plan occurred. The court shall schedule a hearing
+after receiving notice that the committed person has been returned to a secure facility.
+4.
+At the hearing, the burden shall be upon the attorney general to show by a
+preponderance of the evidence that a violation of the release plan occurred.
+5.
+If the court determines a violation occurred,
+the court shall receive release
+recommendations from the department and either order that the committed person be
+returned to release with supervision or placed in a transitional release program, or be
+confined in a secure facility. The court may impose further conditions upon the committed
+person if returned to release with supervision or placed in the transitional release program.
+If the court determines no violation occurred, the committed person shall be returned to
+release with supervision.
+2002 Acts, ch 1139, §14, 27; 2018 Acts, ch 1165, §103; 2023 Acts, ch 19, §545
+Referred to in §229A.9A
+229A.10 Petition for discharge — procedure.
+1.
+If the director determines that the person’s mental abnormality has so changed that
+the person is not likely to engage in predatory acts that constitute sexually violent offenses
+if discharged, the director shall authorize the person to petition the court for discharge. The
+petition shall be served upon the court and the attorney general. The court, upon receipt of
+the petition for discharge, shall order a hearing within thirty days. The attorney general shall
+represent the state, and shall have the right to have the petitioner examined by an expert
+or professional person of the attorney general’s choice. The hearing shall be before a jury
+if demanded by either the petitioner or the attorney general. If the attorney general objects
+to the petition for discharge, the burden of proof shall be upon the attorney general to show
+beyond a reasonable doubt that the petitioner’s mental abnormality or personality disorder
+remains such that the petitioner is likely to engage in predatory acts that constitute sexually
+violent offenses if discharged.
+2.
+Upon a finding that the state has failed to meet its burden of proof under this section,
+the court shall authorize the committed person to be discharged.
+98 Acts, ch 1171, §10; 99 Acts, ch 61, §8, 14; 2002 Acts, ch 1139, §15, 27; 2003 Acts, ch 44,
+§48; 2023 Acts, ch 19, §546
+Referred to in §229A.5B
+229A.11 Subsequent discharge or transitional release petitions — limitations.
+Nothing in this chapter shall prohibit a person from filing a petition for discharge or
+placement in a transitional release program, pursuant to this chapter. However, if a person
+has previously filed a petition for discharge or for placement in a transitional release
+program without the authorization of the director, and the court determines either upon
+review of the petition or following a hearing that the petition was frivolous or that the
+petitioner’s condition had not so changed that the person was not likely to engage in
+predatory acts constituting sexually violent offenses if discharged, or was not suitable for
+placement in the transitional release program, then the court shall summarily deny the
+subsequent petition unless the petition contains facts upon which a court could find the
+condition of the petitioner had so changed that a hearing was warranted. Upon receipt of a
+first or subsequent petition from a committed person without the director’s authorization,
+the court shall endeavor whenever possible to review the petition and determine if the
+petition is based upon frivolous grounds. If the court determines that a petition is frivolous,
+the court shall dismiss the petition without a hearing.
+98 Acts, ch 1171, §11; 2002 Acts, ch 1139, §16, 27; 2023 Acts, ch 19, §547
+Referred to in §229A.8
+229A.12 Director — responsibility for costs — reimbursement.
+The director shall be responsible for all costs relating to the evaluation, treatment,
+and services provided to a person that are incurred after the person is committed to the
+director’s custody after the court or jury determines that the respondent is a sexually violent
+predator and pursuant to commitment under any provision of this chapter. If placement in a
+transitional release program or supervision is ordered, the director shall also be responsible
+for all costs related to the transitional release program or to the supervision and treatment
+of any person. Reimbursement may be obtained by the director from the patient and any
+person legally liable or bound by contract for the support of the patient for the cost of
+confinement or of care and treatment provided. To the extent allowed by the United States
+social security administration, any benefit payments received by the person pursuant to the
+federal Social Security Act shall be used for the costs incurred. As used in this section, “any
+person legally liable” does not include a political subdivision.
+98 Acts, ch 1171, §12; 98 Acts, ch 1181, §26; 99 Acts, ch 61, §9, 14; 2002 Acts, ch 1139, §17,
+27; 2005 Acts, ch 175, §99; 2023 Acts, ch 19, §548
+229A.12A Director of the department of corrections — responsibility for safekeeper.
+The director of the department of corrections shall have authority, once a person is
+detained pursuant to section 229A.5, to make a determination as to the appropriate secure
+facility within the department of corrections in which the safekeeper is to be placed, taking
+into consideration the safekeeper’s medical needs and ability to interact with offenders who
+have been committed to the custody of the director of the department of corrections. The
+director has authority to determine the safekeeper’s degree of segregation from offenders,
+including whether total segregation is appropriate under the circumstances or whether
+the safekeeper should be permitted to participate in normal confinement activities in the
+presence of offenders.
+2002 Acts, ch 1139, §18, 27
+229A.13 Severability.
+If any provision of this chapter or the application thereof to any person or circumstances
+is held invalid, the invalidity shall not affect other provisions or applications of the chapter
+which can be given effect without the invalid provisions or application and, to this end, the
+provisions of this chapter are severable.
+98 Acts, ch 1171, §14
+229A.14 Release of confidential or privileged information and records.
+Notwithstanding any provision in the Code regarding confidentiality to the contrary, any
+relevant information and records which would otherwise be confidential or privileged, except
+information subject to attorney-client privilege and attorney work product, shall be released
+to the agency with jurisdiction or the attorney general for the purpose of meeting the notice
+requirement provided in section 229A.3 and determining whether a person is or continues to
+be a sexually violent predator.
+98 Acts, ch 1171, §15; 2002 Acts, ch 1139, §19, 27
+229A.15 Court records — sealed and opened by court order.
+1.
+Except as otherwise provided in this section, any psychological reports, drug and
+alcohol reports, treatment records, reports of any diagnostic center, medical records, or
+victim impact statements which have been submitted to the court or admitted into evidence
+under this chapter shall be part of the record but shall be sealed and opened only on order
+of the court.
+2.
+The documents described in subsection 1 shall be available to the prosecuting attorney
+or attorney general, the committed person, and the attorney for the committed person without
+an order of the court.
+98 Acts, ch 1171, §16; 2018 Acts, ch 1172, §63
+229A.15A Civil protective order.
+A victim of a crime that was committed before the filing of a petition under this chapter by a
+safekeeper or by a person subjected to an order of civil commitment pursuant to this chapter,
+may obtain a protective order against the safekeeper or person using the procedures set out
+in section 915.22.
+2002 Acts, ch 1139, §20, 27
+229A.15B Rulemaking authority.
+The department shall adopt rules pursuant to chapter 17A necessary to administer this
+chapter.
+2002 Acts, ch 1139, §21, 27; 2023 Acts, ch 19, §549
+229A.16 Short title.
+This chapter shall be known and may be cited as the “Sexually Violent Predator Act”.
+98 Acts, ch 1171, §17
