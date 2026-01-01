@@ -1,0 +1,39 @@
+CHAPTER 556C
+RIGHTS TO DIES, MOLDS, AND FORMS
+556C.1
+Definitions.
+556C.2
+Rights to dies, molds, or forms.
+556C.1 Definitions.
+As used in this chapter unless the context requires otherwise:
+1.
+“Customer” means a person who causes a molder to fabricate, cast, or otherwise make
+a die, mold, or form to be used for the manufacture of plastic products.
+2.
+“Molder” means a person, including but not limited to a tool or die maker, who
+fabricates, casts, or otherwise makes a die, mold, or form to be used for the manufacture
+of plastic products.
+84 Acts, ch 1066, §1
+556C.2 Rights to dies, molds, or forms.
+1.
+In the absence of an agreement to the contrary, the customer has all rights and title to
+a die, mold, or form in the possession of the molder as provided in this section.
+2.
+If a customer does not claim possession from a molder of a die, mold, or form within
+three years following the last use of the die, mold, or form, all rights and title to the die, mold,
+or form are transferred to the molder for the purpose of destroying or disposing of the die,
+mold, or form.
+3.
+The molder shall notify the customer by certified mail sent to the customer’s last known
+address at least ninety days prior to the transfer provided in subsection 2. The notice shall
+indicate that all rights and title to the die, mold, or form will be transferred pursuant to this
+section.
+4.
+If the customer does not respond in person or by mail within ninety days following the
+date the notice was sent or does not make other contractual arrangements with the molder
+for storage of the die, mold, or form the rights and title of the customer to the die, mold, or
+form shall transfer to the molder. After a transfer has occurred the molder may destroy or
+otherwise dispose of the particular die, mold, or form as the molder’s own property without
+liability to the customer. This section does not affect the right of the customer under federal
+patent or copyright law or a state or federal law relating to unfair competition.
+84 Acts, ch 1066, §2
