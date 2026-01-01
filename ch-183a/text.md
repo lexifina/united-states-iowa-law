@@ -1,0 +1,288 @@
+CHAPTER 183A
+IOWA PORK PRODUCERS COUNCIL
+Referred to in §8A.502, 97B.1A, 179.5A
+183A.1
+Definitions.
+183A.2
+Iowa pork producers council.
+183A.3
+Terms.
+183A.4
+Vacancies.
+183A.5
+Duties, objects, and powers of
+the council.
+183A.6
+Assessment.
+183A.7
+Administration of moneys —
+appropriation.
+183A.8
+Refund of assessment.
+183A.9
+Referendum.
+183A.9A
+Suspension during national order.
+183A.10
+Per diem and expenses.
+183A.11
+Audit.
+183A.12
+Examination of books.
+183A.12A
+Report.
+183A.13
+Misdemeanors.
+183A.14
+Influencing legislation.
+183A.1 Definitions.
+As used in this chapter:
+1.
+“Assessment” means an excise tax on the sale of porcine animals as provided in this
+chapter.
+2.
+“First purchaser” means a person who buys porcine animals from a seller in the first
+instance.
+3.
+“Iowa pork producers council” or “council” means the body established under section
+183A.2.
+4.
+“Market development” means research, education, and other programs directed at
+better and more efficient production, marketing, and utilization of pork; public relations and
+other promotion techniques for the maintenance of existing markets for pork, including but
+not limited to contributions to organizations working toward the purposes of this subsection;
+development of new or larger markets for pork both domestic and foreign, including but not
+limited to public relations and other promotion techniques; and the adoption, prevention,
+modification, or elimination of trade barriers which bear on the flow of pork in commercial
+channels.
+5.
+“Porcine animals” means swine raised for slaughter, feeder pigs, or swine seedstock.
+6.
+“Pork” means porcine animals and all parts of porcine animals.
+7.
+“Pork Promotion Act” means the federal Pork Promotion, Research, and Consumer
+Information Act of 1985.
+8.
+“Producer” means a person engaged in this state in the business of producing and
+marketing porcine animals in the previous calendar year.
+9.
+“Qualified financial institution” means a bank or credit union as defined in section
+12C.1.
+85 Acts, ch 199, §1; 86 Acts, ch 1100, §9, 10; 86 Acts, ch 1245, §632; 94 Acts, ch 1146, §10;
+2012 Acts, ch 1017, §49
+Referred to in §183A.7
+Further definitions; see §159.1
+183A.2 Iowa pork producers council.
+The Iowa pork producers council is created.
+The council consists of seven members,
+including two producers from each of three districts of the state designated by the secretary,
+and one producer from the state at large. The secretary shall appoint these members. The
+Iowa pork producers association may recommend the names of potential members, but the
+secretary is not bound by the recommendations. The secretary, the dean of the college of
+agriculture and life sciences of Iowa state university of science and technology, and the state
+veterinarian, or their designees, shall serve on the council as nonvoting ex officio members.
+85 Acts, ch 199, §2; 86 Acts, ch 1100, §11; 2008 Acts, ch 1032, §32
+Referred to in §183A.1, 183A.9A
+183A.3 Terms.
+The voting members of the council shall serve terms of three years, and shall not serve for
+more than two complete consecutive terms.
+85 Acts, ch 199, §3; 86 Acts, ch 1100, §12
+Referred to in §183A.9A
+183A.4 Vacancies.
+A vacancy in the voting membership of the council resulting from death, inability or refusal
+to serve, or failure to meet the qualifications established in this chapter, shall be filled by the
+council for the remainder of the unexpired term. If the council fails to fill the vacancy, the
+secretary shall fill it.
+85 Acts, ch 199, §4; 86 Acts, ch 1100, §13
+183A.5 Duties, objects, and powers of the council.
+1.
+The council shall:
+a.
+Aid in the promotion of the pork industry of the state.
+b.
+Make an annual report of its proceedings and expenditures to the secretary.
+c.
+Elect a chairperson, secretary, and other officers it deems advisable.
+d.
+Administer and enforce this chapter, and do and perform all acts and exercise all
+powers reasonably necessary to effectuate the purposes and requirements of this chapter.
+e.
+Hire and discharge employees and professional counsel as necessary, prescribe their
+duties and powers, and fix their compensation.
+f.
+Establish offices, incur expenses, and enter into any contracts or agreements necessary
+to carry out the purposes of this chapter.
+g.
+Report alleged violations of this chapter to the attorney general or appropriate county
+attorney.
+h.
+Keep accurate books, records, and accounts of all its dealings.
+i.
+Receive, administer, disburse and account for, in addition to the funds received from the
+assessment provided in this chapter, other funds voluntarily contributed to the council for the
+purpose of promoting the pork industry.
+2.
+The council or its designated agent may enter into arrangements with persons
+purchasing Iowa produced pork outside Iowa, for collection of the assessment from those
+persons.
+3.
+The council is a state agency only for the purposes of chapters 21 and 22. Chapter 17A
+does not apply to the council.
+85 Acts, ch 199, §5; 86 Acts, ch 1100, §14, 15; 2009 Acts, ch 41, §263
+183A.6 Assessment.
+1.
+The council shall make an assessment of not less than point zero zero two nor more
+than point zero zero three of the gross sale price of all porcine animals. The assessment
+shall be point zero zero two five of the gross sale price of porcine animals until consent to an
+assessment has been given through the initial referendum referred to in this chapter. After
+approval of the initial referendum, the rate of assessment shall be determined by the council.
+The assessment shall be made at the time of delivery of the animals for sale, and shall be
+deducted by the first purchaser from the price paid to the seller. The first purchaser, at the
+time of sale, shall make and deliver to the seller an invoice for each purchase showing the
+names and addresses of the seller and the first purchaser, the number and kind of animals
+sold, the date of sale, and the assessment made on the sale.
+2.
+Assessments shall be paid to the Iowa pork producers council or its designated agent
+by first purchasers at a time prescribed by the council, but not later than the last day of the
+month following the month in which the animals were purchased.
+85 Acts, ch 199, §6; 86 Acts, ch 1100, §16; 2017 Acts, ch 54, §76
+Referred to in §183A.9A
+183A.7 Administration of moneys — appropriation.
+1.
+Assessments imposed under this chapter paid to and collected by the Iowa pork
+producers council shall be deposited in the pork promotion fund which is established in
+the office of the treasurer of state. The department of administrative services shall transfer
+moneys from the fund to the council for deposit into an account established by the council
+in a qualified financial institution. The department shall transfer the moneys as provided in
+a resolution adopted by the council. However, the department is only required to transfer
+moneys once during each day and only during hours when the offices of the state are open.
+2.
+All moneys deposited in the pork promotion fund and transferred to the council as
+provided in this section are appropriated and shall be used for the administration of this
+chapter and for the payment of claims based upon obligations incurred in the performance
+of activities and functions set forth in this chapter.
+3.
+From the moneys collected, deposited, and transferred to the council as provided in
+this chapter, the council shall first pay the costs of referendums held pursuant to this chapter.
+Of the moneys remaining, at least twenty-five percent shall be remitted to the national pork
+producers council and at least fifteen percent shall be remitted to the Iowa pork producers
+association, in the proportion the committee determines, for use by recipients in a manner not
+inconsistent with market development as defined in section 183A.1. Moneys remaining shall
+be spent as found necessary by the council to further carry out the provisions and purposes
+of this chapter.
+4.
+However, in no event shall the total expenses exceed the total amount of moneys
+transferred from the fund for use by the council.
+85 Acts, ch 199, §7; 86 Acts, ch 1100, §17; 94 Acts, ch 1146, §11; 2002 Acts, ch 1119, §143;
+2003 Acts, ch 145, §286; 2016 Acts, ch 1011, §121
+Referred to in §183A.9A
+183A.8 Refund of assessment.
+A producer from whom the assessment has been deducted, upon written application filed
+with the council within thirty days after its collection, shall have that amount refunded by
+the council. Application forms shall be given by the council to each first purchaser when
+requested and the first purchaser shall make the applications available to any producer. Each
+application for a refund by a producer shall have attached a proof of assessment deducted.
+The proof of assessment deducted shall be in the form of the original or a copy of the purchase
+invoice by the first purchaser. The council shall have no more than thirty days from the date
+the application for refund is received to remit the refund to the producer.
+85 Acts, ch 199, §8; 86 Acts, ch 1076, §1
+Right to refund not subject to execution or transfer; §179.5A
+183A.9 Referendum.
+1.
+At a time designated by the council within eighteen months after the termination of the
+collection of assessments under the Pork Promotion Act, the secretary shall conduct an initial
+referendum under administrative procedures prescribed by the department of agriculture and
+land stewardship.
+2.
+Upon signing a statement certifying to the secretary that the person is a bona fide
+producer as defined in this chapter, each producer is entitled to one vote in each referendum.
+The secretary shall determine the qualification of producers under this section.
+3.
+The secretary shall count and tabulate the ballots filed during the referendum within
+thirty days of the close of the referendum. If from the tabulation the secretary determines that
+a majority of the total number of producers voting in the referendum favors the assessment,
+the assessment provided for in the referendum shall be levied. The ballots cast pursuant to
+this section constitute complete and conclusive evidence for use in determinations made by
+the secretary under this chapter.
+4.
+The secretary shall hold subsequent referendums on request of ten percent or more
+of the number of producers eligible to vote, to determine whether the producers favor the
+termination or suspension of the assessment.
+The secretary shall suspend or terminate
+collection of the assessment within six months after the secretary determines that suspension
+or termination of the assessment is favored by a majority of the producers voting in the
+referendum, and shall terminate the assessment in an orderly manner as soon as practicable
+after the determination.
+85 Acts, ch 199, §9; 86 Acts, ch 1100, §18; 2016 Acts, ch 1011, §121
+183A.9A Suspension during national order.
+1.
+The terms of all voting members serving on the council on January 31, 1986 terminate
+at the time provided in subsection 2.
+2.
+On the date of the commencement of the collection of assessments under the Pork
+Promotion Act, the collection of the assessments under section 183A.6 shall be suspended.
+The council shall continue to operate after suspension until all refunds are paid and all funds
+remaining in the pork promotion fund, less a reserve for future refunds, are disbursed for
+the purposes enumerated in this chapter. Notwithstanding section 183A.7, the council need
+not retain a reserve for future referendums. Upon completion of these acts, the existence
+of the Iowa pork producers council is suspended. The secretary of agriculture shall certify
+the suspension of the council as of a date certain to the Iowa pork producers council and the
+Iowa pork producers association. When the existence of the council is suspended, the terms
+of office of council members terminate.
+3.
+On the date of the termination of the collection of assessments under the Pork
+Promotion Act, the period of suspension of the assessments under subsection 2 terminates.
+The secretary shall collect the assessments under section 183A.6 until this duty can be
+resumed by the reactivated council.
+4.
+On the date of the termination of the collection of assessments under the Pork
+Promotion Act, the period of suspension of the council under subsection 2 terminates.
+Within sixty days from this date, the secretary shall appoint voting members to the council.
+For purposes of section 183A.3, a voting member so appointed is deemed not to have
+served a previous consecutive term. The terms of office of voting members of the initial
+reactivated council shall be determined by lot, but members from the same district shall not
+serve the same terms. As nearly as possible one-third of the voting members shall serve for
+one year, one-third of the voting members shall serve for two years, and one-third of the
+voting members shall serve for three years. Subsequent voting members shall be appointed
+pursuant to section 183A.2.
+5.
+The secretary shall call the first meeting of the reactivated council. Upon reactivation,
+the council shall reimburse the secretary for expenses incurred in carrying out the duties
+provided in this section.
+86 Acts, ch 1100, §19
+183A.10 Per diem and expenses.
+The members of the council shall receive a per diem as specified in section 7E.6 for each
+day spent on official business of the council, not to exceed six hundred dollars per annum,
+and their actual necessary expenses, while engaged in council activity.
+85 Acts, ch 199, §10; 91 Acts, ch 258, §33
+183A.11 Audit.
+Moneys collected, deposited in the fund, and transferred to the council, as provided in this
+chapter shall be supervised by a certified public accountant employed by the council using
+generally accepted accounting principles and shall be subject to audit by the auditor of state.
+85 Acts, ch 199, §11; 94 Acts, ch 1146, §12
+183A.12 Examination of books.
+Persons subject to this chapter and first purchasers shall furnish any information needed to
+enable the council and secretary to carry out the provisions of this chapter. For the purpose of
+ascertaining the correctness of any information given to the council or the secretary under this
+chapter, the secretary may examine books, papers, records, copies of tax returns, accounts,
+correspondence, contracts, or other documents and memoranda the secretary deems relevant
+which are in the control of any person and which are not otherwise confidential as provided by
+law. The secretary may hold hearings, take testimony, administer oaths, subpoena witnesses,
+and issue subpoenas duces tecum in connection with the administration of this chapter.
+85 Acts, ch 199, §12
+183A.12A Report.
+The council shall prepare and submit a report summarizing the activities of the council
+under this chapter each year to the auditor of state and the secretary of agriculture. The report
+shall show all income, expenses, and other relevant information concerning fees collected
+and expended under the provisions of this chapter.
+94 Acts, ch 1146, §13
+183A.13 Misdemeanors.
+A person who violates or assists in the violation of any of the provisions of this chapter is
+guilty of a simple misdemeanor.
+85 Acts, ch 199, §13
+183A.14 Influencing legislation.
+Neither council members nor employees of the council shall attempt in any manner to
+influence legislation affecting any matters pertaining to the council’s activities. No portion
+of the pork promotion fund shall be used, directly or indirectly, to influence legislation, to
+support any candidate for public office, or to support any political party.
+85 Acts, ch 199, §14
