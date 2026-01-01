@@ -1,0 +1,1857 @@
+CHAPTER 53
+ABSENT VOTERS
+Referred to in §9E.6, 39.3, 39.28, 39A.1, 39A.2, 39A.5, 39A.6, 43.5, 46.18, 47.1, 48A.5, 49.16, 52.33, 260C.15, 260C.39, 275.35, 277.3,
+296.4, 298.18, 357J.16, 360.1, 372.2, 376.1, 468.511
+Chapter applicable to primary elections, §43.5
+Definitions in §39.3 applicable to this chapter
+Criminal offenses, chapter 39A
+SUBCHAPTER I
+GENERAL PROVISIONS
+53.1
+Right to vote — conditions.
+53.1A
+Rules.
+53.2
+Application for ballot.
+53.3
+Requirements for certain
+absentee ballot applications —
+prescribed form — receipt.
+53.4
+Absentee ballots — reports.
+53.5
+and 53.6
+Reserved.
+53.7
+Solicitation by public employees.
+53.8
+Ballot mailed.
+53.9
+Prohibited persons.
+53.10
+Absentee voting at the
+commissioner’s office.
+53.11
+Satellite absentee voting stations.
+53.12
+Duty of commissioner.
+53.13
+Voter’s affidavit on envelope.
+Repealed by 2014 Acts, ch
+1101, §31, 32.
+53.14
+Party affiliation.
+Repealed by
+2014 Acts, ch 1101, §31, 32.
+53.15
+Marking ballot.
+53.16
+Subscribing to affidavit.
+53.17
+Mailing or delivering ballot.
+53.17A
+Absentee ballot tracking.
+53.18
+Manner of preserving ballot
+and application — review
+of affidavit — replacement
+ballots.
+53.19
+Listing absentee ballots.
+53.20
+Special precinct established.
+53.21
+Replacement of lost or spoiled
+absentee ballots.
+53.22
+Balloting by confined persons.
+53.23
+Special precinct election board.
+53.24
+Counties using voting machines.
+Repealed by 2009 Acts, ch 57,
+§96.
+53.25
+Rejecting ballot.
+53.26
+Rejected ballots — how handled.
+53.27
+Rejection of ballot — return of
+envelope.
+53.28
+and 53.29
+Reserved.
+53.30
+Ballots, ballot envelopes, and
+other information preserved.
+53.31
+Challenges.
+53.32
+Ballot of deceased voter.
+53.33
+Unlawful return of ballot.
+53.34
+False affidavit. Repealed by 2021
+Acts, ch 147, §52, 54.
+53.35
+Refusal to return ballot.
+Repealed by 2007 Acts, ch
+59, §37, 38.
+53.35A
+Failure to return ballot.
+53.36
+Offenses by officers.
+Repealed
+by 2002 Acts, ch 1071, §15.
+SUBCHAPTER II
+ABSENT VOTING BY UNIFORMED AND OVERSEAS
+CITIZENS
+53.37
+Definitions.
+53.37A
+State commissioner duties.
+53.38
+What constitutes registration.
+53.39
+Request for ballot — when
+available.
+53.40
+Request requirements —
+transmission of ballot.
+53.41
+Records by commissioner —
+excess requests or ballots.
+53.42
+Voting in person in
+commissioner’s office.
+53.43
+Identification on envelope.
+53.44
+Affidavit to be signed and
+returned.
+53.45
+Special absentee ballot.
+53.46
+Powers and duties of state
+commissioner.
+53.47
+Materials furnished by
+department of administrative
+services.
+53.48
+Postage on ballots.
+53.49
+Applicable to armed forces and
+other citizens.
+53.50
+Appropriation.
+53.51
+Rule of construction.
+53.52
+Inconsistent provisions — rule.
+53.53
+Federal write-in ballots.
+SUBCHAPTER I
+GENERAL PROVISIONS
+53.1 Right to vote — conditions.
+1.
+Any registered voter may, subject to the provisions of this chapter, vote at any election:
+a.
+When the voter expects to be absent on election day during the time the polls are open
+from the precinct in which the voter is a registered voter.
+b.
+When, through illness or physical disability, the voter expects to be prevented from
+going to the polls and voting on election day.
+c.
+When the voter expects to be unable to go to the polls and vote on election day.
+2.
+A person who has been designated to have power of attorney by a registered voter does
+not have authority to request or to cast an absentee ballot on behalf of the registered voter.
+[SS15, §1137-b; C24, 27, 31, 35, 39, §927; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.1]
+90 Acts, ch 1238, §28; 93 Acts, ch 143, §31; 94 Acts, ch 1169, §65; 2008 Acts, ch 1032, §201
+Referred to in §53.2, 53.49
+53.1A Rules.
+The state commissioner shall adopt rules pursuant to chapter 17A for the implementation
+of this chapter.
+2019 Acts, ch 148, §30, 33
+Referred to in §53.49
+53.2 Application for ballot.
+1. a.
+Any registered voter, under the circumstances specified in section 53.1, may on any
+day, except election day, and not more than seventy days prior to the date of the election, apply
+in person for an absentee ballot at the commissioner’s office or at any location designated by
+the commissioner. However, for those elections in which the commissioner directs the polls
+be opened at noon pursuant to section 49.73, a voter may apply in person for an absentee
+ballot at the commissioner’s office from 8:00 a.m. until 11:00 a.m. on election day.
+b.
+A registered voter may make written application to the commissioner for an absentee
+ballot. A written application for an absentee ballot must be received by the commissioner
+no later than 5:00 p.m. on the same day as the voter registration deadline provided in
+section 48A.9 for the election for which the ballot is requested, except when the absentee
+ballot is requested and voted at the commissioner’s office pursuant to section 53.10.
+A
+written application for an absentee ballot delivered to the commissioner and received by the
+commissioner more than seventy days prior to the date of the election shall be returned to
+the voter with a notification of the date when the applications will be accepted.
+c.
+The commissioner may send an absentee ballot application to a registered voter at
+the request of the registered voter.
+The commissioner shall not send an absentee ballot
+application to a person who has not submitted such a request.
+d.
+In the event of a public health disaster declared by the governor pursuant to section
+29C.6, the general assembly may by resolution direct the state commissioner to send an
+absentee ballot application to each registered voter prior to a primary or general election held
+in an even-numbered year. If the general assembly is not in session, the legislative council
+may so direct the state commissioner by a majority vote.
+2. a.
+The state commissioner shall prescribe a form for absentee ballot applications.
+However, if a registered voter submits an application on a sheet of paper no smaller than
+three by five inches in size that includes all of the information required in this section, the
+prescribed form is not required.
+b.
+Absentee ballot applications may include instructions to send the application directly
+to the county commissioner of elections. However, no absentee ballot application shall be
+preaddressed or printed with instructions to send the applications to anyone other than the
+appropriate commissioner.
+c.
+No absentee ballot application shall be preaddressed or printed with instructions to
+send the ballot to anyone other than the voter.
+d.
+No absentee ballot application shall be provided to a registered voter with any field
+prefilled, except that the absentee ballot application may have the fields for the type and date
+of the election prefilled.
+3.
+This
+section
+does
+not
+require
+that
+a
+written
+communication
+mailed
+to
+the
+commissioner’s office to request an absentee ballot, or any other document be notarized as
+a prerequisite to receiving or marking an absentee ballot or returning to the commissioner
+an absentee ballot which has been voted.
+4. a.
+To request an absentee ballot, a registered voter shall provide:
+(1)
+The name and signature of the registered voter and the date on which the request was
+signed.
+(2)
+The registered voter’s date of birth.
+(3)
+The address at which the voter is registered to vote.
+(4)
+The registered voter’s voter verification number.
+(5)
+The name or date of the election for which the absentee ballot is requested.
+(6)
+Such other information as may be necessary to determine the correct absentee ballot
+for the registered voter.
+b.
+If insufficient information has been provided, including the absence of a voter
+verification number, either on the prescribed form or on an application created by the
+applicant, the commissioner shall, within twenty-four hours after the receipt of the absentee
+ballot request, contact the applicant by telephone and electronic mail, if such information
+has been provided by the applicant. If the commissioner is unable to contact the applicant
+by telephone or electronic mail, the commissioner shall send a notice to the applicant at the
+address where the applicant is registered to vote, or to the applicant’s mailing address if it is
+different from the residential address. If the applicant has requested the ballot to be sent to
+an address that is not the applicant’s residential or mailing address, the commissioner shall
+send an additional notice to the address where the applicant requested the ballot to be sent.
+A commissioner shall not use the voter registration system to obtain additional necessary
+information. A voter requesting or casting a ballot pursuant to section 53.22 shall not be
+required to provide a voter verification number.
+c.
+For purposes of this subsection, “voter verification number” means the registered
+voter’s driver’s license number or nonoperator’s identification card number assigned to
+the voter by the department of transportation or the registered voter’s four-digit personal
+identification number assigned to the voter by the state commissioner pursuant to section
+48A.10A, subsection 1.
+d.
+If an applicant does not have current access to the applicant’s voter verification
+number, the commissioner shall verify the applicant’s identity prior to supplying the voter
+verification number by asking the applicant to provide at least two of the following facts
+about the applicant:
+(1)
+Date of birth.
+(2)
+The last four digits of the applicant’s social security number, if applicable.
+(3)
+Residential address.
+(4)
+Mailing address.
+(5)
+Middle name.
+(6)
+Voter verification number as defined in paragraph “c”.
+5.
+The commissioner may dispute an application if it appears to the commissioner that
+the signature on the application has been signed by someone other than the registered voter,
+in comparing the signature on the application to the signature on record of the registered
+voter named on the application. If the commissioner disputes a registered voter’s application
+under this subsection, the commissioner shall notify the registered voter and the registered
+voter may submit a new application and signature or update the registered voter’s signature
+on record, as provided by rule adopted by the state commissioner.
+6.
+An application for a primary election ballot which specifies a party different from that
+recorded on the registered voter’s voter registration record, or if the voter’s voter registration
+record does not indicate a party affiliation, shall be accepted as a change or declaration of
+party affiliation.
+The commissioner shall approve the change or declaration and enter a
+notation of the change on the registration records at the time the absentee ballot request
+is noted on the voter’s registration record. A notice shall be sent with the ballot requested
+informing the voter that the voter’s registration record will be changed to show that the voter
+is now affiliated with the party whose ballot the voter requested.
+If an application for a
+primary election ballot does not specify a party and the voter registration record of the voter
+from whom the application is received shows that the voter is affiliated with a party, the voter
+shall be mailed the ballot of the party indicated on the voter’s registration record.
+7.
+If an application for an absentee ballot is received from an eligible elector who is
+not a registered voter the commissioner shall send the eligible elector a voter registration
+form and another absentee ballot application form. If the application is received after the
+time registration closes pursuant to section 48A.9 but by 5:00 p.m. on the Saturday before
+the election for general elections or by 5:00 p.m. on the Friday before the election for all
+other elections, the commissioner shall notify the applicant by mail of the election day and
+in-person absentee registration provisions of section 48A.7A.
+In addition to notification
+by mail, the commissioner shall also attempt to contact the applicant by any other method
+available to the commissioner.
+8.
+A registered voter who has not moved from the county in which the elector is registered
+to vote may submit a change of name, telephone number, or address on the absentee ballot
+application form when requesting an absentee ballot. The commissioner may also update
+a voter’s identification number, as described in section 48A.11, subsection 1, paragraph “e”,
+if an identification number is provided on an absentee ballot application. Upon receipt of
+a properly completed form, the commissioner shall enter a notation of the change on the
+registration records.
+9.
+An application for an absentee ballot that is returned to the commissioner by a
+person acting as an actual or implied agent for a political party, as defined in section
+43.2, or by a candidate or committee, both as defined by chapter 68A, shall be returned
+to the commissioner within seventy-two hours of the time the completed application was
+received from the applicant or no later than 5:00 p.m. on the same day as the deadline under
+subsection 1, paragraph “b”, whichever is earlier. An application received by a person acting
+as an actual or implied agent of a political party after the deadline but before the date of the
+election shall be returned to the commissioner within twenty-four hours.
+10.
+A registered voter who is a program participant under section 9E.6 may register to
+vote as an absentee voter with the state commissioner of elections pursuant to section 9E.6,
+subsection 2.
+11.
+If an application for an absentee ballot is received between 5:00 p.m. on the fifteenth
+day before an election and 5:00 p.m. on the seventh day before an election, the commissioner
+shall notify the registered voter within twenty-four hours that the absentee ballot request
+cannot be processed and notify the registered voter of ways the registered voter may
+participate in the election. A notification sent pursuant to this subsection shall be transmitted
+in the same manner as a notification transmitted pursuant to subsection 4, paragraph “b”.
+[SS15, §1137-c, -d; C24, 27, 31, 35, 39, §928, 930; C46, 50, 54, 58, 62, 66, 71, §53.2, 53.4;
+C73, 75, 77, 79, 81, §53.2]
+83 Acts, ch 176, §6; 84 Acts, ch 1291, §11; 86 Acts, ch 1224, §28; 87 Acts, ch 221, §25; 91
+Acts, ch 129, §17; 94 Acts, ch 1169, §54; 95 Acts, ch 189, §15; 97 Acts, ch 170, §68; 2004 Acts,
+ch 1083, §28, 29, 37; 2007 Acts, ch 59, §23, 38; 2008 Acts, ch 1032, §157; 2008 Acts, ch 1053,
+§1, 2; 2009 Acts, ch 57, §61; 2010 Acts, ch 1033, §29, 56; 2014 Acts, ch 1101, §15, 32; 2015
+Acts, ch 96, §10, 17; 2017 Acts, ch 110, §6, 11, 30, 35, 36; 2017 Acts, ch 170, §26; 2020 Acts,
+ch 1121, §123 – 125; 2021 Acts, ch 12, §43 – 45, 73; 2021 Acts, ch 147, §39, 54; 2025 Acts, ch
+123, §14
+Referred to in §22.7(72), 53.22, 53.39, 53.45, 53.49
+Subsection 4, paragraph c amended
+53.3 Requirements for certain absentee ballot applications — prescribed form — receipt.
+1.
+When an application for an absentee ballot is solicited by, or collected for return to the
+commissioner by, a person acting as an actual or implied agent for a political party, candidate,
+or committee, as defined by chapter 68A, the person shall provide the applicant with the form
+prescribed by the state commissioner.
+2. a.
+When an application for an absentee ballot is solicited by, and returned to the
+commissioner by, a person acting as an actual or implied agent for a political party, candidate,
+or committee, as defined by chapter 68A, the person shall issue to the applicant a receipt
+for the completed application.
+b.
+The receipt shall contain the following information:
+(1)
+The name of the applicant.
+(2)
+The date and time the completed application was received from the applicant.
+(3)
+The name and date of the election for which the application is being completed.
+(4)
+The name of the political party, candidate, or committee for whom the person is
+soliciting and returning the application for the absentee ballot.
+(5)
+The name of the person acting as an actual or implied agent for the political party,
+candidate, or committee.
+(6)
+A statement that the application will be delivered to the appropriate commissioner
+within seventy-two hours of the date and time the completed application was received from
+the applicant or no later than 5:00 p.m. on the Friday before the election, whichever is earlier.
+(7)
+A statement that an absentee ballot will be mailed to the applicant within twenty-four
+hours after the ballot for the election is available.
+c.
+The commissioner shall make receipt forms required by this section available for
+photocopying at the expense of the political party, candidate, or committee.
+2004 Acts, ch 1083, §30, 37; 2004 Acts, ch 1175, §360; 2008 Acts, ch 1032, §201; 2008 Acts,
+ch 1053, §3
+Referred to in §53.49
+53.4 Absentee ballots — reports.
+1.
+Beginning on the first day that absentee ballots are mailed in each primary and general
+election and each special election pursuant to section 69.14, and through election day, the
+state commissioner shall publish a report regarding absentee ballots on a daily basis. The
+report shall include, at a minimum, all of the following information:
+a.
+The number of absentee ballot request forms received by a county commissioner.
+b.
+The number of absentee ballots sent by a county commissioner.
+c.
+The total number of absentee ballots received by a county commissioner, and the total
+delivered by each of the following methods:
+(1)
+Mail.
+(2)
+Delivery to a drop box.
+(3)
+Delivery by hand.
+(4)
+Voted in person at a satellite location.
+2.
+Each county commissioner shall provide all information necessary under this section
+to the state commissioner in a manner prescribed by the state commissioner.
+2021 Acts, ch 12, §46, 73
+Referred to in §53.49
+53.5 and 53.6
+Reserved.
+53.7 Solicitation by public employees.
+1.
+It shall be unlawful for any employee of the state or any employee of a political
+subdivision to solicit any application or request for application for an absentee ballot,
+or to take an affidavit in connection with any absentee ballot while the employee is on
+the employer’s premises or otherwise in the course of employment.
+However, any such
+employee may take such affidavit in connection with an absentee ballot which is cast by the
+registered voter in person in the office where such employee is employed in accordance with
+section 53.10 or 53.11. This subsection shall not apply to any elected official.
+2.
+It is unlawful for any public officer or employee, or any person acting under color of a
+public officer or employee, to knowingly require a public employee to solicit an application
+or request an application for an absentee ballot, or to knowingly require an employee to take
+an affidavit or request for an affidavit in connection with an absentee ballot application.
+[SS15, §1137-d; C24, 27, 31, 35, 39, §933; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.7]
+91 Acts, ch 129, §18; 94 Acts, ch 1169, §64; 2002 Acts, ch 1071, §11; 2002 Acts, ch 1175, §80;
+2007 Acts, ch 59, §24, 38
+Referred to in §39A.4, 39A.5, 53.49
+53.8 Ballot mailed.
+1. a.
+Upon receipt of an application for an absentee ballot and immediately after
+the absentee ballots are printed, but not more than twenty days before the election, the
+commissioner shall mail an absentee ballot to the applicant within twenty-four hours, except
+as otherwise provided in subsection 3. The absentee ballot shall be sent to the registered
+voter by one of the following methods:
+(1)
+The absentee ballot shall be enclosed in an unsealed envelope marked with a serial
+number and affidavit. The absentee ballot and affidavit envelope shall be enclosed in or with
+an unsealed return envelope marked postage paid which bears the same serial number as
+the affidavit envelope. The absentee ballot, affidavit envelope, and return envelope shall be
+enclosed in a third envelope to be sent to the registered voter. If the ballot cannot be folded
+so that all of the votes cast on the ballot will be hidden, the commissioner shall also enclose
+a secrecy envelope with the absentee ballot.
+(2)
+The absentee ballot shall be enclosed in an unsealed return envelope marked with
+a serial number and affidavit and marked postage paid.
+The absentee ballot and return
+envelope shall be enclosed in a second envelope to be sent to the registered voter. If the ballot
+cannot be folded so that all of the votes cast on the ballot will be hidden, the commissioner
+shall also enclose a secrecy envelope with the absentee ballot.
+b.
+The affidavit shall be marked on the appropriate envelope in a form prescribed by the
+state commissioner of elections.
+c.
+For envelopes mailed at any election other than the primary election, the commissioner
+shall not mark any envelope with any information related to the party affiliation of the
+applicant.
+2. a.
+The commissioner shall enclose with the absentee ballot a statement informing the
+applicant that the sealed return envelope may be mailed to the commissioner by the registered
+voter or a person not prohibited to collect and deliver a completed ballot pursuant to section
+53.33, may be returned to a drop box established by the commissioner pursuant to section
+53.17, subsection 1, by the registered voter or a person not prohibited to collect and deliver
+a completed ballot pursuant to section 53.33, only if the commissioner has established such
+a drop box, or may be personally delivered to the commissioner’s office by the registered
+voter or a person not prohibited to collect and deliver a completed ballot pursuant to section
+53.33. The statement shall also inform the voter that the voter may request that the person
+not prohibited to collect and deliver a completed ballot pursuant to section 53.33 complete a
+receipt when retrieving the ballot from the voter. A blank receipt shall be enclosed with the
+absentee ballot.
+b.
+If an application is received so late that it is unlikely that the absentee ballot can be
+returned in time to be counted on election day, the commissioner shall enclose with the
+absentee ballot a statement to that effect.
+3. a.
+When an application for an absentee ballot is received by the commissioner of
+any county from a registered voter who is a patient in a hospital in that county, a tenant
+of an assisted living program in that county as shown by the list of certifications provided
+the commissioner under section 231C.21, or a resident of any facility in that county shown
+to be a health care facility by the list of licenses provided the commissioner under section
+135C.29, the absentee ballot shall be delivered to the voter and returned to the commissioner
+in the manner prescribed by section 53.22. For purposes of this paragraph, “assisted living
+program” means a program certified pursuant to section 231C.3 that meets the standards
+for a dementia-specific assisted living program, as established by rule by the department of
+inspections, appeals, and licensing.
+b. (1)
+If the application is received more than five days before the ballots are printed and
+the commissioner has elected to have the ballots personally delivered during the ten-day
+period after the ballots are printed, the commissioner shall mail to the applicant within
+twenty-four hours a letter in substantially the following form:
+Your application for an absentee ballot for the election to be held
+on ........................ has been received. This ballot will be personally
+delivered to you by a bipartisan team sometime during the ten days
+after the ballots are printed. If you will not be at the address from
+which your application was sent during any or all of the ten-day
+period immediately following the printing of the ballots, the ballot
+will be personally delivered to you sometime during the fourteen
+days preceding the election.
+If you will not be at the address
+from which your application was sent during either of these time
+periods, contact this office and arrangements will be made to have
+your absentee ballot delivered at a time when you will be present
+at that address.
+(2)
+If the application is received more than fourteen calendar days before the election
+and the commissioner has not elected to mail absentee ballots to applicants as provided
+under section 53.22, subsection 4, and has not elected to have the absentee ballots personally
+delivered during the ten-day period after the ballots are printed, the commissioner shall mail
+to the applicant within twenty-four hours a letter in substantially the following form:
+Your application for an absentee ballot for the election to be held
+on ........................ has been received. This ballot will be personally
+delivered to you by a bipartisan team sometime during the fourteen
+days preceding the election.
+If you will not be at the address
+from which your application was sent during any or all of the
+fourteen-day period immediately preceding the election, contact
+this office and arrangements will be made to have your absentee
+ballot delivered at a time when you will be present at that address.
+c.
+Nothing in this subsection nor in section 53.22 shall be construed to prohibit a registered
+voter who is a hospital patient or resident of a health care facility, or who anticipates entering
+a hospital or health care facility before the date of a forthcoming election, from casting an
+absentee ballot in the manner prescribed by section 53.10 or 53.11.
+4.
+The commissioner and the state commissioner shall not mail an absentee ballot to a
+person who has not submitted an application for an absentee ballot.
+[SS15, §1137-c, -d; C24, 27, 31, 35, 39, §928, 930; C46, 50, 54, 58, 62, 66, 71, §53.2, 53.4;
+C73, §53.2; C75, 77, 79, 81, §53.8]
+83 Acts, ch 176, §7; 84 Acts, ch 1291, §12; 86 Acts, ch 1224, §30; 94 Acts, ch 1169, §64; 2002
+Acts, ch 1134, §62, 115; 2004 Acts, ch 1083, §31, 32, 37; 2007 Acts, ch 59, §25, 26, 38; 2007
+Acts, ch 215, §223; 2009 Acts, ch 57, §62, 63; 2009 Acts, ch 143, §1; 2014 Acts, ch 1101, §16,
+32; 2017 Acts, ch 110, §7, 51, 54; 2017 Acts, ch 120, §5; 2019 Acts, ch 148, §31, 33; 2021 Acts,
+ch 12, §47 – 49, 73; 2023 Acts, ch 19, §1734
+Referred to in §9E.6, 49.63, 53.17, 53.22, 53.49, 135C.29, 231C.21
+53.9 Prohibited persons.
+No person required to file reports under chapter 68A, and no person acting as an actual or
+implied agent for a person required to file reports under chapter 68A, shall receive absentee
+ballots on behalf of voters. This prohibition does not apply to section 53.17.
+97 Acts, ch 170, §69
+Referred to in §53.49
+53.10 Absentee voting at the commissioner’s office.
+1.
+Not more than twenty days before the date of the primary election or the general
+election, the commissioner shall provide facilities for absentee voting in person at the
+commissioner’s office. This service shall also be provided for other elections as soon as the
+ballots are ready, but in no case shall absentee ballots be available under this section more
+than twenty days before an election.
+2. a.
+Each person who wishes to vote by absentee ballot at the commissioner’s office
+shall first sign an application for a ballot including the following information: name, current
+address, voter verification number, and the election for which the ballot is requested. The
+person may report a change of address or other information on the person’s voter registration
+record at that time. Prior to furnishing a ballot, the commissioner shall verify the person’s
+identity as provided in section 49.78. The registered voter shall immediately mark the ballot;
+enclose the ballot in a secrecy envelope, if necessary, and seal it in the envelope marked with
+the affidavit; subscribe to the affidavit on the reverse side of the envelope; and return the
+absentee ballot to the commissioner. The commissioner shall record the numbers appearing
+on the application and affidavit envelope along with the name of the registered voter.
+b.
+For purposes of this subsection, “voter verification number” means the registered
+voter’s driver’s license number or nonoperator’s identification card number assigned to
+the voter by the department of transportation or the registered voter’s four-digit personal
+identification number assigned to the voter by the state commissioner pursuant to section
+48A.10A, subsection 1.
+3.
+A voter shall not vote or offer to vote any ballot except such as the voter has received
+from the commissioner. A voter voting an absentee ballot at the commissioner’s office shall
+not take or remove any ballot from the commissioner’s office.
+4.
+During the hours when absentee ballots are available in the office of the commissioner,
+the absentee voting site is a polling place for purposes of section 39A.4, subsection 1,
+paragraph “a”.
+2002 Acts, ch 1134, §63, 115; 2005 Acts, ch 72, §1; 2007 Acts, ch 215, §224; 2008 Acts, ch
+1191, §114; 2014 Acts, ch 1101, §17, 32; 2016 Acts, ch 1121, §5; 2017 Acts, ch 110, §8, 52, 54;
+2018 Acts, ch 1149, §10, 12; 2020 Acts, ch 1121, §126; 2021 Acts, ch 12, §50, 73; 2025 Acts, ch
+123, §15
+Referred to in §49.63, 53.2, 53.7, 53.8, 53.11, 53.17, 53.22, 53.42, 53.49, 68A.406
+Subsection 2, paragraph b amended
+53.11 Satellite absentee voting stations.
+1. a.
+Not more than twenty days before the date of an election, satellite absentee voting
+stations shall be established upon receipt of a petition signed by not less than one hundred
+eligible electors requesting that a satellite absentee voting station be established at a location
+to be described on the petition. However, if a special election is scheduled in the county on
+a date that falls between the date of the regular city election and the date of the city runoff
+election, the commissioner is not required to establish a satellite absentee voting station for
+the city runoff election.
+b.
+A satellite absentee voting station established by petition must be open at least one
+day for a minimum of six hours and may remain open until 5:00 p.m. on the day before the
+election.
+c.
+An otherwise valid petition for a satellite absentee voting station shall be rejected within
+four days of the commissioner’s receipt of the petition if any of the following circumstances
+apply:
+(1)
+The site requested is not accessible to elderly and disabled voters.
+(2)
+The site requested has other physical limitations that make it impossible to meet the
+requirements for ballot security and secret voting.
+(3)
+The owner of the site refuses permission to locate the satellite absentee voting station
+at the site requested by the petition, unless the site is required to serve as a polling place
+pursuant to section 49.21, subsection 2.
+(4)
+After reasonable efforts, the commissioner is unable to sufficiently staff the satellite
+absentee voting station to ensure compliance with the law of this state.
+d.
+An otherwise valid petition for a satellite absentee voting station may be rejected within
+four days of the commissioner’s receipt of the petition if any of the following circumstances
+apply:
+(1)
+The petition requests a satellite absentee voting station for a city runoff election and a
+special election is scheduled to be held between the date of the regular city election and the
+city runoff election.
+(2)
+The owner of the site demands payment for the site’s use, unless the site is required
+to serve as a polling place pursuant to section 49.21, subsection 2.
+2.
+A petition requesting a satellite absentee voting station must be filed by the following
+deadlines:
+a.
+For a primary or general election, no later than 5:00 p.m. on the forty-seventh day before
+the election.
+b.
+For the regular city election or a city primary election, no later than 5:00 p.m. on the
+thirtieth day before the election.
+c.
+For a city runoff election, no later than 5:00 p.m. on the twenty-first day before the
+election.
+d.
+For the regular school election, no later than 5:00 p.m. on the thirtieth day before the
+election.
+e.
+For a special election, no later than thirty-two days before the special election.
+3.
+Procedures for absentee voting at satellite absentee voting stations shall be the same
+as specified in section 53.10 for voting at the commissioner’s office. Additional procedures
+shall be prescribed by rule by the state commissioner.
+4.
+During the hours when absentee ballots are available at a satellite absentee voting
+station, the satellite absentee voting station is a polling place for purposes of section 39A.4,
+subsection 1, paragraph “a”.
+5.
+At least seven days before the date that absentee ballots will be available at a satellite
+absentee voting station, the commissioner shall notify the county chairperson of each political
+party of the date, time, and place that the satellite absentee voting station will be in operation
+in the county, so that the chairpersons may appoint observers to be present at the station
+during the hours absentee ballots are available.
+No more than two observers from each
+political party shall be present at any one satellite absentee voting station.
+6.
+The commissioner shall remove or obscure from the view of voters any published
+material displaying the name of a candidate or elected official other than a ballot or sample
+ballot or envelope.
+7.
+Notwithstanding subsection 1, if the commissioner receives valid petitions to establish
+two or more satellite absentee voting stations located within the same precinct, the
+commissioner may choose to establish a satellite absentee voting station at only one of the
+locations.
+[SS15, §1137-e; C24, 27, 31, 35, 39, §937; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§53.11]
+84 Acts, ch 1291, §13; 91 Acts, ch 129, §19; 93 Acts, ch 143, §32; 94 Acts, ch 1169, §65; 97
+Acts, ch 170, §70, 71; 2002 Acts, ch 1134, §64 – 66, 115; 2005 Acts, ch 72, §2; 2007 Acts, ch
+112, §1 – 3; 2008 Acts, ch 1191, §115; 2009 Acts, ch 131, §1; 2016 Acts, ch 1121, §6; 2017 Acts,
+ch 110, §53, 54; 2019 Acts, ch 148, §45; 2021 Acts, ch 12, §51, 73; 2021 Acts, ch 147, §40, 41,
+54
+Referred to in §49.63, 53.7, 53.8, 53.22, 53.49, 68A.406
+53.12 Duty of commissioner.
+The commissioner shall enclose the absentee ballot in an unsealed envelope, to be
+furnished by the commissioner, which envelope shall bear upon its face the words “county
+commissioner of elections”, the address of the commissioner’s office, and the same serial
+number appearing on the unsealed envelope shall be affixed to the application.
+[SS15, §1137-f; C24, 27, 31, 35, 39, §938; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§53.12]
+84 Acts, ch 1291, §14
+Referred to in §53.49
+53.13 Voter’s affidavit on envelope.
+Repealed by 2014 Acts, ch 1101, §31, 32. See §53.8.
+53.14 Party affiliation.
+Repealed by 2014 Acts, ch 1101, §31, 32.
+53.15 Marking ballot.
+1.
+The registered voter, on receipt of an absentee ballot, shall mark the ballot in such a
+manner that no other person will know how the ballot is marked.
+2.
+Registered voters who are blind, cannot read, or because of any other physical disability,
+are unable to mark their own absentee ballot, may have the assistance of any person the
+registered voter may select.
+[SS15, §1137-g; C24, 27, 31, 35, 39, §941; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§53.15]
+84 Acts, ch 1291, §15; 94 Acts, ch 1169, §64
+Referred to in §53.49
+53.16 Subscribing to affidavit.
+After marking the ballot, the voter shall make and subscribe to the affidavit on the affidavit
+envelope or on the return envelope marked with the affidavit, and fold the ballot or ballots,
+separately, so as to conceal the markings on them, and deposit them in the envelope, and
+securely seal the envelope.
+[SS15, §1137-g; C24, 27, 31, 35, 39, §942; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§53.16]
+84 Acts, ch 1291, §16; 2014 Acts, ch 1101, §18, 32
+Referred to in §53.49
+53.17 Mailing or delivering ballot.
+1.
+If the commissioner mailed the ballot pursuant to section 53.8, subsection 1, paragraph
+“a”, subparagraph (1), the sealed envelope bearing the voter’s affidavit and containing the
+absentee ballot shall be enclosed in a return envelope which shall be securely sealed.
+If
+the commissioner mailed the ballot pursuant to section 53.8, subsection 1, paragraph “a”,
+subparagraph (2), the absentee ballot shall be enclosed in the return envelope which shall be
+securely sealed. The sealed return envelope shall be returned to the commissioner by one of
+the following methods:
+a.
+The sealed return envelope may be delivered by the registered voter, by the voter’s
+designee, or by the special precinct election officials designated pursuant to section 53.22,
+subsection 2, to the commissioner’s office no later than the time the polls are closed on
+election day. However, if delivered by the voter’s designee, the envelope shall be delivered
+within seventy-two hours of retrieving it from the voter or before the closing of the polls on
+election day, whichever is earlier.
+b.
+The sealed return envelope may be mailed to the commissioner by the registered voter
+or by the voter’s designee. If mailed by the voter’s designee, the envelope must be mailed
+within seventy-two hours of retrieving it from the voter.
+c.
+The sealed return envelope may be delivered by a person not prohibited to collect and
+deliver a completed ballot pursuant to section 53.33 to a ballot drop box established by the
+commissioner no later than the time the polls are closed on election day. However, if delivered
+by the voter’s designee, the envelope shall be delivered within seventy-two hours of retrieving
+it from the voter or before the closing of the polls on election day, whichever is earlier. A
+commissioner is not required to establish a ballot drop box. A ballot drop box must meet all
+of the following requirements:
+(1)
+A commissioner shall not establish more than one ballot drop box, which shall be
+located at the office of the commissioner, or on property owned and maintained by the
+county that directly surrounds the building where the office is located. For the purposes of
+this subparagraph, “office of the commissioner” means a location where a voter may receive
+services pursuant to section 48A.17, 50.20, 53.10, or 53.18.
+(2)
+The ballot drop box shall not be used for any purpose other than the collection of
+absentee ballots.
+(3)
+The commissioner shall implement all reasonable and necessary measures to ensure
+that the ballot drop box is accessible and secure. Security measures may include placing the
+ballot drop box in a place regularly viewed by the commissioner or the commissioner’s staff.
+(4)
+A video surveillance system shall be used to monitor all activity at the ballot drop box
+at all times while the ballot drop box is in place. The system shall create a recording, which
+shall be reviewed by the state commissioner, county attorney, and law enforcement in the
+event that misconduct occurs.
+(5)
+A ballot drop box shall be available no sooner than the time that absentee ballots
+are allowed to be mailed pursuant to section 53.8. The ballot drop box shall be removed or
+restricted from accepting deliveries immediately upon the closure of polls on election day.
+(6)
+While available, a ballot drop box shall be securely fastened to a stationary surface or
+an immovable object.
+(7)
+The ballot drop box shall be secured by a lock and shall include a tamper-evident seal.
+Only the commissioner or an employee of the commissioner shall have access to the means
+to unfasten the lock.
+(8)
+Materials delivered to the ballot drop box shall be retrieved in an expeditious manner,
+but no less often than four times per day.
+(9)
+The commissioner shall maintain a log of each time materials are retrieved from the
+ballot drop box, including the date and time materials were retrieved, and the name of the
+person who retrieved the materials. The commissioner or the commissioner’s employee shall
+record on the ballot, near the portion of the envelope including the affidavit signed by the
+voter, that the materials were retrieved from a drop box, the date and time of the retrieval,
+and the initials of the person who retrieved the materials.
+(10)
+A ballot retrieved from a ballot drop box shall be processed in the same manner as a
+ballot returned pursuant to paragraph “a”.
+2.
+In order for the ballot to be counted, the return envelope must be received in the
+commissioner’s office before the polls close on election day.
+3.
+If the law authorizing the election specifies that the supervisors canvass the votes earlier
+than the Monday following the election, absentee ballots returned through the mail must be
+received not later than the time established for the canvass by the board of supervisors for that
+election. The commissioner shall contact the post office serving the commissioner’s office at
+the latest practicable hour before the canvass by the board of supervisors for that election,
+and shall arrange for absentee ballots received in that post office but not yet delivered to the
+commissioner’s office to be brought to the commissioner’s office before the canvass for that
+election by the board of supervisors.
+4.
+When a person designated by the voter pursuant to section 53.33 retrieves a completed
+absentee ballot from the voter, the designee shall fill out a receipt to be retained by the voter.
+The state commissioner shall prescribe a form for receipts required by this subsection. The
+receipt shall include all of the following:
+a.
+The name of the voter’s designee.
+b.
+The date and time the completed absentee ballot was received from the voter.
+c.
+The name and date of the election for which the absentee ballot is being voted.
+d.
+A telephone number at which the voter’s designee may be contacted.
+e.
+A statement that the completed absentee ballot will be delivered to the commissioner’s
+office within seventy-two hours of retrieving it from the voter or before the closing of the polls
+on election day, whichever is earlier.
+5.
+For the purposes of this section, “voter’s designee” means a person not prohibited to
+collect and deliver a completed ballot pursuant to section 53.33.
+[SS15, §1137-g; C24, 27, 31, 35, 39, §943; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§53.17; 81 Acts, ch 34, §36]
+84 Acts, ch 1291, §17; 87 Acts, ch 221, §26; 90 Acts, ch 1238, §29; 94 Acts, ch 1169, §64; 94
+Acts, ch 1180, §22; 2004 Acts, ch 1083, §33, 37; 2004 Acts, ch 1175, §361, 362; 2007 Acts, ch
+59, §27, 38; 2007 Acts, ch 215, §225 – 228; 2009 Acts, ch 57, §64; 2014 Acts, ch 1101, §19, 32;
+2016 Acts, ch 1121, §11 – 13, 17; 2019 Acts, ch 148, §64 – 66; 2021 Acts, ch 12, §52 – 56, 73;
+2024 Acts, ch 1146, §10 – 12
+Referred to in §50.22, 50.24, 53.8, 53.9, 53.17A, 53.18, 53.33, 53.49
+53.17A Absentee ballot tracking.
+1.
+For the purposes of this chapter:
+a.
+“Postal service barcode” means a barcode purchased by the sender and supplied by the
+United States postal service that is used to sort and track letters and flat packages and is
+printed on an absentee ballot return envelope at the direction of the commissioner before the
+envelope is sent to the voter.
+b.
+“Tracking information database” means a database administered by the United States
+postal service that is accessible to the commissioner and contains information regarding
+letters or flat packages.
+2.
+The state commissioner shall adopt rules regarding the statewide implementation
+of a postal service barcode and tracking information database, including procedures to be
+followed when usage of a postal service barcode or the tracking information database is
+negatively impacted. Each commissioner shall use a postal service barcode and tracking
+information database consistent with rules of the state commissioner. Every commissioner
+shall send notice to the state commissioner and implement the use of a postal service
+barcode and tracking information database prior to October 1, 2020.
+3. a.
+An absentee ballot received after the polls close on election day but prior to the
+official canvass shall be counted if the commissioner determines that the ballot entered the
+federal mail system by the deadline specified in section 53.17 or 53.22. The date of entry
+of such an absentee ballot into the federal mail system shall only be verified as provided in
+paragraph “b”.
+b. (1)
+If the postmark indicates that the absentee ballot entered the federal mail system
+by the deadline specified in section 53.17 or 53.22, the ballot shall be included for canvass by
+the absentee and special voters precinct board.
+(2)
+If the postmark is illegible, missing, or dated on or after election day, the commissioner
+shall attempt to verify the ballot’s date of entry into the federal mail system by querying
+the postal service barcode in the tracking information database. If the tracking information
+database indicates that the absentee ballot entered the federal mail system by the deadline
+specified in section 53.17 or 53.22, the ballot shall be included for canvass by the absentee and
+special voters precinct board. The commissioner shall provide a report to the absentee and
+special voters precinct board regarding the information available in the tracking information
+database.
+(3)
+If there is a discrepancy between the date indicated by the postmark and the postal
+service barcode, the earlier of the two shall determine the date of entry of the absentee ballot
+into the federal mail system.
+(4) (a)
+If neither the postmark nor the postal service barcode indicates that the absentee
+ballot entered the federal mail system by the deadline specified in section 53.17 or 53.22, the
+absentee ballot shall be sent to the absentee and special voters precinct board pursuant to
+subparagraph division (b) with the numeric value assigned to the postal service barcode and
+a full report from the tracking information database.
+(b)
+Up to five absentee and special voters precinct board members from each political
+party for partisan elections, or any two members of the board for nonpartisan elections,
+shall review the postal service barcode and tracking database information report of each
+absentee ballot submitted pursuant to subparagraph division (a) and certify that the tracking
+information database report corresponds to the absentee ballot by initialing the report and the
+absentee ballot envelope. If the board concludes that the postal service barcode and tracking
+information database report verify that the absentee ballot entered the federal mail system
+by the deadline specified in section 53.17 or 53.22, the ballot shall be counted. Otherwise, the
+ballot shall not be counted.
+4.
+The state commissioner shall by February 26, 2024, include on the state commissioner’s
+internet site an application through which a voter can track the voter’s absentee ballot request
+form and absentee ballot. The application shall provide all of the following information:
+a.
+Whether the voter returned a ballot in person, by mail, or by voting in person at a
+satellite location.
+b.
+The date the absentee ballot request form was received by the county commissioner.
+c.
+The date the absentee ballot was mailed or given to the voter.
+d.
+The date the absentee ballot was received by the county commissioner.
+e.
+The date the county commissioner opened the outer envelope.
+f.
+Whether there is a problem with the absentee ballot request form or absentee ballot that
+requires correction by the voter, along with instructions for the voter to contact the county
+commissioner as soon as possible to resolve the issue.
+2019 Acts, ch 148, §67; 2021 Acts, ch 12, §57, 73; 2021 Acts, ch 147, §42, 54
+Referred to in §9E.6, 53.22, 53.44, 53.49
+53.18 Manner of preserving ballot and application — review of affidavit — replacement
+ballots.
+1.
+When the return envelope containing the completed absentee ballot is received by the
+commissioner, the commissioner shall at once record receipt of such ballot. Absentee ballots
+shall be stored in a secure place until they are delivered to the absentee and special voters
+precinct board.
+2.
+If the commissioner receives the return envelope containing the completed absentee
+ballot by 5:00 p.m. on the Saturday before the election for general elections and by 5:00 p.m.
+on the Friday before the election for all other elections, the commissioner shall review the
+affidavit marked on the return envelope, if applicable, for completeness or shall open the
+return envelope to review the affidavit for completeness. If the affidavit lacks the signature
+of the registered voter, the commissioner shall, within twenty-four hours of the receipt of
+the envelope, notify the voter of the deficiency and inform the voter that the voter may vote
+a replacement ballot as provided in subsection 3, cast a ballot as provided in section 53.19,
+subsection 3, or complete the affidavit in person at the office of the commissioner not later
+than the time polls close on election day.
+3.
+If the affidavit envelope or the return envelope marked with the affidavit contains
+a defect that would cause the absentee ballot to be rejected by the absentee and special
+voters precinct board, the commissioner shall immediately notify the voter of that fact and
+that the voter’s absentee ballot shall not be counted unless the voter requests and returns a
+replacement ballot in the time permitted under section 53.17, subsection 2. For the purposes
+of this section, a return envelope marked with the affidavit shall be considered to contain a
+defect if it appears to the commissioner that the signature on the envelope has been signed
+by someone other than the registered voter, in comparing the signature on the envelope
+to the signature on record of the registered voter named on the envelope. A signature or
+marking made in accordance with section 39.3, subsection 17, shall not be considered a
+defect for purposes of this section. The voter may request a replacement ballot in person,
+in writing, or over the telephone. The same serial number that was assigned to the records
+of the original absentee ballot application shall be used on the envelope and records of the
+replacement ballot. The envelope marked with the affidavit and containing the completed
+replacement ballot shall be marked “Replacement ballot”. The envelope marked with the
+affidavit and containing the original ballot shall be marked “Defective” and the replacement
+ballot shall be attached to such envelope containing the original ballot and shall be stored
+in a secure place until they are delivered to the absentee and special voters precinct board,
+notwithstanding sections 53.26 and 53.27.
+4.
+For the purposes of this section, a return envelope marked with the affidavit shall be
+considered incomplete if the affidavit lacks the registered voter’s signature. A signature or
+marking made in accordance with section 39.3, subsection 17, shall not cause an affidavit to
+be considered incomplete.
+5.
+The state commissioner of elections shall adopt rules for implementation of this section.
+[SS15, §1137-h, -i; C24, 27, 31, 35, 39, §944; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§53.18]
+89 Acts, ch 136, §52; 91 Acts, ch 129, §20; 2002 Acts, ch 1134, §67, 115; 2007 Acts, ch 215,
+§229; 2009 Acts, ch 57, §65; 2010 Acts, ch 1026, §13; 2014 Acts, ch 1101, §20, 32; 2017 Acts,
+ch 110, §31, 35, 36; 2021 Acts, ch 12, §58, 59, 73
+Referred to in §9E.6, 53.17, 53.19, 53.25, 53.49
+53.19 Listing absentee ballots.
+1.
+The commissioner shall maintain a list of the absentee ballots provided to registered
+voters, the serial number appearing on the unsealed envelope, the date the application for
+the absentee ballot was received, the date the absentee ballot was sent to the registered
+voter requesting the absentee ballot, the date the absentee ballot was received by the
+commissioner, the date the absentee ballot outer envelope was opened, and whether the
+ballot was delivered by mail, in person, to a ballot drop box, or cast in person at a satellite
+location. The information under this subsection shall be reported separately at the same
+time as the information reported under section 53.30, subsection 3.
+2.
+The commissioner shall provide each precinct election board with a list of all registered
+voters from that precinct who have received an absentee ballot. The precinct officials shall
+immediately designate on the election register those registered voters who have received
+an absentee ballot and are not entitled to vote in person at the polls, except as provided in
+subsection 3.
+3. a.
+A registered voter who has received an absentee ballot and not returned it may
+surrender the absentee ballot to the precinct officials and vote in person at the polls.
+The precinct officials shall mark the uncast absentee ballot “void” and return it to the
+commissioner.
+b.
+A registered voter who has requested an absentee ballot by mail but for any reason
+has not received it or who has not brought the ballot to the polls may appear at the voter’s
+precinct polling place on election day and, after the precinct election officials confirm the
+commissioner has not received the voter’s absentee ballot, the voter shall be permitted to
+vote in person at the polls. If the precinct election officials are unable to confirm whether
+the commissioner has received the voter’s absentee ballot, the voter shall cast a ballot in
+accordance with section 49.81.
+c.
+A registered voter who has been notified by the commissioner pursuant to section
+53.18 of the need to complete the affidavit or vote a replacement absentee ballot and who
+has not completed the affidavit or voted a replacement absentee ballot may appear at the
+voter’s precinct polling place on election day and, after the precinct election officials confirm
+the voter has not completed the affidavit or voted a replacement ballot, the voter shall be
+permitted to vote in person at the polls. If the precinct election officials are unable to confirm
+whether the voter has completed the affidavit or voted a replacement ballot, the voter shall
+cast a ballot in accordance with section 49.81.
+[C71, §53.4; C73, §53.2; C75, 77, 79, 81, §53.19]
+94 Acts, ch 1169, §64; 97 Acts, ch 170, §72; 98 Acts, ch 1123, §11; 2002 Acts, ch 1134, §68,
+115; 2007 Acts, ch 215, §230; 2010 Acts, ch 1026, §14; 2021 Acts, ch 12, §60, 73
+Referred to in §9E.6, 49.72, 49.77, 49.81, 53.18, 53.49
+53.20 Special precinct established.
+1.
+There is established in each county a special precinct to be known as the absentee
+ballot and special voters precinct. Its jurisdiction shall be conterminous with the borders of
+the county, for the purposes specified by sections 53.22 and 53.23, and the requirement that
+precincts not cross the boundaries of legislative districts shall not be applicable to it. The
+commissioner shall draw up an election board panel for the special precinct in the manner
+prescribed by section 49.15, having due regard for the nature and extent of the duties required
+of members of the election board and the election officers to be appointed from the panel,
+including, if directed by the commissioner, the tallying and recording of write-in votes.
+2. a.
+Results from the special precinct shall be reported separately from the results of
+the ballots cast at the polls on election day. The commissioner shall for general elections
+also report the results of the special precinct by the resident precincts of the voters who cast
+absentee and provisional ballots. For all other elections, the commissioner may report the
+results of the special precinct by the resident precincts of the voters who cast absentee and
+provisional ballots, or may report the absentee results as a single precinct.
+b.
+For the primary election, general election, and for any election in which the
+commissioner determines in advance of the election to report the results of the special
+precinct by the resident precincts of the voters who cast absentee and provisional ballots,
+the commissioner shall prepare a separate absentee ballot style for each precinct in the
+county and shall program the voting system to produce reports by the resident precincts of
+the voters.
+[C77, 79, 81, §53.20]
+2008 Acts, ch 1159, §1; 2009 Acts, ch 57, §66; 2015 Acts, ch 85, §3; 2024 Acts, ch 1146, §13
+Referred to in §49.81, 50.21, 50.48, 50.51, 53.22, 53.49
+53.21 Replacement of lost or spoiled absentee ballots.
+1.
+A voter who has requested an absentee ballot may obtain a replacement ballot if the
+voter declares that the original ballot was lost or did not arrive. The commissioner upon
+receipt of a written or oral request for a replacement ballot shall provide a duplicate ballot.
+The same serial number that was assigned to the records of the original absentee ballot
+request shall be used on the envelopes and records of the replacement ballot.
+2. a.
+The commissioner shall include with the replacement ballot two copies of a
+statement in substantially the following form:
+The absentee ballot which I requested on ................................
+(date) has been lost or was never received. If I find this absentee
+ballot I will return it, unvoted, to the commissioner.
+....................................
+(Signature of voter)
+....................................
+(Date)
+b.
+The voter shall enclose one copy of the above statement in the return envelope along
+with the affidavit envelope, if the voter was mailed a separate affidavit envelope, and shall
+retain a copy for the voter’s records.
+3. a.
+A voter who spoils an absentee ballot may return it to the commissioner. The outside
+of the return envelope shall be marked “SPOILED BALLOT”. The commissioner shall replace
+the ballot in the manner provided in this section for lost ballots.
+b.
+An absentee ballot returned to the commissioner without a designation that the ballot
+was spoiled shall not be replaced.
+89 Acts, ch 136, §53; 93 Acts, ch 143, §33; 2007 Acts, ch 215, §231; 2009 Acts, ch 57, §67;
+2014 Acts, ch 1101, §21, 32
+Referred to in §53.49
+53.22 Balloting by confined persons.
+1.
+For purposes of this section, “assisted living program” means a program certified
+pursuant to section 231C.3 that meets the standards for a dementia-specific assisted living
+program, as established by rule by the department of inspections, appeals, and licensing.
+2. a. (1)
+A registered voter who has applied for an absentee ballot, in a manner other than
+that prescribed by section 53.10 or 53.11, and who is a resident, tenant, or patient in a health
+care facility, assisted living program, or hospital located in the county to which the application
+has been submitted shall be delivered the appropriate absentee ballot by two special precinct
+election officers, one of whom shall be a member of each of the political parties referred to
+in section 49.13, who shall be appointed by the commissioner from the election board panel
+for the special precinct established by section 53.20. The special precinct election officers
+shall be sworn in the manner provided by section 49.75 for election board members, shall
+receive compensation as provided in section 49.20, and shall perform their duties during
+the ten calendar days after the ballots are printed if the commissioner so elects, during the
+fourteen calendar days preceding the election, and on election day if all ballots requested
+under section 53.8, subsection 3, have not previously been delivered and returned.
+(2)
+If materials are prepared for the two special precinct election officials, a list shall be
+made of all voters to whom ballots are to be delivered. The list shall be sent with the officials
+who deliver the ballots and shall include spaces to indicate whether the person was present at
+the hospital, assisted living program, or health care facility when the officials arrived, whether
+the person requested assistance from the officials, whether the person was assisted by another
+person of the voter’s choice, the time that the ballot was returned to the officials, and any
+other notes the officials deem necessary.
+(3)
+The officials shall also be issued a supply of extra ballots to replace spoiled ballots.
+Receipts shall be issued in substantially the same form as receipts issued to precinct election
+officials pursuant to section 49.65. All ballots shall be accounted for and shall be returned to
+the commissioner. Separate envelopes shall be provided for the return of spoiled ballots and
+unused ballots.
+b.
+If an applicant under this subsection notifies the commissioner that the applicant will
+not be available at the health care facility, assisted living program, or hospital address at
+any time during the ten-day period after the ballots are printed, if applicable, or during the
+fourteen-day period immediately prior to the election, but will be available there at some other
+time prior to the election or on election day, the commissioner shall direct the two special
+precinct election officers to deliver the applicant’s ballot at an appropriate time preceding
+the election or on election day. If a person who so requested an absentee ballot has been
+dismissed from the health care facility or hospital, or is no longer a tenant of the assisted
+living program, the special precinct election officers may take the ballot to the voter if the
+voter is currently residing in the county.
+c.
+The special precinct election officers shall travel together in the same vehicle and both
+shall be present when an applicant casts an absentee ballot. If either or both of the special
+precinct election officers fail to appear at the time the duties set forth in this section are to be
+performed, the commissioner shall at once appoint some other person, giving preference to
+persons designated by the respective county chairpersons of the political parties described in
+section 49.13, to carry out the requirements of this section. The persons authorized by this
+subsection to deliver an absentee ballot to an applicant, if requested, may assist the applicant
+in filling out the ballot as permitted by section 49.90. After the voter has securely sealed the
+marked ballot in the envelope provided and has subscribed to the oath, the voted absentee
+ballots shall be deposited in a sealed container which shall be returned to the commissioner
+on the same day the ballots are voted. On election day the officers shall return the sealed
+container by the time the polls are closed.
+3.
+Any registered voter who becomes a patient, tenant, or resident of a hospital, assisted
+living program, or health care facility in the county where the voter is registered to vote after
+the deadline to make a written application for an absentee ballot as provided in section 53.2
+or on election day may request an absentee ballot during that period or on election day. As an
+alternative to the application procedure prescribed by section 53.2, the registered voter may
+make the request directly to the officers who are delivering and returning absentee ballots
+under this section. Alternatively, the request may be made by telephone to the office of the
+commissioner not later than four hours before the close of the polls. If the requester is found
+to be a registered voter of that county, these officers shall deliver the appropriate absentee
+ballot to the registered voter in the manner prescribed by this section.
+4.
+For any election except a primary or general election or a special election to fill a
+vacancy under section 69.14, the commissioner may, as an alternative to subsection 2,
+mail an absentee ballot to an applicant under this section to be voted and returned to the
+commissioner in accordance with this chapter. This subsection only applies to applications
+for absentee ballots from a single health care facility, assisted living program, or hospital if
+there are no more than two applications from that facility, program, or hospital.
+5.
+The commissioner shall mail an absentee ballot to a registered voter who has applied
+for an absentee ballot and who is a patient, tenant, or resident of a hospital, assisted living
+program, or health care facility outside the county in which the voter is registered to vote.
+6. a.
+If the registered voter becomes a patient, tenant, or resident of a hospital, assisted
+living program, or health care facility outside the county where the voter is registered to vote
+after the deadline to make a written application for an absentee ballot as provided in section
+53.2 or on election day, the voter may designate a person to deliver and return the absentee
+ballot. The designee shall be a person not prohibited to collect and deliver a completed ballot
+pursuant to section 53.33. The request for an absentee ballot may be made by telephone to
+the office of the commissioner not later than four hours before the close of the polls. If the
+requester is found to be a registered voter of that county, the ballot shall be delivered by mail
+or by the person designated by the voter. An application form shall be included with the
+absentee ballot and shall be signed by the voter and returned with the ballot.
+b.
+Absentee ballots voted under this subsection shall be delivered to the commissioner no
+later than the time the polls are closed on election day. If the ballot is returned by mail the
+return envelope must be received by the time the polls close, or be clearly postmarked by
+an officially authorized postal service or bear a postal service barcode traceable to a date of
+entry into the federal mail system not later than the day before the election, as provided in
+section 53.17A, and received by the commissioner no later than the time established for the
+canvass by the board of supervisors for that election.
+7.
+Observers
+representing
+candidates,
+political
+parties,
+or
+nonparty
+political
+organizations, or observers who are opponents or proponents of a ballot issue to be voted
+on at the election are prohibited from being present at a hospital, assisted living program,
+or health care facility during the time the special precinct election officers are delivering
+absentee ballots to the patients, tenants, or residents of such hospital, assisted living
+program, or health care facility.
+8.
+The proof of identity requirements under section 49.78 shall not apply to a voter casting
+a ballot pursuant to this section.
+[C71, 73, 75, §53.17; C77, 79, 81, §53.22; 81 Acts, ch 34, §37]
+84 Acts, ch 1291, §18, 19; 85 Acts, ch 67, §8; 87 Acts, ch 221, §27, 28; 88 Acts, ch 1119, §28;
+93 Acts, ch 143, §34; 94 Acts, ch 1169, §65; 94 Acts, ch 1180, §23, 24; 2007 Acts, ch 59, §28,
+38; 2009 Acts, ch 57, §68; 2009 Acts, ch 143, §2 – 4; 2016 Acts, ch 1121, §14, 17; 2017 Acts, ch
+110, §32, 35, 36; 2017 Acts, ch 120, §6; 2019 Acts, ch 148, §68; 2021 Acts, ch 12, §61, 62, 73;
+2023 Acts, ch 19, §1735
+Referred to in §48A.7A, 53.2, 53.8, 53.17, 53.17A, 53.20, 53.33, 53.49, 135C.29, 231C.21
+53.23 Special precinct election board.
+1.
+The election board of the absentee ballot and special voters precinct shall be appointed
+by the commissioner in the manner prescribed by sections 49.12 and 49.13, except that the
+number of precinct election officials appointed to the board shall be sufficient to complete
+the counting of absentee ballots by 10:00 p.m. on election day.
+2.
+The board’s powers and duties shall be the same as those provided in chapter 50 for
+precinct election officials in regular precinct polling places.
+However, the election board
+of the special precinct shall receive from the commissioner and count all absentee ballots
+for all precincts in the county; when two or more political subdivisions in the county hold
+elections simultaneously the special precinct election board shall count absentee ballots cast
+in all of the elections so held. The tally list shall be recorded on forms prescribed by the state
+commissioner.
+3. a.
+The commissioner shall set a convening time for the board of no later than 9:00
+a.m. on election day, allowing a reasonable amount of time to complete counting all absentee
+ballots by 10:00 p.m. on election day.
+b. (1)
+The commissioner may direct the board to meet on the day before the election for
+the purpose of reviewing the absentee voters’ affidavits appearing on the sealed envelopes.
+If in the commissioner’s judgment this procedure is necessary due to the number of absentee
+ballots received, the members of the board may open the sealed affidavit envelopes and
+remove the secrecy envelope containing the ballot, but under no circumstances shall a
+secrecy envelope or a return envelope marked with an affidavit be opened before the board
+convenes on election day, except as provided in paragraph “c”. If the affidavit envelopes are
+opened before election day pursuant to this paragraph “b”, the observers appointed by each
+political party, as defined in section 43.2, shall witness the proceedings. Each political party
+may appoint up to five observers under this paragraph “b”. The observers shall be appointed
+by the county chairperson or, if the county chairperson fails to make an appointment, by the
+state chairperson. However, if either or both political parties fail to appoint an observer, the
+commissioner may continue with the proceedings.
+(2)
+If the board finds any ballot not enclosed in a secrecy envelope and the ballot is
+folded in such a way that any of the votes cast on the ballot are visible, the two special
+precinct election officials, one from each of the two political parties referred to in section
+49.13, subsection 2, shall place the ballot in a secrecy envelope. No one shall examine the
+ballot, except as provided in paragraph “c”.
+c.
+The commissioner may convene the special precinct election board on the day before
+the election to begin counting absentee ballots. However, if in the preceding general election
+the counting of absentee ballots was not completed by 10:00 p.m. on election day, the
+commissioner shall convene the special precinct election board on the day before the next
+general election to begin counting absentee ballots. The board shall not release the results
+of its tabulation pursuant to this paragraph until the count is completed on election day.
+4.
+The room where members of the special precinct election board are engaged in
+counting absentee ballots on the day before the election pursuant to subsection 3, paragraph
+“c”, or during the hours the polls are open shall be policed so as to prevent any person other
+than those whose presence is authorized by this subsection from obtaining information
+about the progress of the count. The only persons who may be admitted to that room are
+the members of the board, five challengers representing each political party, one observer
+representing any nonparty political organization or any candidate nominated by petition
+pursuant to chapter 45 or any other nonpartisan candidate in a city or school election
+appearing on the ballot of the election in progress, one observer representing persons
+supporting a public measure appearing on the ballot and one observer representing persons
+opposed to such measure, and the commissioner or the commissioner’s designee. It shall
+be unlawful for any of these persons to communicate or attempt to communicate, directly
+or indirectly, information regarding the progress of the count at any time while the board is
+convened pursuant to subsection 3, paragraph “c”, or at any time before the polls are closed.
+5.
+The special precinct election board shall preserve the secrecy of all absentee and
+provisional ballots.
+After the affidavits on the envelopes have been reviewed and the
+qualifications of the persons casting the ballots have been determined, those that have been
+accepted for counting shall be opened.
+The ballots shall be removed from the affidavit
+envelopes or return envelopes marked with the affidavit, as applicable, without being
+unfolded or examined, and then shall be thoroughly intermingled, after which they shall
+be unfolded and tabulated. If secrecy folders or envelopes are used with provisional paper
+ballots, the ballots shall be removed from the secrecy folders after the ballots have been
+intermingled.
+6.
+The special precinct election board shall not release the results of its tabulation on
+election day until all of the ballots it is required to count on that day have been counted, nor
+release the tabulation of provisional ballots accepted and counted under chapter 50 until that
+count has been completed.
+[SS15, §1137-j; C24, 27, 31, 35, 39, §949; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§53.23]
+90 Acts, ch 1238, §30; 92 Acts, ch 1163, §13; 95 Acts, ch 189, §16; 97 Acts, ch 170, §73; 2005
+Acts, ch 19, §23; 2007 Acts, ch 59, §29, 38; 2007 Acts, ch 215, §232; 2008 Acts, ch 1115, §104;
+2009 Acts, ch 140, §1; 2014 Acts, ch 1101, §22, 23, 32; 2017 Acts, ch 110, §9, 10; 2021 Acts, ch
+12, §63, 73; 2025 Acts, ch 123, §16
+Referred to in §9E.6, 39A.1, 39A.4, 39A.5, 48A.7A, 50.20, 50.22, 50.50, 53.20, 53.30, 53.31, 53.49
+Subsection 3, paragraph a amended
+53.24 Counties using voting machines.
+Repealed by 2009 Acts, ch 57, §96.
+53.25 Rejecting ballot.
+1. a.
+If the absentee voter’s affidavit lacks the voter’s signature, if the applicant is not a
+duly registered voter on election day in the precinct where the absentee ballot was cast, if
+the envelope marked with the affidavit contains more than one ballot of any one kind, or if
+the voter has voted in person, such vote shall be rejected by the absentee and special voters
+precinct board. If the affidavit envelope or return envelope marked with the affidavit is open,
+or has been opened and resealed, or if the ballot is not enclosed in such envelope, and an
+affidavit envelope or return envelope marked with the affidavit with the same serial number
+and marked “Replacement ballot” is not attached as provided in section 53.18, the ballot shall
+be rejected by the absentee and special voters precinct board.
+b.
+If a voter casts a provisional ballot pursuant to section 49.78, subsection 7, and the voter
+has failed to establish the voter’s identity at the commissioner’s office, the provisional ballot
+shall be rejected by the absentee and special voters precinct board.
+2.
+If the absentee or provisional ballot is rejected prior to the opening of the affidavit
+envelope or return envelope marked with the affidavit, the voter casting the ballot shall be
+notified by a precinct election official by the time the canvass is completed of the reason for
+the rejection on a form prescribed by the state commissioner of elections.
+[SS15, §1137-j; C24, 27, 31, 35, 39, §951; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§53.25]
+94 Acts, ch 1169, §64; 2007 Acts, ch 215, §234; 2009 Acts, ch 57, §69; 2014 Acts, ch 1101,
+§24, 32; 2017 Acts, ch 110, §33, 35, 36
+Referred to in §50.22, 53.49
+53.26 Rejected ballots — how handled.
+1.
+Every ballot not counted shall be endorsed on the back with the following:
+Rejected because (giving reason therefor).
+2.
+All rejected ballots shall be enclosed and securely sealed in an envelope on which the
+precinct election officials shall endorse “Defective ballots”, with a statement signed by the
+precinct election officials regarding the precinct in which and the date of the election at which
+they were cast. The envelope shall be returned to the same officer and in the same manner
+as by law provided for the return and preservation of official ballots voted at such election.
+[SS15, §1137-j; C24, 27, 31, 35, 39, §952; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§53.26]
+2018 Acts, ch 1041, §13; 2019 Acts, ch 59, §25
+Referred to in §53.18, 53.49
+Return of rejected ballots, §50.5
+53.27 Rejection of ballot — return of envelope.
+If the ballot is rejected, the envelope marked with the affidavit, with the voter’s
+endorsement thereon, shall be returned with the rejected ballot in the envelope endorsed
+“Defective ballots”.
+[C24, 27, 31, 35, 39, §953; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.27]
+2007 Acts, ch 215, §235; 2014 Acts, ch 1101, §25, 32
+Referred to in §53.18, 53.49
+53.28 and 53.29
+Reserved.
+53.30 Ballots, ballot envelopes, and other information preserved.
+1.
+At the conclusion of each meeting of the absentee and special voter precinct board,
+the board shall reconcile the number of signed affidavits provided to the board by the
+commissioner and the number of ballots that were counted and tabulated. The board shall
+record the number of ballots that were rejected prior to opening the affidavit envelope, the
+number of absentee ballots that have been challenged and are currently unopened, and the
+number of absentee ballots that were accepted for counting and tabulation. The board shall
+also reconcile the number of provisional ballots provided to the board by the commissioner,
+the number of provisional ballots that were accepted for counting and tabulation, and the
+number of provisional ballots that were rejected.
+2.
+At the conclusion of each meeting of the absentee and special voters precinct board, the
+board shall securely seal all ballots counted by them in the manner prescribed in section 50.12.
+The ballot envelopes, including the affidavit envelope if an affidavit envelope was provided,
+the return envelope, and secrecy envelope bearing the signatures of precinct election officials,
+as required by section 53.23, shall be preserved. All applications for absentee ballots, ballots
+rejected without being opened, absentee ballot logs, and any other documents pertaining
+to the absentee ballot process shall be preserved until such time as the documents may be
+destroyed pursuant to section 50.19.
+3.
+Following each primary and general election, commissioners shall report to the state
+commissioner the number of voted absentee ballots received by the commissioner, the total
+number of absentee ballots counted and tabulated by the board, and the number of absentee
+ballots rejected by the board. The commissioner shall also provide the number of provisional
+ballots cast, the number of provisional ballots rejected, and the number of provisional ballots
+that were counted and tabulated by the board.
+[C24, 27, 31, 35, 39, §956; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.30]
+95 Acts, ch 67, §53; 2002 Acts, ch 1134, §69, 115; 2009 Acts, ch 57, §70; 2014 Acts, ch 1101,
+§26, 32; 2021 Acts, ch 12, §64, 73
+Referred to in §53.19, 53.49
+53.31 Challenges.
+1.
+Any person qualified to vote at the election in progress may challenge the qualifications
+of a person casting an absentee ballot by submitting a written challenge to the commissioner
+no later than 5:00 p.m. on the Friday before the election. It is the duty of the special precinct
+officials to challenge the absentee ballot of any person whom the official knows or suspects is
+not duly qualified. Challenges by members of the special precinct election board or observers
+present pursuant to section 53.23 may be made at any time before the close of the polls on
+election day. The challenge shall state the reasons for which the challenge is being submitted
+and shall be signed by the challenger. When a challenge is received the absentee ballot shall
+be set aside for consideration by the special precinct election board when it meets as required
+by section 50.22.
+2.
+The commissioner shall immediately send a written notice to the elector whose
+qualifications have been challenged. The notice shall be sent to the address at which the
+challenged elector is registered to vote. If the ballot was mailed to the challenged elector,
+the notice shall also be sent to the address to which the ballot was mailed if it is different
+from the elector’s registration address. The notice shall advise the elector of the reason for
+the challenge, the date and time that the special precinct election board will reconvene to
+determine challenges, and that the elector has the right to submit written evidence of the
+elector’s qualifications. The notice shall include the telephone number of the commissioner’s
+office.
+If the commissioner has access to a facsimile machine, the notice shall include
+the telephone number of the facsimile machine. As far as possible, other procedures for
+considering provisional ballots shall be followed.
+[SS15, §1137-k; C24, 27, 31, 35, 39, §957; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§53.31]
+93 Acts, ch 143, §35; 2005 Acts, ch 19, §25; 2007 Acts, ch 59, §30, 38
+Referred to in §9E.6, 48A.8, 53.49
+Challenges, §49.79
+53.32 Ballot of deceased voter.
+When it shall be made to appear by due proof to the precinct election officials that any
+elector, who has so marked and forwarded a ballot, has died before the envelope marked with
+the affidavit is opened, then the ballot of such deceased voter shall be endorsed, “Rejected
+because voter is dead”, and be returned to the commissioner. The casting of the ballot of a
+deceased voter shall not invalidate the election.
+[SS15, §1137-l; C24, 27, 31, 35, 39, §958; C46, 50, 54, 58, 62, 66, 71, 73, 75, 77, 79, 81,
+§53.32]
+2007 Acts, ch 215, §236; 2014 Acts, ch 1101, §27, 32
+Referred to in §53.49
+53.33 Unlawful return of ballot.
+1.
+For the purposes of this section:
+a.
+“Delivery agent” means an individual registered to vote in this state who has been
+designated to return a completed absentee ballot to the commissioner by another registered
+voter who is unable to return the registered voter’s own absentee ballot due to reason
+of blindness or other disability.
+“Delivery agent” does not include the registered voter’s
+employer, an agent of the registered voter’s employer, an officer or agent of the registered
+voter’s union, or a person acting as an actual or implied agent for a political party as defined
+in section 43.2, or a candidate or committee, as defined in section 68A.102.
+b.
+“Immediate family member” means an individual related to a registered voter within
+the fourth degree of consanguinity or affinity.
+2.
+No person other than the registered voter, an individual who lives in the same household
+as the registered voter, an immediate family member of the registered voter, an individual
+acting in accordance with section 53.22, or a delivery agent acting on behalf of a registered
+voter who is unable to return the registered voter’s own ballot due to reason of blindness or
+other disability, shall collect and return a completed absentee ballot.
+3.
+A registered voter who is unable to return the registered voter’s own completed
+absentee ballot due to reason of blindness or any physical disability other than intoxication
+may designate a delivery agent to return the registered voter’s completed absentee ballot.
+The registered voter shall complete and sign a designation of delivery agent form prescribed
+by the state commissioner prior to surrendering a ballot to a delivery agent.
+4.
+A delivery agent shall return no more than two completed absentee ballots per election.
+This limit shall apply to all elections occurring on the same calendar date.
+5.
+A delivery agent shall fill out a receipt pursuant to section 53.17, subsection 4, when
+retrieving a completed absentee ballot from a registered voter.
+6.
+A delivery agent shall collect the registered voter’s designation of delivery agent form
+at the time the delivery agent collects the registered voter’s completed absentee ballot. The
+delivery agent shall deliver the registered voter’s designation of delivery agent form to the
+commissioner at the same time as the registered voter’s completed absentee ballot.
+7.
+Notwithstanding any provision of law to the contrary, a delivery agent shall do all of
+the following when delivering a completed absentee ballot to the commissioner:
+a.
+Deliver the completed absentee ballot in person to the commissioner’s office.
+The
+delivery agent shall not deliver the completed absentee ballot by mail or to a ballot drop box.
+b.
+Present identification sufficient to establish identity pursuant to section 49.78.
+c.
+On a form prescribed by the state commissioner, the delivery agent shall provide the
+delivery agent’s full legal name, residential address, phone number, and electronic mail
+address, if applicable. The delivery agent shall also sign under penalty of perjury a statement
+in substantially the following form:
+Under penalty of perjury, I hereby certify that I am a registered
+voter in the State of Iowa and not the employer, agent of the
+employer, or officer or agent of the union of the registered voter
+whose completed absentee ballot I am returning, or a person acting
+as an actual or implied agent for a political party as defined in
+section 43.2, or a candidate or committee, as defined in section
+68A.102. I also certify that I am acting as the delivery agent of the
+registered voter whose completed absentee ballot I am returning,
+that I am returning the registered voter’s completed absentee ballot
+to the commissioner who issued the ballot, and that I have not
+altered or tampered with the ballot. I acknowledge that Iowa law
+prohibits delivery agents from returning more than two completed
+absentee ballots for all elections occurring on the same date.
+I
+have complied with Iowa law. I understand that if I provide false
+information on this form, I may be guilty of perjury, a class “D”
+felony, and subject to a maximum prison term not to exceed five
+years and a fine of at least $1,025 but not more than $10,245.
+2021 Acts, ch 12, §65; 2021 Acts, ch 147, §43, 54
+Referred to in §39A.4, 53.8, 53.17, 53.22, 53.49
+53.34 False affidavit.
+Repealed by 2021 Acts, ch 147, §52, 54. See §39A.2.
+53.35 Refusal to return ballot.
+Repealed by 2007 Acts, ch 59, §37, 38.
+53.35A Failure to return ballot.
+It is unlawful for any person designated by the commissioner, or by the elector casting the
+absentee ballot, to deliver the sealed envelope containing the absentee ballot, to willfully fail
+to return the ballot to the commissioner or the commissioner’s designee.
+93 Acts, ch 143, §36; 2002 Acts, ch 1071, §13
+Referred to in §39A.4
+53.36 Offenses by officers.
+Repealed by 2002 Acts, ch 1071, §15.
+See §39A.2 – 39A.5.
+SUBCHAPTER II
+ABSENT VOTING BY UNIFORMED AND OVERSEAS CITIZENS
+53.37 Definitions.
+1.
+This subchapter is intended to implement the federal Uniformed and Overseas Citizens
+Absentee Voting Act, 42 U.S.C. §1973ff et seq.
+2.
+The term “armed forces of the United States”, as used in this subchapter, shall mean
+the army, navy, marine corps, coast guard, air force, and space force of the United States.
+3.
+For the purpose of absentee voting only, there shall be included in the term “armed
+forces of the United States” the following:
+a.
+Spouses and dependents of members of the armed forces while in active service.
+b.
+Members of the merchant marine of the United States and their spouses and
+dependents.
+c.
+Civilian employees of the United States in all categories serving outside the territorial
+limits of the several states of the United States and the District of Columbia and their spouses
+and dependents when residing with or accompanying them, whether or not the employee is
+subject to the civil service laws and the Classification Act of 1949, and whether or not paid
+from funds appropriated by the Congress.
+d.
+Members of religious groups or welfare agencies assisting members of the armed
+forces, who are officially attached to and serving with the armed forces, and their spouses
+and dependents.
+e.
+Citizens of the United States who do not fall under any of the categories described in
+paragraphs “a” through “d”, but who are entitled to register and vote pursuant to section
+48A.5, subsection 4 or 5.
+4.
+For the purposes of this subchapter, “qualified voter” means a person who is included
+within the term “armed forces of the United States” as described in this section, who would
+be qualified to register to vote under section 48A.5, subsection 2, except for residency, and
+who is not disqualified from registering to vote and voting under section 48A.6.
+[C54, 58, 62, 66, §53.37; C71, 73, 75, 77, 79, §53.37, 53.49; C81, §53.37]
+94 Acts, ch 1180, §25; 95 Acts, ch 67, §8; 2001 Acts, ch 56, §4; 2007 Acts, ch 59, §31, 38; 2007
+Acts, ch 215, §243; 2014 Acts, ch 1026, §14; 2017 Acts, ch 120, §7; 2021 Acts, ch 147, §44, 54
+Referred to in §48A.5, 48A.5A, 48A.25A, 53.49, 53.53
+53.37A State commissioner duties.
+The state commissioner of elections shall provide information regarding voter registration
+procedures and absentee ballot procedures to be used by members of the armed forces of
+the United States. The state commissioner shall accept valid voter registration applications
+and absentee ballot applications and shall forward the applications to the appropriate county
+commissioner of elections in a timely manner.
+2004 Acts, ch 1083, §34, 37
+Referred to in §48A.5
+53.38 What constitutes registration.
+Whenever a ballot is requested pursuant to section 53.39 or 53.45 on behalf of a voter in the
+armed forces of the United States, the affidavit upon the envelope marked with the affidavit
+of such voter, if the voter is found to be an eligible elector of the county to which the ballot is
+submitted, shall constitute a sufficient registration under chapter 48A. A completed federal
+postcard registration and federal absentee ballot request form submitted by such eligible
+elector shall also constitute a sufficient registration under chapter 48A. The commissioner
+shall place the voter’s name on the registration record as a registered voter if it does not
+already appear there. The identification requirements of section 48A.8 and the verification
+requirements of section 48A.25A do not apply to persons who register to vote under this
+subchapter.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.38]
+88 Acts, ch 1119, §29; 94 Acts, ch 1169, §55; 2002 Acts, ch 1134, §70, 115; 2007 Acts, ch 59,
+§32, 38; 2007 Acts, ch 215, §237; 2014 Acts, ch 1026, §143; 2014 Acts, ch 1101, §28, 32
+Referred to in §48A.5
+53.39 Request for ballot — when available.
+1.
+Section 53.2 does not apply in the case of a qualified voter of the state of Iowa serving in
+the armed forces of the United States. In any such case an application for ballot as provided
+for in that section is not required and an absent voter’s ballot shall be sent or made available
+to any such qualified voter upon a request as provided in this subchapter.
+2.
+All official ballots to be voted by qualified absent voters in the armed forces of the United
+States at the primary election and the general election shall be printed prior to forty-five days
+before the respective elections and shall be available for transmittal to such qualified voters
+in the armed forces of the United States at least forty-five days before the respective elections.
+The provisions of this chapter apply to absent voting by qualified voters in the armed forces
+of the United States except as modified by the provisions of this subchapter.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.39]
+89 Acts, ch 136, §54; 94 Acts, ch 1169, §64; 94 Acts, ch 1180, §26; 95 Acts, ch 67, §9; 2010
+Acts, ch 1033, §30, 56; 2014 Acts, ch 1026, §143
+Referred to in §48A.5, 53.38
+53.40 Request requirements — transmission of ballot.
+1. a.
+A request in writing for a ballot may be made by any member of the armed forces
+of the United States who is or will be a qualified voter on the day of the election at which
+the ballot is to be cast, at any time before the election. Any member of the armed forces of
+the United States may request ballots for all elections to be held during a calendar year. The
+request may be made by using the federal postcard application form and indicating that the
+applicant wishes to receive ballots for all elections as permitted by state law. If the applicant
+does not specify which elections the request is for, the county commissioner shall send the
+applicant a ballot for each federal election held after the application is received until the end
+of the calendar year in which the request is received.
+b.
+Unless the request specifies otherwise, a request for the primary election shall also be
+considered a request for the general election. In the case of the general election, request
+may be made not more than seventy days before the election, for and on behalf of a voter in
+the armed forces of the United States by a spouse, parent, parent-in-law, adult brother, adult
+sister, or adult child of the voter, residing in the county of the voter’s residence. However, a
+request made by other than the voter may be required to be made on forms prescribed by the
+state commissioner.
+c.
+A request shall show the residence, including street address, if any, of the voter and
+the age of the voter and shall designate the address to which the ballot is to be sent. In the
+case of the primary election, the request shall also show the party affiliation of the voter. The
+request shall be made to the commissioner of the county of the voter’s residence. However,
+if the request is made by the voter to any elective state, city, or county official, the official
+shall forward it to the commissioner of the county of the voter’s residence, and such request
+so forwarded shall have the same force and effect as if made directly to the commissioner by
+the voter.
+2.
+The commissioner shall immediately on the forty-fifth day prior to the particular
+election transmit ballots to the voter by mail or otherwise, postage prepaid, as directed by
+the state commissioner, requests for which are in the commissioner’s hands at that time,
+and thereafter so transmit ballots immediately upon receipt of requests. A request for ballot
+for the primary election which does not state the party affiliation of the voter making the
+request is void and of no effect. A request which does not show that the person for whom a
+ballot is requested will be a qualified voter in the precinct in which the ballot is to be cast
+on the day of the election for which the ballot is requested, shall not be honored. However,
+a request which states the age and the city, including street address, and county where the
+voter resides is sufficient to show that the person is a qualified voter. A request by the voter
+containing substantially the information required is sufficient.
+3.
+If the affidavit on the envelope marked with the affidavit shows that the affiant is not a
+qualified voter on the day of the election at which the ballot is offered for voting, the envelope
+shall not be opened, but the envelope and ballot contained in the envelope shall be preserved
+and returned by the precinct election officials to the commissioner, who shall preserve them
+for the period of time and under the conditions provided for in sections 50.12, 50.13, 50.15,
+and 50.19.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.40]
+84 Acts, ch 1219, §3; 87 Acts, ch 221, §18; 89 Acts, ch 136, §55; 94 Acts, ch 1180, §27; 2002
+Acts, ch 1134, §71, 115; 2004 Acts, ch 1083, §35, 37; 2007 Acts, ch 215, §238; 2009 Acts, ch
+57, §71; 2010 Acts, ch 1033, §31, 32, 56; 2010 Acts, ch 1061, §8; 2014 Acts, ch 1101, §29, 32;
+2017 Acts, ch 155, §31, 44
+Referred to in §48A.5, 53.45
+53.41 Records by commissioner — excess requests or ballots.
+1.
+The commissioner of each county shall establish and maintain a record of all requests
+for ballots which are made, and of all ballots transmitted, and the manner of transmittal, from
+and received in the commissioner’s office under the provisions of this subchapter.
+2.
+If more than one request for absent voter’s ballot for a particular election is made to
+the commissioner before the ballots are ready to mail by or on behalf of a voter in the armed
+forces of the United States, the last request received shall be honored, except that if one of
+the requests is made by the voter, the request of the voter shall be honored in preference to a
+request made on the voter’s behalf by another.
+3.
+Not more than one ballot shall be transmitted by the commissioner to any voter for a
+particular election unless after the ballot has been mailed the voter reports a change in the
+address to which the ballot should be sent. A ballot shall be mailed using a serial number
+that indicates that this is a replacement sent to an updated address. The original ballot shall
+be counted only if the replacement ballot does not arrive. If the commissioner receives more
+than one absent voter’s ballot, provided for by this subchapter, from or purporting to be from
+any one voter for a particular election, all of the ballots so received from or purporting to
+be from such voter are void, and the commissioner shall not deliver any of the ballots to the
+precinct election officials, but shall retain them in the commissioner’s office, and preserve
+them for the period and under the conditions provided for in sections 50.12, 50.13, 50.15, and
+50.19.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.41]
+89 Acts, ch 136, §56; 2007 Acts, ch 59, §33, 38; 2010 Acts, ch 1061, §9; 2014 Acts, ch 1026,
+§143
+Referred to in §48A.5
+53.42 Voting in person in commissioner’s office.
+Notwithstanding the provision as to time found in section 53.10, any qualified voter in the
+armed forces of the United States may personally appear in the office of the commissioner
+of the county of the voter’s residence and there vote an absent voter’s ballot at any time not
+earlier than forty days before the primary or general election, as the case may be.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.42]
+Referred to in §48A.5
+53.43 Identification on envelope.
+The envelopes used in connection with voting by absent voter’s ballot by voters who are
+members of the armed forces of the United States, shall have stamped or printed on them
+the words “Armed Forces or Overseas Ballot” and a designation of the election at which the
+ballot is to be cast.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.43]
+86 Acts, ch 1224, §31, 40; 94 Acts, ch 1180, §28
+Referred to in §48A.5
+53.44 Affidavit to be signed and returned.
+1.
+The affidavit on the envelope marked with the affidavit used in connection with voting
+by absentee ballot under this subchapter by members of the armed forces of the United States
+need not be notarized or witnessed, but the affidavit on such envelope shall be completed and
+signed by the voter.
+2.
+In order for the ballot to be counted, the return envelope must be received in the
+commissioner’s office before the polls close on election day or be clearly postmarked by
+an officially authorized postal service or bear a postal service barcode traceable to a date
+of entry into the federal mail system not later than the day before the election, as provided
+in section 53.17A, and received by the commissioner not later than noon on the Monday
+following the election.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.44]
+84 Acts, ch 1291, §20; 89 Acts, ch 136, §57; 2007 Acts, ch 215, §239; 2014 Acts, ch 1026,
+§143; 2014 Acts, ch 1101, §30, 32; 2021 Acts, ch 12, §66, 73
+Referred to in §48A.5, 53.53
+53.45 Special absentee ballot.
+1. a.
+As provided in this section, the commissioner shall provide special absentee ballots
+to be used for general elections. A special absentee ballot shall only be provided to an eligible
+elector who completes an application stating both of the following to the best of the eligible
+elector’s belief:
+(1)
+The eligible elector will be residing or stationed or working outside the continental
+United States.
+(2)
+The eligible elector will be unable to vote and return a regular absentee ballot by
+normal mail delivery within the period provided for regular absentee ballots.
+b.
+The application for a special absentee ballot shall not be filed earlier than one hundred
+twenty days prior to the general election. The special absentee ballot shall list the offices and
+measures, if known, scheduled to appear on the general election ballot. The eligible elector
+may use the special absentee ballot to write in the name of any eligible candidate for each
+office and may vote on any measure.
+2.
+With any special absentee ballot issued under this section, the commissioner shall
+include a listing of any candidates who have filed before the time of the application for
+offices that will appear on the ballot at that general election and a list of any measures that
+have been referred to the ballot before the time of the application.
+3.
+Write-in votes on special absentee ballots shall be counted in the same manner provided
+by law for the counting of other write-in votes. The commissioner shall process and canvass
+the special absentee ballots provided under this section in the same manner as other absentee
+ballots.
+4.
+Notwithstanding the provisions of section 53.49, an eligible elector who requests a
+special absentee ballot under this section may also make application for an absentee ballot
+under section 53.2 or an armed forces absentee ballot under section 53.40. If the regular
+absentee or armed forces absentee ballot is properly voted and returned, the special absentee
+ballot is void and the commissioner shall reject it in whole when special absentee ballots are
+canvassed.
+87 Acts, ch 221, §29; 88 Acts, ch 1119, §30; 2008 Acts, ch 1032, §201; 2013 Acts, ch 30, §16;
+2016 Acts, ch 1003, §1
+Referred to in §48A.5, 53.38
+53.46 Powers and duties of state commissioner.
+The state commissioner is authorized and empowered:
+1.
+To make rules for the purpose of carrying out the provisions and intent of this
+subchapter;
+2.
+To prescribe and direct the preparation of specially printed ballots, envelopes and other
+papers of different size and weight to be used in connection with absent voting by voters in
+the armed forces of the United States, if, in the discretion of the state commissioner, the state
+commissioner shall determine that such a special ballot and other papers will facilitate voting
+by such voters; provided that the content of any such specially printed matter shall be the
+same as that used for absent voters generally in the particular precinct in which said armed
+forces ballot is to be cast, and provided further that such ballots, envelopes and other papers
+shall be substantially uniform in size and weight throughout the state; and provided further
+that the provisions of section 49.56, establishing the maximum cost of printing ballots, shall
+apply to the cost of printing any such specially printed ballots by the several counties;
+3.
+To prescribe any forms that are not otherwise prescribed by law, and which in the
+judgment of the state commissioner are necessary to facilitate the carrying out of the purposes
+and intent of this subchapter;
+4.
+To arrange for special transportation of ballots in cooperation with the government of
+the United States through any authorized instrumentality thereof and to that end the state
+commissioner is empowered to direct the commissioners of the several counties of the state
+to send ballots to voters in the armed forces of the United States other than in the usual course
+of mail;
+5.
+To employ such clerical assistance as the state commissioner may require in carrying
+out the state commissioner’s functions, to purchase and requisition any office supplies the
+state commissioner may require, and certify for payment the expenses of carrying out the
+state commissioner’s functions under this subchapter;
+6.
+To call upon any department or division of the state government for information and
+assistance in connection with carrying out the provisions of this subchapter;
+7.
+To cooperate with any authorized departments, agencies and instrumentalities of the
+government of the United States in effecting the intent and purposes of this subchapter.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.46]
+2014 Acts, ch 1026, §143
+Referred to in §48A.5
+53.47 Materials furnished by department of administrative services.
+1.
+In order to establish uniformity in size, weight, and other characteristics of the ballot
+and facilitate its distribution and return, the department of administrative services shall upon
+direction of the state commissioner purchase any material needed for any special ballots,
+envelopes, and other printed matter, and sell any such materials to the several counties of the
+state at cost plus handling and transportation costs.
+2.
+There is appropriated to the department of administrative services from the general
+fund of the state such sums as may be necessary to purchase any materials provided for in
+this section. The proceeds from sale of such materials to counties shall be deposited in the
+general fund of the state upon receipt of the moneys by the department of administrative
+services.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.47]
+2003 Acts, ch 145, §286; 2022 Acts, ch 1021, §23; 2023 Acts, ch 64, §11
+Referred to in §48A.5
+53.48 Postage on ballots.
+In the event the government of the United States or any branch, department, agency or
+other instrumentality thereof shall make provision for sending of any voting matter provided
+for in this subchapter through the mails postage free, or otherwise, the election officials of
+the state of Iowa and of the several counties of the state are authorized to make use thereof
+under the direction of the state commissioner.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.48]
+2014 Acts, ch 1026, §143
+Referred to in §48A.5
+53.49 Applicable to armed forces and other citizens.
+The provisions of this subchapter as to absent voting shall apply only to absent voters
+in the armed forces of the United States as defined for the purpose of absentee voting in
+section 53.37. The provisions of sections 53.1 through 53.33 shall apply to all other voters not
+members of the armed forces of the United States.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.49]
+86 Acts, ch 1224, §32; 87 Acts, ch 221, §30; 2002 Acts, ch 1071, §14; 2007 Acts, ch 59, §34,
+38; 2014 Acts, ch 1026, §143; 2021 Acts, ch 147, §45, 54
+Referred to in §48A.5, 53.45
+53.50 Appropriation.
+There is hereby appropriated to the state commissioner from the general fund of the state
+such sums as are necessary to pay the state commissioner’s expenses and perform the state
+commissioner’s functions under this subchapter. Warrants shall be drawn by the director of
+the department of administrative services upon certification by the state commissioner or the
+state commissioner’s deputy.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.50]
+2003 Acts, ch 145, §286; 2014 Acts, ch 1026, §143
+Referred to in §48A.5
+53.51 Rule of construction.
+This subchapter shall be liberally construed in order to provide means and opportunity for
+qualified voters of the state of Iowa serving in the armed forces of the United States to vote.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.51]
+94 Acts, ch 1180, §29; 2014 Acts, ch 1026, §143
+Referred to in §48A.5
+53.52 Inconsistent provisions — rule.
+The provision or provisions of this subchapter which are inconsistent with any provision
+or provisions of any other existing statute or any part of any such other existing statute, shall
+prevail. Likewise, the provision or provisions of any other existing statute or any part of any
+other existing statute which is not inconsistent with this subchapter, shall prevail.
+[C54, 58, 62, 66, 71, 73, 75, 77, 79, 81, §53.52]
+2014 Acts, ch 1026, §143
+Referred to in §48A.5
+53.53 Federal write-in ballots.
+1.
+Upon receipt of an official federal write-in ballot, the commissioner shall examine
+the voter’s written declarations on the envelope. If the voter is eligible to vote under the
+provisions of this subchapter and has complied with all requirements for the federal write-in
+ballot, then the federal write-in ballot is valid unless an Iowa absentee ballot is received from
+the voter in time to be counted.
+2.
+The voter’s declaration or affirmation on the federal write-in ballot constitutes a
+sufficient registration under the provisions of chapter 48A and the commissioner shall place
+the voter’s name on the registration record as a registered voter, if the voter’s name does not
+already appear on the registration record. No witness to the oath is necessary.
+3.
+Federal write-in absentee ballots may be used in primary and general elections,
+and in special elections held pursuant to section 69.14.
+The federal write-in absentee
+ballot transmission envelope may also serve as an application for voter registration if
+the information submitted is sufficient to register the person to vote and the applicant is
+otherwise eligible to vote under the provisions of this subchapter.
+4.
+The federal write-in ballot shall not be counted if any of the following apply:
+a.
+The ballot was submitted from within the United States, unless the voter is a member
+of the armed forces of the United States as described in section 53.37, subsection 2, on active
+duty, and away from the voter’s county of residence for purposes of serving on active duty.
+b.
+The voter’s completed regular or special Iowa absentee ballot was received by the
+deadline for return of absentee ballots established in section 53.44.
+c.
+The voter’s federal write-in ballot was received after the deadline for return of absentee
+ballots established in section 53.44.
+5.
+A federal write-in ballot received by the state commissioner of elections shall be
+forwarded immediately to the appropriate county commissioner.
+However, if the state
+commissioner receives a federal write-in ballot after election day and before noon on the
+Monday following an election, the state commissioner shall at once verify that the voter has
+complied with the requirements of this section and that the voter’s federal write-in ballot
+is eligible to be counted. If the ballot is eligible to be counted, the state commissioner shall
+notify the appropriate county commissioner and make arrangements for the ballot to be
+transmitted to the county for counting. If the ballot is not eligible to be counted, the state
+commissioner shall mail the ballot to the appropriate commissioner along with notification
+that the ballot is ineligible to be counted. The county commissioner shall keep the ballot
+with the other records of the election.
+6.
+The county commissioner shall notify a voter when the voter’s federal write-in ballot
+was not counted and shall give the voter the reason the ballot was not counted.
+88 Acts, ch 1119, §31; 94 Acts, ch 1169, §56; 94 Acts, ch 1180, §30; 2004 Acts, ch 1083, §36,
+37; 2007 Acts, ch 59, §35, 36, 38; 2009 Acts, ch 57, §72; 2014 Acts, ch 1026, §143; 2016 Acts,
+ch 1003, §2, 3; 2021 Acts, ch 12, §67, 73
+Referred to in §48A.5
