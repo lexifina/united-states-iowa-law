@@ -1,0 +1,125 @@
+CHAPTER 510C
+PHARMACY BENEFITS MANAGER REPORTING
+Referred to in §87.4, 296.7, 331.301, 364.4, 505.28, 505.29, 669.14, 670.7
+510C.1
+Definitions.
+510C.2
+Annual report to commissioner.
+510C.3
+Rules.
+510C.4
+Enforcement.
+510C.5
+Applicability.
+510C.1 Definitions.
+As used in this chapter unless the context otherwise requires:
+1.
+“Administrative fees” means a fee or payment, other than a rebate, under a contract
+between a pharmacy benefits manager and a pharmaceutical drug manufacturer in
+connection with the pharmacy benefits manager’s management of a third-party payor’s
+prescription drug benefit, that is paid by a pharmaceutical drug manufacturer to a pharmacy
+benefits manager or is retained by the pharmacy benefits manager.
+2.
+“Aggregate retained rebate percentage” means the percentage of all rebates received
+by a pharmacy benefits manager that is not passed on to the pharmacy benefits manager’s
+third-party payor clients.
+3.
+“Commissioner” means the commissioner of insurance.
+4.
+“Covered person” means the same as defined in section 510B.1.
+5.
+“Formulary” means a complete list of prescription drugs eligible for coverage under a
+health benefit plan.
+6.
+“Health benefit plan” means the same as defined in section 510B.1.
+7.
+“Health carrier” means the same as defined in section 510B.1.
+8.
+“Pharmacy benefits manager” means the same as defined in section 510B.1.
+9.
+“Prescription drug benefit” means the same as defined in section 510B.1.
+10.
+“Rebate” means the same as defined in section 510B.1.
+11.
+“Third-party payor” means the same as defined in section 510B.1.
+12.
+“Third-party payor administrative service fee” means a fee or payment under a
+contract between a pharmacy benefits manager and a third-party payor in connection with
+the pharmacy benefits manager’s administration of the third-party payor’s prescription drug
+benefit that is paid by a third-party payor to a pharmacy benefits manager or is otherwise
+retained by a pharmacy benefits manager.
+2019 Acts, ch 88, §1; 2020 Acts, ch 1063, §279 – 281; 2022 Acts, ch 1113, §17, 23
+510C.2 Annual report to commissioner.
+1.
+Each pharmacy benefits manager shall provide a report annually by February 15 to
+the commissioner that contains all of the following information regarding prescription drug
+benefits provided to covered persons of each third-party payor with whom the pharmacy
+benefits manager has contracted during the prior calendar year:
+a.
+The aggregate dollar amount of all rebates received by the pharmacy benefits manager.
+b.
+The aggregate dollar amount of all administrative fees received by the pharmacy
+benefits manager.
+c.
+The aggregate dollar amount of all third-party payor administrative service fees
+received by the pharmacy benefits manager.
+d.
+The aggregate dollar amount of all rebates received by the pharmacy benefits manager
+that the pharmacy benefits manager did not pass through to the third-party payor.
+e.
+The aggregate amount of all administrative fees received by the pharmacy benefits
+manager that the pharmacy benefits manager did not pass through to the third-party payor.
+f.
+The aggregate retained rebate percentage as calculated by dividing the dollar amount
+in paragraph “d” by the dollar amount in paragraph “a”.
+g.
+Across all third-party payor clients with whom the pharmacy benefits manager was
+contracted, the highest and the lowest aggregate retained rebate percentages.
+2. a.
+A pharmacy benefits manager shall provide the information pursuant to subsection 1
+to the commissioner in a format approved by the commissioner that does not publicly disclose
+any of the following:
+(1)
+The identity of a specific third-party payor.
+(2)
+The price charged by a specific pharmaceutical manufacturer for a specific
+prescription drug or for a class of prescription drugs.
+(3)
+The amount of rebates provided for a specific prescription drug or class of prescription
+drugs.
+b.
+Information provided under this section by a pharmacy benefits manager to the
+commissioner that may reveal the identity of a specific third-party payor, the price charged
+by a specific pharmaceutical manufacturer for a specific prescription drug or class of
+prescription drugs, or the amount of rebates provided for a specific prescription drug or
+class of prescription drugs shall be considered a confidential record and be recognized and
+protected as a trade secret pursuant to section 22.7, subsection 3.
+3.
+The
+commissioner
+shall
+publish,
+within
+sixty
+calendar
+days
+of
+receipt,
+the
+nonconfidential information received by the commissioner on a publicly accessible internet
+site. The information shall be made available to the public in a format that complies with
+subsection 2, paragraph “a”.
+2019 Acts, ch 88, §2; 2020 Acts, ch 1063, §282 – 284; 2022 Acts, ch 1113, §18 – 21, 23; 2024
+Acts, ch 1100, §6
+510C.3 Rules.
+The commissioner of insurance shall adopt rules pursuant to chapter 17A as necessary to
+administer this chapter.
+2019 Acts, ch 88, §3
+510C.4 Enforcement.
+The commissioner may take any action within the commissioner’s authority to enforce
+compliance with this chapter.
+2019 Acts, ch 88, §4
+510C.5 Applicability.
+This chapter is applicable to a health benefit plan that is delivered, issued for delivery,
+continued, or renewed in this state on or after January 1, 2019.
+2019 Acts, ch 88, §5
