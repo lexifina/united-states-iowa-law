@@ -1,0 +1,929 @@
+{
+ "country": "IA",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Iowa Const.",
+   "title": "Constitution of the State of Iowa (codified)",
+   "url": "https://www.legis.iowa.gov/law/statutory/constitution",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 192,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICP/1518288.pdf",
+     "sha256": "7042ffe80a5abd56d68ad23ef21735de0900777134928553df1d379d0ef7d12a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-701",
+   "short": "Iowa Code ch. 701",
+   "title": "Iowa Code chapter 701",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/701_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 13,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/701_slim.xml",
+     "sha256": "d792c8ce2f6a71056f575e5de9e3b6ba9e02f343873f04ca6cecc818d097bddc"
+    }
+   ]
+  },
+  {
+   "slug": "ch-702",
+   "short": "Iowa Code ch. 702",
+   "title": "Iowa Code chapter 702",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/702_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 27,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/702_slim.xml",
+     "sha256": "ebd2ab84a8748c70645c5e8c04e9f9063f4aa718b6265552b002715f30736c64"
+    }
+   ]
+  },
+  {
+   "slug": "ch-703",
+   "short": "Iowa Code ch. 703",
+   "title": "Iowa Code chapter 703",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/703_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 5,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/703_slim.xml",
+     "sha256": "1060cfa4749a594bc8c9556060a44c975bebb77d83e1a620232536011d2d36d6"
+    }
+   ]
+  },
+  {
+   "slug": "ch-704",
+   "short": "Iowa Code ch. 704",
+   "title": "Iowa Code chapter 704",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/704_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 15,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/704_slim.xml",
+     "sha256": "9935a68951979800cf98522293aa08a010dca1e3903e7db06800fd78f7d6f4fd"
+    }
+   ]
+  },
+  {
+   "slug": "ch-705",
+   "short": "Iowa Code ch. 705",
+   "title": "Iowa Code chapter 705",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/705_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 2,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/705_slim.xml",
+     "sha256": "30eca191cca2599f8d78e0527c04bec648e1cb789f07858f11c85f71d58cc456"
+    }
+   ]
+  },
+  {
+   "slug": "ch-706",
+   "short": "Iowa Code ch. 706",
+   "title": "Iowa Code chapter 706",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/706_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 4,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/706_slim.xml",
+     "sha256": "86dc61e0ecb2eb3db815b6bd499c4170d75e5c5475c9ae9a2a558b546ba6ea6d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-706a",
+   "short": "Iowa Code ch. 706A",
+   "title": "Iowa Code chapter 706A",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/706A_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 5,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/706A_slim.xml",
+     "sha256": "9466768b8d0ff718ab2858de2c79ed32f1d3045f4530f39cb904f1013530f210"
+    }
+   ]
+  },
+  {
+   "slug": "ch-706b",
+   "short": "Iowa Code ch. 706B",
+   "title": "Iowa Code chapter 706B",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/706B_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 3,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/706B_slim.xml",
+     "sha256": "e81bed316882cf5dacd0bf9077f2896e8dfb18814a0e8cf65dec4f2cd7bb06f2"
+    }
+   ]
+  },
+  {
+   "slug": "ch-707",
+   "short": "Iowa Code ch. 707",
+   "title": "Iowa Code chapter 707",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/707_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 14,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/707_slim.xml",
+     "sha256": "e71f8793e97eb1846064a455f4bd209d12272d55322ce2c1dd4dbf4d95626eb5"
+    }
+   ]
+  },
+  {
+   "slug": "ch-707a",
+   "short": "Iowa Code ch. 707A",
+   "title": "Iowa Code chapter 707A",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/707A_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 3,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/707A_slim.xml",
+     "sha256": "3f32dd5cc303dab94d6909e99c22a6e2f880fc039bfa0627f82bede30d42d739"
+    }
+   ]
+  },
+  {
+   "slug": "ch-707c",
+   "short": "Iowa Code ch. 707C",
+   "title": "Iowa Code chapter 707C",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/707C_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 4,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/707C_slim.xml",
+     "sha256": "63e053220ac0066bdf042568f07bf64874065d16fa728ce2006ad070d2d8fd99"
+    }
+   ]
+  },
+  {
+   "slug": "ch-708",
+   "short": "Iowa Code ch. 708",
+   "title": "Iowa Code chapter 708",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/708_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 24,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/708_slim.xml",
+     "sha256": "1b496fcda1c25657b885f55e1b42dd6362cdaf47507ce6c6f3dd7051c3ca9a0b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-708a",
+   "short": "Iowa Code ch. 708A",
+   "title": "Iowa Code chapter 708A",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/708A_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 6,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/708A_slim.xml",
+     "sha256": "6b48510e32b861d0d2fea065e3bd44365db45a67faa81b607961ce54d41fc2b0"
+    }
+   ]
+  },
+  {
+   "slug": "ch-708b",
+   "short": "Iowa Code ch. 708B",
+   "title": "Iowa Code chapter 708B",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/708B_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/708B_slim.xml",
+     "sha256": "d81bde023520a9f675feb33a291119aeceac39e2048789b4aa06fdf8b363c1a3"
+    }
+   ]
+  },
+  {
+   "slug": "ch-709",
+   "short": "Iowa Code ch. 709",
+   "title": "Iowa Code chapter 709",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/709_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 26,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/709_slim.xml",
+     "sha256": "9f5e803f125535041f0fa01c3f846a83b27554610384dd91016cfd098f4c21b6"
+    }
+   ]
+  },
+  {
+   "slug": "ch-709a",
+   "short": "Iowa Code ch. 709A",
+   "title": "Iowa Code chapter 709A",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/709A_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 6,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/709A_slim.xml",
+     "sha256": "abb7ec0bb7818a8595fdbb2c5d3784783dbad9e059f4c3d7c57044fc352dfb7b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-709d",
+   "short": "Iowa Code ch. 709D",
+   "title": "Iowa Code chapter 709D",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/709D_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 4,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/709D_slim.xml",
+     "sha256": "1c000cb48da243bb7a841bcdd95f5c16c34bb273c8e9a828fdef62c0706f011a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-710",
+   "short": "Iowa Code ch. 710",
+   "title": "Iowa Code chapter 710",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/710_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 11,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/710_slim.xml",
+     "sha256": "8e1eeed85adca94f13ecdde79c96621fb295eee9e61addf81a7a0b5826c2e44e"
+    }
+   ]
+  },
+  {
+   "slug": "ch-710a",
+   "short": "Iowa Code ch. 710A",
+   "title": "Iowa Code chapter 710A",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/710A_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 9,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/710A_slim.xml",
+     "sha256": "a3276370c743de953f22db3a946b60f67d4af360d7c84857507f650745242cd6"
+    }
+   ]
+  },
+  {
+   "slug": "ch-711",
+   "short": "Iowa Code ch. 711",
+   "title": "Iowa Code chapter 711",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/711_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 7,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/711_slim.xml",
+     "sha256": "98020a4cd6f0e2f7eb82f2ca874153d3a2cdbdb3466fc2aade3991ecbd63d772"
+    }
+   ]
+  },
+  {
+   "slug": "ch-712",
+   "short": "Iowa Code ch. 712",
+   "title": "Iowa Code chapter 712",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/712_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 10,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/712_slim.xml",
+     "sha256": "db55277db1eeaf055796b8d7011e159aa43b41534ef046bc22132e926a21b83c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-713",
+   "short": "Iowa Code ch. 713",
+   "title": "Iowa Code chapter 713",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/713_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 47,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/713_slim.xml",
+     "sha256": "fb01efb5ac2e70ab5e0c9466881219e526d38a058ca3e88261e88370aed40e65"
+    }
+   ]
+  },
+  {
+   "slug": "ch-714",
+   "short": "Iowa Code ch. 714",
+   "title": "Iowa Code chapter 714",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 44,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714_slim.xml",
+     "sha256": "ce55fdf536289be8ae1f955c9ce018a03e56bc4b82188d4837a79a99294d7ad5"
+    }
+   ]
+  },
+  {
+   "slug": "ch-714a",
+   "short": "Iowa Code ch. 714A",
+   "title": "Iowa Code chapter 714A",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714A_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 5,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714A_slim.xml",
+     "sha256": "b854c3c0460ac085ca020ebc9a15f7b763079d64ea17773bb10c32b2db9103e7"
+    }
+   ]
+  },
+  {
+   "slug": "ch-714b",
+   "short": "Iowa Code ch. 714B",
+   "title": "Iowa Code chapter 714B",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714B_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 10,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714B_slim.xml",
+     "sha256": "ff955b9b426e01096445c564cc2c4f9a4cf675d20c0043c2a4ac96cb595d362d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-714d",
+   "short": "Iowa Code ch. 714D",
+   "title": "Iowa Code chapter 714D",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714D_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 7,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714D_slim.xml",
+     "sha256": "4fecdf895ef254b47dca156355ed22f024dc3a9d4a317d9b73f891ee58c1c258"
+    }
+   ]
+  },
+  {
+   "slug": "ch-714e",
+   "short": "Iowa Code ch. 714E",
+   "title": "Iowa Code chapter 714E",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714E_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 9,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714E_slim.xml",
+     "sha256": "0ad09f97512fd76f7943dba66e382dd760c485c4ca103ba56dce2ecf0b78d738"
+    }
+   ]
+  },
+  {
+   "slug": "ch-714f",
+   "short": "Iowa Code ch. 714F",
+   "title": "Iowa Code chapter 714F",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714F_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 9,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714F_slim.xml",
+     "sha256": "d7c0e563a6ccf3c392b0399773cec6db53fc96c30ead218a87f9b0037cd778eb"
+    }
+   ]
+  },
+  {
+   "slug": "ch-714g",
+   "short": "Iowa Code ch. 714G",
+   "title": "Iowa Code chapter 714G",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714G_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 12,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714G_slim.xml",
+     "sha256": "2b8af531eeb179f3f53220b189f93fc3783d7679be37be721ee71e40294e450e"
+    }
+   ]
+  },
+  {
+   "slug": "ch-714h",
+   "short": "Iowa Code ch. 714H",
+   "title": "Iowa Code chapter 714H",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714H_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 8,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714H_slim.xml",
+     "sha256": "a36615d88c6622fb2ed8aa2dc9043fb521815020c8df42e08f1e1dbfe5f3423f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-714i",
+   "short": "Iowa Code ch. 714I",
+   "title": "Iowa Code chapter 714I",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714I_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 4,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/714I_slim.xml",
+     "sha256": "a128c5c14f6f8fbbf2aa29c70830c2977471015d89d9eb68dc0e291cf8cae08a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-715",
+   "short": "Iowa Code ch. 715",
+   "title": "Iowa Code chapter 715",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/715_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 11,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/715_slim.xml",
+     "sha256": "15523c4a43381025937a8286518b0c00ec8c7b3531a5ec59136411a9708da2ed"
+    }
+   ]
+  },
+  {
+   "slug": "ch-715a",
+   "short": "Iowa Code ch. 715A",
+   "title": "Iowa Code chapter 715A",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/715A_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 15,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/715A_slim.xml",
+     "sha256": "b09b5754da96b7f3536a916848781ce6b8521bed32c2098b645d10363bd4400f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-715b",
+   "short": "Iowa Code ch. 715B",
+   "title": "Iowa Code chapter 715B",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/715B_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 4,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/715B_slim.xml",
+     "sha256": "0a43ce9e5bbf128a3e580fc3f0b213f564f67f4f27cee7e36410695e98729acf"
+    }
+   ]
+  },
+  {
+   "slug": "ch-715c",
+   "short": "Iowa Code ch. 715C",
+   "title": "Iowa Code chapter 715C",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/715C_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 2,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/715C_slim.xml",
+     "sha256": "775a99435d43e4dfaba47640fb416d096174fcb2c4520ea682b219063f9be8ec"
+    }
+   ]
+  },
+  {
+   "slug": "ch-715d",
+   "short": "Iowa Code ch. 715D",
+   "title": "Iowa Code chapter 715D",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/715D_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 9,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/715D_slim.xml",
+     "sha256": "a5ac07eeab91ddbb8d7d8d321216b1e9a6e8882169cf6fd86875fd953bd16892"
+    }
+   ]
+  },
+  {
+   "slug": "ch-715e",
+   "short": "Iowa Code ch. 715E",
+   "title": "Iowa Code chapter 715E",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/715E_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 6,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/715E_slim.xml",
+     "sha256": "91a483ef7fa9660a0aa194159ae4d4874d190426b1e1c980d10c2fa3861087b9"
+    }
+   ]
+  },
+  {
+   "slug": "ch-716",
+   "short": "Iowa Code ch. 716",
+   "title": "Iowa Code chapter 716",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/716_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 17,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/716_slim.xml",
+     "sha256": "88263e0820af885e22542518e6e70b464de20b67b5707aa61fbda5522796b6c3"
+    }
+   ]
+  },
+  {
+   "slug": "ch-716a",
+   "short": "Iowa Code ch. 716A",
+   "title": "Iowa Code chapter 716A",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/716A_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 7,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/716A_slim.xml",
+     "sha256": "92cb6127b5038604147aa2ea4eb9be5d1830f400e0639987b9791f710e1ef1cb"
+    }
+   ]
+  },
+  {
+   "slug": "ch-716b",
+   "short": "Iowa Code ch. 716B",
+   "title": "Iowa Code chapter 716B",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/716B_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 5,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/716B_slim.xml",
+     "sha256": "d255c1bd8b74a80a46220590e347db9876c80fa084f89c7518bd52d6df553f8a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-717",
+   "short": "Iowa Code ch. 717",
+   "title": "Iowa Code chapter 717",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/717_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 9,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/717_slim.xml",
+     "sha256": "7dacdea6c4bb13fd3dc7f4de9480959d494d30feda992ca340f7c8b065a1b3fd"
+    }
+   ]
+  },
+  {
+   "slug": "ch-717a",
+   "short": "Iowa Code ch. 717A",
+   "title": "Iowa Code chapter 717A",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/717A_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 6,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/717A_slim.xml",
+     "sha256": "98ed9a11d7f0c6f13838dffecaac54ea9d82269fa8cfaee19080cc570132ea4d"
+    }
+   ]
+  },
+  {
+   "slug": "ch-717b",
+   "short": "Iowa Code ch. 717B",
+   "title": "Iowa Code chapter 717B",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/717B_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 11,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/717B_slim.xml",
+     "sha256": "097716e9165b5db69c53759d4393315baefa52bfa2271ae505429743aaef9258"
+    }
+   ]
+  },
+  {
+   "slug": "ch-717c",
+   "short": "Iowa Code ch. 717C",
+   "title": "Iowa Code chapter 717C",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/717C_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/717C_slim.xml",
+     "sha256": "0d7684b401581baecd89a0c26858abe640c9044f3aa09dc57ba876f74886b3b2"
+    }
+   ]
+  },
+  {
+   "slug": "ch-717d",
+   "short": "Iowa Code ch. 717D",
+   "title": "Iowa Code chapter 717D",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/717D_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 5,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/717D_slim.xml",
+     "sha256": "3ba0c1c32431ee5815cb870ea578f492ff27c09c2a2bba1fc50dfd40b62eec64"
+    }
+   ]
+  },
+  {
+   "slug": "ch-717e",
+   "short": "Iowa Code ch. 717E",
+   "title": "Iowa Code chapter 717E",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/717E_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 3,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/717E_slim.xml",
+     "sha256": "63f91f74ea93a342e52680675cde2c70cf02f1e7c27e151fd22bb9203199a262"
+    }
+   ]
+  },
+  {
+   "slug": "ch-717f",
+   "short": "Iowa Code ch. 717F",
+   "title": "Iowa Code chapter 717F",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/717F_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 13,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/717F_slim.xml",
+     "sha256": "af2c966938d4ed52f8001fee5a09acdcd505c60334cd4e6cc7530333804ad38f"
+    }
+   ]
+  },
+  {
+   "slug": "ch-718",
+   "short": "Iowa Code ch. 718",
+   "title": "Iowa Code chapter 718",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/718_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 6,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/718_slim.xml",
+     "sha256": "fc210ebc4dde7ad07ca627888b3fe26bdbec9389fef5118dddc17be06580d9f4"
+    }
+   ]
+  },
+  {
+   "slug": "ch-718a",
+   "short": "Iowa Code ch. 718A",
+   "title": "Iowa Code chapter 718A",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/718A_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 8,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/718A_slim.xml",
+     "sha256": "e99c693d6dd3bd57c359faba6f6efafe96165cc6e90fa4c93af52bdf2f09a2cb"
+    }
+   ]
+  },
+  {
+   "slug": "ch-718b",
+   "short": "Iowa Code ch. 718B",
+   "title": "Iowa Code chapter 718B",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/718B_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/718B_slim.xml",
+     "sha256": "19102e39a9d864f27f53f4a633c7c3b99e76eb38af995b8fd00158907f96e8ac"
+    }
+   ]
+  },
+  {
+   "slug": "ch-718c",
+   "short": "Iowa Code ch. 718C",
+   "title": "Iowa Code chapter 718C",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/718C_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 10,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/718C_slim.xml",
+     "sha256": "dbc6201e604bbe5abfc1df57f184b570e5098689aa8de738503ddaff46bef92b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-719",
+   "short": "Iowa Code ch. 719",
+   "title": "Iowa Code chapter 719",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/719_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 11,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/719_slim.xml",
+     "sha256": "76226a9561a519c91cdf6aca6909edf6c105fed948e68ca99775cf0c31942cce"
+    }
+   ]
+  },
+  {
+   "slug": "ch-720",
+   "short": "Iowa Code ch. 720",
+   "title": "Iowa Code chapter 720",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/720_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 7,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/720_slim.xml",
+     "sha256": "37084da6e3f9c469329ebc707a9ac0536293fa46ae190a9fea08b6d3c0f2d34a"
+    }
+   ]
+  },
+  {
+   "slug": "ch-721",
+   "short": "Iowa Code ch. 721",
+   "title": "Iowa Code chapter 721",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/721_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 12,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/721_slim.xml",
+     "sha256": "e1f21515de7027e2f20b730ee18671702f9c1d4528607da01c48574ec26fa12c"
+    }
+   ]
+  },
+  {
+   "slug": "ch-722",
+   "short": "Iowa Code ch. 722",
+   "title": "Iowa Code chapter 722",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/722_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 11,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/722_slim.xml",
+     "sha256": "b60eff3cb2b2f1e333c5f04a528fccc8107c9c8bfede0d652dd2c54dad5e2194"
+    }
+   ]
+  },
+  {
+   "slug": "ch-723",
+   "short": "Iowa Code ch. 723",
+   "title": "Iowa Code chapter 723",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/723_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 6,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/723_slim.xml",
+     "sha256": "306b0d764a6026519df31d942c467a85cacd1191cb26687a2cbdd662b475cbad"
+    }
+   ]
+  },
+  {
+   "slug": "ch-723a",
+   "short": "Iowa Code ch. 723A",
+   "title": "Iowa Code chapter 723A",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/723A_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 3,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/723A_slim.xml",
+     "sha256": "ae52ed6a8dc5926811f1a99d2476034800cd9d1396c4a6a08d056987ef53fa35"
+    }
+   ]
+  },
+  {
+   "slug": "ch-724",
+   "short": "Iowa Code ch. 724",
+   "title": "Iowa Code chapter 724",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/724_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 50,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/724_slim.xml",
+     "sha256": "26cb098966818da0b4b992848c9428faf24956660e91307b48adb68e927d89b1"
+    }
+   ]
+  },
+  {
+   "slug": "ch-725",
+   "short": "Iowa Code ch. 725",
+   "title": "Iowa Code chapter 725",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/725_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 19,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/725_slim.xml",
+     "sha256": "53b0ab808a769965318b11f0f24a149bdf460f9e11168c1630ec36c76bd24ead"
+    }
+   ]
+  },
+  {
+   "slug": "ch-726",
+   "short": "Iowa Code ch. 726",
+   "title": "Iowa Code chapter 726",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/726_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 29,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/726_slim.xml",
+     "sha256": "6623526fb57a1ef61e7351b2ac7c07e629eadbf7375356cd543166e80f7beb5b"
+    }
+   ]
+  },
+  {
+   "slug": "ch-727",
+   "short": "Iowa Code ch. 727",
+   "title": "Iowa Code chapter 727",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/727_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 13,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/727_slim.xml",
+     "sha256": "0f8772da54cf6dcb57f781eaf584d7b344f24fee131cf20270dd6385ec7ece00"
+    }
+   ]
+  },
+  {
+   "slug": "ch-728",
+   "short": "Iowa Code ch. 728",
+   "title": "Iowa Code chapter 728",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/728_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 16,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/728_slim.xml",
+     "sha256": "dedec0f647d77267f483d3d65b6e34b0983dbb3e9dabadb87ad79bd8bf7f4024"
+    }
+   ]
+  },
+  {
+   "slug": "ch-729",
+   "short": "Iowa Code ch. 729",
+   "title": "Iowa Code chapter 729",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/729_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 6,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/729_slim.xml",
+     "sha256": "528ca07ca44cbfa88763b1a8418062615a43c00a56643c9ae835c5c519dda643"
+    }
+   ]
+  },
+  {
+   "slug": "ch-729a",
+   "short": "Iowa Code ch. 729A",
+   "title": "Iowa Code chapter 729A",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/729A_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 5,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/729A_slim.xml",
+     "sha256": "02bce33254c53c3dbf31dc7edb87dfa6da36ee2c3db73a95e37ea34d731f8416"
+    }
+   ]
+  },
+  {
+   "slug": "ch-490",
+   "short": "Iowa Code ch. 490",
+   "title": "Iowa Code chapter 490 (Business Corporations)",
+   "url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/490_slim.xml",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1710,
+     "source_url": "https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/490_slim.xml",
+     "sha256": "32e088afe6bafbf396856730cbb01342e29f1dd3ba692934337373914ab2f451"
+    }
+   ]
+  }
+ ]
+}

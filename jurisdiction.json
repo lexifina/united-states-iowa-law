@@ -1,0 +1,9 @@
+{
+  "path": "us-ia",
+  "code": "IA",
+  "name": "Iowa",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-iowa-law",
+  "build": "first build: Constitution of the State of Iowa (codified) and Iowa Code chapters 701-723A (Criminal Code) and 490 (Business Corporations); one version each, oldest version available",
+  "register_date": "2026-10-30"
+}
