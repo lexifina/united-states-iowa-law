@@ -1,22 +1,7 @@
 # Iowa Code chapter 418
 
-Iowa Code ch. 418 · 1 versions, from 2025-10-20 (latest in force: 2025-10-20) · <https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/418_slim.xml>
+Iowa Code ch. 418 · 2 versions, from 2025-10-20 (latest in force: 2026-01-01) · <https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/418_slim.xml>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 418.1 | [418-0001.md](418-0001.md) | 0 |  |
-| 418.2 | [418-0002.md](418-0002.md) | 0 |  |
-| 418.3 | [418-0003.md](418-0003.md) | 0 |  |
-| 418.4 | [418-0004.md](418-0004.md) | 0 |  |
-| 418.5 | [418-0005.md](418-0005.md) | 0 |  |
-| 418.6 | [418-0006.md](418-0006.md) | 0 |  |
-| 418.7 | [418-0007.md](418-0007.md) | 0 |  |
-| 418.8 | [418-0008.md](418-0008.md) | 0 |  |
-| 418.9 | [418-0009.md](418-0009.md) | 0 |  |
-| 418.10 | [418-0010.md](418-0010.md) | 0 |  |
-| 418.11 | [418-0011.md](418-0011.md) | 0 |  |
-| 418.12 | [418-0012.md](418-0012.md) | 0 |  |
-| 418.13 | [418-0013.md](418-0013.md) | 0 |  |
-| 418.14 | [418-0014.md](418-0014.md) | 0 |  |
-| 418.15 | [418-0015.md](418-0015.md) | 0 |  |
-| 418.16 | [418-0016.md](418-0016.md) | 0 |  |
+| Chapter 418 | [text.md](text.md) | 1 | 2026-01-01 |
