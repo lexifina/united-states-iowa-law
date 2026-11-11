@@ -1,20 +1,7 @@
 # Iowa Code chapter 68
 
-Iowa Code ch. 68 · 1 versions, from 2025-10-20 (latest in force: 2025-10-20) · <https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/68_slim.xml>
+Iowa Code ch. 68 · 2 versions, from 2025-10-20 (latest in force: 2026-01-01) · <https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/68_slim.xml>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 68.1 | [68-0001.md](68-0001.md) | 0 |  |
-| 68.2 | [68-0002.md](68-0002.md) | 0 |  |
-| 68.3 | [68-0003.md](68-0003.md) | 0 |  |
-| 68.4 | [68-0004.md](68-0004.md) | 0 |  |
-| 68.5 | [68-0005.md](68-0005.md) | 0 |  |
-| 68.6 | [68-0006.md](68-0006.md) | 0 |  |
-| 68.7 | [68-0007.md](68-0007.md) | 0 |  |
-| 68.8 | [68-0008.md](68-0008.md) | 0 |  |
-| 68.9 | [68-0009.md](68-0009.md) | 0 |  |
-| 68.10 | [68-0010.md](68-0010.md) | 0 |  |
-| 68.11 | [68-0011.md](68-0011.md) | 0 |  |
-| 68.12 | [68-0012.md](68-0012.md) | 0 |  |
-| 68.13 | [68-0013.md](68-0013.md) | 0 |  |
-| 68.14 | [68-0014.md](68-0014.md) | 0 |  |
+| Chapter 68 | [text.md](text.md) | 1 | 2026-01-01 |
