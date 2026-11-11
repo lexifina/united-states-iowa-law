@@ -1,18 +1,7 @@
 # Iowa Code chapter 350
 
-Iowa Code ch. 350 · 1 versions, from 2025-10-20 (latest in force: 2025-10-20) · <https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/350_slim.xml>
+Iowa Code ch. 350 · 2 versions, from 2025-10-20 (latest in force: 2026-01-01) · <https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/350_slim.xml>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 350.1 | [350-0001.md](350-0001.md) | 0 |  |
-| 350.2 | [350-0002.md](350-0002.md) | 0 |  |
-| 350.3 | [350-0003.md](350-0003.md) | 0 |  |
-| 350.4 | [350-0004.md](350-0004.md) | 0 |  |
-| 350.5 | [350-0005.md](350-0005.md) | 0 |  |
-| 350.6 | [350-0006.md](350-0006.md) | 0 |  |
-| 350.7 | [350-0007.md](350-0007.md) | 0 |  |
-| 350.8 | [350-0008.md](350-0008.md) | 0 |  |
-| 350.9 | [350-0009.md](350-0009.md) | 0 |  |
-| 350.10 | [350-0010.md](350-0010.md) | 0 |  |
-| 350.11 | [350-0011.md](350-0011.md) | 0 |  |
-| 350.12 | [350-0012.md](350-0012.md) | 0 |  |
+| Chapter 350 | [text.md](text.md) | 1 | 2026-01-01 |

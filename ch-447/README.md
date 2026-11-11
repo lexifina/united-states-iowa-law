@@ -1,20 +1,7 @@
 # Iowa Code chapter 447
 
-Iowa Code ch. 447 · 1 versions, from 2025-10-20 (latest in force: 2025-10-20) · <https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/447_slim.xml>
+Iowa Code ch. 447 · 2 versions, from 2025-10-20 (latest in force: 2026-01-01) · <https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/447_slim.xml>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 447.1 | [447-0001.md](447-0001.md) | 0 |  |
-| 447.2 | [447-0002.md](447-0002.md) | 0 |  |
-| 447.3 | [447-0003.md](447-0003.md) | 0 |  |
-| 447.4 | [447-0004.md](447-0004.md) | 0 |  |
-| 447.5 | [447-0005.md](447-0005.md) | 0 |  |
-| 447.6 | [447-0006.md](447-0006.md) | 0 |  |
-| 447.7 | [447-0007.md](447-0007.md) | 0 |  |
-| 447.8 | [447-0008.md](447-0008.md) | 0 |  |
-| 447.9 | [447-0009.md](447-0009.md) | 0 |  |
-| 447.10 | [447-0010.md](447-0010.md) | 0 |  |
-| 447.11 | [447-0011.md](447-0011.md) | 0 |  |
-| 447.12 | [447-0012.md](447-0012.md) | 0 |  |
-| 447.13 | [447-0013.md](447-0013.md) | 0 |  |
-| 447.14 | [447-0014.md](447-0014.md) | 0 |  |
+| Chapter 447 | [text.md](text.md) | 1 | 2026-01-01 |
