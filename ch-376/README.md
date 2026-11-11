@@ -1,18 +1,7 @@
 # Iowa Code chapter 376
 
-Iowa Code ch. 376 · 1 versions, from 2025-10-20 (latest in force: 2025-10-20) · <https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/376_slim.xml>
+Iowa Code ch. 376 · 2 versions, from 2025-10-20 (latest in force: 2026-01-01) · <https://www.legis.iowa.gov/docs/publications/ICC/2026/attachments/376_slim.xml>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| 376.1 | [376-0001.md](376-0001.md) | 0 |  |
-| 376.2 | [376-0002.md](376-0002.md) | 0 |  |
-| 376.3 | [376-0003.md](376-0003.md) | 0 |  |
-| 376.4 | [376-0004.md](376-0004.md) | 0 |  |
-| 376.4A | [376-0004a.md](376-0004a.md) | 0 |  |
-| 376.5 | [376-0005.md](376-0005.md) | 0 |  |
-| 376.6 | [376-0006.md](376-0006.md) | 0 |  |
-| 376.7 | [376-0007.md](376-0007.md) | 0 |  |
-| 376.8 | [376-0008.md](376-0008.md) | 0 |  |
-| 376.9 | [376-0009.md](376-0009.md) | 0 |  |
-| 376.10 | [376-0010.md](376-0010.md) | 0 |  |
-| 376.11 | [376-0011.md](376-0011.md) | 0 |  |
+| Chapter 376 | [text.md](text.md) | 1 | 2026-01-01 |
