@@ -1,0 +1,17 @@
+{
+ "corpus": "ia/national/acts",
+ "path": "united-states-iowa/national/acts",
+ "scope": "selected-acts",
+ "acts": 1283,
+ "future_branch": "future",
+ "publisher": "Iowa Legislative Services Agency",
+ "name": "United States (Iowa)",
+ "language": "en",
+ "coverage": "1283 acts of United States (Iowa) with every dated version the source gives (2327 versions), in force from 2024-12-09 to 2026-11-11",
+ "history": "in-force",
+ "history_from": "2024-12-09",
+ "record_to": "2026-11-11",
+ "checked_on": "2026-11-11",
+ "record_note": "Texts from Iowa Legislative Services Agency.",
+ "in_force_trailer": "In-force"
+}
