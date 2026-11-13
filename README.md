@@ -1,5 +1,10 @@
 # Iowa: law history in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Iowa law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law).
 
 This repository is partially rebuilt from Internet Archive captures of the official 2026 Code of Iowa, published by the Iowa Legislative Services Agency.
